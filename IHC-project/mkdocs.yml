@@ -1,0 +1,6 @@
+site_name: IHC
+site_url: https://IHC-grupo-04.com/
+
+nav:
+  - Home: index.md
+  - Atas: Atas/test.md
