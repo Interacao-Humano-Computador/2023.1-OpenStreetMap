@@ -9,7 +9,7 @@ Essa ata  é da segunda reunião que ocorreu no dia 09/04/2023 as 10:20, e foi a
 
 |                                    Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
 | :-------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti, Raquel Temoteo  | 05/04/2023 |      10:20 - 11:24     |  Teams |
+| Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti, Raquel Temoteo  | 09/04/2023 |      10:20 - 11:24     |  Teams |
 
 <div style="text-align: center">
 <p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
