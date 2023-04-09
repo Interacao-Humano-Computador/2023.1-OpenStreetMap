@@ -1,7 +1,11 @@
-# 2023.1-Grupo04
+# Grupo 4 - Interação Humano Computador
+
+# Sobre o projeto:
+
+Esse projeto é dedicado a disciplina de Interação Humano Computador (IHC) da Universidade De Brasilia (UNB), e será realizados por estudantes de Engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um site, levando em consideração os seus problemas e suas limitações, para que seja apontado e apresentado soluções para tais problemas.
 
 
-## Equipe
+## Equipe do projeto:
 
 | Foto                                                                                                                                                  | Nome             | Email                          | github                                                 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ | ------------------------------------------------------ |
