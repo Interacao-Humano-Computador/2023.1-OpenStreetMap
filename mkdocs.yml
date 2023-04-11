@@ -1,7 +1,49 @@
 site_name: IHC
 site_url: https://IHC-grupo-04.com/
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-Caesb
+
+theme:
+  name: material
+  language: pt
+  font:
+    text: Roboto
+
+  icon:
+    repo: fontawesome/brands/github-alt
+
+  features:
+    - toc.integrate 
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+
+  extra:
+    social:
+      - icon: fontawesome/brands/mastodon
+        link: https://fosstodon.org/@squidfunk
+    
+  plugins: 
+    - search:
+        lang: pt
+
+    
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      accent: purple
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
 
 nav:
   - Home: index.md
-  - Atas: Atas/Reunião 01.md
+  - Atas:
+    - Atas/Reunião 01.md
+    - Atas/Reunião 02.md
   
