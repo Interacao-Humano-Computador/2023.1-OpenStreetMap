@@ -43,5 +43,7 @@ theme:
 
 nav:
   - Home: index.md
-  - Atas: Atas/Reunião 01.md
+  - Atas:
+    - Atas/Reunião 01.md
+    - Atas/Reunião 02.md
   
