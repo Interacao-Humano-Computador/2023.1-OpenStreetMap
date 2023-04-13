@@ -38,4 +38,4 @@ Nesta etapa foi analizado a entrega 1 do cronograma , que possuia erros como a l
 
 ## Link da gravação
 
-[Link da gravação da reunião do dia 09/04/2023](https://youtu.be/cVJU8SHvTbI)
+[Link da gravação da reunião do dia 12/04/2023](https://youtu.be/cVJU8SHvTbI)
