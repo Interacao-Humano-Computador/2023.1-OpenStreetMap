@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Essa ata  é da quarta reunião que ocorreu no dia 17/04/2023 as 20:30, e foi a reunião de planning da matéria de IHC, em que foi realizado o planejamento da semana , e marcado a data da realização da gravação da entrega 1 (sexta feira dia 21/04/2023)
+Essa ata  é da quarta reunião que ocorreu no dia 17/04/2023 as 20:00, e foi a reunião de planning da matéria de IHC, em que foi realizado o planejamento da semana , e marcado a data da realização da gravação da entrega 1 (sexta feira dia 21/04/2023)
 
 
 ## Dados da reunião
@@ -38,4 +38,4 @@ Nesta etapa foi analisado o plano de ensino, e, com base nele , foi decidido as 
 
 ## Link da gravação
 
-[Link da gravação da reunião do dia 17/04/2023](https://youtu.be/cVJU8SHvTbI)
+[Link da gravação da reunião do dia 17/04/2023](https://youtu.be/NFyJIrE9qB8)
