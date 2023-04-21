@@ -1,49 +1,41 @@
 # 1ª Reunião
 
-## Introdução
-
-Essa ata  é da reunião que ocorreu no dia 05/04/2023 as 21:00, e foi a reunião introdutória do grupo
-
-
-## Dados da reunião
-
-|                                    Alunos presentes                                     |    Data    | Horário de inicio e fim |      Local       |
-| :-------------------------------------------------------------------------------------: | :--------: | :---------------------: | :--------------: |
-| Paulo Victor, Carla Araujo, Daniel dos Santos, Guilherme Keyti  | 05/04/2023 |      21:05 - 22:15      |  Teams |
-
-<div style="text-align: start">
-<p> Tabela 1: Dados da reunião (Fonte: autor, 2023). </p>
-</div>
+## <text style="background-color:#D0F0C0">Data e local</text> 
+- **05/04/2023 - 21h00 às 22h15**
+- Teams - [link da gravação](https://youtu.be/ZfnAgMMCcGk)
 
 
-## Objetivos da reunião
+## <text style="background-color:#D0F0C0">Participantes</text> 
+- Carla Araujo
+- Daniel dos Santos
+- Guilherme Keyti
+- Paulo Victor 
 
- Iniciar o planejamento da disciplina de Interação humano computador e organizar ideias
+## <text style="background-color:#D0F0C0">Assuntos abordados</text> 
+1. Organização inicial do grupo
 
+## <text style="background-color:#D0F0C0">Discussões</text> 
 
-## Tópicos da reunião
+#### 1. Definição das reunições
+- Quarta-feira - 20h às 21h
+  
+#### 2. Escolha do site
+- CD-MOJ 
+- Precisa solicitar a permissão de uso para o criador
 
-- Definição do horário de reunião semanal
+#### 3. Cronograma inicial
+- Foi realizado o cronograma da etapa 1 , e foi decidido o horário da próxima reunião que definirá os responsáveis por cada artefato , assim como a visão geral das tarefas a serem realizadas
+  
+#### 4. Escolha de ferramentas
+- Figma , Teams , Youtube , VS code, Trello, Github, Telegram
 
-Ficou acordado que as reuniões ocorrerão todas as quartas feiras 20:00 ou 21:00, e nos mesmos horarios segunda feira
+## <text style="background-color:#D0F0C0">Resumo</text> 
+Foi a analisado e conversado sobre o objetivo da disciplina, o que e como é preciso ser feito. Com base no plano de ensino da disciplina, discussões e analise dos grupos de semestres anteriores, definimos atividades inciais e padrões a serem seguidos. Além disso, definimos o melhor horário e o provável site a ser trabalhado na disciplina de Interação Humano Computador.
 
-- Escolha do site trabalhado no projeto
+## Histórico de Versão
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 05/04/2023 |        06/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Carla](https://github.com/ccarlaa) |
+| 20/04/2023 |        21/04/2023        |  1.0   | Atualização do modelo de Ata | [Raquel](https://github.com/raqueleucaria)  | [Carla](https://github.com/ccarlaa) |
 
-Foi definido que o site utilizado provavelmente será o CD-MOJ , e alguém falará com o criador para pedir permissão
-
-
-- Inicio da Realização do Cronograma Geral
-
-Foi realizado o cronograma da etapa 1 , e foi decidido o horário da próxima reunião que definirá os responsáveis por cada artefato , assim como a visão geral das tarefas a serem realizadas
-
-
-
-- Proposta  das ferramentas a serem utilizadas no projeto
-
-Foi decidido algumas das ferramnetas que utilizaremos no projeto (Figma , Teams , Youtube , VS code, Trello, Github, Telegram)
-
-
-## Link da gravação
-
-[Link da gravação da reunião do dia 05/04/2023](https://youtu.be/ZfnAgMMCcGk)
 
