@@ -1,5 +1,8 @@
 # Grupo 4 - Interação Humano Computador
-![logo](/docs/assets/imagens/logo2.png)
+
+<div>
+    <img src="../assets/../docs/assets/imagens/logo2.png"/>
+</div>
 
 # Sobre o projeto:
 
