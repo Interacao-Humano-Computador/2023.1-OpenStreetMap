@@ -39,7 +39,7 @@ theme:
       primary: green
       accent: orange
       toggle:
-        icon: material/lightbulb
+        icon: material-brightness-5
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
@@ -47,7 +47,7 @@ theme:
       primary: light green
       accent: yellow
       toggle:
-        icon: material/lightbulb-outline
+        icon: material-brightness-6
         name: Modo Escuro
   
 
