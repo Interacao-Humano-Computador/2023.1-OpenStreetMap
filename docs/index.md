@@ -1,10 +1,8 @@
-# Grupo 4 - Interação Humano Computador
+# Home
 
-<div>
-    <img src="../assets/../docs/assets/imagens/logo2.png"/>
-</div>
+<div align="center"><img src="https://wiki.openstreetmap.org/w/images/c/c9/OSM_Logo_Animated.gif"/></div>
 
-# Sobre o projeto:
+## Sobre o projeto:
 
 Esse projeto é dedicado a disciplina de Interação Humano Computador (IHC) da Universidade De Brasilia (UNB), e será realizados por estudantes de engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um site, levando em consideração os seus problemas e suas limitações, para que seja apontado e apresentado soluções para tais problemas. O site escolhido para a realização da disciplina foi o OpenStreetMap
 
