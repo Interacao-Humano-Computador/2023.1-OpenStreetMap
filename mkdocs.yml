@@ -1,15 +1,19 @@
-site_name: IHC
-site_url: https://IHC-grupo-04.com/
-repo_url: https://github.com/Interacao-Humano-Computador/2023.1-Caesb
+site_name: OpenStreetMap
+
+repo_name: '2023.1-OpenStreetMap'
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap
+site_url: https://2023.1-OpenStreetMap.com/
+
+copyright: Copyright & copy; 2023 OpenStreetMap
 
 theme:
   name: material
-  language: pt
-  font:
-    text: Roboto
+  language: pt-BR
+  logo: assets/imagens/logo.png
+  favicon: assets/imagens/logo.png
 
   icon:
-    repo: fontawesome/brands/github-alt
+    repo: fontawesome/brands/github
 
   features:
     - toc.integrate 
@@ -17,6 +21,9 @@ theme:
     - navigation.tabs.sticky
     - navigation.footer
 
+  hide: 
+    - 
+    
   extra:
     social:
       - icon: fontawesome/brands/mastodon
@@ -24,27 +31,42 @@ theme:
     
   plugins: 
     - search:
-        lang: pt
+        lang: pt-BR
 
-    
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      accent: purple
+      primary: green
+      accent: orange
       toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
+        icon: material/lightbulb
+        name: Modo Claro
+    
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: black
+      primary: light green
+      accent: yellow
       toggle:
-        icon: material/weather-night
-        name: Switch to light mode
+        icon: material/lightbulb-outline
+        name: Modo Escuro
+  
 
 nav:
   - Home: index.md
+  - Apresentações:
+    - Apresentação 1 : Apresentações/Apresentacao 01.md
+  - Planejamento: 
+    - Site Escolhido: Planejamento/Site Escolhido.md
+    - Sites Analisados: Planejamento/Sites Analisados.md
+    - Processo de Design: Planejamento/Processo Design.md
+    - Metodologia: Planejamento/Metodologias.md
+    - Ferramentas: Planejamento/Ferramentas.md
+    - Cronograma: Planejamento/Cronograma.md
+    - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
   - Atas:
-    - Atas/Reunião 01.md
-    - Atas/Reunião 02.md
-    - Atas/Reunião 03.md
+    - Atas/Reuniao 01.md
+    - Atas/Reuniao 02.md
+    - Atas/Reuniao 03.md
+  - Guia: 
+    - Guia/Mkdocs.md
   
