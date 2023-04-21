@@ -1,8 +1,18 @@
 # Grupo 4 - Interação Humano Computador
+![logo](/docs/assets/imagens/logo2.png)
 
 # Sobre o projeto:
 
-Esse projeto é dedicado a disciplina de Interação Humano Computador (IHC) da Universidade De Brasilia (UNB), e será realizados por estudantes de engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um site, levando em consideração os seus problemas e suas limitações, para que seja apontado e apresentado soluções para tais problemas.
+Esse projeto é dedicado a disciplina de Interação Humano Computador (IHC) da Universidade De Brasilia (UNB), e será realizados por estudantes de engenharia de Software. Sendo assim, o objetivo principal desse projeto será a análise de um site, levando em consideração os seus problemas e suas limitações, para que seja apontado e apresentado soluções para tais problemas. O site escolhido para a realização da disciplina foi o OpenStreetMap
+
+## OpenStreetMap
+Link do site: <a href="https://www.openstreetmap.org/" target="_blank">Open Street Map</a>
+
+OpenStreetMap é um site que fornece informações sobre estradas, trilhas, alguns estabelecimentos, estações, entre outros. Dentro dele o usuário pode tanto achar uma rota como também pode criar uma, sendo que para isso, uma das permissões que devem ser concedidas para ele é a da localização. Sendo que para que funcione assim, o site conta com um sistema de cadastro e login.
+A figura 1 abaixo apresenta a tela inicial do site.
+<div>
+    <img src="../assets/Planejamento/Site Escolhido/openstreatmap.png"/>
+</div>
 
 
 
