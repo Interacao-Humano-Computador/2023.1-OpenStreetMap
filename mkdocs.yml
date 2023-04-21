@@ -39,7 +39,7 @@ theme:
       primary: green
       accent: orange
       toggle:
-        icon: material-brightness-5
+        icon: material/lightbulb
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
@@ -47,14 +47,12 @@ theme:
       primary: light green
       accent: yellow
       toggle:
-        icon: material-brightness-6
+        icon: material/lightbulb-outline
         name: Modo Escuro
   
 
 nav:
   - Home: index.md
-  - Apresentações:
-    - Apresentação 1 : Apresentações/Apresentacao 01.md
   - Planejamento: 
     - Site Escolhido: Planejamento/Site Escolhido.md
     - Sites Analisados: Planejamento/Sites Analisados.md
@@ -63,6 +61,8 @@ nav:
     - Ferramentas: Planejamento/Ferramentas.md
     - Cronograma: Planejamento/Cronograma.md
     - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
+  - Apresentações:
+    - Apresentação 1 : Apresentações/Apresentacao 01.md
   - Atas:
     - Atas/Reuniao 01.md
     - Atas/Reuniao 02.md
