@@ -1,1 +1,72 @@
-# Cronograma
+site_name: OpenStreetMap
+
+repo_name: '2023.1-OpenStreetMap'
+repo_url: https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap
+site_url: https://2023.1-OpenStreetMap.com/
+
+copyright: Copyright & copy; 2023 OpenStreetMap
+
+theme:
+  name: material
+  language: pt-BR
+  logo: assets/imagens/logo.png
+  favicon: assets/imagens/logo.png
+
+  icon:
+    repo: fontawesome/brands/github
+
+  features:
+    - toc.integrate 
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.footer
+    
+  extra:
+    social:
+      - icon: fontawesome/brands/mastodon
+        link: https://fosstodon.org/@squidfunk
+    
+  plugins: 
+    - search:
+        lang: pt-BR
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: light green
+      accent: lime
+      toggle:
+        icon: material/weather-night
+        name: Modo Claro
+    
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: light green
+      accent: lime
+      toggle:
+        icon: material/weather-sunny
+        name: Modo Escuro
+
+nav:
+  - Home: index.md
+  - Apresentações:
+    - Apresentação 1 : Apresentações/Apresentacao 01.md
+  - Planejamento: 
+    - Site Escolhido: Planejamento/Site Escolhido.md
+    - Sites Analisados: Planejamento/Sites Analisados.md
+    - Processo de Design: Planejamento/Processo Design.md
+    - Metodologia: Planejamento/Metodologias.md
+    - Ferramentas: Planejamento/Ferramentas.md
+    - Cronograma: Planejamento/Cronograma.md
+    - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
+  - Atas:
+    - Atas/Reuniao 01.md
+    - Atas/Reuniao 02.md
+    - Atas/Reuniao 03.md
+    - Atas/Reuniao 04.md
+  - Guia: 
+    - Guia/Mkdocs.md
+    - Guia/PULL_REQUEST_TEMPLATE.md
+    - Guia/ISSUE_TEMPLATE/template-padrão-de-issue.md
+
+  
