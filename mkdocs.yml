@@ -20,9 +20,6 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
-
-  hide: 
-    - 
     
   extra:
     social:
@@ -36,20 +33,19 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
-      accent: orange
+      primary: light green
+      accent: lime
       toggle:
-        icon: material-brightness-5
+        icon: material/weather-night
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: light green
-      accent: yellow
+      accent: lime
       toggle:
-        icon: material-brightness-6
+        icon: material/weather-sunny
         name: Modo Escuro
-  
 
 nav:
   - Home: index.md
@@ -67,6 +63,10 @@ nav:
     - Atas/Reuniao 01.md
     - Atas/Reuniao 02.md
     - Atas/Reuniao 03.md
+    - Atas/Reuniao 04.md
   - Guia: 
     - Guia/Mkdocs.md
+    - Guia/PULL_REQUEST_TEMPLATE.md
+    - Guia/ISSUE_TEMPLATE/template-padrão-de-issue.md
+
   
