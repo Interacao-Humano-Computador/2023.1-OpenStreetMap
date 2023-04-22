@@ -18,7 +18,7 @@ Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas 
 | ![Lucidchart](../assets/imagens/logo-ferramentas/lucidchart.png) | Lucidchart | Software de elaboração de diagramas. Oferece a possibilidade de colaboração em tempo real.  |
 | ![This Person Doesn't Exist](../assets/imagens/logo-ferramentas/this-person-doesnt-exist.png) | This Person Doesn't Exist | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos |
 |  ![Google Planilhas](../assets/imagens/logo-ferramentas/sheet-icon.png) |  Google Planilhas  | Software de planilhas eletrônicas, utilizado em gerenciamento de dados, elaboração de cronogramas de atividades. |
-|  ![Figma](../assets/imagens/logo-ferramentas/figma-icon.png) |  Figma  | Doftware de design de interface do usuário que é usado por designers e equipes de design para criar protótipos, wireframes e designs de alta fidelidade. |
+|  ![Figma](../assets/imagens/logo-ferramentas/figma-icon.jpg) |  Figma  | Doftware de design de interface do usuário que é usado por designers e equipes de design para criar protótipos, wireframes e designs de alta fidelidade. |
 
 <div style="text-align: center">
 <p>Tabela 1: Ferramentas utilizadas no projeto (Fonte: autor, 2023). </p>

@@ -19,9 +19,7 @@ Dessa forma, o grupo fez uma analise do Ciclos de Vida Simples, do Ciclo de Vida
 
 O Ciclo de Vida de Mayhew foi proposto  por Deborah J. Mayhew, uma educadora americana especialista na área de usabilidade e interação humano computador, e o ciclo de vida dela pode ser encontrado na figura 1.
 
-<p align="center">
-    <img src="../assets/imagens/mayhew.png"  alt="Figura 1: Ciclo de Vida de Mayhew">
-</p>
+![](../assets/imagens/mayhew.png)
 
 ## Etapas do ciclo de vida
 - Análise de requisitos: Esta etapa engloba o planejamento geral do projeto, em que são definidos os objetivos do sistema, identificado as necessidades dos usuários, e definido os critérios de aceitação. Além disso também é realizado a analise do perfil do usuário , em que são coletadas informações do usuário, como habilidades, tarefas, dificuldades, e necessidades. também são identificados requisitos de interface.

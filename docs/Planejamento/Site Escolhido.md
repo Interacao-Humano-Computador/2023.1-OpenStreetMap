@@ -35,16 +35,13 @@ Link do site: <a href="https://www.openstreetmap.org/" target="_blank">Open Stre
 
 OpenStreetMap é um site que fornece informações sobre estradas, trilhas, alguns estabelecimentos, estações, entre outros. Dentro dele o usuário pode tanto achar uma rota como também pode criar uma, sendo que para isso, uma das permissões que devem ser concedidas para ele é a da localização. Sendo que para que funcione assim, o site conta com um sistema de cadastro e login.
 A figura 1 abaixo apresenta a tela inicial do site.
-<div>
-    <img src="../assets/Planejamento/Site Escolhido/openstreatmap.png"/>
-</div>
+
+![](../assets/Planejamento/Site Escolhido/openstreatmap.png)
 
 ## Permissão
 O Site OpenStreetMap é um software livre, que permite análise e utilização do software, desde que seja dado crédito a organização, conforme comprovado pela figura 2 abaixo:
-<div>
-    <img src="../assets/Planejamento/Site Escolhido/permissao.png"/>
-</div>
 
+![](../assets/Planejamento/Site Escolhido/permissao.png)
 
 ## Bibliografia
 
