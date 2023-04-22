@@ -10,9 +10,6 @@ Esse projeto é dedicado a disciplina de Interação Humano Computador (IHC) da 
 Link do site: <a href="https://www.openstreetmap.org/" target="_blank">Open Street Map</a>
 
 OpenStreetMap é um site que fornece informações sobre estradas, trilhas, alguns estabelecimentos, estações, entre outros. Dentro dele o usuário pode tanto achar uma rota como também pode criar uma, sendo que para isso, uma das permissões que devem ser concedidas para ele é a da localização. Sendo que para que funcione assim, o site conta com um sistema de cadastro e login.
-A figura 1 abaixo apresenta a tela inicial do site.
-
-![](../assets/Planejamento/Site Escolhido/openstreatmap.png)
 
 ## Equipe do projeto
 
