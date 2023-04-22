@@ -8,12 +8,12 @@ Os números representam a quantidade de membros disponível, e as fotos represet
 
 #### Disponibilidade para Reuniões Presenciais
 
-![[heatmap-presencial]](../assets/planejamento/heatmap/heatmap-presencial.png)
+![[heatmap-presencial]](../assets/Planejamento/Heatmap/heatmap-presencial.png)
 <p><center> Figura 1: Heatmap de disponibilidade para reuniões presenciais (Fonte: Autor, 2023).</center></p>
 
 #### Disponibilidade para Reuniões Remotas
 
-![[heatmap-remoto]](../assets/planejamento/heatmap/heatmap-remoto.png)
+![[heatmap-remoto]](../assets/Planejamento/Heatmap/heatmap-remoto.png)
 <p><center> Figura 2: Heatmap de disponibilidade para reuniões remotas (Fonte: Autor, 2023).</center></p>
 
 ## Referências
