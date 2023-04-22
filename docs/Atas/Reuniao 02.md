@@ -1,22 +1,22 @@
 # 2ª Reunião
 
-## <text style="background-color:#D0F0C0">Data e local</text> 
+## <text style="background-color: #81BD6C; color:white">Data e local</text> 
 - **09/04/2023 - 10h20 às 11h24**
 - Teams - [link da gravação](https://youtu.be/Vv4OlWBcNWI)
 
 
-## <text style="background-color:#D0F0C0">Participantes</text> 
+## <text style="background-color: #81BD6C; color:white">Participantes</text> 
 - Carla Araujo
 - Daniel dos Santos
 - Guilherme Keyti
 - Paulo Victor 
 - Raquel Eucaria
 
-## <text style="background-color:#D0F0C0">Assuntos abordados</text> 
+## <text style="background-color: #81BD6C; color:white">Assuntos abordados</text> 
 1. Definição do site 
 2. Finalizar o desenvolvimento da etapa 1 do cronograma
 
-## <text style="background-color:#D0F0C0">Discussões</text> 
+## <text style="background-color: #81BD6C; color:white">Discussões</text> 
 
 #### 1. Definição do site
 - Caesb
