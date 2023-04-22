@@ -1,8 +1,6 @@
-# Cronograma
-
 # Cronograma Planejado
 
-<p> O presente cronograma foi realizado tendo como base o plano de ensino do curso de Requisitos de Software do professor André Barraos de Sales e os trabalhos antigos realizados pelos alunos da disciplina. Além disso, foi considerado da divisão das tarefas o grau de dificuldade da entrega e o tempo necessário para execução e revisão.</p>
+<p> O presente cronograma foi realizado tendo como base o plano de ensino do curso de Interação Humano Computador do professor André Barraos de Sales e os trabalhos antigos realizados pelos alunos da disciplina. Além disso, foi considerado da divisão das tarefas o grau de dificuldade da entrega e o tempo necessário para execução e revisão.</p>
 
 ## Atividades Gerais
 

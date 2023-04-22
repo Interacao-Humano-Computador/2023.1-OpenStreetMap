@@ -2,7 +2,7 @@
 
 ## Sites analisados
 
-Para a escolha do site, cada integrante realizou uma avaliação de um site que se enquadrava nas possíveis escolhas para o projeto atráves das heurísticas de Nielsen. Dessa forma, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Sendo assim, abaixo será apresentado os critérios de escolha do site, o que foi escrito sobre o site escolhido de cada integrante, e uma  tabela em que é  possível observar a escolha de cada integrante.
+Para a escolha do site, cada integrante realizou uma avaliação de um site que se enquadrava nas possíveis escolhas para o projeto atráves das heurísticas de Nielsen. Dessa forma, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Sendo assim, na tabela 1 estão listados os sites escolhidos por cada integrante e, logo mais, as análises realizadas pelos mesmos.
 
 | Nome                | Site                  | 
 | ------------------- | --------------------- |  
@@ -11,6 +11,7 @@ Para a escolha do site, cada integrante realizou uma avaliação de um site que 
 | Guilherme Kishimoto | Lattes                | 
 | Paulo VIctor        | LibreOffice           |  
 
+<p>Tabela 1: Sites dos membros (Fonte: autor, 2023).</p>
 
 ## Critério Para a Definição do Site
 
@@ -22,10 +23,15 @@ Após a seleção individual de cada integrante, o grupo decidiu o site a partir
 
 ## Motivos de Escolha
 Depois que o site passou nos critérios da disciplina, o site escolhido foi o OpenStreetMap, pelos seguintes motivos:
+
 - O site apresenta uma usabilidade ruim
+
 - O site não apresenta ferramentas de acessibilidade
+
 - O site não possui um esquema de segurança para a verificação das rotas
+
 - O site apresenta quebra de padrões de algumas páginas
+
 - O site não possui tantas informações, o que possibilita que seja proposto um design mais simples melhorando e adicionando ferramentas de acessibilidade
 
 Diante de todos esses requisitos, o site escolhido foi o OpenStreetMap

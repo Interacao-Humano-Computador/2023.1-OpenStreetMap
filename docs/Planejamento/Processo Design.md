@@ -21,6 +21,8 @@ O Ciclo de Vida de Mayhew foi proposto  por Deborah J. Mayhew, uma educadora ame
 
 ![](../assets/imagens/mayhew.png)
 
+<p>Imagem 1: Ciclo de Mayhew. (Fonte: autor, 2023).</p>
+
 ## Etapas do ciclo de vida
 - Análise de requisitos: Esta etapa engloba o planejamento geral do projeto, em que são definidos os objetivos do sistema, identificado as necessidades dos usuários, e definido os critérios de aceitação. Além disso também é realizado a analise do perfil do usuário , em que são coletadas informações do usuário, como habilidades, tarefas, dificuldades, e necessidades. também são identificados requisitos de interface.
 

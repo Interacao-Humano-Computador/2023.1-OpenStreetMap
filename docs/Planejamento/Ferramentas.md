@@ -4,7 +4,7 @@
 Ferramentas são fundamentais para aumentar a produtividade e eficiência do grupo, permitindo a execução de tarefas de forma mais eficaz e rápida.
 
 ## Objetivo
-Esse artefato tem como objetivo apresentar as ferramentas que serão utilizadas pelo grupo no desenvolvimento do projeto. A escolha das ferramentas se deu com base na intimidade do grupo com as mesmas, além da popularidade das ferramentas, o que facilita encontrar conteúdo de ajuda sobre elas.
+Esse artefato tem como objetivo apresentar as ferramentas, vistas na tabela 1, que serão utilizadas pelo grupo no desenvolvimento do projeto. A escolha das ferramentas se deu com base na intimidade do grupo com as mesmas, além da popularidade das ferramentas, o que facilita encontrar conteúdo de ajuda sobre elas.
 
 ## Ferramentas Utilizadas
 
@@ -37,6 +37,8 @@ Ferramenta Google planilhas, disponível no [link](https://docs.google.com/sheet
 [link](https://thispersondoesnotexist.com/). <br/>
 Ferramenta Figma, disponível no [link](https://www.figma.com). <br/>
 Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisitos-de-software.github.io/2023.1-Caesb/Planejamento/ferramentas/>. Acesso em: 20 de abril de 2023. <br/>
+
+<p><center>Tabela 1: Ferramentas (Fonte: autor, 2023).</center></p>
 
 ## Histórico de Versão
 
