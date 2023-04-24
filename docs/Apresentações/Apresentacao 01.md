@@ -1,8 +1,8 @@
 # Introdução
-Durante o desenvolvimento da disciplina, ocorrerão entregas com seus respectivos artefatos que devem ser entregues. Além da apresentação presencial, é necessário a criação de vídeos da apresentação para servir de molde para futuros grupos das matérias. Abaixo serão disponibilizados os videos e os links destes para visualização
+Durante o desenvolvimento da disciplina, ocorrerão entregas com seus respectivos artefatos que devem ser entregues. Além da apresentação presencial, é necessário a criação de vídeos da apresentação para servir de molde para futuros grupos das matérias. Abaixo serão disponibilizados os links destes para visualização
 
 ## Apresentação 1
-
+[Link da Apresentação](https://youtu.be/NFyJIrE9qB8)
 
 
 

@@ -1,8 +1,8 @@
 # 5ª Reunião
 
 ## <text style="background-color: #81BD6C; color:white">Data e local</text> 
-- **24/04/2023 - 10h00 às 11h30**
-- Teams - [link da gravação](https://youtu.be/NFyJIrE9qB8)
+- **22/04/2023 - 10h00 às 11h30**
+- Teams - [link da gravação](https://youtu.be/X4idHwpZdHc)
 
 
 ## <text style="background-color: #81BD6C; color:white">Participantes</text> 
