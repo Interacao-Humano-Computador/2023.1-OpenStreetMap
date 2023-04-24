@@ -1,11 +1,11 @@
 # 3ª Reunião
 
-## <text style="background-color:#D0F0C0">Data e local</text> 
+## <text style="background-color:#81BD6C; color:white">Data e local</text> 
 - **12/04/2023 - 20h30 às 21h06**
 - Teams - [link da gravação](https://youtu.be/cVJU8SHvTbI)
 
 
-## <text style="background-color:#D0F0C0">Participantes</text> 
+## <text style="background-color: #81BD6C; color:white">Participantes</text> 
 - Caetano Santos
 - Carla Araujo
 - Daniel dos Santos
@@ -13,11 +13,11 @@
 - Paulo Victor 
 - Raquel Eucaria
 
-## <text style="background-color:#D0F0C0">Assuntos abordados</text> 
+## <text style="background-color: #81BD6C; color:white">Assuntos abordados</text> 
 1. Reajuste do cronograma
 2. Atualização do grupo
 
-## <text style="background-color:#D0F0C0">Discussões</text> 
+## <text style="background-color: #81BD6C; color:white">Discussões</text> 
 
 #### 1. Atualização das atividades
 - Foi realizado o review semanal, em que cada integrante falou o que havia realizado , além das dúvidas que eles possuíam

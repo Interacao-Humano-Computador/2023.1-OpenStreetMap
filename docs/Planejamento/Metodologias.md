@@ -29,6 +29,8 @@ A política de commit é essencial no desenvolvimento de software em equipe, poi
 
 **Tipos de Commit**
 
+- Para auxiliar na especificação do commit, foi definido os seguintes tipos, conforme a tabela 1.
+
 |   Tipo de commit   |             Título             |       Descrição                                                                                            |
 |--------------------|--------------------------------|------------------------------------------------------------------------------------------------------------|
 |  "feat"            |  Features                      |  Nova Feature                                                                                              |
@@ -51,7 +53,7 @@ A política de commit é essencial no desenvolvimento de software em equipe, poi
 * Devem ser objetivos e possuírem títulos de no máximo 72 caracteres
 * Composição = (tipo de commit): + mensagem
 
-**Exemplo**
+**Exemplo de commit:**
 
 ```
 git commit -m "docs: Adicionando arquivo x"
@@ -99,4 +101,4 @@ para criar um pull request, utilize o exemplo abaixo:
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 20/04/2023 |        21/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | 
+| 20/04/2023 |        21/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |  [Carla](https://github.com/ccarlaa) 
