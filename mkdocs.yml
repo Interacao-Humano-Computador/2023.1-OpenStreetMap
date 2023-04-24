@@ -20,6 +20,9 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.footer
+
+  hide: 
+    - 
     
   extra:
     social:
@@ -33,19 +36,20 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: light green
-      accent: lime
+      primary: green
+      accent: orange
       toggle:
-        icon: material/weather-night
+        icon: material/lightbulb
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: light green
-      accent: lime
+      accent: yellow
       toggle:
-        icon: material/weather-sunny
+        icon: material/lightbulb-outline
         name: Modo Escuro
+  
 
 nav:
   - Home: index.md
@@ -57,17 +61,16 @@ nav:
     - Processo de Design: Planejamento/Processo Design.md
     - Metodologia: Planejamento/Metodologias.md
     - Ferramentas: Planejamento/Ferramentas.md
-    - Cronograma Planejado: Planejamento/Cronograma.md
+    - Cronograma: Planejamento/Cronograma.md
     - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
-    - Heatmap: Planejamento/heatmap.md
+    - Heatmap: Planejamento/Heatmap.md
   - Atas:
     - Atas/Reuniao 01.md
     - Atas/Reuniao 02.md
     - Atas/Reuniao 03.md
     - Atas/Reuniao 04.md
+    - Atas/Reuniao 05.md
   - Guia: 
     - Guia/Mkdocs.md
     - Guia/PULL_REQUEST_TEMPLATE.md
-    - Guia/ISSUE_TEMPLATE/template-padrão-de-issue.md
-
   
