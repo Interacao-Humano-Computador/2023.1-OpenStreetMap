@@ -7,6 +7,7 @@ site_url: https://2023.1-OpenStreetMap.com/
 copyright: Copyright & copy; 2023 OpenStreetMap
 
 theme:
+  custom_dir: overrides
   name: material
   language: pt-BR
   logo: assets/imagens/logo.png
@@ -39,7 +40,7 @@ theme:
       primary: green
       accent: orange
       toggle:
-        icon: material/lightbulb
+        icon: custom-icons/contrast-light
         name: Modo Claro
     
     - media: "(prefers-color-scheme: dark)"
@@ -47,7 +48,7 @@ theme:
       primary: light green
       accent: yellow
       toggle:
-        icon: material/lightbulb-outline
+        icon: custom-icons/contrast-dark
         name: Modo Escuro
 
 markdown_extensions:
@@ -70,7 +71,7 @@ nav:
     - Ferramentas: Planejamento/Ferramentas.md
     - Cronograma: Planejamento/Cronograma.md
     - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
-    - Heatmap: Planejamento/Heatmap.md
+    - Heatmap: Planejamento/heatmap.md
   - Atas:
     - Atas/Reuniao 01.md
     - Atas/Reuniao 02.md
@@ -79,5 +80,4 @@ nav:
     - Atas/Reuniao 05.md
   - Guia: 
     - Guia/Mkdocs.md
-    - Guia/PULL_REQUEST_TEMPLATE.md
   
