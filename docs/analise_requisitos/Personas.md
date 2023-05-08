@@ -27,7 +27,7 @@ Tabela 4 - Persona 4 | Antipersona
 
 ## Montagem das Personas
 
-Tendo sido realizado o formulário online, foram adquiridos vários dados de tipos de usuários diferentes, tendo isso mente foram feitas algumas conclusões do usuário padrão do site, tendo em mente os dados do formulário que foi aplicado para o pública do Brasil e outro dentro da comunidade de fora do país, e foram a partir delas que as características das personas foram formadas. Todo esse processo de análise e conclusão pode ser encontrado no link: [Perfil de Usuário]()
+Tendo sido realizado o formulário online, foram adquiridos vários dados de tipos de usuários diferentes, tendo isso mente foram feitas algumas conclusões do usuário padrão do site, tendo em mente os dados do formulário que foi aplicado para o pública do Brasil e outro dentro da comunidade de fora do país, e foram a partir delas que as características das personas foram formadas. Todo esse processo de análise e conclusão pode ser encontrado no link: [Perfil de Usuário](perfil_usuario.md)
 
 Com essa conclusão temos as seguintes características definidas para as personas:
 
@@ -47,7 +47,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Nome            |    Gabriel Souza Pereira   |
 |           Idade           |           25 Anos          |
 |        Localização        | Brasília, Distrito Federal |
-|            Foto           |   ![Perfil de Usuário]()</br>Imagem 1 - Gabriel Souza Pereira. (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário](../assets/personas/gabriel.jpeg)</br>Imagem 1 - Gabriel Souza Pereira. (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Primmária     |
 |         Objetivos         |Gabriel que poder caminhar com segurança sabendo sempre por onde está andando.</br>Ele quer conhecer melhor sua vizinhança fazendo.</br>Ele deseja manter uma vida saudável, caminhando e se alimentando bem.</br>Gabriel se formou em Geografia e quer ser produtivo no seu recem trabalho como cartografo.|
 |        Habilidades        |Gabriel tem grande conhecimento sobre relevos e solos.</br>Ele sabe muito sobre tecnologia e utiliza bastante em seu trabalho.</br>Gabriel tem habilidades de cozinha, pois um de seus passatempos é cozinhar.|
@@ -65,7 +65,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Nome            |    Lucas Oliveira Martins  |
 |           Idade           |           27 Anos          |
 |        Localização        |       Goiânia, Goiás       |
-|            Foto           |   ![Perfil de Usuário]()</br>Imagem 2 - Lucas Oliveira Martins. (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário](../assets/personas/lucas.jpeg)</br>Imagem 2 - Lucas Oliveira Martins. (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Secundária    |
 |         Objetivos         |Lucas deseja construir uma carreira de sucesso na área de logística e otimização de rotas.</br>Ele quer aprender sobre mapeamento e georreferenciamento para aprimorar suas habilidades profissionais.</br>Lucas que envelhecer com saúde e ter uma boa vida com sua namorada.|
 |        Habilidades        |Lucas tem grande conhecimento em tecnologia e sistemas de informação geográfica.</br>Ele sabe tocar alguns instrumentos musicais.</br>Lucas tem habilidades em análise de dados geográficos.|
@@ -83,7 +83,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Nome            |     Maria Costa Santos   |
 |           Idade           |           23 Anos          |
 |        Localização        | Brasília, Distrito Federal |
-|            Foto           |   ![Perfil de Usuário]()</br>Imagem 3 - Maria Costa Santos. (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário](../assets/personas/maria.jpeg)</br>Imagem 3 - Maria Costa Santos. (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Secundária    |
 |         Objetivos         |Maria quer concluir sua graduação em Engenharia Civil e se estabelecer profissionalmente na área.</br>Ela quer explorar sua nova cidade, conhecer pontos de referência e descobrir locais de interesse.</br>Ela quer fazer novos amigos em sua nova cidade.</br>Maria deseja se ambientar sem sua cidade para poder navegar sem auxílio de uma ferramente de mapa.|
 |        Habilidades        |Maria possui habilidades avançadas em tecnologia, incluindo o uso de aplicativos de navegação e ferramentas de mapeamento.</br>Ela está familiarizada com a utilização de smartphones com conhecimentos básicos de sistemas de informação geográfica.</br>Mari conhece bastante de estruturas e de solos devido a sua graduação.|
@@ -101,7 +101,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Nome            |      Carlos Jose Pereira   |
 |           Idade           |           50 Anos          |
 |        Localização        | Brasília, Distrito Federal |
-|            Foto           |   ![Perfil de Usuário]()</br>Imagem 4 - Carlos Jose Pereira (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário](..//assets/personas/jose.jpeg)</br>Imagem 4 - Carlos Jose Pereira (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Secundária    |
 |         Objetivos         |Carlos deseja levar uma vida tranquila e descomplicada, evitando a exposição a tecnologia.</br>Ele deseja desfrutar de seu tempo livre em atividades ao ar livre com sua família.</br>Carlos deseja manter uma saúde boa para não precisar de ajuda de outras pessoas.|
 |        Habilidades        |Carlos sabe bem pouco sobre tecnologia.</br>Ele tem habilidade com atendimento, pois possui uma pequena lojinha em sua casa.</br>Carlos sabe desenha, pois ele faz isso no seu tempo livre.|
