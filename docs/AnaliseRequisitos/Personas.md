@@ -32,7 +32,7 @@ Tendo sido realizado o formulário online, foram adquiridos vários dados de tip
 Com essa conclusão temos as seguintes características definidas para as personas:
 
 * A faixa de idade das personas oscila dentro do que foi levantado pelos usuários, sendo entre 18 e 30.
-* A personas que moram no DF, Brasília. Uma vez que nos dados se tem que os usuários mora no Centro - Oeste. Também existe uma persona que mora fora do Brasil.
+* As personas que moram no Centro - Oeste do país. Uma vez que nos dados se tem que os usuários moram no Centro - Oeste.
 * As personas tem algum tipo de envolvimento com faculdade, já que no perfil de usuários eles apresentam pelo menos o ensino superior incompleto.
 * As personas utilizam o site para ver rotas e pontos de referência.
 
@@ -44,28 +44,10 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 
 |          Persona          |          Primária          |
 |:-------------------------:|:--------------------------:|
-|           Nome            |    Gabriel Souza Pereira   |
-|           Idade           |           25 Anos          |
-|        Localização        | Brasília, Distrito Federal |
-|            Foto           |   ![Perfil de Usuário](../assets/personas/gabriel.jpeg)</br>Imagem 1 - Gabriel Souza Pereira. (Fonte: This Person Does Not Exist)|
-|           Status          |      Persona Primmária     |
-|         Objetivos         |Gabriel que poder caminhar com segurança sabendo sempre por onde está andando.</br>Ele quer conhecer melhor sua vizinhança fazendo.</br>Ele deseja manter uma vida saudável, caminhando e se alimentando bem.</br>Gabriel se formou em Geografia e quer ser produtivo no seu recem trabalho como cartografo.|
-|        Habilidades        |Gabriel tem grande conhecimento sobre relevos e solos.</br>Ele sabe muito sobre tecnologia e utiliza bastante em seu trabalho.</br>Gabriel tem habilidades de cozinha, pois um de seus passatempos é cozinhar.|
-|          Tarefas          |Gabriel acorda de manhã para poder fazer sua caminhada matinal, as 6.</br>Ele trabalha como cartografo, onde fica de 8 as 18, com pausa para o almoço.</br>Gabriel tira o fim de semana para descobrir novos locais caminhando|
-|      Relacionamentos      |Pais: Rose(45 anos, Dona de Casa), Carlos (47 anos, Frentista).</br>Grupo de Amigos: Grupo formado pelos amigos de formatura da faculdade.</br>Grupo do Trabalho: Grupo formado pelos seus colegas de trabalho.|
-|        Requisitos         |Gabriel sabe bastante de tecnologia, e preza por ter acesso rápido e fácil a informação, seus pensamentos são:</br>"Eu preciso de uma interface do OpenStreetMap fácil de usar e intuitiva para que eu possa usar as rotas e cadastrar novas e novos pontos de referência."</br>"É importante que o site seja compatível com dispositivos móveis, pois muitas vezes estou apenas com meu celular."</br>"Gostaria que as pessoas pudessem dar feedback das rotas que eu crio para saber se elas gostam."|
-|        Expectativas       |Gabriel espera que o tempo de resposta do site seja rápido.</br>Ele deseja que o aplicativo se atualize automaticamente conforme ele caminha.</br>Gabriel gostaria de ser avisado quando entrar em uma área de risco marcada no site.|
-
-<p align="center">Tabela 1 - Persona: Gabriel. (Fonte: Autor, 2023)</p>
-
-</br>
-
-|          Persona          |         Secundária         |
-|:-------------------------:|:--------------------------:|
 |           Nome            |    Lucas Oliveira Martins  |
 |           Idade           |           27 Anos          |
 |        Localização        |       Goiânia, Goiás       |
-|            Foto           |   ![Perfil de Usuário](../assets/personas/lucas.jpeg)</br>Imagem 2 - Lucas Oliveira Martins. (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário](../assets/personas/lucas.jpeg)</br>Imagem 1 - Lucas Oliveira Martins. (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Secundária    |
 |         Objetivos         |Lucas deseja construir uma carreira de sucesso na área de logística e otimização de rotas.</br>Ele quer aprender sobre mapeamento e georreferenciamento para aprimorar suas habilidades profissionais.</br>Lucas que envelhecer com saúde e ter uma boa vida com sua namorada.|
 |        Habilidades        |Lucas tem grande conhecimento em tecnologia e sistemas de informação geográfica.</br>Ele sabe tocar alguns instrumentos musicais.</br>Lucas tem habilidades em análise de dados geográficos.|
@@ -74,9 +56,28 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |        Requisitos         |Lucas sabe bastante de tecnologia, mas as pessoas que trabalha não, por isso seus pensamentos são:</br>"É importante ser intuitivo de usar para que o pessoal da minha empresa possa usar também facilitando meu trabalho de informar rotas para eles."</br>"É importante que o OpenStreetMap ofereça uma interface de usuário rápida e responsiva, para que eu possa verificar as rotas de forma eficiente e sem atrasos."</br>"Preciso de recursos de busca e navegação intuitivos no OpenStreetMap, para localizar rapidamente as áreas e estradas relevantes para o meu trabalho."</br>"Gostaria de ter a opção de exportar as rotas validadas do OpenStreetMap em formatos compatíveis com os sistemas de gerenciamento de transporte da minha empresa."|
 |        Expectativas       |Lucas espera encontrar uma interface que seja intuitiva.</br>Ele espera que o site seja uma fonte confiável de dados geográficos atualizados.</br>Lucas deseja que a comunidade seja ativa e envolvida, com usuários compartilhando conhecimento e experiências para melhorar o site.|
 
-<p align="center">Tabela 2 - Persona: Lucas. (Fonte: Autor, 2023)</p>
+<p align="center">Tabela 1 - Persona: Lucas. (Fonte: Autor, 2023)</p>
 
 </br>
+
+|          Persona          |         Secundária         |
+|:-------------------------:|:--------------------------:|
+|           Nome            |    Gabriel Souza Pereira   |
+|           Idade           |           25 Anos          |
+|        Localização        | Brasília, Distrito Federal |
+|            Foto           |   ![Perfil de Usuário](../assets/personas/gabriel.jpeg)</br>Imagem 2 - Gabriel Souza Pereira. (Fonte: This Person Does Not Exist)|
+|           Status          |      Persona Primmária     |
+|         Objetivos         |Gabriel que poder caminhar com segurança sabendo sempre por onde está andando.</br>Ele quer conhecer melhor sua vizinhança fazendo.</br>Ele deseja manter uma vida saudável, caminhando e se alimentando bem.</br>Gabriel se formou em Geografia e quer ser produtivo no seu recem trabalho como cartografo.|
+|        Habilidades        |Gabriel tem grande conhecimento sobre relevos e solos.</br>Ele sabe muito sobre tecnologia e utiliza bastante em seu trabalho.</br>Gabriel tem habilidades de cozinha, pois um de seus passatempos é cozinhar.|
+|          Tarefas          |Gabriel acorda de manhã para poder fazer sua caminhada matinal, as 6.</br>Ele trabalha como cartografo, onde fica de 8 as 18, com pausa para o almoço.</br>Gabriel tira o fim de semana para descobrir novos locais caminhando|
+|      Relacionamentos      |Pais: Rose(45 anos, Dona de Casa), Carlos (47 anos, Frentista).</br>Grupo de Amigos: Grupo formado pelos amigos de formatura da faculdade.</br>Grupo do Trabalho: Grupo formado pelos seus colegas de trabalho.|
+|        Requisitos         |Gabriel sabe bastante de tecnologia, e preza por ter acesso rápido e fácil a informação, seus pensamentos são:</br>"Eu preciso de uma interface do OpenStreetMap fácil de usar e intuitiva para que eu possa usar as rotas e cadastrar novas e novos pontos de referência."</br>"É importante que o site seja compatível com dispositivos móveis, pois muitas vezes estou apenas com meu celular."</br>"Gostaria que as pessoas pudessem dar feedback das rotas que eu crio para saber se elas gostam."|
+|        Expectativas       |Gabriel espera que o tempo de resposta do site seja rápido.</br>Ele deseja que o aplicativo se atualize automaticamente conforme ele caminha.</br>Gabriel gostaria de ser avisado quando entrar em uma área de risco marcada no site.|
+
+<p align="center">Tabela 2 - Persona: Gabriel. (Fonte: Autor, 2023)</p>
+
+</br>
+
 
 |          Persona          |         Secundária         |
 |:-------------------------:|:--------------------------:|
