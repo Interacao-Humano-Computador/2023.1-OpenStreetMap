@@ -253,18 +253,6 @@ Como podemos ver na imagem 13 e 14, a maioria dos usuários aprenderam a usá-lo
 
 Como podemos ver na imagem 15 e 16, a maioria dos usuários utilizam o site para cadastrar novos pontos de referência.
 
-- Para que os usuários utilizam o site?
-
-<center>![](../assets//questionario/objetivo.png)</center>
-
-<p><center>Imagem 15: Principal Funcionalidade Utilizada - Formulário 1 (Fonte: autor, 2023).</center></p>
-
-<center>![](../assets//questionario/_objetivo.png)</center>
-
-<p><center>Imagem 16: Principal Funcionalidade Utilizada - Formulário 2 (Fonte: autor, 2023).</center></p>
-
-Como podemos ver na imagem 15 e 16, a maioria dos usuários utilizam o site para cadastrar novos pontos de referência.
-
 - Com que frequencia os usuários utilizam o site?
 
 <center>![](../assets//questionario/frequencia.png)</center>
@@ -300,31 +288,6 @@ Como podemos ver na imagem 19 e 20, a maioria dos usuários utilizam outros site
 <p><center>Imagem 22: Necessidades do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
 
 Como podemos ver na imagem 21 e 22, a maioria dos usuários acredita que o site precisa de melhorias.
-
-
-- Os usuários acham que o aplicativo atende a suas necessidades?
-
-<center>![](../assets//questionario/necessidades.png)</center>
-
-<p><center>Imagem 21: Necessidades do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
-
-<center>![](../assets//questionario/_necessidades.png)</center>
-
-<p><center>Imagem 22: Necessidades do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
-
-Como podemos ver na imagem 21 e 22, a maioria dos usuários acredita que o site precisa de melhorias.
-
-- Os usuários acham que o site fácil de se utilizar?
-
-<center>![](../assets//questionario/usabilidade.png)</center>
-
-<p><center>Imagem 23: Experiência do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
-
-<center>![](../assets//questionario/_usabilidade.png)</center>
-
-<p><center>Imagem 24: Experiência do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
-
-Como podemos ver na imagem 23 e 24, a maioria dos usuários acredita que o site não seja fácil de se usar, principalmente para principiantes.
 
 - Os usuários acham que o site fácil de se utilizar?
 
