@@ -80,19 +80,37 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 
 |          Persona          |         Secundária         |
 |:-------------------------:|:--------------------------:|
-|           Nome            |     Mariana Costa Santos   |
+|           Nome            |     Maria Costa Santos   |
 |           Idade           |           23 Anos          |
 |        Localização        | Brasília, Distrito Federal |
-|            Foto           |   ![Perfil de Usuário]()</br>Imagem 3 - Mariana Costa Santos. (Fonte: This Person Does Not Exist)|
+|            Foto           |   ![Perfil de Usuário]()</br>Imagem 3 - Maria Costa Santos. (Fonte: This Person Does Not Exist)|
 |           Status          |      Persona Secundária    |
-|         Objetivos         ||
-|        Habilidades        ||
-|          Tarefas          ||
-|      Relacionamentos      ||
-|        Requisitos         ||
-|        Expectativas       ||
+|         Objetivos         |Maria quer concluir sua graduação em Engenharia Civil e se estabelecer profissionalmente na área.</br>Ela quer explorar sua nova cidade, conhecer pontos de referência e descobrir locais de interesse.</br>Ela quer fazer novos amigos em sua nova cidade.</br>Maria deseja se ambientar sem sua cidade para poder navegar sem auxílio de uma ferramente de mapa.|
+|        Habilidades        |Maria possui habilidades avançadas em tecnologia, incluindo o uso de aplicativos de navegação e ferramentas de mapeamento.</br>Ela está familiarizada com a utilização de smartphones com conhecimentos básicos de sistemas de informação geográfica.</br>Mari conhece bastante de estruturas e de solos devido a sua graduação.|
+|          Tarefas          |Maria trabalha de manhã como atendente de uma padaria.</br>Ela faz a sua graduação no período da tarde.</br>Ela usa o final de semana para poder realizar seu passatempo que é pintar.</br>Maria faz todas as tarefas domesticas de sua casa já que mora sozinha.|
+|      Relacionamentos      |Pais: Jose(55 Anos, Empreendedor), Marcela(53, Contadora).</br>Grupo da Faculdade: Amigos que Maria conheceu na Faculdade.</br>Grupo do Trabalho: Amigos que trabalham com ela na padaria.|
+|        Requisitos         |Maria se mudou recentemente, então ela precisa conhecer melhor a sua cidade, por isso seus pensamentos são: </br>"Preciso de um site de mapeamento intuitivo e fácil de usar no meu smartphone, para que eu possa explorar a cidade e encontrar rotas para o trabalho e faculdade."</br>"É importante que o OpenStreetMap forneça informações atualizadas e precisas sobre pontos de interesse, para que eu possa descobrir novos lugares."</br>"Gostaria de poder personalizar minha experiência no OpenStreetMap, marcando meus lugares favoritos e adicionando anotações personalizadas para referência futura."|
+|        Expectativas       |Maria espera que o OpenStreetMap seja uma plataforma confiável e abrangente, com informações atualizadas e relevantes sobre a cidade.</br>Ela quer que o OpenStreetMap ofereça recursos de navegação eficientes, como cálculos de tempo de viagem e rotas alternativas.</br>Ela espera que o OpenStreetMap a ajude a otimizar meu tempo de deslocamento para o trabalho e para a faculdade.|
 
-<p align="center">Tabela 2 - Persona: Lucas. (Fonte: Autor, 2023)</p>
+<p align="center">Tabela 3 - Persona: Maria. (Fonte: Autor, 2023)</p>
+
+</br>
+
+|          Persona          |        Antipersona         |
+|:-------------------------:|:--------------------------:|
+|           Nome            |      Carlos Jose Pereira   |
+|           Idade           |           50 Anos          |
+|        Localização        | Brasília, Distrito Federal |
+|            Foto           |   ![Perfil de Usuário]()</br>Imagem 4 - Carlos Jose Pereira (Fonte: This Person Does Not Exist)|
+|           Status          |      Persona Secundária    |
+|         Objetivos         |Carlos deseja levar uma vida tranquila e descomplicada, evitando a exposição a tecnologia.</br>Ele deseja desfrutar de seu tempo livre em atividades ao ar livre com sua família.</br>Carlos deseja manter uma saúde boa para não precisar de ajuda de outras pessoas.|
+|        Habilidades        |Carlos sabe bem pouco sobre tecnologia.</br>Ele tem habilidade com atendimento, pois possui uma pequena lojinha em sua casa.</br>Carlos sabe desenha, pois ele faz isso no seu tempo livre.|
+|          Tarefas          |Carlos todo dia de manhã tem que tomar sua vitamina e seus remédios.</br>Ele abre sua lojinha toda manhã e repõe o estoque.</br>Carlos desempenha a tarefa de colocar o lixo para fora todo dia.|
+|      Relacionamentos      |Esposa: Edna(55 Anos, Dona de Casa).</br>Filho: Miguel(27 Anos, Técnico em Informática).</br>Vizinhos: Os vizinhos que Carlos tem que ele conversa todo dia.|
+|        Requisitos         |Carlos não sai muito de casa e por esse motivo ele não tem nenhum requisito quanto ao site do OpenStreetMap, seus pensamentos são:</br>"Eu prefiro utilizar métodos tradicionais de navegação, como mapas impressos."</br>"Não me sinto confortável dependendo exclusivamente de aplicativos e dispositivos tecnológicos."</br>"Não quero gastar muito tempo aprendendo a usar o OpenStreetMap."|
+|        Expectativas       |Carlos espera ainda desfrutar de sua vida familiar por bastante tempo.</br>Ele deseja viver até pode conhecer seus netos um dia.</br>Carlos não quer depender da tecnologia para realizar nenhuma atividade.|
+
+<p align="center">Tabela 4 - Persona: Carlos. (Fonte: Autor, 2023)</p>
 
 </br>
 
@@ -109,5 +127,4 @@ BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Com
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição      |                                    Autor                                    |                Revisor                |
 | :--------: | :-----------------------: | :-----: | :--------------------: | :--------------------------------------------------------------------------: | :------------------------------------: |
-| 30/04/2023 |        01/05/2023        |   1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
-| 01/05/2023 |        01/05/2023        |   2.0   | Adição de mais conteúdo com uma nova seção | [Daniel](https://github.com/daniel-de-sousa) e [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
+| 08/05/2023 |        08/05/2023        |   1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
