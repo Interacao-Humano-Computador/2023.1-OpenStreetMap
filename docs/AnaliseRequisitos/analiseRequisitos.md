@@ -21,7 +21,7 @@ Os	métodos	de	análise	de	tarefas	mais	comuns são:
 - ConcurTaskTrees (CTT)
 
 
-#### Análise Hierárquica de Tarefas (HTA)
+### 1. Análise Hierárquica de Tarefas (HTA)
 A HTA ajuda a identificar a estrutura hierárquica das tarefas, decompondo-as em sub-tarefas menores e mais gerenciáveis. Isso permite uma compreensão mais detalhada de como as tarefas são executadas, identificando as relações entre as sub-tarefas e ajudando a identificar gargalos e oportunidades de melhoria. Ao compreender a estrutura hierárquica das tarefas, os projetistas podem propor designs mais eficientes e intuitivos, otimizando a interação dos usuários com os sistemas e interfaces.
 
 A análise hierárquica de tarefas possui os seguintes elementos:
@@ -40,7 +40,7 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 <p> Figura 1: Elementos do diagrama (Fonte: [1]).</p>
 </div>
 
-### Análise da tarefa: x
+#### **Análise da tarefa: x**
 
 
 | Objetivos/Operações | Problemas e recomendações |
@@ -60,13 +60,13 @@ A análise hierárquica de tarefas pode ser representada na forma textual, por m
 
     ### Adicionar imagem do diagrama
 
-## Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
+### 2. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
 
 O GOMS visa modelar o desempenho humano em interações com sistemas computacionais. Ele analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos cognitivos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a carga cognitiva e tornando as tarefas mais eficientes e fáceis de serem executadas.
 
     #### Citar autores dos livros indicados
 
-### Análise da tarefa: y
+#### Análise da tarefa: y
 
 O modelo GOMS foi utilizado para analisar a tarefa "y", sendo o escopo de avaliação a situação em que um usuário experiente com a plataforma deseja aprender os conceitos iniciais de xadrez.
 
@@ -80,6 +80,14 @@ O modelo GOMS foi utilizado para analisar a tarefa "y", sendo o escopo de avalia
 <p style="padding-left: 1vw">GOAL 3: estudar o assunto escolhido </p>
 <p style="padding-left: 3vw">OP. 3.1: fazer a leitura do tutorial à direita da página </p>
 <p style="padding-left: 3vw">OP. 3.2: movimentar as peças no tabuleiro clicando nelas e nas posições de destino </p> -->
+
+### 3. ConcurTaskTrees (CTT)
+    #### Explicar e a metodologia e a tarefa z
+
+#### Análise da tarefa: z
+    #### Usar a metodologia na tarefa z
+
+
 
 ## Bibliografia
 
