@@ -44,6 +44,8 @@ A figura 1 abaixo apresenta a tela inicial do site.
 
 ![](../assets/Planejamento/Site Escolhido/openstreatmap.png)
 
+<p><center>Imagem 1: Página Principal do Open Street Map. (Fonte: autor, 2023).</center></p>
+
 ## Permissão
 O Site OpenStreetMap é um software livre, que permite análise e utilização do software, desde que seja dado crédito a organização, conforme comprovado pela figura 2 abaixo:
 

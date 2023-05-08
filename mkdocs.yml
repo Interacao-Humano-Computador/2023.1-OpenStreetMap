@@ -60,6 +60,8 @@ nav:
     - Cronograma Planejado: Planejamento/Cronograma.md
     - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
     - Heatmap: Planejamento/heatmap.md
+  - Análise de Requisitos:
+    - Perfil do Usuário: analise_requisitos/perfil_usuario.md
   - Atas:
     - Atas/Reuniao 01.md
     - Atas/Reuniao 02.md
