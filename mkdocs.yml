@@ -74,8 +74,9 @@ nav:
     - Heatmap: Planejamento/Heatmap.md
     - Aspectos Éticos: Planejamento/Aspectos_Eticos.md
   - Análise de Requisitos:
-    - Perfil do usuário: analise_requisitos/perfil_usuario.md
-    - Análise de Tarefas: analise_requisitos/analiseTarefas.md
+    - Perfil do usuário: AnaliseRequisitos/perfil_usuario.md
+    - Personas: AnaliseRequisitos/Personas.md
+    - Análise de Tarefas: AnaliseRequisitos/analiseTarefas.md
   - Atas:
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md
