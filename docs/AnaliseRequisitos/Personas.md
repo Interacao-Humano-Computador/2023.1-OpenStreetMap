@@ -12,7 +12,7 @@ Isso faz com que não se tenha um usuário elástico, a partir do momento que um
 
 ## Elenco de Personas
 
-Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 4 personas, sendo 1 primária, 2 secundárias e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, poís no perfil de usuário foram identificados dois tipos de usuários principais, aqueles que utilizam o site para usar suas rotas e outras que usam para ver pontos de referência.
+Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 4 personas, sendo 1 primária, 2 secundárias e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, pois foi identificado que alguns usuários usam mais uma tarefa do que outros, então essa quantidade irá satisfazer as necessidades de se ter um grupo típicos de usuários.
 
 O objetivo das Personas é que se tenha bem em mente para quem o software foi projetado e para quem não foi, por isso, para a construção dessas personas, foram baseadas nos dados levantados pelos usuários, através de um formulário online.
 
