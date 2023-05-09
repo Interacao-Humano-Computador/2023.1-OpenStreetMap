@@ -12,7 +12,7 @@ Isso faz com que não se tenha um usuário elástico, a partir do momento que um
 
 ## Elenco de Personas
 
-Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 4 personas, sendo 1 primária, 2 secundárias e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, poís no perfil de usuário foram identificados dois tipos de usuários principais, aqueles que utilizam o site para usar suas rotas e outras que usam para ver pontos de referência.
+Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 4 personas, sendo 1 primária, 2 secundárias e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, pois foi identificado que alguns usuários usam mais uma tarefa do que outros, então essa quantidade irá satisfazer as necessidades de se ter um grupo típicos de usuários.
 
 O objetivo das Personas é que se tenha bem em mente para quem o software foi projetado e para quem não foi, por isso, para a construção dessas personas, foram baseadas nos dados levantados pelos usuários, através de um formulário online.
 
@@ -48,7 +48,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Idade           |           27 Anos          |
 |        Localização        |       Goiânia, Goiás       |
 |            Foto           |   ![Perfil de Usuário](../assets/personas/lucas.jpeg)</br>Imagem 1 - Lucas Oliveira Martins. (Fonte: This Person Does Not Exist)|
-|           Status          |      Persona Secundária    |
+|           Status          |       Persona Primária     |
 |         Objetivos         |Lucas deseja construir uma carreira de sucesso na área de logística e otimização de rotas.</br>Ele quer aprender sobre mapeamento e georreferenciamento para aprimorar suas habilidades profissionais.</br>Lucas que envelhecer com saúde e ter uma boa vida com sua namorada.|
 |        Habilidades        |Lucas tem grande conhecimento em tecnologia e sistemas de informação geográfica.</br>Ele sabe tocar alguns instrumentos musicais.</br>Lucas tem habilidades em análise de dados geográficos.|
 |          Tarefas          |Ele estuda de Manhã no curso de engenharia de software.</br>Lucas faz estágio a tarde onde é responsável por planejar rotas para entregas de mercadorias.</br>Ele faz academia de noite quando chega em casa.</br>Lucas faz um passeio pelo menos uma vez no mês com sua namorada.|
@@ -66,7 +66,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Idade           |           25 Anos          |
 |        Localização        | Brasília, Distrito Federal |
 |            Foto           |   ![Perfil de Usuário](../assets/personas/gabriel.jpeg)</br>Imagem 2 - Gabriel Souza Pereira. (Fonte: This Person Does Not Exist)|
-|           Status          |      Persona Primmária     |
+|           Status          |     Persona Secundária     |
 |         Objetivos         |Gabriel que poder caminhar com segurança sabendo sempre por onde está andando.</br>Ele quer conhecer melhor sua vizinhança fazendo.</br>Ele deseja manter uma vida saudável, caminhando e se alimentando bem.</br>Gabriel se formou em Geografia e quer ser produtivo no seu recem trabalho como cartografo.|
 |        Habilidades        |Gabriel tem grande conhecimento sobre relevos e solos.</br>Ele sabe muito sobre tecnologia e utiliza bastante em seu trabalho.</br>Gabriel tem habilidades de cozinha, pois um de seus passatempos é cozinhar.|
 |          Tarefas          |Gabriel acorda de manhã para poder fazer sua caminhada matinal, as 6.</br>Ele trabalha como cartografo, onde fica de 8 as 18, com pausa para o almoço.</br>Gabriel tira o fim de semana para descobrir novos locais caminhando|
