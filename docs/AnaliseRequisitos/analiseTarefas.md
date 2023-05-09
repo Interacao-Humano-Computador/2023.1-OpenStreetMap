@@ -8,7 +8,7 @@ A análise de tarefas é uma abordagem sistemática e metodológica usada para c
 
 
 1. **Identificação do objetivo:** Determinar qual é a tarefa principal que será analisada e compreender o propósito geral por trás dessa tarefa.
-2. **Observação e coleta de dados:** Observar e registrar as ações dos usuários enquanto realizam a tarefa, no caso por meio dos [questionários]() e [perfil do usuário]().
+2. **Observação e coleta de dados:** Observar e registrar as ações dos usuários enquanto realizam a tarefa, no caso por meio dos [questionários]() e [perfil do usuário](perfil_usuario.md).
 3. **Decomposição da tarefa:** Dividir a tarefa em etapas menores e mais gerenciáveis, a fim de entender a sequência de ações e interações envolvidas.
 4. **Análise das interações e fluxo de trabalho:** Analisar como as diferentes etapas se relacionam, identificando dependências, restrições e possíveis problemas de fluxo de trabalho.
 5. **Identificação de pontos fortes e pontos fracos:** Identificar os aspectos positivos e negativos da execução da tarefa, como eficiência, usabilidade, dificuldades ou confusões encontradas pelos usuários. E possíveis recomendações.
