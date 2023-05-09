@@ -5,8 +5,8 @@ Durante o desenvolvimento da disciplina, ocorrerão entregas com seus respectivo
 [Link da Apresentação](https://youtu.be/NFyJIrE9qB8)
 
 
-
-
+## Apresentação 2
+[Link da Apresentação](https://www.youtube.com/watch?v=Mrn86KlBmFM)
 
 ## Histórico de Versão
 

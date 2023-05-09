@@ -2,36 +2,37 @@
 
 ## Introdução
 
-A análise de tarefas é uma abordagem sistemática e metodológica usada para compreender como as pessoas realizam suas atividades no OpenStreetMap. Foi necessário identificar os objetivos, ações, interações e os desafios enfrentados durante o uso do site. Essa compreensão é fundamental para o desenvolvimento de interfaces mais eficientes, intuitivos e amigáveis.
+A análise de tarefas é uma abordagem sistemática e metodológica usada para compreender como as pessoas realizam suas atividades na aplicação. Para isso, é necessário identificar os objetivos, ações, interações e os desafios enfrentados durante o uso do site. Essa compreensão é fundamental para o desenvolvimento de interfaces mais eficientes, intuitivos e amigáveis.
 
 ## Etapas
-
+No geral, para uma boa análise é preciso seguir as seguintes etapas:
 
 1. **Identificação do objetivo:** Determinar qual é a tarefa principal que será analisada e compreender o propósito geral por trás dessa tarefa.
-2. **Observação e coleta de dados:** Observar e registrar as ações dos usuários enquanto realizam a tarefa, no caso por meio dos [questionários]() e [perfil do usuário](perfil_usuario.md).
+2. **Observação e coleta de dados:** Observar e registrar as ações dos usuários enquanto realizam a tarefa, no caso por meio dos [questionários](perfil_usuario.md) e [perfil do usuário](perfil_usuario.md).
 3. **Decomposição da tarefa:** Dividir a tarefa em etapas menores e mais gerenciáveis, a fim de entender a sequência de ações e interações envolvidas.
 4. **Análise das interações e fluxo de trabalho:** Analisar como as diferentes etapas se relacionam, identificando dependências, restrições e possíveis problemas de fluxo de trabalho.
 5. **Identificação de pontos fortes e pontos fracos:** Identificar os aspectos positivos e negativos da execução da tarefa, como eficiência, usabilidade, dificuldades ou confusões encontradas pelos usuários. E possíveis recomendações.
 
 
 ## Metodologias 
-Para fazer uso das principais metodologias de análise de tarefas, selecionamos as tarefas "Cadastrar novos pontos de referência", "Procurar rotas" e Contribuir com o desenvolvimento do site#, as tarefas mais utilizadas pelos usuários. As metodologias mais usadas são:
+Para a análise da principal tarefa do OpenStreetMap, "Cadastrar novos pontos de referência", utilizamos a metodologia Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis).
+<!-- Para fazer uso das principais metodologias de análise de tarefas, selecionamos as tarefas "Cadastrar novos pontos de referência", "Procurar rotas" e Contribuir com o desenvolvimento do site#, as tarefas mais utilizadas pelos usuários. As metodologias mais usadas são: -->
 
-- Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis)
-- GOMS	(Goals,	Operators,	Methods, e	Selection	Rules)
+<!-- - Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis)
+- GOMS	(Goals,	Operators,	Methods, e	Selection	Rules) -->
 <!-- - ConcurTaskTrees (CTT) -->
 
 
 ### 1. Análise Hierárquica de Tarefas (HTA)
-A HTA ajuda a identificar a estrutura hierárquica das tarefas, decompondo-as em sub-tarefas menores e mais gerenciáveis. Isso permite uma compreensão mais detalhada de como as tarefas são executadas, identificando as relações entre as sub-tarefas e ajudando a identificar gargalos e oportunidades de melhoria. Ao compreender a estrutura hierárquica das tarefas, os projetistas podem propor designs mais eficientes e intuitivos, otimizando a interação dos usuários com os sistemas e interfaces.
+A HTA ajuda a identificar a estrutura hierárquica das tarefas, decompondo-as em sub-tarefas menores e mais gerenciáveis. Isso permite uma compreensão mais detalhada de como as tarefas são executadas, identificando as relações entre as sub-tarefas e ajudando a identificar gargalos e oportunidades de melhoria.
 
 A análise hierárquica de tarefas possui os seguintes elementos:
 
-- **Tarefa**: qualquer parte de um trabalho a ser realizado;
-- **Objetivo**: um estado final, que pode ser definido por eventos ou valores fisicamente observáveis
-- **Subobjetivo**: um objetivo de alto nível é dividido em subobjetivos, por exemplo o objetivo "iniciar uma partida de xadrez" possui, dentre outros, os seguintes subobjetivos: "definir o tipo de oponente, definir a modalidade de jogo e configurar o incremento";
-- **Plano**: o conjunto de subobjetivos de um objetivo e suas relações consiste em um plano;
-- **Operação**: circunstâncias de ativação do objetivo (_input_ ou entrada), atividades ou ações (_actions_) para alcançá-lo e condições que indicam seu atingimento (_feedback_)
+- **Tarefa**: Qualquer parte de um trabalho a ser realizado;
+- **Objetivo**: um estado final, que pode ser definido por eventos ou valores fisicamente observáveis;
+- **Subobjetivo**: Um objetivo de alto nível é dividido em subobjetivos;
+- **Plano**: O conjunto de subobjetivos de um objetivo e suas relações consiste em um plano;
+- **Operação**: Circunstâncias de ativação do objetivo (_input_ ou entrada), atividades ou ações (_actions_) para alcançá-lo e condições que indicam seu atingimento (_feedback_).
 
 A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e por um diagrama (Figura 2). No segundo caso, utiliza-se a notação representada na Figura 1.
 
@@ -46,7 +47,7 @@ A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
-| 0. Cadastrar novos pontos de referência (1>2)| **input**:  Acesso ao menu "iniciar partida" na tela inicial;<br/> **feedback**: tela de pesquisa e mapa geral  <br/> **plano**: selecionar novo ponto de refereência e cadastrar-lo <br/> **recomendação**: permitir que usuário cadastre tarefa a partir da tela inicial |
+| 0. Cadastrar novos pontos de referência (1>2)| **input**:  Acesso a página inicial;<br/> **feedback**: tela de pesquisa e mapa geral  <br/> **plano**: selecionar novo ponto de refereência e cadastrar-lo <br/> **recomendação**: permitir que usuário cadastre tarefa a partir da tela inicial |
 | 1.  Selecionar novo ponto de refereência (1>2) | **plano**: dar zoom no mapa para o local desejado e selecionar o ponto de referência no mapa<br/> **recomendação**: abrir o mapa com zoom na área em que o usuário esta|
 | 1.1  Dar zoom no mapa para o local desejado |   | |
 | 1.2  Selecionar o ponto de referência no mapa |  | |
