@@ -146,11 +146,11 @@ e [planilha do formulário 2](https://docs.google.com/spreadsheets/d/1GgHmSVmk0l
 
 - Faixa etária
 
-<center>![](../assets//questionario/idade.png)</center>
+<center>![](../assets/questionario/idade.png)</center>
 
 <p><center>Imagem 2: Idade dos usuários - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_idade.png)</center>
+<center>![](../assets/questionario/_idade.png)</center>
 
 <p><center>Imagem 3: Idade dos usuários - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -158,7 +158,7 @@ Como podemos ver na imagem 2 e 3, a maioria dos participantes possuem idade entr
 
 - País que o participante reside
 
-<center>![](../assets//questionario/pais.png)</center>
+<center>![](../assets/questionario/pais.png)</center>
 
 <p><center>Imagem 4: País de residência - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -166,11 +166,11 @@ Como podemos ver na imagem 4, conseguimos abranger participantes de diversos pa�
 
 - Grau de escolaridade
 
-<center>![](../assets//questionario/escolaridade.png)</center>
+<center>![](../assets/questionario/escolaridade.png)</center>
 
 <p><center>Imagem 5: Grau de Escolaridade - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_escolaridade.png)</center>
+<center>![](../assets/questionario/_escolaridade.png)</center>
 
 <p><center>Imagem 6: Grau de Escolaridade - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -183,11 +183,11 @@ e [planilha do formulário 2](https://docs.google.com/spreadsheets/d/1GgHmSVmk0l
 
 - Quantidade de pessoas que usam o site
 
-<center>![](../assets//questionario/qtd_usuarios.png)</center>
+<center>![](../assets/questionario/qtd_usuarios.png)</center>
 
 <p><center>Imagem 9: Quantidade de usuários - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_qtd_usuarios.png)</center>
+<center>![](../assets/questionario/_qtd_usuarios.png)</center>
 
 <p><center>Imagem 10: Quantidade de usuários - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -195,11 +195,11 @@ Como podemos ver na imagem 9 e 10, dentre os participantes, temos 16 usuários d
 
 - Afinidade dos participantes com tecnologia
 
-<center>![](../assets//questionario/afinidade.png)</center>
+<center>![](../assets/questionario/afinidade.png)</center>
 
 <p><center>Imagem 11: Afinidade com Tecnologia - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_afinidade.png)</center>
+<center>![](../assets/questionario/_afinidade.png)</center>
 
 <p><center>Imagem 12: Afinidade com Tecnologia - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -231,11 +231,11 @@ A maioria dos usuários declaram que possuem afinidade com tecnologia.
 
 - Como os usuários aprenderam a usar o aplicativo?
 
-<center>![](../assets//questionario/aprender.png)</center>
+<center>![](../assets/questionario/aprender.png)</center>
 
 <p><center>Imagem 13: Aprendizado do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_qtd_usuarios.png)</center>
+<center>![](../assets/questionario/_aprender.png)</center>
 
 <p><center>Imagem 14: Aprendizado do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -243,11 +243,11 @@ Como podemos ver na imagem 13 e 14, a maioria dos usuários aprenderam a usá-lo
 
 - Para que os usuários utilizam o site?
 
-<center>![](../assets//questionario/objetivo.png)</center>
+<center>![](../assets/questionario/objetivo.png)</center>
 
 <p><center>Imagem 15: Principal Funcionalidade Utilizada - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_objetivo.png)</center>
+<center>![](../assets/questionario/_objetivo.png)</center>
 
 <p><center>Imagem 16: Principal Funcionalidade Utilizada - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -255,11 +255,11 @@ Como podemos ver na imagem 15 e 16, a maioria dos usuários utilizam o site para
 
 - Com que frequencia os usuários utilizam o site?
 
-<center>![](../assets//questionario/frequencia.png)</center>
+<center>![](../assets/questionario/frequencia.png)</center>
 
 <p><center>Imagem 17: Frequencia de Utilização - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_frequencia.png)</center>
+<center>![](../assets/questionario/_frequencia.png)</center>
 
 <p><center>Imagem 18: Frequencia de Utilização - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -267,11 +267,11 @@ Como podemos ver na imagem 17 e 18, a maioria dos usuários utilizam o site todo
 
 - Os usuários utilizam outros sites de geolocalização?
 
-<center>![](../assets//questionario/sites.png)</center>
+<center>![](../assets/questionario/sites.png)</center>
 
 <p><center>Imagem 19: Outros Sites Utilizados - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_sites.png)</center>
+<center>![](../assets/questionario/_sites.png)</center>
 
 <p><center>Imagem 20: Outros Sites Utilizados - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -279,11 +279,11 @@ Como podemos ver na imagem 19 e 20, a maioria dos usuários utilizam outros site
 
 - Os usuários acham que o aplicativo atende a suas necessidades?
 
-<center>![](../assets//questionario/necessidades.png)</center>
+<center>![](../assets/questionario/necessidades.png)</center>
 
 <p><center>Imagem 21: Necessidades do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_necessidades.png)</center>
+<center>![](../assets/questionario/_necessidades.png)</center>
 
 <p><center>Imagem 22: Necessidades do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -291,11 +291,11 @@ Como podemos ver na imagem 21 e 22, a maioria dos usuários acredita que o site 
 
 - Os usuários acham que o site fácil de se utilizar?
 
-<center>![](../assets//questionario/usabilidade.png)</center>
+<center>![](../assets/questionario/usabilidade.png)</center>
 
 <p><center>Imagem 23: Experiência do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_usabilidade.png)</center>
+<center>![](../assets/questionario/_usabilidade.png)</center>
 
 <p><center>Imagem 24: Experiência do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -303,11 +303,11 @@ Como podemos ver na imagem 23 e 24, a maioria dos usuários acredita que o site 
 
 - Como os usuários avaliam a interface?
 
-<center>![](../assets//questionario/interface.png)</center>
+<center>![](../assets/questionario/interface.png)</center>
 
 <p><center>Imagem 25: Avaliação da Interface - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_interface.png)</center>
+<center>![](../assets/questionario/_interface.png)</center>
 
 <p><center>Imagem 26: Avaliação da Interface - Formulário 2 (Fonte: autor, 2023).</center></p>
 
@@ -315,11 +315,11 @@ Como podemos ver na imagem 25 e 26 segundo a avaliação dos usuários, temos um
 
 - Como os usuários avaliam o site?
 
-<center>![](../assets//questionario/avaliacao.png)</center>
+<center>![](../assets/questionario/avaliacao.png)</center>
 
 <p><center>Imagem 27: Avaliação do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
 
-<center>![](../assets//questionario/_avaliacao.png)</center>
+<center>![](../assets/questionario/_avaliacao.png)</center>
 
 <p><center>Imagem 28: Avaliação do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
 

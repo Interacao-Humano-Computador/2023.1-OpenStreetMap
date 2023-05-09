@@ -103,7 +103,7 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 |           Idade           |           50 Anos          |
 |        Localização        | Brasília, Distrito Federal |
 |            Foto           |   ![Perfil de Usuário](..//assets/personas/jose.jpeg)</br>Imagem 4 - Carlos Jose Pereira (Fonte: This Person Does Not Exist)|
-|           Status          |      Persona Secundária    |
+|           Status          |      Antipersona    |
 |         Objetivos         |Carlos deseja levar uma vida tranquila e descomplicada, evitando a exposição a tecnologia.</br>Ele deseja desfrutar de seu tempo livre em atividades ao ar livre com sua família.</br>Carlos deseja manter uma saúde boa para não precisar de ajuda de outras pessoas.|
 |        Habilidades        |Carlos sabe bem pouco sobre tecnologia.</br>Ele tem habilidade com atendimento, pois possui uma pequena lojinha em sua casa.</br>Carlos sabe desenha, pois ele faz isso no seu tempo livre.|
 |          Tarefas          |Carlos todo dia de manhã tem que tomar sua vitamina e seus remédios.</br>Ele abre sua lojinha toda manhã e repõe o estoque.</br>Carlos desempenha a tarefa de colocar o lixo para fora todo dia.|
