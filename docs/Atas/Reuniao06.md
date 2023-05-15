@@ -42,4 +42,4 @@ Foi definido o **Caetano** para gerenciar o cronograma e realização da ata da 
 ## Histórico de Versão
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :-: | :-: | :-: | :-: | :-: | :-: |
-| 15/05/2023 | 15/05/2023 | 1.0 | Criação do documento | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
+| 14/05/2023 | 15/05/2023 | 1.0 | Criação do documento | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
