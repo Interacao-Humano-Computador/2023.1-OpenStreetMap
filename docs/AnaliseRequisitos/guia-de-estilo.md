@@ -23,6 +23,7 @@ O guia de estilo deve ser consultado sempre que decisões de projeto precisarem 
 É crucial garantir que o guia de estilo seja atualizado sempre que uma decisão de projeto que resulte em modificações ocorra. Isso assegura que o documento esteja em conformidade com o projeto atual, promovendo a padronização. Essa prática também contribui para que todos os membros da equipe estejam alinhados e tenham acesso às informações mais atualizadas.
 
 # 2. Resultados de Análise
+O usuário precisa que o ambiente seja simples, com boa disposição dos elementos para que se tenha um bom entendimento dos textos e entendam como criar um ponto de preferência, rota... Além disso, é preciso implementar recursos de acessibilidade como alto contraste, libras para uma maior inclusão.
 
 # 3. Elementos de interface
 
