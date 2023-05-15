@@ -12,7 +12,7 @@ soluções de design e avaliar se um produto satisfaz a necessidade dos seus usu
 Levando em consideração os fatos supracitados, pode-se compreender que cenários são uma estratégia viável e efetiva de simular o comportamento de um software. Devido a isso , o grupo escolheu realizar 6 cenários para auxiliar o desenvolvimento dos próximos artefatos da disciplina.
 
 ## Cenários realizados 
-Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
+Dessa forma, será apresentado nas tabelas  abaixo os cenários realizados pelo grupo.
 
 ### Cenário 1: Adicionar uma nova estrada no OpenStreetMap
 
@@ -26,6 +26,7 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|Outros colaboradores podem revisar as edições e fornecer feedback ou corrigir erros.
 |**Avaliação**|Verificar se as informações adicionadas estão corretas e precisas.
 
+<p>Tabela 1: Cenário 1 (Fonte: autor, 2023).</p>
 
 ### Cenário 2: Compartilhamento de localização em tempo real
 
@@ -39,6 +40,7 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|Os amigos poderão visualizar as localizações uns dos outros em tempo real no mapa.
 |**Avaliação**|Verificar se as localizações estão corretas e precisas.
 
+<p>Tabela 2: Cenário 2 (Fonte: autor, 2023).</p>
 
 ### Cenário 3: Exploração turística utilizando o OpenStreetMap
 
@@ -52,6 +54,7 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|- O OpenStreetMap exibe os pontos turísticos pesquisados pelo usuário no mapa, indicando suas localizações e informações básicas, como horários de funcionamento e avaliações.</br>- O usuário poderá visualizar fotos e comentários de outros visitantes sobre os locais de interesse.
 |**Avaliação**| O usuário determina a confiabilidade das informações fornecidas e decidide se o OpenStreetMap é uma fonte confiável para sua necessidade de planejamento de viagem.
 
+<p>Tabela 3: Cenário 3 (Fonte: autor, 2023).</p>
 
 ### Cenário 4: Melhoria do OpenStreetMap com recursos de planejamento de rotas personalizadas.
 
@@ -65,6 +68,8 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|- O mapa é atualizado com as informações sobre as rotas e destinos pesquisados.</br>- O usuário recebe orientações precisas sobre as rotas e destinos, como a distância, o tempo estimado de viagem, as condições do tráfego e as opções de transporte.
 |**Avaliação**| O usuário avalia as informações disponíveis no OpenStreetMap, para determinar a confiabilidade e a precisão das orientações fornecidas.
 
+<p>Tabela 4: Cenário 4 (Fonte: autor, 2023).</p>
+
 ### Cenário 5: Melhoria do OpenStreetMap com recursos de planejamento de rotas personalizadas.
 
 | Elemento | Descrição |
@@ -77,6 +82,7 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|- O mapa é atualizado com as informações sobre as estradas, trilhas e pontos de interesse selecionados.</br>-O grupo de ciclistas recebe orientações precisas sobre a rota, incluindo instruções de navegação, informações sobre elevação e distâncias entre os pontos.
 |**Avaliação**| O grupo de ciclistas avalia as informações fornecidas pelo OpenStreetMap, considerando a precisão e a confiabilidade das informações sobre as estradas, trilhas e pontos de interesse ao longo do percurso.
 
+<p>Tabela 5: Cenário 5 (Fonte: autor, 2023).</p>
 
 ### Cenário 6: Planejamento de Expedição de Pesquisa
 
@@ -91,6 +97,7 @@ Dessa forma, será apresentado abaixo os cenários realizados pelo grupo.
 |**Eventos**|- O mapa é atualizado com as informações sobre as estradas, trilhas e pontos de interesse selecionados.</br>-O grupo de estudantes recebe orientações precisas sobre a topografia, a hidrografia, a vegetação, para a rota que eles realizarão
 |**Avaliação**| Os estudantes avaliam informações fornecidas pelo OpenStreetMap, avaliando a eficácia do uso do site como ferramenta de pesquisa
 
+<p>Tabela 6: Cenário 6 (Fonte: autor, 2023).</p>
 
 ## Bibliografia
 
