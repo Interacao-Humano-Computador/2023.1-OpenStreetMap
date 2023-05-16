@@ -53,11 +53,7 @@ A política de commit é essencial no desenvolvimento de software em equipe, poi
 * Devem ser objetivos e possuírem títulos de no máximo 72 caracteres
 * Composição = (tipo de commit): + mensagem
 
-**Exemplo de commit:**
-
-```
-git commit -m "docs: Adicionando arquivo x"
-```
+**Exemplo de commit:** git commit -m "docs: Adicionando arquivo x"
 
 
 ## Política de Pull Request
@@ -80,17 +76,17 @@ git commit -m "docs: Adicionando arquivo x"
 para criar um pull request, utilize o exemplo abaixo:
 
 **Exemplo de pull request:**
-```
-# Descrição
-    Descreva as motivações e as mudanças para o pull request.
 
-# Revisão
-    - [ ] O Pull Request está vinculado a apenas um assunto.
-    - [ ] O título está objetivo.
-    - [ ] A descrição está gramaticalmente correta.
-    - [ ] A branch está direcionada para a main.
-    - [ ] O revisor foi selecionado corretamente.
-```
+Descrição: Descreva as motivações e as mudanças para o pull request
+  
+Revisão:
+
+- O Pull Request está vinculado a apenas um assunto - ok
+- O título está objetivo - ok
+- A descrição está gramaticalmente correta - ok
+- A branch está direcionada para a main - ok
+- O revisor foi selecionado corretamente - ok
+
 
 ## Referências
 
