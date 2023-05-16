@@ -127,18 +127,17 @@ Para criar uma ponto de referência, linha para rota ou área, é apresentado os
 
 <p style="text-align: center"> Figura 9 - Elementos de Interface</p>
 
-# 6. **Vocabulário e padrões**
+# 6. Vocabulário e padrões
 
 ## 6.1. Terminologia
 
 É importante utilizar **terminologias** que sejam familiares aos usuários, evitando termos muito técnicos. Caso seja necessário utilizar termos técnicos, é essencial fornecer explicações claras e pontuais para garantir que até mesmo os usuários iniciantes possam utilizar a aplicação de forma intuitiva.
 
-## 6.2. Sequências de
-diálogos
+## 6.2. Sequências de diálogos
 
 A **sequência de diálogos** (para feedback ou confirmação de uma operação) a serem feitos com o usuário por meio dos elementos de interface devem ser feitos de forma padronizada. 
 
-# **Bibliografia**
+# Bibliografia
 
 [1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
