@@ -70,7 +70,7 @@ nav:
     - Ferramentas: Planejamento/Ferramentas.md
     - Cronograma: Planejamento/Cronograma.md
     - Cronograma Realizado: Planejamento/Cronograma_Realizado.md
-    - Heatmap: Planejamento/Heatmap.md
+    - Heatmap: Planejamento/heatmap.md
     - Aspectos Éticos: Planejamento/Aspectos_Eticos.md
   - Análise de Requisitos:
     - Perfil do usuário: AnaliseRequisitos/perfil_usuario.md
