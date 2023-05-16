@@ -22,6 +22,7 @@
 | Princípios gerais do projeto | Teams (remoto) | 13/05 | Daniel e Guilherme | - | 12/05 | Paulo |
 | Metas de usabilidade | Teams (remoto) | 13/05 | Paulo | - | 15/05 | Raquel |
 | Guia de estilo e características da plataforma | Teams (remoto) | 13/05 - 14/05 | Raquel | - | 15/05 | Caetano |
+| Cenários | Teams (remoto) | 13/05 | Paulo | - | 15/05 | Daniel |
 | Gravação | Teams (remoto) | 14/05 | Raquel | Todos | 15/05 | Guilherme |
 | Edição do vídeo | Teams (remoto) | 14/05 | Guilherme | - | 15/05 | Paulo |
 
