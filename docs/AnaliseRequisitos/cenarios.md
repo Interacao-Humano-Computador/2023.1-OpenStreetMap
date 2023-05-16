@@ -12,7 +12,7 @@ soluções de design e avaliar se um produto satisfaz a necessidade dos seus usu
 Levando em consideração os fatos supracitados, pode-se compreender que cenários são uma estratégia viável e efetiva de simular o comportamento de um software. Devido a isso , o grupo escolheu realizar 6 cenários para auxiliar o desenvolvimento dos próximos artefatos da disciplina.
 
 ## Cenários realizados 
-Dessa forma, será apresentado nas tabelas  abaixo os cenários realizados pelo grupo.
+Dessa forma, será apresentado nas tabelas 1 a 6 abaixo os cenários realizados pelo grupo.
 
 ### Cenário 1: Adicionar uma nova estrada no OpenStreetMap
 
@@ -88,8 +88,7 @@ Dessa forma, será apresentado nas tabelas  abaixo os cenários realizados pelo 
 
 | Elemento | Descrição |
 | --- | --- |
-| **Contexto** | Um grupo de estudantes está planejando uma em um local e precisa de informações dtalhadas sobre a geografia e os recursos naturais do local.
-|
+| **Contexto** | Um grupo de estudantes está planejando uma em um local e precisa de informações dtalhadas sobre a geografia e os recursos naturais do local.|
 | **Atores** | Estudantes: são pesquisadores em busca de informações para sua expedição de pesquisa.
 |**Objetivos** |   Obter informações precisas sobre a geografia, a topografia e os recursos naturais da área remota.|
 | **Planejamento** | Identificar os objetivos específicos da expedição, como estudar a flora e fauna local, mapear formações geológicas ou coletar dados sobre o clima</br>-Determinar as informações necessárias para o planejamento da expedição, como a localização exata, a topografia, as características do terreno e a disponibilidade de recursos naturais..</br>-Analisar as opções disponíveis no OpenStreetMap para acessar as informações desejadas e traçar um plano de pesquisa.</br>-Considerar as condições climáticas e outros fatores ambientais ao planejar a expedição.|
