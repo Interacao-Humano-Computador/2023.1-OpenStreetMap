@@ -9,6 +9,29 @@ O guia de estilo é um documento que reúne as decisões de design em um projeto
 Reunir e facilitar a comunicação entre os membros da equipe para o design, prototipação e desenvolvimento do produto final.
 
 ## 1.2. Organização do conteúdo
+O guia de estilo seguirá a estrutura comum adotada por Mayhew, na seguinte organização:
+
+- Introdução
+  - Objetivo
+  - Organização e Conteúdo
+  - Público-alvo
+  - Como Utilizar e Manter o Guia de Estilo
+- Análise do Ambiente de Trabalho
+- Elementos de Interface
+  - Janelas
+  - Tipografia
+  - Cores
+- Elementos de Interação
+  - Estilos de Interação
+  - Seleção de Estilos
+  - Aceleradores (teclas de atalho)
+- Elementos de Ação
+  - Preenchimento de Campos
+  - Seleção
+  - Ativação
+- Vocabulário e Padrões
+  - Terminologia
+  - Sequência de Diálogos
 
 ## 1.3. Público-Alvo
 
@@ -22,12 +45,10 @@ O guia de estilo deve ser consultado sempre que decisões de projeto precisarem 
 
 É crucial garantir que o guia de estilo seja atualizado sempre que uma decisão de projeto que resulte em modificações ocorra. Isso assegura que o documento esteja em conformidade com o projeto atual, promovendo a padronização. Essa prática também contribui para que todos os membros da equipe estejam alinhados e tenham acesso às informações mais atualizadas.
 
-# 2. Resultados de Análise
+# 2. Análise do Ambiente de Trabalho
 O usuário precisa que o ambiente seja simples, com boa disposição dos elementos para que se tenha um bom entendimento dos textos e entendam como criar um ponto de preferência, rota... Além disso, é preciso implementar recursos de acessibilidade como alto contraste, libras para uma maior inclusão.
 
 # 3. Elementos de interface
-
-### Logotipo
 
 ## 3.1. Disposição espacial e grid
 
@@ -38,6 +59,7 @@ A disposição das páginas ocorre no geral da seguinte forma (Figura 1).
 <p style="text-align: center"> Figura 1 - Disposição espacial </p>
 
 ## 3.2. Janelas
+As principais janelas são compostas por (Figura 2): 
 
 ![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%201.png)
 
@@ -55,23 +77,26 @@ O site utiliza diversas fampilias de fonte (*Figura 3*), devido ao uso do “Sys
 
 A *Figura 4 e 5* apresenta a paleta de cores da logo e a utilizada na aplicação.
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%203.png)
+<div style="text-align: center">
+    <img style="text-align: center" src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%203.png">
+    <p> Figura 4 - Cores logo</p>
+</div>
 
-<p style="text-align: center"> Figura 4 - Cores logo</p>
+<div style="text-align: center">
+    <img style="text-align: center" src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%204.png">
+    <p> Figura 5 - Cores Site</p>
+</div>
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%204.png)
-
-<p style="text-align: center"> Figura 5 - Cores Site</p>
 
 # 4. Elementos de Interação
 
 ### 4.1. Estilos de interação
 
 A *Figura 6* mostra os elementos principais de navegação no mapa. Com um estilo bem simples e intuitivo.
-
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%205.png)
-
-<p style="text-align: center"> Figura 6 - Ícones</p>
+<div style="text-align: center">
+    <img src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%205.png">
+    <p > Figura 6 - Ícones</p>
+</div>
 
 ### 4.1. Seleção de um estilo
 
