@@ -33,6 +33,6 @@ O OpenStreetMap é composto por dados abertos, licenciados sob [Licença de banc
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| :--------: | :----------------------: | :----: | :-------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 10/03/2023 |       15/04/2023       |  1.0   | Criação inicial  | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
 | 26/04/2023 |        27/04/2023        |  2.0   | Adição do Termo de uso e detalhes | [Raquel](https://github.com/raqueleucaria) |  [Caetano](https://github.com/caeslucio) |
