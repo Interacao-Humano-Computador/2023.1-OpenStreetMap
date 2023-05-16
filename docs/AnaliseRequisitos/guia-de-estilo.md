@@ -12,26 +12,26 @@ Reunir e facilitar a comunicação entre os membros da equipe para o design, pro
 O guia de estilo seguirá a estrutura comum adotada por Mayhew, na seguinte organização:
 
 - Introdução
-  - Objetivo
-  - Organização e Conteúdo
-  - Público-alvo
-  - Como Utilizar e Manter o Guia de Estilo
+    - Objetivo
+    - Organização e Conteúdo
+    - Público-alvo
+    - Como Utilizar e Manter o Guia de Estilo
 - Análise do Ambiente de Trabalho
 - Elementos de Interface
-  - Janelas
-  - Tipografia
-  - Cores
+    - Janelas
+    - Tipografia
+    - Cores
 - Elementos de Interação
-  - Estilos de Interação
-  - Seleção de Estilos
-  - Aceleradores (teclas de atalho)
+    - Estilos de Interação
+    - Seleção de Estilos
+    - Aceleradores (teclas de atalho)
 - Elementos de Ação
-  - Preenchimento de Campos
-  - Seleção
-  - Ativação
+    - Preenchimento de Campos
+    - Seleção
+    - Ativação
 - Vocabulário e Padrões
-  - Terminologia
-  - Sequência de Diálogos
+    - Terminologia
+    - Sequência de Diálogos
 
 ## 1.3. Público-Alvo
 
@@ -54,14 +54,14 @@ O usuário precisa que o ambiente seja simples, com boa disposição dos element
 
 A disposição das páginas ocorre no geral da seguinte forma (Figura 1).
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled.png)
+![Untitled](Guia-estilo/Untitled.png)
 
 <p style="text-align: center"> Figura 1 - Disposição espacial </p>
 
 ## 3.2. Janelas
 As principais janelas são compostas por (Figura 2): 
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%201.png)
+![Untitled](Guia-estilo/Untitled1.png)
 
 <p style="text-align: center"> Figura 2 - Janelas </p>
 
@@ -69,7 +69,7 @@ As principais janelas são compostas por (Figura 2):
 
 O site utiliza diversas fampilias de fonte (*Figura 3*), devido ao uso do “System UI font” que é a fonte da interface do usuário, por isso a fonte pode variar conforme o sistema operacional utilizado por quem acessa. Além disso, varia seus tamanhos entre 10px, 14px ,18 px e mais, dependendo do contexto do texto na interface.
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%202.png)
+![Untitled](Guia-estilo/Untitled2.png)
 
 <p style="text-align: center"> Figura 3 - Fontes</p>
 
@@ -77,13 +77,14 @@ O site utiliza diversas fampilias de fonte (*Figura 3*), devido ao uso do “Sys
 
 A *Figura 4 e 5* apresenta a paleta de cores da logo e a utilizada na aplicação.
 
-<div style="text-align: center">
-    <img style="text-align: center" src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%203.png">
-    <p> Figura 4 - Cores logo</p>
-</div>
+![Cores](Guia-estilo/Untitled3.png)
 
 <div style="text-align: center">
-    <img style="text-align: center" src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%204.png">
+    <p> Figura 4 - Cores logo</p>
+</div>
+![Cores](Guia-estilo/Untitled4.png)
+
+<div style="text-align: center">
     <p> Figura 5 - Cores Site</p>
 </div>
 
@@ -93,10 +94,10 @@ A *Figura 4 e 5* apresenta a paleta de cores da logo e a utilizada na aplicaç
 ### 4.1. Estilos de interação
 
 A *Figura 6* mostra os elementos principais de navegação no mapa. Com um estilo bem simples e intuitivo.
-<div style="text-align: center">
-    <img src="/docs/AnaliseRequisitos/Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%205.png">
-    <p > Figura 6 - Ícones</p>
-</div>
+
+![Cores](Guia-estilo/Untitled5.png)
+
+Figura 6 - Ícones
 
 ### 4.1. Seleção de um estilo
 
@@ -104,7 +105,7 @@ A *Figura 6* mostra os elementos principais de navegação no mapa. Com um estil
 
 O mapa no site possui 6 váriações que podem ser selecionados, conforme a *Figura 7*. Algumas voltadas para um objetivo específico como rotas para bicicleta, transporte público…
 
-![Mapas.png](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Mapas.png)
+![Mapas.png](Guia-estilo/Mapas.png)
 
 <p style="text-align: center"> Figura 7 - Mapas</p>
 
@@ -114,7 +115,7 @@ O mapa no site possui 6 váriações que podem ser selecionados, conforme a *Fig
 
 O campo de preenchimento principal é o de buscar local, além do de registro e login, conforma a figura 8. 
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%206.png)
+![Untitled](Guia-estilo/Untitled6.png)
 
 <p style="text-align: center"> Figura 8 - Preenchimento</p>
 
@@ -122,7 +123,7 @@ O campo de preenchimento principal é o de buscar local, além do de registro e 
 
 Para criar uma ponto de referência, linha para rota ou área, é apresentado os seguintes botões (Figura 9).
 
-![Untitled](Guia%20de%20estilo%200542c0a998504d79ac1eee0593b0809d/Untitled%207.png)
+![Untitled](Guia-estilo/Untitled7.png)
 
 <p style="text-align: center"> Figura 9 - Elementos de Interface</p>
 

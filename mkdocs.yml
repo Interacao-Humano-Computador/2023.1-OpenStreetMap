@@ -61,8 +61,7 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Apresentações:
-    - Apresentação 1 : Apresentações/Apresentacao01.md
+  - Apresentações: Apresentações/Apresentacao01.md
   - Planejamento: 
     - Site Escolhido: Planejamento/Site_Escolhido.md
     - Sites Analisados: Planejamento/Sites_Analisados.md
@@ -76,14 +75,18 @@ nav:
   - Análise de Requisitos:
     - Perfil do usuário: AnaliseRequisitos/perfil_usuario.md
     - Personas: AnaliseRequisitos/Personas.md
+    - Cenários: AnaliseRequisitos/cenarios.md
     - Análise de Tarefas: AnaliseRequisitos/analiseTarefas.md
     - Princípios Gerais do Projeto: AnaliseRequisitos/principiosGerais.md
+    - Metas de Usabilidade: AnaliseRequisitos/Metas_usabilidade.md
+    - Guia de estilo: AnaliseRequisitos/guia-de-estilo.md
   - Atas:
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md
     - Reunião 3: Atas/Reuniao03.md
     - Reunião 4: Atas/Reuniao04.md
     - Reunião 5: Atas/Reuniao05.md
+    - Reunião 6: Atas/Reuniao06.md
   - Guia: 
     - Guia: Guia/Mkdocs.md
   
