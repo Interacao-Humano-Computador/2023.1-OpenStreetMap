@@ -6,7 +6,7 @@
 |--|--|--|--|--|--|--|
 | Planejamento | Teams (remoto) | 12/04 - 20/04 | Paulo | Todos | 20/04 - 21/04 | Todos |
 | Site escolhido | Teams (remoto) | 13/04 - 20/04 | Daniel e Paulo | - | 20/04 - 21/04 | Carla |
-| Sites analisados | Teams (remoto) | 12/04 - 20/04 | Daniel e Paulo | Todos | 13/04 - 21/04 | Paulo |
+| Sites analisados | Teams (remoto) | 12/04 - 20/04 | Daniel | Todos | 13/04 - 21/04 | Paulo |
 | Cronograma | - | 11/04 - 20/04 | Carla | Todos | 20/04 - 21/04 | Raquel |
 | Ferramentas utilizadas | Teams (remoto) | 15/04 - 20/04 | Guilherme e Raquel | - | 20/04 - 21/04 | Paulo |
 | Processo de Design | Teams (remoto) | 14/04 - 20/04 | Guilherme, Paulo, e Daniel | - | 20/04 - 21/04 | Todos |
@@ -23,7 +23,7 @@
 |------------------------------------------|-------|----------------------------|-------------------|---------------|--------------------|-----------|
 | Correções da etapa 1                     | Teams | 24/04 - 08/05              | Todos             | -             | 08/05              | Daniel    |
 | Perfil do usuário                        | Teams | 03/05 - 08/05              | Carla e Daniel    | -             | 08/05              | Paulo     |
-| Personas                                 | Teams | 06/05 - 08/05              | Daniel            | -             | 08/05              | Daniel    |
+| Personas                                 | Teams | 06/05 - 08/05              | Daniel            | -             | 08/05              | Paulo    |
 | Análise de tarefas                       | Teams | 06/05 - 08/05              | Caetano e Raquel  | -             | 08/05              | Guilherme |
 | Aspectos Éticos de Pesquisas com Pessoas | Teams | 06/05 - 08/05              | Paulo e Guilherme |               | 08/05              | Caetano   |
 | Gravação                                 | Teams | 08/05                      | Paulo             | Todos         | 08/05              | Carla     |
