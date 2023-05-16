@@ -1,5 +1,22 @@
 # Cronograma Realizado
 
+## Entrega 1
+
+| Atividade | Local | Período de desenvolvimento | Responsáveis | Participantes | Período de revisão | Revisores |
+|--|--|--|--|--|--|--|
+| Planejamento | Teams (remoto) | 12/04 - 20/04 | Paulo | Todos | 20/04 - 21/04 | Todos |
+| Site escolhido | Teams (remoto) | 13/04 - 20/04 | Daniel e Paulo | - | 20/04 - 21/04 | Carla |
+| Sites analisados | Teams (remoto) | 12/04 - 20/04 | Daniel e Paulo | Todos | 13/04 - 21/04 | Paulo |
+| Cronograma | - | 11/04 - 20/04 | Carla | Todos | 20/04 - 21/04 | Raquel |
+| Ferramentas utilizadas | Teams (remoto) | 15/04 - 20/04 | Guilherme e Raquel | - | 20/04 - 21/04 | Paulo |
+| Processo de Design | Teams (remoto) | 14/04 - 20/04 | Guilherme, Paulo, e Daniel | - | 20/04 - 21/04 | Todos |
+| Análise de disponibilidade de membros | Teams (remoto) | 16/04 - 20/04 | Caetano | - | 20/04 - 21/04 | Guilherme |
+| Metodologias | Teams (remoto) | 12/04 - 20/04 | Raquel e Paulo | - | 20/04 - 21/04 | Daniel |
+| Gravação | Teams (remoto) | 21/04 | Daniel | Todos | 22/04 | Guilherme |
+| Edição do vídeo | Teams (remoto) | 22/04 | Guilherme | -  | 23/04 | Caetano |
+
+<p><center>Tabela 1: Entrega 1 (Fonte: autor, 2023).</center></p>
+
 ## Entrega 2
 
 | Atividade                                | Local | Período de desenvolvimento | Responsáveis      | Participantes | Período de Revisão | Revisores |
@@ -12,7 +29,7 @@
 | Gravação                                 | Teams | 08/05                      | Paulo             | Todos         | 08/05              | Carla     |
 | Edição do vídeo                          | -     | 08/05                      | Carla             | -             | 08/05              | Raquel    |
 
-<p><center>Tabela 1: Entrega 2 (Fonte: autor, 2023).</center></p>
+<p><center>Tabela 2: Entrega 2 (Fonte: autor, 2023).</center></p>
 
 ## Entrega 3
 
@@ -26,7 +43,7 @@
 | Gravação | Teams (remoto) | 14/05 | Raquel | Todos | 15/05 | Guilherme |
 | Edição do vídeo | Teams (remoto) | 14/05 | Guilherme | - | 15/05 | Paulo |
 
-<p><center>Tabela 2: Entrega 3 (Fonte: autor, 2023).</center></p>
+<p><center>Tabela 3: Entrega 3 (Fonte: autor, 2023).</center></p>
 
 
 <br>
@@ -39,3 +56,5 @@
 | 20/04/2023 | 22/04/2023 | 1.0 | Criação do documento | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
 | 08/05/2023 | 09/05/2023 | 2.0 | Correção do histórico de versões | [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
 | 14/05/2023 | 15/05/2023 | 3.0 | Cronograma realizado da Entrega 3 | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
+| 14/05/2023 | 15/05/2023 | 3.0.1 | Correção das entregas anteriores | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+
