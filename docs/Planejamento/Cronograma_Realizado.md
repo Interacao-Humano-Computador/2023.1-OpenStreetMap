@@ -55,6 +55,4 @@
 | :--: | :--: | :--: | :--: | :--: | :--: |
 | 20/04/2023 | 22/04/2023 | 1.0 | Criação do documento | [Carla](https://github.com/ccarlaa) | [Paulo](https://github.com/PauloVictorFS) |
 | 08/05/2023 | 09/05/2023 | 2.0 | Correção do histórico de versões | [Raquel](https://github.com/raqueleucaria) | [Carla](https://github.com/ccarlaa) |
-| 14/05/2023 | 15/05/2023 | 3.0 | Cronograma realizado da Entrega 3 | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
-| 14/05/2023 | 15/05/2023 | 3.0.1 | Correção das entregas anteriores | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
-
+| 14/05/2023 | 15/05/2023 | 3.0 | Cronograma realizado da Entrega 3 | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
