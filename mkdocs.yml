@@ -63,8 +63,8 @@ nav:
   - Home: index.md
   - Apresentações: Apresentações/Apresentacao01.md
   - Planejamento: 
-    - Site Escolhido: Planejamento/Site_Escolhido.md
     - Sites Analisados: Planejamento/Sites_Analisados.md
+    - Site Escolhido: Planejamento/Site_Escolhido.md
     - Processo de Design: Planejamento/Processo_Design.md
     - Metodologia: Planejamento/Metodologias.md
     - Ferramentas: Planejamento/Ferramentas.md
