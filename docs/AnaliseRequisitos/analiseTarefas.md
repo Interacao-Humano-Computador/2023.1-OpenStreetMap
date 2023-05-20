@@ -120,9 +120,7 @@ A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2)
 <div id="2"></div>
 ### 2. GOMS
 
-O GOMS analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a complexidade e tornando as tarefas mais eficientes e fáceis de serem executadas.
-
-<!-- Explicar melhor -->
+O GOMS analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações. Dentre a família de modelos GOMS foi selecionado o modelo CMN-GOMS para realizar a análise.
 
 A tarefas escolhida para ser analisada com esta metodologia foi a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a>, correspondente ao [Cenários](cenarios.md) 1, 2 e 3.
 
