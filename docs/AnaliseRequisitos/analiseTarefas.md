@@ -2,28 +2,58 @@
 
 ## Introdução
 
-A análise de tarefas é uma abordagem sistemática e metodológica usada para compreender como as pessoas realizam suas atividades na aplicação. Para isso, é necessário identificar os objetivos, ações, interações e os desafios enfrentados durante o uso do site. Essa compreensão é fundamental para o desenvolvimento de interfaces mais eficientes, intuitivos e amigáveis.
+A análise de tarefas é uma abordagem sistemática e metodológica usada para compreender como as pessoas realizam suas atividades na aplicação. Para isso, é necessário identificar os objetivos, ações, interações e os desafios enfrentados durante o uso do site. Essa compreensão é fundamental para o desenvolvimento de interfaces mais eficientes, intuitivos e amigáveis. As 6 tarefas analisadas do [OpenStreetMap](https://www.openstreetmap.org/) foram: 
 
-## Etapas
-No geral, para uma boa análise é preciso seguir as seguintes etapas:
+<style>
+  .etiqueta-container {
+    /* display: flex;
+    flex-wrap: wrap; */
+    justify-content: space-between;
+    column-count: 3;
 
-1. **Identificação do objetivo:** Determinar qual é a tarefa principal que será analisada e compreender o propósito geral por trás dessa tarefa.
-2. **Observação e coleta de dados:** Observar e registrar as ações dos usuários enquanto realizam a tarefa, no caso por meio dos [questionários](perfil_usuario.md) e [perfil do usuário](perfil_usuario.md).
-3. **Decomposição da tarefa:** Dividir a tarefa em etapas menores e mais gerenciáveis, a fim de entender a sequência de ações e interações envolvidas.
-4. **Análise das interações e fluxo de trabalho:** Analisar como as diferentes etapas se relacionam, identificando dependências, restrições e possíveis problemas de fluxo de trabalho.
-5. **Identificação de pontos fortes e pontos fracos:** Identificar os aspectos positivos e negativos da execução da tarefa, como eficiência, usabilidade, dificuldades ou confusões encontradas pelos usuários. E possíveis recomendações.
+  }
 
+  .etiqueta {
+    background-color: white;
+    border: 2px solid rgba(0, 128, 0, 0.6);
+    border-radius: 20px;
+    box-shadow: 1px 1px 3px rgba(0, 0, 139, 0.1);
+    padding: 5px;
+    width: 300px;
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 13px;
+    font-weight: bold;
+    display: block;
+  }
+
+  .etiqueta a {
+    color: blue;
+    text-decoration: none;
+  }
+</style>
+
+<div class="etiqueta-container">
+    <a class="etiqueta" href="#T3">Adicionar uma nova estrada</a>
+    <a class="etiqueta" href="#T2">Buscar locais desejados</a>
+    <a class="etiqueta" href="#T1">Cadastrar ponto de referência</a>
+    <a class="etiqueta" href="#T4">Compartilhar localização em tempo real</a>
+    <a class="etiqueta" href="#T5">Explorar local turístico</a>
+    <a class="etiqueta" href="#T6">Melhorar o site com rotas personalizadas</a>
+</div>
 
 ## Metodologias 
-Para a análise da principal tarefa do OpenStreetMap, "Cadastrar novos pontos de referência", utilizamos a metodologia Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis).
-<!-- Para fazer uso das principais metodologias de análise de tarefas, selecionamos as tarefas "Cadastrar novos pontos de referência", "Procurar rotas" e Contribuir com o desenvolvimento do site#, as tarefas mais utilizadas pelos usuários. As metodologias mais usadas são: -->
+No geral, é preciso determinar qual é a tarefa e compreeender o propósito geral por trás dela e subdividir em tarefas menores. Para determinar as tarefas, utilizamos as informações do [questionários, perfil do usuário](perfil_usuario.md) e dos [cenários](cenarios.md) realizados. 
 
-<!-- - Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis)
-- GOMS	(Goals,	Operators,	Methods, e	Selection	Rules) -->
-<!-- - ConcurTaskTrees (CTT) -->
+Foram escolhidas as meltodologias mais usadas para a atividade, as quais são:
+
+- <a href="#1">Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis)</a>
+- <a href="#2">GOMS	(Goals,	Operators,	Methods, e	Selection	Rules)</a>
+- <a href="#3">ConcurTaskTrees (CTT)</a>
 
 
-### 1. Análise Hierárquica de Tarefas (HTA)
+<div id="1"></div>
+### 1. HTA
 A HTA ajuda a identificar a estrutura hierárquica das tarefas, decompondo-as em sub-tarefas menores e mais gerenciáveis. Isso permite uma compreensão mais detalhada de como as tarefas são executadas, identificando as relações entre as sub-tarefas e ajudando a identificar gargalos e oportunidades de melhoria.
 
 A análise hierárquica de tarefas possui os seguintes elementos:
@@ -34,7 +64,9 @@ A análise hierárquica de tarefas possui os seguintes elementos:
 - **Plano**: O conjunto de subobjetivos de um objetivo e suas relações consiste em um plano;
 - **Operação**: Circunstâncias de ativação do objetivo (_input_ ou entrada), atividades ou ações (_actions_) para alcançá-lo e condições que indicam seu atingimento (_feedback_).
 
-A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e por um diagrama (Figura 2). No segundo caso, utiliza-se a notação representada na Figura 1.
+As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T1">"Cadastrar novos pontos de referência"</a> e <a href="#T2">"Buscar locais desejados"</a>. Esses formam os usos mais apontados pelos usuário, por meio do [formulário](perfil_usuario.md) usado para construir o perfil do usuário.
+
+A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2) e por seu respectivo diagrama (Figura 2 e 3). Utiliza-se a notação representada na Figura 1.
 
 ![Elementos do diagrama](./../assets/analise_requisitos/hta-1.png)
 
@@ -42,8 +74,8 @@ A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e
 <p> Figura 1: Elementos do diagrama (Fonte: [1]).</p>
 </div>
 
-#### **Análise da tarefa: Cadastrar novos pontos de referência**
-
+<div id="T1"></div>
+#### **Tarefa 1 - Cadastrar ponto de referência**
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
@@ -64,8 +96,8 @@ A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e
 <p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" <br/> (Fonte: autor, 2022).</p>
 </div>
 
-
-#### **Análise da tarefa: Buscar locais desejados**
+<div id="T2"></div>
+#### **Tarefa 2 - Buscar locais desejados**
 
 | Objetivos/Operações | Problemas e recomendações |
 | - | - |
@@ -80,38 +112,20 @@ A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e
 ![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados"](./../assets/analise_requisitos/diagrama2.png)
 
 <div style="text-align: center">
-<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" <br/> (Fonte: autor, 2023).</p>
+<p> Figura 3: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/> (Fonte: autor, 2023).</p>
 </div>
 
-<!-- ### 2. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
+<div id="2"></div>
+### 2. GOMS
 
 O GOMS visa modelar o desempenho humano em interações com sistemas computacionais. Ele analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos cognitivos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a carga cognitiva e tornando as tarefas mais eficientes e fáceis de serem executadas.
 
-    #### Citar autores dos livros indicados
+As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a> e <a href="#T4">"Compartilhamento de localização em tempo real"</a>. As quais correspondem aos [Cenários](cenarios.md) 1 e 2.
 
-#### Análise da tarefa: Procurar rotas
+<div id="T3"></div>
 
-O modelo GOMS foi utilizado para analisar a tarefa "Procurar rotas", sendo o escopo de avaliação a situação em que um usuário experiente com a plataforma deseja aprender os conceitos iniciais de xadrez. -->
-
-<!-- GOAL 0: aprender a jogar xadrez
-<p style="padding-left: 1vw">GOAL 1: encontrar a seção de estudo da plataforma</p>
-<p style="padding-left: 3vw">OP. 1.1: posicionar o cursor do mouse sobre o menu aprender</p>
-<p style="padding-left: 3vw">OP. 1.2: clicar no menu "básicos do xadrez" </p>
-<p style="padding-left: 1vw">GOAL 2: selecionar o assunto para estudar </p>
-<p style="padding-left: 3vw">OP. 2.1: girar a roda do mouse para a modalidade desejada </p>
-<p style="padding-left: 3vw">OP. 2.2: clicar na opção desejada </p>
-<p style="padding-left: 1vw">GOAL 3: estudar o assunto escolhido </p>
-<p style="padding-left: 3vw">OP. 3.1: fazer a leitura do tutorial à direita da página </p>
-<p style="padding-left: 3vw">OP. 3.2: movimentar as peças no tabuleiro clicando nelas e nas posições de destino </p> -->
-
-<!-- ### 3. ConcurTaskTrees (CTT)
-    #### Explicar e a metodologia e a tarefa z
-
-#### Análise da tarefa: Contribuir com o desenvolvimento do site
-    #### Usar a metodologia na tarefa z -->
-
-### Buscar locais desejados
-```
+#### Tarefa 3 - Adicionar uma nova estrada
+<!-- ```
 GOAL 0: Buscar locais desejados 
     GOAL 1: Navegar até a barra de pesquisa do OpenStreetMap
         OP 1.1: Mover o cursor para a barra de pesquisa
@@ -121,7 +135,19 @@ GOAL 0: Buscar locais desejados
         OP 3.1: Clicar no local correto da lista
     GOAL 4: Obter informações sobre o ponto turístico
         OP 4.1: Clicar no ponto turístico para abrir os detalhes
-```
+``` -->
+<div id="T4"></div>
+
+#### Tarefa 4 - Compartilhar localização em tempo real
+
+
+<div id="3"></div>
+### 3. CTT
+<!-- Adicionar explicação sobre a metodologia -->
+As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T5">"Exploração turística utilizando o OpenStreetMap"</a> e <a href="#T6">"Melhoria do OpenStreetMap com recursos de planejamento de rotas personalizadas"</a>. As quais correspondem aos [Cenários](cenarios.md) 3 e 4.
+
+#### Tarefa 5 - Explorar local turístico
+#### Tarefa 6 - Melhorar o site com rotas personalizadas
 
 ## Bibliografia
 
@@ -131,4 +157,4 @@ GOAL 0: Buscar locais desejados
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 07/05/2023 |        08/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)|
-| 19/05/2023 |        20/05/2023        |  2.0   | Correção do documento | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
+| 19/05/2023 |        20/05/2023        |  2.0   | Correção do documento | [Raquel](https://github.com/raqueleucaria) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
