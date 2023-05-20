@@ -125,17 +125,25 @@ As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a h
 <div id="T3"></div>
 
 #### Tarefa 3 - Adicionar uma nova estrada
-<!-- ```
-GOAL 0: Buscar locais desejados 
-    GOAL 1: Navegar até a barra de pesquisa do OpenStreetMap
-        OP 1.1: Mover o cursor para a barra de pesquisa
-    GOAL 2: Digitar o nome do local desejado 
-        OP 2.1: Digitar o nome usando o teclado
-    GOAL 3: Selecionar o local correto na lista de resultados da pesquisa
-        OP 3.1: Clicar no local correto da lista
-    GOAL 4: Obter informações sobre o ponto turístico
-        OP 4.1: Clicar no ponto turístico para abrir os detalhes
-``` -->
+```
+GOAL 0: Adicionar uma nova estrada
+    GOAL 1: Selecionar edição 
+        OP 1.1: Clicar no botão editar
+    GOAL 2: Selecionar linha 
+        OP 2.1: Clicar no botão linha
+    GOAL 3: Selecionar edição 
+        OP 3.1: Clicar no ponto onde começa a estrada
+        OP 3.2: Clicar nos demais pontos que ligam a estrda
+        OP 3.3: Apertar ESC ou clique sobre o último ponto para finalizar
+    GOAL 4: Selecione o tipo de elemento
+        OP 4.1: Clique na pasta vias principais ou secundárias
+        OP 4.2: Clique no tipo de recurso desejado
+    GOAL 5: Preencha as informações da estrada
+        OP 5.1: Clique nos espaços que deseja preencher
+        OP 5.2: Digite a informação
+    GOAL 6: Salve os dados da estrada
+        OP 6.1: Clique no botão salvar ou aperte CTRL+S
+``` 
 <div id="T4"></div>
 
 #### Tarefa 4 - Compartilhar localização em tempo real
