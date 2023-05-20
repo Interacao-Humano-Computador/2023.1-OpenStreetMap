@@ -51,4 +51,4 @@ Dada a avaliação realizada, deve se ter registrado os problemas encontrados, c
 ## Histórico de Versão
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
-| 19/05/2023 |        20/05/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Caetano](https://github.com/caeslucio) |
+| 19/05/2023 |        20/05/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Guilherme](https://github.com/guilhermekishimoto) |
