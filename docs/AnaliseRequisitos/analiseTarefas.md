@@ -6,11 +6,17 @@ A análise de tarefas é uma abordagem sistemática e metodológica usada para c
 
 <style>
   .etiqueta-container {
-    /* display: flex;
-    flex-wrap: wrap; */
-    justify-content: space-between;
-    column-count: 3;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
 
+  .margem{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    padding: 3px;
+    margin: 1px;
   }
 
   .etiqueta {
@@ -22,9 +28,8 @@ A análise de tarefas é uma abordagem sistemática e metodológica usada para c
     width: 300px;
     margin-bottom: 10px;
     text-align: center;
-    font-size: 13px;
+    font-size: 14px;
     font-weight: bold;
-    display: block;
   }
 
   .etiqueta a {
@@ -34,21 +39,21 @@ A análise de tarefas é uma abordagem sistemática e metodológica usada para c
 </style>
 
 <div class="etiqueta-container">
-    <a class="etiqueta" href="#T3">Adicionar uma nova estrada</a>
-    <a class="etiqueta" href="#T2">Buscar locais desejados</a>
-    <a class="etiqueta" href="#T1">Cadastrar ponto de referência</a>
-    <a class="etiqueta" href="#T4">Compartilhar localização em tempo real</a>
-    <a class="etiqueta" href="#T5">Explorar local turístico</a>
+    <div class="margem"><a class="etiqueta" href="#T3">Adicionar uma nova estrada</a></div>
+    <div class="margem"><a class="etiqueta" href="#T2">Buscar locais desejados</a></div>
+    <div class="margem"><a class="etiqueta" href="#T1">Cadastrar ponto de referência</a></div>
+    <div class="margem"><a class="etiqueta" href="#T4">Compartilhar localização em tempo real</a></div>
+    <div class="margem"><a class="etiqueta" href="#T5">Explorar local turístico</a></div>
 </div>
 
 ## Metodologias 
 No geral, é preciso determinar qual é a tarefa e compreeender o propósito geral por trás dela e subdividir em tarefas menores. Para determinar as tarefas, utilizamos as informações do [questionários, perfil do usuário](perfil_usuario.md) e dos [cenários](cenarios.md) realizados. 
 
-Foram escolhidas as meltodologias mais usadas para a atividade, as quais são:
+Foram escolhidas as metodologias mais usadas para a atividade, as quais são:
 
 - <a href="#1">Análise	Hierárquica	de	Tarefas	(HTA	– Hierarchical Task Analysis)</a>
 - <a href="#2">GOMS	(Goals,	Operators,	Methods, e	Selection	Rules)</a>
-- <a href="#3">ConcurTaskTrees (CTT)</a>
+<!-- - <a href="#3">ConcurTaskTrees (CTT)</a> -->
 
 
 <div id="1"></div>
@@ -85,13 +90,13 @@ A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2)
 | 2.1 Preencher as informações sobre o ponto de referência |  | |
 | 2.2 Salvar as informações sobre o ponto de referência |  | |
 <div style="text-align: center">
-<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" <br/>(Fonte: autor, 2022).</p>
+<p> Tabela 1: Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" (Fonte: Raquel, 2022).</p>
 </div>
 
 ![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência"](./../assets/analise_requisitos/diagrama.png)
 
 <div style="text-align: center">
-<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" <br/> (Fonte: autor, 2022).</p>
+<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" (Fonte: Raquel, 2022).</p>
 </div>
 
 <div id="T2"></div>
@@ -104,12 +109,12 @@ A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2)
 | 1.1  Digitar o nome do local desejado | **input**: Digitar o nome do local desejado <br/> **feedback**: Resultados da pesquisa| |
 | 2. Selecionar o local correto na lista de resultados da pesquisa | **input**: Selecionar o local correto na lista de resultados da pesquisa <br> **feedback**: Informações detalhadas sobre o local | |
 <div style="text-align: center">
-<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/>(Fonte: autor, 2023).</p>
+<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" (Fonte: Guilherme, 2023).</p>
 </div>
 
 <div style="text-align: center">
 <img src="../../assets/analise_requisitos/diagrama2.png" width=500px></img>
-<p> Figura 3: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/> (Fonte: autor, 2023).</p>
+<p> Figura 3: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" (Fonte: Guilherme, 2023).</p>
 </div>
 
 <div id="2"></div>
@@ -119,7 +124,7 @@ O GOMS analisa as metas dos usuários, os operadores disponíveis, os métodos s
 
 <!-- Explicar melhor -->
 
-A tarefas escolhida para ser analisada com esta metodologia foi a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a>, correspondente ao [Cenários](cenarios.md) 1.
+A tarefas escolhida para ser analisada com esta metodologia foi a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a>, correspondente ao [Cenários](cenarios.md) 1, 2 e 3.
 
 <div id="T3"></div>
 
@@ -143,21 +148,53 @@ GOAL 0: Adicionar uma nova estrada
     GOAL 6: Salve os dados da estrada
         OP 6.1: Clique no botão salvar ou aperte CTRL+S
 ``` 
-
-
+<div style="text-align: center">
+<p> Código 1: GOMS - Tarefa 3 (Fonte: Raquel, 2023).</p>
+</div>
+<!-- 
 <div id="3"></div>
 ### 3. CTT
-<!-- Adicionar explicação sobre a metodologia -->
-As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T4">"Compartilhar localização em tempo real"</a> e <a href="#T5">"Explorar local turístico"</a>. As quais correspondem aos [Cenários](cenarios.md) 2 e 3.
+Adicionar explicação sobre a metodologia 
+As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T4">"Compartilhar localização em tempo real"</a> e <a href="#T5">"Explorar local turístico"</a>. As quais correspondem aos [Cenários](cenarios.md) 2 e 3. -->
 
 <div id="T4"></div>
 
 #### Tarefa 4 - Compartilhar localização em tempo real
+```
+GOAL 0: Compartilhar localização em tempo real
 
+    GOAL 1: Exibir sua localização
+        OP 1.1: Clicar no botão de exibir localização
+    GOAL 2: Abre a opçpão de compartilhamento
+        OP 2.1: Clicar no botão de compartilhar localização
+    GOAL 3: Selecionar modo de compartilhamento 
+        OP 3.1: Clicar nas opções desejada (links, Geo Uri ou Imagem...)
+        OP 3.2: Clicar no botão baixar para baixar a imagem ou copie o link desejado
+``` 
+<div style="text-align: center">
+<p> Código 2: GOMS - Tarefa 4 (Fonte: Raquel, 2023).</p>
+</div>
 <div id="T5"></div>
 
 #### Tarefa 5 - Explorar local turístico
-
+```
+GOAL 0: Explorar local turístico
+    GOAL 1: Navegar até a barra de pesquisa do OpenStreetMap
+        OP 1.1: Mover o cursor para a barra de pesquisa
+    GOAL 2: Digitar o nome do local turístico 
+        OP 2.1: Digitar o nome usando o teclado
+    GOAL 3: Selecionar o local correto na lista de resultados da pesquisa
+        OP 3.1: Clicar no local correto da lista
+    GOAL 4: Aproxime para consultar o local
+        OP 4.1: Role o scroll do mouse para cima até poder ver os elementos
+    GOAL 5: Selecionar o botão consultar elementos
+        OP 5.1: Clique nos botão consultar elementos que é último da lateral direita
+    GOAL 6: Selecione os elementos no mapa
+        OP 6.1: Clique nos elementos e obtenha mais informações sobre o local turístico
+```
+<div style="text-align: center">
+<p> Código 3: GOMS - Tarefa 5 (Fonte: Raquel, 2023).</p>
+</div>
 ## Bibliografia
 
 [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
