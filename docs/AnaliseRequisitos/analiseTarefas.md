@@ -39,7 +39,6 @@ A análise de tarefas é uma abordagem sistemática e metodológica usada para c
     <a class="etiqueta" href="#T1">Cadastrar ponto de referência</a>
     <a class="etiqueta" href="#T4">Compartilhar localização em tempo real</a>
     <a class="etiqueta" href="#T5">Explorar local turístico</a>
-    <a class="etiqueta" href="#T6">Melhorar o site com rotas personalizadas</a>
 </div>
 
 ## Metodologias 
@@ -68,9 +67,8 @@ As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a h
 
 A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2) e por seu respectivo diagrama (Figura 2 e 3). Utiliza-se a notação representada na Figura 1.
 
-![Elementos do diagrama](./../assets/analise_requisitos/hta-1.png)
-
 <div style="text-align: center">
+<img src="../../assets/analise_requisitos/hta-1.png" width=600px></img>
 <p> Figura 1: Elementos do diagrama (Fonte: [1]).</p>
 </div>
 
@@ -109,18 +107,19 @@ A análise hierárquica de tarefas foi feita por meio das tabelas (Tabela 1 e 2)
 <p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/>(Fonte: autor, 2023).</p>
 </div>
 
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados"](./../assets/analise_requisitos/diagrama2.png)
-
 <div style="text-align: center">
+<img src="../../assets/analise_requisitos/diagrama2.png" width=500px></img>
 <p> Figura 3: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/> (Fonte: autor, 2023).</p>
 </div>
 
 <div id="2"></div>
 ### 2. GOMS
 
-O GOMS visa modelar o desempenho humano em interações com sistemas computacionais. Ele analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos cognitivos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a carga cognitiva e tornando as tarefas mais eficientes e fáceis de serem executadas.
+O GOMS analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a complexidade e tornando as tarefas mais eficientes e fáceis de serem executadas.
 
-As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a> e <a href="#T4">"Compartilhamento de localização em tempo real"</a>. As quais correspondem aos [Cenários](cenarios.md) 1 e 2.
+<!-- Explicar melhor -->
+
+A tarefas escolhida para ser analisada com esta metodologia foi a de <a href="#T3">"Adicionar uma nova estrada no OpenStreetMap"</a>, correspondente ao [Cenários](cenarios.md) 1.
 
 <div id="T3"></div>
 
@@ -144,18 +143,20 @@ GOAL 0: Adicionar uma nova estrada
     GOAL 6: Salve os dados da estrada
         OP 6.1: Clique no botão salvar ou aperte CTRL+S
 ``` 
-<div id="T4"></div>
-
-#### Tarefa 4 - Compartilhar localização em tempo real
 
 
 <div id="3"></div>
 ### 3. CTT
 <!-- Adicionar explicação sobre a metodologia -->
-As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T5">"Exploração turística utilizando o OpenStreetMap"</a> e <a href="#T6">"Melhoria do OpenStreetMap com recursos de planejamento de rotas personalizadas"</a>. As quais correspondem aos [Cenários](cenarios.md) 3 e 4.
+As tarefas escolhidas para serem analisadas com esta metodologia foram a de <a href="#T4">"Compartilhar localização em tempo real"</a> e <a href="#T5">"Explorar local turístico"</a>. As quais correspondem aos [Cenários](cenarios.md) 2 e 3.
+
+<div id="T4"></div>
+
+#### Tarefa 4 - Compartilhar localização em tempo real
+
+<div id="T5"></div>
 
 #### Tarefa 5 - Explorar local turístico
-#### Tarefa 6 - Melhorar o site com rotas personalizadas
 
 ## Bibliografia
 
