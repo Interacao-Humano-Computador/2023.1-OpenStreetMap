@@ -65,24 +65,6 @@ A análise hierárquica de tarefas foi feita por meio de uma tabela (Tabela 1) e
 </div>
 
 
-#### **Análise da tarefa: Buscar locais desejados**
-
-| Objetivos/Operações | Problemas e recomendações |
-| - | - |
-| 0. Buscar locais (1>2)| **input**:  Acesso a página inicial;<br/> **feedback**: tela de pesquisa e mapa geral  <br/>  |
-| 1.   Navegar até a barra de pesquisa (1>2) | **input**:  Acesso à barra de pesquisa <br> **feedback**:  Tela de pesquisa e mapa geral|
-| 1.1  Digitar o nome do local desejado | **input**: Digitar o nome do local desejado <br/> **feedback**: Resultados da pesquisa| |
-| 2. Selecionar o local correto na lista de resultados da pesquisa | **input**: Selecionar o local correto na lista de resultados da pesquisa <br> **feedback**: Informações detalhadas sobre o local | |
-<div style="text-align: center">
-<p> Tabela 2: Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados" <br/>(Fonte: autor, 2023).</p>
-</div>
-
-![Diagrama da Análise Hierárquica de Tarefas para o objetivo "Buscar locais desejados"](./../assets/analise_requisitos/diagrama2.png)
-
-<div style="text-align: center">
-<p> Figura 2: Diagrama da Análise Hierárquica de Tarefas para o objetivo "Cadastrar novos pontos de referência" <br/> (Fonte: autor, 2023).</p>
-</div>
-
 <!-- ### 2. Objetivos, Operadores, Métodos e Regras de Seleção (GOMS)
 
 O GOMS visa modelar o desempenho humano em interações com sistemas computacionais. Ele analisa as metas dos usuários, os operadores disponíveis, os métodos seguidos e as regras de seleção utilizadas. Essa análise permite identificar os passos cognitivos e as ações necessárias para realizar uma tarefa, bem como possíveis gargalos cognitivos. Com base nessas informações, os projetistas podem otimizar o design dos sistemas, simplificando as interações, reduzindo a carga cognitiva e tornando as tarefas mais eficientes e fáceis de serem executadas.
@@ -110,18 +92,7 @@ O modelo GOMS foi utilizado para analisar a tarefa "Procurar rotas", sendo o esc
 #### Análise da tarefa: Contribuir com o desenvolvimento do site
     #### Usar a metodologia na tarefa z -->
 
-### Buscar locais desejados
-```
-GOAL 0: Buscar locais desejados 
-    GOAL 1: Navegar até a barra de pesquisa do OpenStreetMap
-        OP 1.1: Mover o cursor para a barra de pesquisa
-    GOAL 2: Digitar o nome do local desejado 
-        OP 2.1: Digitar o nome usando o teclado
-    GOAL 3: Selecionar o local correto na lista de resultados da pesquisa
-        OP 3.1: Clicar no local correto da lista
-    GOAL 4: Obter informações sobre o ponto turístico
-        OP 4.1: Clicar no ponto turístico para abrir os detalhes
-```
+
 
 ## Bibliografia
 
@@ -131,4 +102,3 @@ GOAL 0: Buscar locais desejados
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 07/05/2023 |        08/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)|
-| 19/05/2023 |        20/05/2023        |  2.0   | Correção do documento | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
