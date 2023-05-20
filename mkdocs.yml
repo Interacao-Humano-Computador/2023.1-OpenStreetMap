@@ -80,6 +80,12 @@ nav:
     - Princípios Gerais do Projeto: AnaliseRequisitos/principiosGerais.md
     - Metas de Usabilidade: AnaliseRequisitos/Metas_usabilidade.md
     - Guia de estilo: AnaliseRequisitos/guia-de-estilo.md
+  - Design, Avaliação e Desenvolvimento:
+    - 1° Nível:
+      - Análise de Tarefas:
+        - DesignAvaliação/analisetarefas/planejamento_relato.md
+      - StoryBoard:
+        - DesignAvaliação/storyboard/planjamento_relato.md
   - Atas:
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md

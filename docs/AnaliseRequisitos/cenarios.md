@@ -100,9 +100,9 @@ Dessa forma, será apresentado nas tabelas 1 a 6 abaixo os cenários realizados 
 
 ## Bibliografia
 
- Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
-[1] SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
+> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
 .
 Edição, Editora Campus, 2010
 
