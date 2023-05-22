@@ -11,6 +11,9 @@ Durante o desenvolvimento da disciplina, ocorrerão entregas com seus respectivo
 ## Apresentação 3
 [Link da Apresentação](https://youtu.be/9YU1kB1vc1c)
 
+## Apresentação 4
+[Link da Apresentação](https://youtu.be/zf0hI4BUHZo)
+
 <br>
 <br>
 <br>
