@@ -4,12 +4,15 @@
 
 Após as análises efetuadas pelos integrantes da equipe de pesquisa, que visavam coletar informações sobre os usuários que utilizavam o site, as características da plataforma, o seu guia de estilo, e dentre outros aspectos do sistema, agora deve-se identificar como o usuário real interage com a site. Deste modo, iremos executar um roteiro planejado e orientado com o usuário convidado, e perceber de fato as dificuldades, facilidades e sentimentos que o usuário possui ao operar o sistema. Após essa tarefa, almejamos obter informações, que serão descritas em um documento e verificadas, para que assim então seja possível fomentar uma proposta de melhoria à plataforma.
 
+<div id="MetodologiaDECIDE"></div>
+
 ## **Metodologia**
 
 Para esse planejamento, será utilizado como base o Framework DECIDE, devido ele abranger todas as principais etapas do processo de design de interação, desde a fase inicial de descoberta e entendimento das necessidades dos usuários até a entrega e avaliação do sistema. 
 
 Como ponto de partida, é importante definir como ele é estruturado. No caso, cada letra da sigla em inglês representa uma etapa do planejamento, como se observa a seguir na <i><a href=#T1>Tabela 1</a></i>.
 
+<br>
 <br>
 
 <div id="T1"></div>
@@ -25,7 +28,7 @@ Como ponto de partida, é importante definir como ele é estruturado. No caso, c
 |   D   |             Decidir como lidar com as questões éticas              |
 |   E   | (*Evaluate*) Interpretar e apresentar os dados da avaliação de IHC |
 
-Tabela 1 - Metodologia DECIDE
+Tabela 1 - Metodologia DECIDE (Fonte: Autor, 2023)
 
 </center>
 
@@ -39,6 +42,8 @@ Para servir como base da pesquisa e também com o intuito de guiar o planejament
 Para a primeira etapa do planejamento, reforçaremos os objetivos almejados para esse artefato. O intuito desta avaliação é aprofundar ainda mais sobre a experiência do usuário durante a utilização do sistema, dando assim um enfoque nos usuários para a validação e complementação das análises de tarefas a ser realizada pela equipe.
 
 Algumas das informações que podemos trazer, é de permitir ideias e alternativas de design, problemas de interface e interação, e permitir que os usuários possam aproveitar melhor os serviços da plataforma, fazendo assim que o serviço seja mais  relevante para aqueles que o utilizam, e consequentemente para possíveis novos usuários.
+
+<div id="explorarPerguntas"></div>
 
 ## **E - Explorar Perguntas**
 
@@ -58,9 +63,12 @@ Para a entrevista podemos detalhar como uma conversa guiada com um roteiro de pe
 
 ## **I - Preparação**
 
-Para a realização da entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as pesonas. Para ser executada a entrevista, será utilizado um notebook com conexão com a internet. Os únicos integrantes necessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.
+Para a realização da entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as personas. Para ser executada a entrevista, será utilizado um notebook com conexão com a internet. Os únicos integrantes necessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.
 
-Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi definido uma tabela das principais tarefas do sistema, para o usuário executar no site, sendo avaliado sua interação com o sistema, assim como estão descritas na *<a href=#T2>Tabela 2</a>*. Foram utilizados as informações coletadas na [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas) feita anteriormente, usando as metodologias de Análise Hierárquica de	Tarefas	(HTA – Hierarchical Task Analysis) e GOMS (Goals, Operators, Methods, e Selection Rules).
+Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi definido uma tabela das principais tarefas do sistema para o usuário executar no site, sendo avaliado sua interação com o sistema, assim como estão descritas na <a href=#T2>Tabela 2</a>. Foram utilizados as informações coletadas na [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas) feita anteriormente, usando as metodologias de Análise Hierárquica de	Tarefas	(HTA – Hierarchical Task Analysis) e GOMS (Goals, Operators, Methods, e Selection Rules).
+
+<br>
+<br>
 
 <div id="T2"></div>
 
@@ -75,16 +83,22 @@ Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi def
 | 5 | Explorar local turístico |
 
 
-Tabela 2: Tarefas que podem ser executadas pelo usuário (Fonte: <a href="https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas">Análise de Tarefas</a>, 2023)
+<a href=#T2>Tabela 2</a>: Tarefas que podem ser executadas pelo usuário (Fonte: <a href="https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas">Análise de Tarefas</a>, 2023)
+
+
+<br>
+
 
 </center>
 
 O local, data e horário da entrevista será analisado de acordo com a disponibilidade do convidado, sendo possível ser presencial ou por meio de vídeo-chamadas, deste modo não tendo ainda uma previsão fixa para ser inserida no cronograma.
 
-Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T3>Tabela 3</a></i>. A sua importância e motivação estão explicitados na sessão <a href=#DECIDE.1>E - Explorar Perguntas</a>.
+Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T3>Tabela 3</a></i>. A sua importância e motivação estão explicitados na sessão <i><a href=#explorarPerguntas>E - Explorar Perguntas</a></i>.
+
+<br>
+<br>
 
 <div id="T3"></div>
-
 
 <center>
 
@@ -93,7 +107,7 @@ Para a execução da entrevista, foi criado um roteiro padronizado para todos os
 | 1 | Qual a sua idade? |  |
 | 2 | Qual o seu nível de formação acadêmica atual? | [ ]Graduação [ ]Mestrado [ ]  Doutorado |
 | 3 | Com qual frequência você costuma utilizar mapas online? | [ ]Muita [ ]Média [ ]Pouca |
-| 4 | Você sente a nescessidade de criar novas rotas, pontos de refereñcia, etc? | [ ]Muita [ ]Média [ ]Pouca |
+| 4 | Você sente a necessidade de criar novas rotas, pontos de referência, etc? | [ ]Muita [ ]Média [ ]Pouca |
 | 5 | De acordo com a tarefa 1, qual foi sua maior dificuldade ao executá-la? | Dissertativa |
 | 6 | De acordo com a tarefa 2, qual foi sua maior dificuldade ao executá-la? | Dissertativa |
 | 7 | De acordo com a tarefa 3, qual foi sua maior dificuldade ao executá-la? | Dissertativa |
@@ -102,20 +116,22 @@ Para a execução da entrevista, foi criado um roteiro padronizado para todos os
 | 10 | O sistema forneceu ajuda/orientação a você durante suas tarefas? | [ ]Sim [ ]Não [ ]Mais ou Menos |
 | 10 | O sistema é intuitivo em sua utilização? | [ ]Sim [ ]Não [ ]Mais ou Menos |
 | 11 | Você possui domínio total do site e de suas ferramentas? | [ ]Sim [ ]Não [ ]Mais ou Menos |
-| 13 | O sistema disponibilizou acessiblidade suficiente para você durante as tarefas? | [ ] Sim[ ] Não[ ] Mais ou Menos |
+| 13 | O sistema disponibilizou acessibilidade suficiente para você durante as tarefas? | [ ] Sim[ ] Não[ ] Mais ou Menos |
 | 14 | Quais as piores características do site? | Dissertativa |
 | 15 | Quais as melhores características do site? | Dissertativa |
 | 16 | Você acha que deveria ser melhorado algo no site em relação as tarefas feitas? | [ ] Sim[ ] Não |
 | 16.1 | Em qual tarefa? | [ ]1 [ ]2 [ ]3  [ ]4 [ ]5 |
 | 16.2 | O que você acha que deveria ser melhorado? | Dissertativa |
 
-<a href=#T3>Tabela 3</a>: Perguntas a serem executadas para a entrevista e Opções de resposta
+<a href=#T3>Tabela 3</a>: Perguntas a serem executadas para a entrevista e Opções de resposta (Fonte: autor, 2023).
 
 </center>
 
+<br>
+
 ## **D - Aspectos éticos**
 
-As questões éticas tratadas no projeto podem ser encontradas no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos), que serão tomados como base para a realização destas metodologias. No texto descritivo juntamente ao link enviado para entrevista, ou pessoalmente caso seja possível, estes aspectos serão esclarecidos para o entrevistado.
+As questões éticas tratadas no projeto podem ser encontradas no documento de [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos), que serão tomados como base para a realização destas metodologias. No texto descritivo enviado juntamente ao link para entrevista, ou pessoalmente caso seja possível, estes aspectos serão esclarecidos para o entrevistado.
 
 ## **E - Resultados**
 
@@ -131,7 +147,7 @@ Dessa forma, iremos fazer o relato dos resultados, incluindo os elementos també
 - uma lista dos problemas encontrados;
 - um planejamento para o reprojeto do sistema;
 
-Será realizado o processo de documentação, registro e compartilhamento de todos os resultados obtidos durante a avaliação. Isso permitirá que os dados estejam disponíveis para estudo e outros fins relacionados ao projeto. É importante assegurar que todos os resultados sejam devidamente registrados e documentados para garantir a integridade do processo e possibilitar análises futuras.
+Em adição a esses elementos, será realizado o processo de documentação, registro e compartilhamento de todos os resultados obtidos durante a avaliação. Isso permitirá que os dados estejam disponíveis para estudo e outros fins relacionados ao projeto. É importante assegurar que todos os resultados sejam devidamente registrados e documentados para garantir a integridade do processo e possibilitar análises futuras.
 
 
 ## **Bibliografias**
