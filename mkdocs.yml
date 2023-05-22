@@ -83,8 +83,8 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - 1° Nível:
       - Análise de Tarefas:
-        - Planejamento da Análise de Tarefas: DesignAvaliação/analisetarefas/planejamento_relato.md
-        # - Planejamento do Relato de Resultados: DesignAvaliação/analisetarefas/planejamento_analise_tarefa.md
+        - Planejamento da Análise de Tarefas: DesignAvaliação/analisetarefas/planejamento_analise_tarefa.md
+        - Planejamento do Relato de Resultados: DesignAvaliação/analisetarefas/planejamento_relato.md
       - StoryBoard: 
         - Planejamento da Avaliação do Storyboard: DesignAvaliação/storyboard/planejamento_storyboard.md
         - Planejamento do Relato de Resultados: DesignAvaliação/storyboard/planejamento_relato.md
