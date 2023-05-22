@@ -10,7 +10,7 @@ O objetivo principal desta avaliação do storyboard do OpenStreetMap é coletar
 
 ## Metodologia
 
-A metodologia selecionada para a avaliação do storyboard será por meio de entrevistas individuais com usuários do OpenStreetMap. Essas entrevistas permitirão uma compreensão mais aprofundada das experiências e percepções dos usuários sobre o storyboard. Ao conduzir as entrevistas, serão levadas em consideração questões [éticas](../Planejamento/Aspectos_Eticos.md). Abixo segue o termo de consentimento que será utilizado.
+A metodologia selecionada para a avaliação do storyboard será por meio de entrevistas individuais com usuários do OpenStreetMap. Essas entrevistas permitirão uma compreensão mais aprofundada das experiências e percepções dos usuários sobre o storyboard. Ao conduzir as entrevistas, serão levadas em consideração questões [éticas](../../Planejamento/Aspectos_Eticos.md). Abixo segue o termo de consentimento que será utilizado.
 
 ***Termo de Consentimento para Entrevistas e Pesquisas com Usuários***
 
@@ -80,7 +80,7 @@ Um storyboard é uma representação visual sequencial de uma história ou narra
 
 Na figura 1, podemos ver o storyboard de compartilhar localização.
 
-![storyboard1](../assets/storyboard/StoryBoard-Cenário2.png)
+![storyboard1](../../assets/storyboard/story.jpeg)
 <div style="text-align: center">
 <p> Figura 1: Storyboard compartilhar localização <br/>(Fonte: autor, 2023).</p>
 </div>
