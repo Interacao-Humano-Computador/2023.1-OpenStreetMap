@@ -7,9 +7,12 @@ Após as análises efetuadas pelos integrantes da equipe de pesquisa, que visava
 ## **Metodologia**
 
 Para esse planejamento, será utilizado como base o Framework DECIDE, devido ele abranger todas as principais etapas do processo de design de interação, desde a fase inicial de descoberta e entendimento das necessidades dos usuários até a entrega e avaliação do sistema. 
-Como ponto de partida, é importante definir como ele é estruturado. No caso, cada letra da sigla em inglês representa uma etapa do planejamento, como se observa a seguir na <i>Tabela 1</i>.
+
+Como ponto de partida, é importante definir como ele é estruturado. No caso, cada letra da sigla em inglês representa uma etapa do planejamento, como se observa a seguir na <i><a href=#T1>Tabela 1</a></i>.
 
 <br>
+
+<div id="T1"></div>
 
 <center>
 
@@ -35,23 +38,7 @@ Para servir como base da pesquisa e também com o intuito de guiar o planejament
 
 Para a primeira etapa do planejamento, reforçaremos os objetivos almejados para esse artefato. O intuito desta avaliação é aprofundar ainda mais sobre a experiência do usuário durante a utilização do sistema, dando assim um enfoque nos usuários para a validação e complementação das análises de tarefas que a ser realizada pela equipe.
 
-
-
-Podemos destacar os seguintes pontos como objetivos traçados para esta análise (<i>Tabela 2</i>):
-
-<center>
-
-| Nº|               Objetivos                   |Descrição|
-|:-:|                                       :--:|:--:|
-| 1 | Apropriação da tecnologia pelos usuários  ||
-| 2 | Ideias e alternativas de design           ||
-| 3 | Conformidade com um padrão                ||
-| 4 | Problemas na interface e interação        ||
-
-Tabela 2 - Objetivos
-</center>
-
-<div id="DECIDE.2"></div>
+Algumas das informações que podemos trazer, é de permitir ideias e alternativas de design, problemas de interface e interação, e permitir que os usuários possam aproveitar melhor dos serviços da plataforma, fazendo assim que o serviço seja mais  relevante para aqueles que o utilizam, e consequentemente possíveis novos usuários.Podemos destacar os seguintes pontos como objetivos traçados para esta análise.
 
 ## **E - Explorar Perguntas**
 
@@ -73,9 +60,9 @@ Para a entrevista podemos detalhar como uma conversa guiada com um roteiro de pe
 
 Para a realização da entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as pesonas. Para ser executada a entrevista, será utilizado um notebook com conexão com a internet. Os únicos integrantes necessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.
 
-Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi definido uma tabela das principais tarefas do sistema, para o usuário executar no site, sendo avaliado sua interação com o sistema, assim como estão descritas na *<a href=#T3>Tabela 3</a>*. Foram utilizados as informações coletadas na [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas) feita anteriormente, usando as metodologias de Análise Hierárquica de	Tarefas	(HTA – Hierarchical Task Analysis) e GOMS (Goals, Operators, Methods, e Selection Rules).
+Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi definido uma tabela das principais tarefas do sistema, para o usuário executar no site, sendo avaliado sua interação com o sistema, assim como estão descritas na *<a href=#T2>Tabela 2</a>*. Foram utilizados as informações coletadas na [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas) feita anteriormente, usando as metodologias de Análise Hierárquica de	Tarefas	(HTA – Hierarchical Task Analysis) e GOMS (Goals, Operators, Methods, e Selection Rules).
 
-<div id="T3"></div>
+<div id="T2"></div>
 
 <center>
 
@@ -87,15 +74,17 @@ Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi def
 | 4 | Compartilhar localização em tempo real |
 | 5 | Explorar local turístico |
 
-Tabela 3: Tarefas que podem ser executadas pelo usuário (Fonte: <a href="https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas">Análise de Tarefas</a>, 2023)
+
+Tabela 2: Tarefas que podem ser executadas pelo usuário (Fonte: <a href="https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas">Análise de Tarefas</a>, 2023)
 
 </center>
 
 O local, data e horário da entrevista será analisado de acordo com a disponibilidade do convidado, sendo possível ser presencial ou por meio de vídeo-chamadas, deste modo não tendo ainda uma previsão fixa para ser inserida no cronograma.
 
-Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T4>Tabela 4</a></i>. A sua importância e motivação estão explicitados na sessão <a href=#DECIDE.2>E - Explorar Perguntas</a>.
+Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T3>Tabela 3</a></i>. A sua importância e motivação estão explicitados na sessão <a href=#DECIDE.1>E - Explorar Perguntas</a>.
 
-<div id="T4"></div>
+<div id="T3"></div>
+
 
 <center>
 
@@ -130,7 +119,21 @@ As questões éticas tratadas no projeto podem ser encontradas no documento de [
 
 ## **E - Resultados**
 
+Conforme descrito por Simone Barbosa (2010), os resultados de uma avaliação IHC indicam tendências de problemas, e não uma certeza de que eles vão ocorrer, e também, o fato de não se encontrar problemas durante a avaliação, não significa necessariamente que o sistema tenha uma alta qualidade.
+
+Dessa forma, iremos fazer o relato dos resultados, incluindo os elementos também citados por Barbosa (2010), que são:
+
+- os objetivos e escopo da avaliação;
+- a forma como a avaliação foi realizada;
+- o número e o perfil de usuários e avaliadores que participaram da avaliação;
+- um sumário dos dados coletados, incluindo tabelas e gráficos;
+- um relato da interpretação e análise dos dados;
+- uma lista dos problemas encontrados;
+- um planejamento para o reprojeto do sistema;
+
 Será realizado o processo de documentação, registro e compartilhamento de todos os resultados obtidos durante a avaliação. Isso permitirá que os dados estejam disponíveis para estudo e outros fins relacionados ao projeto. É importante assegurar que todos os resultados sejam devidamente registrados e documentados para garantir a integridade do processo e possibilitar análises futuras.
+
+
 ## **Bibliografias**
 
 > BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador, 1ª Edição, Editora Campus, 2010.
@@ -139,6 +142,7 @@ Será realizado o processo de documentação, registro e compartilhamento de tod
 
 > interacao-humano-computador - 2022.2-Skoob. Disponível em: https://interacao-humano-computador.github.io/2022.2-Skoob/planejamentoAnalise/nivel1/planejamento-analise-tarefas/. Acesso em: 20 de maio de 2023.
 
+> interacao-humano-computador - 2022.1-Brasil-Channel. Disponível em: https://interacao-humano-computador.github.io/2022.1-Brasil-Channel/analiseDeTarefas/planejamentoAvaliacao/. Acesso em: 20 de maio de 2023.
 
 ## **Histórico de versão**
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                        Autor                                         |                   Revisor                   |
