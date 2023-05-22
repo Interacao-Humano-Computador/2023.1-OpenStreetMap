@@ -36,9 +36,9 @@ Para servir como base da pesquisa e também com o intuito de guiar o planejament
 
 ## **D - Objetivo**
 
-Para a primeira etapa do planejamento, reforçaremos os objetivos almejados para esse artefato. O intuito desta avaliação é aprofundar ainda mais sobre a experiência do usuário durante a utilização do sistema, dando assim um enfoque nos usuários para a validação e complementação das análises de tarefas que a ser realizada pela equipe.
+Para a primeira etapa do planejamento, reforçaremos os objetivos almejados para esse artefato. O intuito desta avaliação é aprofundar ainda mais sobre a experiência do usuário durante a utilização do sistema, dando assim um enfoque nos usuários para a validação e complementação das análises de tarefas a ser realizada pela equipe.
 
-Algumas das informações que podemos trazer, é de permitir ideias e alternativas de design, problemas de interface e interação, e permitir que os usuários possam aproveitar melhor dos serviços da plataforma, fazendo assim que o serviço seja mais  relevante para aqueles que o utilizam, e consequentemente possíveis novos usuários.Podemos destacar os seguintes pontos como objetivos traçados para esta análise.
+Algumas das informações que podemos trazer, é de permitir ideias e alternativas de design, problemas de interface e interação, e permitir que os usuários possam aproveitar melhor os serviços da plataforma, fazendo assim que o serviço seja mais  relevante para aqueles que o utilizam, e consequentemente para possíveis novos usuários.
 
 ## **E - Explorar Perguntas**
 
