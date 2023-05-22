@@ -42,7 +42,7 @@ Algumas das informações que podemos trazer, é de permitir ideias e alternativ
 
 ## **E - Explorar Perguntas**
 
-Para que as peguntas possam gerar informações utilizáveis para o projeto, temos que focar nossos esforços em analisar a frequência de uso de mapas online, a necessidade de criação de rotas e pontos de referência, a identificação das maiores dificuldades enfrentadas nas tarefas, assim como outros aspectos de usabilidade que estão mais especificados na <a href=#T4>Tabela 4</a>. Essas informações fornecerão uma visão abrangente das percepções e experiências dos participantes, permitindo orientar ajustes e melhorias no design e funcionalidade do site para atender às necessidades e expectativas dos usuários.
+Para que as peguntas possam gerar informações utilizáveis para o projeto, temos que focar nossos esforços em analisar a frequência de uso de mapas online, a necessidade de criação de rotas e pontos de referência, a identificação das maiores dificuldades enfrentadas nas tarefas, assim como outros aspectos de usabilidade que estão mais especificados na <a href=#T3>Tabela 3</a>. Essas informações fornecerão uma visão abrangente das percepções e experiências dos participantes, permitindo orientar ajustes e melhorias no design e funcionalidade do site para atender às necessidades e expectativas dos usuários.
 
 ## **C - Escolher métodos**
 
@@ -109,7 +109,7 @@ Para a execução da entrevista, foi criado um roteiro padronizado para todos os
 | 16.1 | Em qual tarefa? | [ ]1 [ ]2 [ ]3  [ ]4 [ ]5 |
 | 16.2 | O que você acha que deveria ser melhorado? | Dissertativa |
 
-<a href=#T4>Tabela 4</a>: Perguntas a serem executadas para a entrevista e Opções de resposta
+<a href=#T3>Tabela 3</a>: Perguntas a serem executadas para a entrevista e Opções de resposta
 
 </center>
 
