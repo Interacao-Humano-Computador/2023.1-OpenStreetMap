@@ -7,7 +7,7 @@
 ## <text style="background-color: #81BD6C; color:white">Gravação da reunião</text> 
 
 <audio controls autoplay muted>
-  <source src="./../../assets/reuniao07_ihc.m4a" type="audio/m4a">
+  <source src="/../../assets/atas/reuniao07_IHC.m4a" type="audio/mp3">
 </audio>
 <br>
 <br>
@@ -31,7 +31,7 @@ Definimos que a correção dos artefatos da Entrega 3 tem que ser feito até o d
 
 Para as modificações feitas, indicar no pull request da brach de correções da entrega quais artefatos foram modificados e colocar na descrição do pull request uma checklist indicando o artefato que precisa ser corrigido e cada um marcar o artefato que corrigiu.
 
-A analise de tarefas falta fazer a analise de mais 4 tarefas, e colocar mais um método de análise. Cada um dos integrantes é responsável pela análise de uma tarefa em dois métodos.
+A analise de tarefas falta fazer a analise de mais 4 tarefas, e colocar mais um método de análise. Cada um dos integrantes é responsável pela análise de uma tarefa .
 
 ## 2. Ajustes do Cronograma
 
