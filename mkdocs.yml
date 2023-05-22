@@ -83,10 +83,12 @@ nav:
   - Design, Avaliação e Desenvolvimento:
     - 1° Nível:
       - Análise de Tarefas:
-        - DesignAvaliação/analisetarefas/planejamento_relato.md
-      - StoryBoard:
-        - DesignAvaliação/storyboard/planjamento_relato.md
-  - Atas:
+        - Planejamento da Análise de Tarefas: DesignAvaliação/analisetarefas/planejamento_analise_tarefa.md
+        - Planejamento do Relato de Resultados: DesignAvaliação/analisetarefas/planejamento_relato.md
+      - StoryBoard: 
+        - Planejamento da Avaliação do Storyboard: DesignAvaliação/storyboard/planejamento_storyboard.md
+        - Planejamento do Relato de Resultados: DesignAvaliação/storyboard/planejamento_relato.md
+  - Atas: 
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md
     - Reunião 3: Atas/Reuniao03.md
