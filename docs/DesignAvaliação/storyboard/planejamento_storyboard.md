@@ -29,9 +29,13 @@ Assinatura do Participante ___________________________________
 Data _________
 
 
-## Recrutamento dos Participantes
+## Avaliadores e participantes
 
-Os participantes das entrevistas serão selecionados com base no perfil de usuário do OpenStreetMap. Os entrevistadores serão membros da equipe de IHC (Interação Humano-Computador), que com o auxílio do roteiro de perguntas irão conduzir as entrevistas.
+Os participantes das entrevistas serão selecionados com base no perfil de usuário do OpenStreetMap. Os entrevistadores serão membros da equipe de IHC (Interação Humano-Computador), que com o auxílio do roteiro de perguntas irão conduzir as entrevistas. Além disso, é necessário documentar sobre os participantes do estudo, como:
+
+- Numero de participantes 
+- Critério de escolha
+- Características relevantes
 
 ## Teste Piloto
 
@@ -41,23 +45,19 @@ Antes de iniciar a avaliação com os participantes reais, realizaremos um teste
 
 A seguir, na tabela 1, está o cronograma para as atividades que serão realizadas, sendo essas o teste piloto e as entrevistas com os participantes e personas.
 
-<center>
-
 | Data       | Hora  | Local           | Entrevistador | Entrevistado  | Tarefa  |
 |------------|-------|-----------------|---------------|---------------| ---------------|
 | 25/05/2023 | 19:30 | Online - Microsoft Teams | Paulo Victor        | Guilherme Kishimoto     | Teste piloto   |
 | 25/05/2023 | 20:00 | Online - Microsoft Teams | Paulo Victor          | Lucas Oliveira Martins  | Entrevista   |
 | 25/05/2023 | 20:00 | Online - Microsoft Teams | Raquel Eucaria         | Gabriel Souza Pereira    | Entrevista  |
 | 25/05/2023 | 20:00 | Online - Microsoft Teams | Daniel dos Santos         | João Pedro    | Entrevista  |
-</center>
+
 <div style="text-align: center">
 <p> Tabela 1: Cronograma <br/>(Fonte: autor, 2023).</p>
 </div>
 
 ## Roteiro de Entrevista
 Durante as entrevistas, será fornecida uma breve explicação do storyboard do OpenStreetMap, destacando sua função de representar a interface e o fluxo de interação do aplicativo. Também será explicado que o storyboard serve como base para avaliar a usabilidade e identificar áreas de melhoria. Em seguida, será mostrado os storyboards do OpenStreetMap e serão feitas as seguintes peguntas da tabela 2:
-
-<center>
 
 | ID       | Pergunta  | Objetivo 
 |------------|-------|-----------------|
@@ -69,7 +69,6 @@ Durante as entrevistas, será fornecida uma breve explicação do storyboard do 
 | P06 | O storyboard apresenta tarefas condizentes com a realidade? |  Verificar usabilidade das telas  |
 | P07 | O ator principal conseguiu encontrar e utilizar as funcionalidades necessárias para alcançar seu objetivo? |  Verificar a usabilidade e a eficácia do storyboard  |
 
-</center>
 <div style="text-align: center">
 <p> Tabela 2: Perguntas <br/>(Fonte: autor, 2023).</p>
 </div>
