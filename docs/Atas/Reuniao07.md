@@ -6,9 +6,15 @@
 
 ## <text style="background-color: #81BD6C; color:white">Gravação da reunião</text> 
 
+
 <audio controls autoplay muted>
-  <source src="/../../assets/atas/reuniao07_IHC.m4a" type="audio/mp3">
+  <source src="/docs/assets/atas/reuniao07_IHC.m4a" type="audio/mp3">
 </audio>
+
+Link para acesso ao arquivo da gravação 
+
+[\docs\assets\atas\reuniao07_IHC.m4a](/docs/assets/atas/reuniao07_IHC.m4a)
+
 <br>
 <br>
 
