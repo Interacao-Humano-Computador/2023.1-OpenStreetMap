@@ -89,7 +89,7 @@ nav:
       - StoryBoard: 
         - Planejamento da Avaliação do Storyboard: DesignAvaliação/storyboard/planejamento_storyboard.md
         - Planejamento do Relato de Resultados: DesignAvaliação/storyboard/planejamento_relato.md
-        - Relato do Resultados: DesignAvaliação\storyboard\relatoresultados.md
+        - Relato do Resultados: DesignAvaliação/storyboard/relatoresultados.md
     - 2° Nível:
       - Prototipação de Papel:
         - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento_Prototipopapel.md
