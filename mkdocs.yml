@@ -90,6 +90,9 @@ nav:
         - Planejamento da Avaliação do Storyboard: DesignAvaliação/storyboard/planejamento_storyboard.md
         - Planejamento do Relato de Resultados: DesignAvaliação/storyboard/planejamento_relato.md
         - Relato do Resultados: DesignAvaliação\storyboard\relatoresultados.md
+    - 2° Nível:
+      - Prototipação de Papel:
+        - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento_Prototipopapel.md
   - Atas: 
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md
