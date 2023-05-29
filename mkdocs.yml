@@ -85,11 +85,11 @@ nav:
       - Análise de Tarefas:
         - Planejamento da Análise de Tarefas: DesignAvaliação/analisetarefas/planejamento_analise_tarefa.md
         - Planejamento do Relato de Resultados: DesignAvaliação/analisetarefas/planejamento_relato.md
-        - Relato do Resultados: DesignAvaliação\analisetarefas\relatoresultado.md
+        - Relato dos Resultados: DesignAvaliação/analisetarefas/relatoresultado.md
       - StoryBoard: 
         - Planejamento da Avaliação do Storyboard: DesignAvaliação/storyboard/planejamento_storyboard.md
         - Planejamento do Relato de Resultados: DesignAvaliação/storyboard/planejamento_relato.md
-        - Relato do Resultados: DesignAvaliação\storyboard\relatoresultados.md
+        - Relato dos Resultados: DesignAvaliação/storyboard/relatoresultados.md
   - Atas: 
     - Reunião 1: Atas/Reuniao01.md
     - Reunião 2: Atas/Reuniao02.md
