@@ -25,9 +25,29 @@ Para a realização da avaliação do storyboard os principais diretrizes que se
 Todos esses pontos vão ligados as perguntas do roteiro.
 
 ## Avaliadores e participantes
-Para a realização da entrevista se teve a participação de um membro da equipe do projeto e de um usuário. Onde se teve apenas a participação de um usuário pela dificuldade de se ter contato com outros usuários. A tabela 1 apresenta mais sobre os participantes como também informações de data, hora e local.
+Antes de realizar a entrevista se teve um teste piloto, com o objetivo de se constatar que o conteúdo abordado e as perguntas a serem feitas estavam elaboradas de forma correta, onde os participantes desse teste podem ser encontrados na tabela 1 e o teste em si no iframe 1.
 
-É importante ressaltar que o usuário recebeu o termo de Consentimento presente nos [aspectos éticos](../../Planejamento/Aspectos_Eticos.md).
+<center>
+
+|    Data    |          Local           |    Horário    |  Participantes - Papel |
+|:----------:|:------------------------:|:-------------:|:----------------------:|
+| 26/05/2023 | Online(Plataforma Teams) | 16:45 - 16:50 | Paulo Victor - Entrevistador </br> Guilherme Keyti - Entrevistado|
+
+</center>
+<p align="center">Tabela 1: Cronograma executado do Teste Piloto (Fote: Autores, 2023)</p>
+
+
+<center>
+
+<iframe width="650" height="405" src="https://www.youtube.com/embed/s0Qh0cIOUyM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe 1: Execução do Teste Piloto. (Fonte: Autores, 2023) </p>
+
+</center>
+
+Para a realização da entrevista se teve a participação de um membro da equipe do projeto e de um usuário. Onde se teve apenas a participação de um usuário pela dificuldade de se ter contato com outros usuários. A tabela 2 apresenta mais sobre os participantes como também informações de data, hora e local.
+
+É importante ressaltar que o usuário recebeu o termo de Consentimento presente nos [aspectos éticos](../../Planejamento/Aspectos_Eticos.md) e concordou com ele.
 
 <center>
 
@@ -36,20 +56,21 @@ Para a realização da entrevista se teve a participação de um membro da equip
 | 27/05/2023 | Online(Plataforma Teams) | 20:00 - 20:35 | Caetano Santos | Carla de Araujo|
 
 </center>
-<p align="center">Tabela 1: Cronograma Executado. (Fote: Autores, 2023)</p>
+<p align="center">Tabela 2: Cronograma Executado. (Fote: Autores, 2023)</p>
 
-Essa entrevista pode ser encontrada no iframe 1.
+
+Essa entrevista pode ser encontrada no iframe 2.
 
 <center>
 
 <iframe width="650" height="405" src="https://www.youtube.com/embed/yqRaKQmadVk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p>Iframe 1: Entrevista com o Usuário. (Fonte: Autores, 2023) </p>
+<p>Iframe 2: Entrevista com o Usuário. (Fonte: Autores, 2023) </p>
 
 </center>
 
 ## Sumário dos feedbacks
-Através da entrevista, foram anotados as seguintes respostas as perguntas do questionário, como também os feedbacks, que podem ser encontrados na tabela 2.
+Através da entrevista, foram anotados as seguintes respostas as perguntas do questionário, como também os feedbacks, que podem ser encontrados na tabela 3.
 
 <center>
 
@@ -64,7 +85,7 @@ Através da entrevista, foram anotados as seguintes respostas as perguntas do qu
 | P07 | O ator principal conseguiu encontrar e utilizar as funcionalidades necessárias para alcançar seu objetivo? | "Sim" |
 
 </center>
-<p align="center">Tabela 2: Respostas e Feedbakcs do Usuário. (Fote: Autores, 2023)</p>
+<p align="center">Tabela 3: Respostas e Feedbakcs do Usuário. (Fote: Autores, 2023)</p>
 
 ## A lista de problemas encontrados
 Durante a realização da entrevista, mediante uma das perguntas se descobriu uma necessidade de melhoria do storyboard, então a seguir contem os pontos relacionados a esse levantamento.
