@@ -76,4 +76,4 @@ A seguir se tem os links para cada uma das verificações dos pontos de controle
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                    Autor                     |                      Revisor                       |
 | :--------: | :----------------------: | :----: | :------------------: | :------------------------------------------: | :------------------------------------------------: |
-| 05/06/2023 |        05/06/2023        |   1.0  | Criação do Documento | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
+| 04/06/2023 |        05/06/2023        |   1.0  | Criação do Documento | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
