@@ -1,7 +1,7 @@
 # Padronização da Verificação
 
 ## Introdução
-Esse artefato visa introduzir um documento geral de verificação dos artefatos o grupo 05, onde ele constara com a explicação de cada etapa que foi seguida, como também trará os principais erros cometidos em todos os artefatos que não dizem respeito ao conteúdo do artefato em si.
+Esse artefato visa introduzir um documento geral de verificação dos artefatos o [grupo 05](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento), onde ele constara com a explicação de cada etapa que foi seguida, como também trará os principais erros cometidos em todos os artefatos que não dizem respeito ao conteúdo do artefato em si.
 
 ## Metodologia
 Para se realizar essa verificação se utilizou da Inspeção, onde ela segue os seguintes passos:
@@ -56,9 +56,11 @@ A seguir se tem os links para cada uma das verificações dos pontos de controle
 * [Verificação do Ponto de Controle 5°](ponto5.md)
 
 ## Conclusão 
-- Foi observado a correção dos artefatos com base nos comentários do monitor, o que mostrou um ponto positivo; 
-- Os integrantes progrediram na padronização dos arquivos, porém existem figuras sem legenda e principalmente no artefato de Guia de Estilo carece de figuras; 
-- Além disso, o Guia de estilo faz mais uma observação do estilo do site e não determina um guia de forma mais crítica.
+- Nos artefatos iniciais é percebido a falta da padronização do projeto;
+- Sobre a falta de padrão, é importante observar a chamada das tabelas e das figuras no texto, além da persença da legenda e no histórico de versão, é acrescentar mais informações, como período de revisão;
+- Porém, foi observado algumas correção, no decorrer do projeto, dos artefatos com base nos comentários do monitor, o que mostrou um ponto positivo; 
+- Nos artefatos finais os integrantes progrediram na padronização dos arquivos, porém existem figuras sem legenda;
+- É importe fazer a ligação com artefatos anteriores, algo que carece no projeto no geral.
 
 ## Bibliografia
 
