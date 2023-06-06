@@ -245,7 +245,7 @@ De acordo com as informações encontradas no [Cronograma Realizado](https://int
 
 ## Planejamento dos ajustes
 
-Com base nos resultados das verificações, foram elencadas as tarefas que devem ser realizadas. Alguns problemas não contemplados pelos checklists foram identificados e incluídos diretamente nas tarefas. A organização dessas tarefas pode ser reportada por meio de _issues_ no [repositório](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/issues) da equipe.
+Com base nos resultados das verificações, foram elencadas as tarefas que devem ser realizadas. Alguns problemas não contemplados pelos checklists foram identificados e incluídos diretamente nas tarefas e também estão incluídos no documento de [Padronização da Verificação](padronizacao_verificacao.md). A organização dessas tarefas podem ser reportadas por meio de _issues_ no [repositório](https://github.com/Interacao-Humano-Computador/2023.1-Alistamento/issues) da equipe.
 
 ### Tarefas
 
