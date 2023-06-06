@@ -20,7 +20,7 @@ A verificação será feita por meio da inspeção, com base na no que é propos
 
 ## Checklists
 
-O checklist foi dividido em duas categorias, com o intuito de padronizar os artefatos de verificação. O primeiro conjunto de perguntas é referente às características intrínsecas do artefato verificado, observando-se principalmente a qualidade do seu **conteúdo**. O segundo conjunto de perguntas diz respeito à **padronização** entre os artefatos, contendo elementos apontados no Plano de Ensino [1] e exigências comuns para uma boa qualidade de trabalhos acadêmicos.
+O checklist foi dividido em duas categorias, com o intuito de padronizar os artefatos de verificação. O primeiro conjunto de perguntas é referente às características intrínsecas do artefato verificado, observando-se principalmente a qualidade do seu **conteúdo**. O segundo conjunto de perguntas diz respeito à **padronização** entre os artefatos, contendo elementos apontados no Plano de Ensino e exigências comuns para uma boa qualidade de trabalhos acadêmicos.
 
 Após a finalização da verificação dos artefatos, será realizada a verificação do [Cronograma Realizado](#verificação---cronograma-realizado---pc-5) para o PC 5.
 
