@@ -6,13 +6,13 @@ A verificação, durante o desenvolvimento de um projeto, visa garantir que os p
 
 O presente artefato contém os resultados da verificação dos artefatos produzidos pelo Grupo 5 - Alistamento Militar, para o Ponto de Controle 5 de IHC - Interação Humano Computador, sendo os quais:
 
-- [Relato dos resultados do Storyboard](#verificação---relato-dos-resultados-do-storyboard)
+- [Relato dos Resultados do Storyboard](#verificação---relato-dos-resultados-do-storyboard)
 
-- [Relato dos resultados da análise de tarefas](#verificação---relato-dos-resultados-da-análise-de-tarefas)
+- [Relato dos Resultados da Análise de Tarefas](#verificação---relato-dos-resultados-da-análise-de-tarefas)
 
-- [Planejamento da avaliação do protótipo de papel](#verificação---planejamento-da-avaliação-do-protótipo-de-papel)
+- [Planejamento da Avaliação do Protótipo de Papel](#verificação---planejamento-da-avaliação-do-protótipo-de-papel)
 
-- [Planejamento do relato de resultados da avaliação do protótipo de papel](#verificação---planejamento-do-relato-de-resultados-da-avaliação-do-protótipo-de-papel)
+- [Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel](#verificação---planejamento-do-relato-de-resultados-da-avaliação-do-protótipo-de-papel)
 
 ## Metodologia
 
@@ -28,7 +28,7 @@ Após a finalização da verificação dos artefatos, será realizada a verifica
 
 Os checklists de verificação para os artefatos, da Equipe 5 Alistamento Militar, elencados pelo [relato dos resultados do storyboard](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados/), [relato dos resultados da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados/), [planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel/) e [planejamento do relato de resultados da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel/) estão exemplificados nas tabelas 1 a 4, respectivamente.
 
-#### Checklist - Relato dos resultados do Storyboard
+#### Checklist - Relato dos Resultados do Storyboard
 
 |  ID   | Questão                                                                                       | Resposta | Comentários |
 | :---: | --------------------------------------------------------------------------------------------- | :------: | ----------- |
@@ -43,11 +43,11 @@ Os checklists de verificação para os artefatos, da Equipe 5 Alistamento Milita
 
 <div style="text-align: center">
 <p>
-Tabela 1: Checklist de verificação: Relato dos resultados do Storyboard (Fonte: autor, 2023).
+Tabela 1: Checklist de verificação: Relato dos Resultados do Storyboard (Fonte: autor, 2023).
 </p>
 </div>
 
-#### Checklist - Relato dos resultados da análise de tarefas
+#### Checklist - Relato dos Resultados da Análise de Tarefas
 
 |  ID   | Questão                                                                | Resposta | Comentários |
 | :---: | ---------------------------------------------------------------------- | :------: | ----------- |
@@ -63,11 +63,11 @@ Tabela 1: Checklist de verificação: Relato dos resultados do Storyboard (Fonte
 
 <div style="text-align: center">
 <p>
-Tabela 2: Checklist de verificação: Relato dos resultados da análise de tarefas (Fonte: autor, 2023).
+Tabela 2: Checklist de verificação: Relato dos Resultados da Análise de Tarefas (Fonte: autor, 2023).
 </p>
 </div>
 
-#### Checklist - Planejamento da avaliação do protótipo de papel
+#### Checklist - Planejamento da Avaliação do Protótipo de Papel
 
 |  ID   | Questão                                                                   | Resposta | Comentário |
 | :---: | :------------------------------------------------------------------------ | :------: | ---------- |
@@ -80,11 +80,11 @@ Tabela 2: Checklist de verificação: Relato dos resultados da análise de taref
 
 <div style="text-align: center">
 <p>
-Tabela 3: Checklist de verificação: Planejamento da avaliação do protótipo de papel (Fonte: autor, 2023).
+Tabela 3: Checklist de verificação: Planejamento da Avaliação do Protótipo de Papel (Fonte: autor, 2023).
 </p>
 </div>
 
-#### Checklist - Planejamento do relato de resultados da avaliação do protótipo de papel
+#### Checklist - Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel
 
 |  ID   | Questão                                                                      | Resposta | Comentário |
 | :---: | :--------------------------------------------------------------------------- | :------: | ---------- |
@@ -97,7 +97,7 @@ Tabela 3: Checklist de verificação: Planejamento da avaliação do protótipo 
 
 <div style="text-align: center">
 <p>
-Tabela 4: Checklist de verificação: Planejamento do relato de resultados da avaliação do protótipo de papel (Fonte: autor, 2023).
+Tabela 4: Checklist de verificação: Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel (Fonte: autor, 2023).
 </p>
 </div>
 
@@ -126,13 +126,13 @@ Tabela 5: Verificações de padronização (Fonte: autor, 2023).
 
 ## Resultados
 
-### Verificação - Relato dos resultados do Storyboard
+### Verificação - Relato dos Resultados do Storyboard
 
-O artefato [Relato dos resultados do Storyboard](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados/) estava presente na Github pages, mas no momento desta avaliação, a página estava vazia. Também não haviam informações escritas no arquivo presente no repositório da equipe, portanto essa parte do ponto de controle não pôde ser avaliada.
+O artefato [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/storyboard/relato_resultados/) estava presente na Github pages, mas no momento desta avaliação, a página estava vazia. Também não haviam informações escritas no arquivo presente no repositório da equipe, portanto essa parte do ponto de controle não pôde ser avaliada.
 
-### Verificação - Relato dos resultados da análise de tarefas
+### Verificação - Relato dos Resultados da Análise de Tarefas
 
-As Tabelas 6 e 7 apresentam os resultados da verificação do artefato [Relato dos resultados da análise de tarefas](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados/). 
+As Tabelas 6 e 7 apresentam os resultados da verificação do artefato [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel1/analise_tarefas/relato_resultados/). 
 
 |  ID   | Questão                                                                | Resposta | Comentários |
 | :---: | ---------------------------------------------------------------------- | :------: | ----------- |
@@ -168,9 +168,9 @@ Tabela 7: Verificação de padronização (Fonte: autor, 2023).
 </p>
 </div>
 
-### Verificação - Planejamento da avaliação do protótipo de papel
+### Verificação - Planejamento da Avaliação do Protótipo de Papel
 
-As Tabelas 8 e 9 apresentam os resultados da verificação do artefato [Planejamento da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel/).
+As Tabelas 8 e 9 apresentam os resultados da verificação do artefato [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-avaliacao-prototipo-papel/).
 
 |  ID   | Questão                                                                   | Resposta | Comentário |
 | :---: | :------------------------------------------------------------------------ | :------: | ---------- |
@@ -204,9 +204,9 @@ Tabela 9: Verificação de padronização (Fonte: autor, 2023).
 </div>
 
 
-### Verificação - Planejamento do relato de resultados da avaliação do protótipo de papel
+### Verificação - Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel
 
-As Tabela 10 e 11 apresentam os resultados da verificação do artefato [Planejamento do relato de resultados da avaliação do protótipo de papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel/).
+As Tabela 10 e 11 apresentam os resultados da verificação do artefato [Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-Alistamento/design_avaliacao_desenvolvimento/nivel2/planejamento-relato-avaliacao-prototipo-papel/).
 
 |  ID   | Questão                                                                      | Resposta | Comentário |
 | :---: | :--------------------------------------------------------------------------- | :------: | ---------- |
@@ -241,7 +241,7 @@ Tabela 11: Verificação de padronização (Fonte: autor, 2023).
 
 ### Verificação - Cronograma Realizado - PC 5
 
-De acordo com as informações encontradas no [Cronograma Realizado](https://interacao-humano-computador.github.io/2023.1-Alistamento/planejamento/cronograma_real/), Os autores e revisores estão de acordo com os artefatos analisados. Já as datas presentes no cronograma realizado estão com algumas datas de entrega e revisão no mesmo dia, sendo preferível que a entrega do artefato seja anterior à data de revisão. No Cronograma Realizado não consta o Relato dos Resultados do storyboard, e no Cronograma *Inicial*, (que deve ser corrigido para Cronograma Planejado), há um integrante responsável pelo artefato. 
+De acordo com as informações encontradas no [Cronograma Realizado](https://interacao-humano-computador.github.io/2023.1-Alistamento/planejamento/cronograma_real/), Os autores e revisores estão de acordo com os artefatos analisados. Já as datas presentes no cronograma realizado estão com algumas datas de entrega e revisão no mesmo dia, sendo preferível que a entrega do artefato seja anterior à data de revisão. No Cronograma Realizado não consta o Relato dos Resultados do Storyboard, e no Cronograma *Inicial*, (que deve ser corrigido para Cronograma Planejado), há um integrante responsável pelo artefato. 
 
 ## Planejamento dos ajustes
 
@@ -249,17 +249,18 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 
 ### Tarefas
 
-#### Relato dos resultados do Storyboard
+#### Relato dos Resultados do Storyboard
+
 
 - O Artefato não foi entregue. 
 
-#### Relato dos resultados da análise de tarefas
+#### Relato dos Resultados da Análise de Tarefas
 
 - Não tem gravação
 - Não tem bibliografia
 - Tabelas não são chamadas
 
-#### Planejamento da avaliação do protótipo de papel
+#### Planejamento da Avaliação do Protótipo de Papel
 
 - Não há sessão de questões éticas
 - Não apresenta quais usuários foram usados
@@ -267,11 +268,11 @@ Com base nos resultados das verificações, foram elencadas as tarefas que devem
 - As referências bibliográficas estão incorretas
 - Não fala das tarefas, nem quais serão feitas no protótipo
 
-#### Planejamento do relato de resultados da avaliação do protótipo de papel
+#### Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel
 
 - Referências incorretas
 
-### Protótipo de papel
+#### Protótipo de papel
 
 - As figuras não são chamadas no texto
 - Falta o fluxo esperado
