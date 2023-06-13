@@ -94,6 +94,12 @@ nav:
       - Prototipação de Papel:
         - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento_Prototipopapel.md
         - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento-relato.md
+        - Protótipos: DesignAvaliação/Prototipopapel/prototipos.md
+        - Relatos: DesignAvaliação/Prototipopapel/relatos.md
+    - 3º Nível:
+      - Protótipo de Alta:
+        - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade.md
+        - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliação/PrototipoAltaFidelidade/planejamento_relato.md
   - Verificação:
     - Grupo 5: 
       - Padronização da Verificação: Verificacao/grupo5/padronizacao_verificacao.md
