@@ -50,9 +50,9 @@ A seguir, apresenta-se o cronograma para as atividades da avaliação de alta fi
 |------------|-------|-----------------|-----------|---------------|---------------------|
 | 14/06/2023 | 19:00 | Online - Microsoft Teams | Paulo       | Guilherme | Teste Piloto |
 | 14/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Teste de Usabilidade |
-| 14/06/2023 | 20:00 | Online - Microsoft Teams | Carlos    | Participante 2 | Teste de Usabilidade |
+| 14/06/2023 | 20:00 | Online - Microsoft Teams | Daniel    | Participante 2 | Teste de Usabilidade |
 | 14/06/2023 | 20:15 | Online - Microsoft Teams | Caetano       | Participante 1 | Entrevista          |
-| 14/06/2023 | 20:15 | Online - Microsoft Teams | Carlos    | Participante 2 | Entrevista          |
+| 14/06/2023 | 20:15 | Online - Microsoft Teams | Daniel    | Participante 2 | Entrevista          |
 
 ## Roteiro de Testes e Entrevistas
 Durante os testes de usabilidade e entrevistas, serão utilizados roteiros específicos para guiar as atividades. O roteiro de testes de usabilidade incluirá [tarefas](../../DesignAvalia%C3%A7%C3%A3o/analisetarefas/) a serem realizadas pelos participantes, enquanto o roteiro de entrevistas abordará questões relacionadas à compreensão das informações, usabilidade e eficácia do protótipo do OpenStreetMap, explicando brevemente o que é um protótipo de alta fidelidade, o propósito da entrevista e o objetivo de avaliar o protótipo de alta fidelidade do OpenStreetMap.
