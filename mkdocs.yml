@@ -101,6 +101,19 @@ nav:
         - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade.md
         - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliação/PrototipoAltaFidelidade/planejamento_relato.md
   - Verificação:
+    - OpenStreetMap: 
+      - Planejaemtno Geral: Verificacao/OpenStreetMap/0planejamento-geral.md
+      - Entrega 1:
+        - Planejamento: Verificacao/OpenStreetMap/Entrega1/0planejamento.md
+      - Entrega 2: 
+        - Planejamento: Verificacao/OpenStreetMap/Entrega2/0planejamento.md
+      - Entrega 3:
+        - Planejamento: Verificacao/OpenStreetMap/Entrega3/0planejamento.md
+        - Guia de Estilo: Verificacao/OpenStreetMap/Entrega3/guia-estilo.md
+      - Entrega 4:
+        - Planejamento: Verificacao/OpenStreetMap/Entrega4/0planejamento.md
+      - Entrega 5:
+        - Planejamento: Verificacao/OpenStreetMap/Entrega5/0planejamento.md
     - Grupo 5: 
       - Padronização da Verificação: Verificacao/grupo5/padronizacao_verificacao.md
       - Ponto de Controle 1°: Verificacao/grupo5/ponto1.md
