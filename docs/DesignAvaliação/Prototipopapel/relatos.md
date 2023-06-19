@@ -1,5 +1,4 @@
-# Relatos dos Resultados
-
+# Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade
 
 ## Introdução
 
@@ -44,10 +43,7 @@ Foi testado o **cadastro de ponto de referência**. Seguindo o [Storytelling 1](
 
 
 <div style="text-align: center">
-<video width="640" height="480" controls>
-    <source src="https://youtu.be/NG582YnAlok" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
-</video>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/NG582YnAlok" title="Priorização In or Out - Entrega 2 - Requisitos de Sofware" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <p> Vídeo 1: Cadastrar ponto de referência (Fonte: Raquel).</p>
 </div>
 

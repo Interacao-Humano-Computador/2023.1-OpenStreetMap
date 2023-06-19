@@ -29,6 +29,20 @@ Antes da avaliação com os participantes reais, será realizado um teste piloto
 
 Durante o teste piloto, serão conduzidos testes de usabilidade e entrevistas simuladas, seguindo o roteiro proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das tarefas, o tempo necessário para realizá-las e a compreensão geral do processo de avaliação.
 
+## Cronograma
+
+
+A seguir, apresenta-se o cronograma para as atividades da avaliação de alta fidelidade do protótipo do OpenStreetMap:
+
+| Data       | Hora  | Local           | Avaliador | Participante  | Tarefa              |
+|------------|-------|-----------------|-----------|---------------|---------------------|
+| 14/06/2023 | 19:00 | Online - Microsoft Teams | Paulo       | Guilherme | Teste Piloto |
+| 14/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Teste de Usabilidade |
+| 14/06/2023 | 20:00 | Online - Microsoft Teams | Daniel    | Participante 2 | Teste de Usabilidade |
+| 14/06/2023 | 20:15 | Online - Microsoft Teams | Caetano       | Participante 1 | Entrevista          |
+| 14/06/2023 | 20:15 | Online - Microsoft Teams | Daniel    | Participante 2 | Entrevista          |
+
+
 ## Roteiro de Testes e Entrevistas
 Durante os testes de usabilidade e entrevistas, serão utilizados roteiros específicos para guiar as atividades. O roteiro de testes de usabilidade incluirá as [tarefas](../../DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_analise_tarefa.md) a serem realizadas pelos participantes, enquanto o roteiro de entrevistas abordará questões relacionadas à compreensão das informações, usabilidade e eficácia do protótipo do OpenStreetMap, explicando brevemente o que é um protótipo de alta fidelidade, o propósito da entrevista e o objetivo de avaliar o protótipo de alta fidelidade do OpenStreetMap. As perguntas à serem feitas durante a avaliação estão no Tabela 1.
 
@@ -187,3 +201,4 @@ Após a conclusão dos testes de usabilidade e entrevistas, os dados serão anal
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 12/06/2023 |        12/06/2023        |  1.0   | Criação do documento | [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria)| [Paulo](https://github.com/PauloVictorFS) |
 | 13/06/2023 |        14/06/2023        |  2.0   | Correção e atualização| [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria)| [Paulo](https://github.com/PauloVictorFS) |
+
