@@ -19,6 +19,22 @@ Os artefatos verificados são:
 - [Metas de usabilidade](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
 - [Guia de Estilo](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
 
+## Cronograma e participantes
+Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2023, será realizada a preparação, inspeção e correção de cada artefato da Entrega 3. E a realização dessas tarefas foi distribuida por artefato, conforme a Tabela 1.
+
+<center>
+
+|Artefato|Responsável |
+|-------|------|
+|[Princípios Gerais do Projeto](./guia-estilo.md) |[Daniel]()|
+|[Metas de usabilidade](./guia-estilo.md) |[Paulo]()|
+|[Guia de Estilo](./guia-estilo.md) | [Raquel](https://github.com/raqueleucaria) |
+
+
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
 
 ## Referência bibliográfica
 
