@@ -155,4 +155,4 @@ Os checklists foram estabelecido com base nos critérios da literatura x[³]() >
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 13/06/2023 |        14/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) e [Pedro](https://github.com/pedrobarbosaocb)|  |
+| 14/06/2023 |        16/06/2023        |  1.0   | Criação do documento |  [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)  |

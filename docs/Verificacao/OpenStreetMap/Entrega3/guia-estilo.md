@@ -98,4 +98,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 18/06/2023 |        14/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) |  |
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)  |

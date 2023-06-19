@@ -97,4 +97,4 @@ Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 18/06/2023 |        14/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) |  |
+| 14/06/2023 |        16/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)  |
