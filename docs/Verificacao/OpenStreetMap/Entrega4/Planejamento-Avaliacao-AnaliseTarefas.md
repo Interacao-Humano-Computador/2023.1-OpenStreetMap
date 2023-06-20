@@ -1,4 +1,4 @@
-# Planejamento da Verificação da Análise de Tarefas
+# Análise de Tarefas
 ## Introdução
 
 Conforme a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], a finalidade da verificação é "fornecer evidência objetiva de que o sistema ou componente do sistema satisfaz completamente seus requisitos e características especificados". Para assegurar a qualidade e a consistência dos requisitos, iremos verificar os documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Interação Humano Computador.
