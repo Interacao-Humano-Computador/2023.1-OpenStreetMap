@@ -28,12 +28,12 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 
 <div style="text-align: center">
 <p>
-Tabela 6: Checklist Preenchido: Ferramentas do Projeto  (Fonte: autor, 2023).
+Tabela 1: Checklist Preenchido: Ferramentas do Projeto  (Fonte: autor, 2023).
 </p>
 </div>
 
 ### Gráfico de erros
-A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
+A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist das ferramentas
 
 <img src="../../assets/img/Ferramentas.PNG" ></img>
 <p>Figura 1 - Gráfico Checklist Ferramentas (Fonte: Autores)</p>
@@ -41,6 +41,45 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 # Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas Ferramentas Utilizadas
+
+</center>
+
+ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|1 |Existe um texto introdutório, porém não está completo |Escrever um texto introdutorio completo |Paulo    | Guilherme |Ok|
+|3 |Tabelas Não são chamados no texto|Mencionando tabelas no texto |Paulo  | Guilherme | Ok |
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
+Abaixo, na tabela 3, encontra-se o checklist feito após a correção do artefato.
+<center>
+
+| ID  | Questão                                                                      | Resposta | Comentários |
+| :-: | ---------------------------------------------------------------------------- | :------: | ----------- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim| |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim||
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Sim||
+| 4 | A metodologia esta de acordo com o artefato analisado? |Sim||
+|  5  | O documento fornece uma explicação clara das ferramentas utilizadas?                  |  Sim        |             |
+|  6  | O documento descreve as finalidades das ferramentas utilizadas?            |Sim          |             |
+|  7  |O uso daquela ferramenta dentro do projeto está claramente descrito na descrição?                           |Sim          |             |
+|  8  | Todas as ferramentas utilizadas no projeto estão mencionadas no artefato?               |    Sim      |             |
+
+<div style="text-align: center">
+<p>
+Tabela 3: Checklist Preenchido Após a Correção: Ferramentas do Projeto  (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+
+### Gráfico de erros
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist das ferramentas após a correção do artefato.
+
+<img src="../../assets/img/Ferramentas-2.PNG" ></img>
+<p>Figura 2 - Gráfico Checklist Ferramentas pós Correção (Fonte: Autores)</p>
 
 ## Bibliografia
 
@@ -66,4 +105,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        20/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)

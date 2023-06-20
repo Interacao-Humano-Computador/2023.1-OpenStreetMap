@@ -4,7 +4,7 @@
 Para o projeto da disciplina é necessário ser escolhido um site para que o grupo trabalhe com ele, sendo necessário que seus termos permitam isso, tendo isso em mente, cada integrante pesquisou sobre um site, sendo todos listados abaixo:</p>
 
 ## Metodologias
-Para a escolha do site, cada integrante procurou um site que se apresenta algum tipo de empecilho em sua utilização, seja devido a algum defeito ou por não ser uma usabilidade boa, sendo assim, cada integrante fez um planejamento de uma avaliação de cada site. Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Dessa forma, abaixo será apresentado os critérios de escolha do site, o que foi escrito sobre o site escolhido de cada integrante, além disso, o planejamento individual de cada um.
+Para a escolha do site, cada integrante procurou um site que se apresenta algum tipo de empecilho em sua utilização, seja devido a algum defeito ou por não ser uma usabilidade boa, sendo assim, cada integrante fez um planejamento de uma avaliação de cada site para que,  Com base nisso, o grupo se basear e escolher a que fosse de maior agrado. Dessa forma, foram criados avaliações individuais baseados nas heurísticas de Nielsen, e abaixo serão apresentado os critérios de escolha do site, o que foi escrito sobre o site escolhido de cada integrante, além disso, o planejamento individual de cada um.
   
 ## Critérios Discutidos Para a Escolha Dos Sites Individuais
 O grupo escolheu sites que possuiam os seguintes critérios:
@@ -77,3 +77,4 @@ O planejamento e a execução da avaliação podem ser encontrados no link: [Ope
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 20/04/2023 |        20/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Carla](https://github.com/ccarlaa) |
 | 17/05/2023 |        17/05/2023        |  1.1   | Adição e correção de alguns elementos | [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+| 18/06/2023 |        19/06/2023        |  1.2   | Ajustes de escrita  |[Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |

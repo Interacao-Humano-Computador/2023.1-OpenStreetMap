@@ -29,11 +29,11 @@ Aqui está a tabela corrigida com o formato Markdown:
 |----|-----------|-----------|------------|
 | 1  | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim | |
 | 2  | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  Sim| |
-| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Não condiz | Não há tabelas nem figuras|
+| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | N/A | Não há tabelas nem figuras|
 | 4  | A metodologia está de acordo com o artefato analisado? | Sim | |
 | 5  | A meta de usabilidade foi feita com o auxílio do artefato de perfil do usuário? | Sim | |
 | 6  | As metas de usabilidade foram definidas de acordo com as metas estabelecidas pela literatura? | Não | Não foram definidas |
-| 7  | A meta de usabilidade "utilidade" possui uma explicação breve sobre o significado dentro do projeto? | Não | Nenhuma possui |
+| 7  | A meta de usabilidade  possui uma explicação breve sobre o significado dentro do projeto? | Não | Nenhuma possui |
 | 8  | É explicada a razão da escolha da meta de usabilidade selecionada para o projeto? | Não | Não foi explicada nenhuma |
 | 9  | O conceito de meta de usabilidade foi aplicado corretamente dentro do projeto? | Não | Foi confundido meta de usabilidade por princípios gerais do projeto |
 
@@ -55,6 +55,50 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas metas de usabilidade
 
 
+</center>
+
+|ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|6 | Não foram definidas de acordo com as metas estabelecidas pela literatura |Refazer as metas de usabilidade |Paulo    | Guilherme |Ok|
+|7 |A meta de usabilidade não possui uma explicação breve sobre o significado dentro do projeto?o |Apresentar a explicação |Paulo    | Guilherme |Ok|
+|8 |Não é explicada a razão da escolha da meta de usabilidade |Apresentar a razão |Paulo    | Guilherme |Ok|
+|9 |O conceito de meta de usabilidade Não foi aplicado corretamente dentro do projeto |Aplicar corretamente os conceitos.|Paulo| Guilherme  |Ok|
+
+
+
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
+Abaixo, na tabela 3, encontra-se o checklist feito após a correção do artefato.
+<center>
+
+| ID | Descrição | Avaliação | Observação |
+|----|-----------|-----------|------------|
+| 1  | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim | |
+| 2  | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |  Sim| |
+| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | N/A | Não há tabelas nem figuras|
+| 4  | A metodologia está de acordo com o artefato analisado? | Sim | |
+| 5  | A meta de usabilidade foi feita com o auxílio do artefato de perfil do usuário? | Sim | |
+| 6  | As metas de usabilidade foram definidas de acordo com as metas estabelecidas pela literatura? | Sim |  |
+| 7  | A meta de usabilidade  possui uma explicação breve sobre o significado dentro do projeto? | Incompleto | Faltou aplicar melhor dentro do projeto  |
+| 8  | É explicada a razão da escolha da meta de usabilidade selecionada para o projeto? | Sim |  |
+| 9  | O conceito de meta de usabilidade foi aplicado corretamente dentro do projeto? | Sim |  |
+
+<div style="text-align: center">
+<p>
+Tabela 3: Checklist Preenchido Após a Correção: Metas de Usabilidade   (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+
+### Gráfico de erros
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist dos Metas de Usabilidade  após a correção do artefato.
+
+<img src="../../assets/img/MetasUsabilidade2.PNG" ></img>
+<p>Figura 2 - Gráfico Checklist Metas de Usabilidade  pós Correção (Fonte: Autores)</p>
 
 ## Referência bibliográfica
 

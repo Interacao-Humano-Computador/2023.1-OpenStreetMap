@@ -21,7 +21,7 @@ Os artefatos verificados são:
 - [Ferramentas do projeto](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Ferramentas/)- Versão 1.0 na data 19/06/2023. Autor [Guilherme](https://github.com/guilhermekishimoto)
 - [Metodologias](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Metodologias/)- Versão 1.0 na data 19/06/2023. Autores [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria)
 - [Sites Analisados](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Sites_Analisados/)- Versão 1.1 na data 19/06/2023. Autores[Paulo](https://github.com/PauloVictorFS) e [Daniel](https://github.com/daniel-de-sousa)
-- [Processo de design](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Processo_Design/)- Versão 1.0 na data 19/06/2023. Autores[Paulo](https://github.com/PauloVictorFS), [Daniel](https://github.com/daniel-de-sousa) e [Raquel](https://github.com/raqueleucaria)
+
 
 ## Referência bibliográfica
 
@@ -42,4 +42,4 @@ Os artefatos verificados são:
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa)   | |
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS)   | [Daniel](https://github.com/daniel-de-sousa)|

@@ -4,7 +4,7 @@
 
 ## Introdução
 
-Para aprimorar a agilidade da equipe, e realizar um trabalho com base em uma abordagem sistemática, disciplinada, e quantificável, é necessária a definição de metodologias que auxiliem o desenvolvimento do grupo como todo. Dessa forma, o grupo utilizou-se das seguintes metodologias:
+Para aprimorar a agilidade da equipe, e realizar um trabalho com base em uma abordagem sistemática, disciplinada, e quantificável, é necessária a definição de metodologias que auxiliem o desenvolvimento do grupo como todo. Dessa forma, o grupo decidiu escolher metodologias que pudessem guiar o futuro desenvolvimento dos artefatos do projeto. Dessa forma, as metodologias escolhidas pelo grupo serão apresentadas abaixo.
 
 ## DevOps
 
@@ -98,3 +98,4 @@ Revisão:
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 20/04/2023 |        21/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |  [Carla](https://github.com/ccarlaa) 
+| 18/06/2023 |        19/06/2023        |  1.1   | Ajustes de escrita  |[Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
