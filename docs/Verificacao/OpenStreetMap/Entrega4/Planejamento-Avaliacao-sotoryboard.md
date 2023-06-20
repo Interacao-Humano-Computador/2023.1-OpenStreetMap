@@ -1,4 +1,4 @@
-# Sotryboard
+# Planejamento da Avaliação do Sotryboard
 ## Introdução
 
 Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Interação Humano Computador.
@@ -55,7 +55,7 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 <center>
 
-<img src="../../../assets/verificacao-etapa4/planejamento-Storyboard-antes.png"></img>
+<img src="../../assets/verificacao-etapa4/planejamento-Storyboard-antes.png"></img>
 <p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
 
 </center>
@@ -67,13 +67,13 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 
 |ID |Descrição resumida|Detalhes da correção|Responsável pela correção|Revisor|Status|
 |-------|------|------|---------|---|--|
-|2 | Bibliografias/referências bibliográficas não são utilizadas no texto | Mencionar a raferencia bibliografica linkada no próprio texto.      | Guilherme |||
-| 5 | O artefato segue o Framework DECIDE, porém pode deixar mais explícito a sua utilização | Deixar mais explícito as etapas do framework DECIDE (colocar o passo, do DECIDE, que está sendo utlizado no título de cada tópico em expecífico).      | Guilherme |||
-| 10 | A quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade não estão presentes. | Especificar a quantidade de participantes e o motivo dessa quantidade     | Guilherme |||
-| 14 | Não há menção explícita das ferramentas que serão utilizadas na avaliação |  Deixar de forma explícita as ferramentas que serão utilizadas na avaliação.     | Guilherme |||
-| 16 | Não está com o vídeo mostrando a realização do teste piloto. | Colocar o vídeo mostrando a realização do teste piloto.      | Guilherme |||
-| 17 | O artefato não apresenta os resultados obtidos com o teste piloto | Colocar no artefato o resultado do teste piloto      | Guilherme |||
-| 20 | O artefato não possui a mesma quantidade de storyboards em relação à quantidade de integrantes do grupo      | Guilherme |||
+|2 | Bibliografias/referências bibliográficas não são utilizadas no texto | Mencionar a referência bibliografica linkada no próprio texto.      | Guilherme || ok|
+| 5 | O artefato segue o Framework DECIDE, porém pode deixar mais explícito a sua utilização | Deixar mais explícito as etapas do framework DECIDE (colocar o passo, do DECIDE, que está sendo utlizado no título de cada tópico em expecífico).      | Guilherme ||ok|
+| 10 | A quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade não estão presentes. | Especificar a quantidade de participantes e o motivo dessa quantidade     | Guilherme ||ok|
+| 14 | Não há menção explícita das ferramentas que serão utilizadas na avaliação |  Deixar de forma explícita as ferramentas que serão utilizadas na avaliação.     | Guilherme ||ok|
+| 16 | Não está com o vídeo mostrando a realização do teste piloto. | Colocar o vídeo mostrando a realização do teste piloto.      | Guilherme ||ok|
+| 17 | O artefato não apresenta os resultados obtidos com o teste piloto | Colocar no artefato o resultado do teste piloto      | Guilherme ||ok|
+| 20 | O artefato não possui a mesma quantidade de storyboards em relação à quantidade de integrantes do grupo      | Guilherme ||-|
 
 
 Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
@@ -111,11 +111,11 @@ Abaixo, na tabela 3, encontra-se o checklist feito após a correção do Planeja
 Tabela 3 - Chacklist Pós Correção do Planejamento da Avaliação do Sotryboard (Fonte: Autores)
 </center>
 
-A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Planejamento da Avaliação do Sotryboard.
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Planejamento da Avaliação do Sotryboard após a correção.
 
 <center>
 
-<img src="../../../assets/verificacao-etapa4/planejamento-Storyboard-depois.png"></img>
+<img src="../../assets/verificacao-etapa4/planejamento-Storyboard-depois.png"></img>
 <p>Figura 2 - Gráfico Checklist Pós Correção Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
 
 </center>

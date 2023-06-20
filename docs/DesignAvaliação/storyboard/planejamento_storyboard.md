@@ -13,7 +13,7 @@ O objetivo principal desta avaliação do storyboard do OpenStreetMap é coletar
 A metodologia selecionada para a avaliação do storyboard será por meio de entrevistas individuais com usuários do OpenStreetMap. Essas entrevistas permitirão uma compreensão mais aprofundada das experiências e percepções dos usuários sobre o storyboard. Ao conduzir as entrevistas, serão levadas em consideração questões [éticas](../../Planejamento/Aspectos_Eticos.md). Abixo segue o termo de consentimento que será utilizado.
 ## Avaliadores e participantes (I)
 
-Os participantes das entrevistas serão selecionados com base no [perfil de usuário](../../AnaliseRequisitos/perfil_usuario.md) do OpenStreetMap, sendo 3 participantes, pois de acordo com o livro, essa é uma boa quantidade de participantes e atende a demanda do grupo. Os entrevistadores serão membros da equipe de IHC (Interação Humano-Computador), que com o auxílio do roteiro de perguntas irão conduzir as entrevistas. Além disso, é necessário documentar sobre os participantes do estudo, como:
+Os participantes das entrevistas serão selecionados com base no [perfil de usuário](../../AnaliseRequisitos/perfil_usuario.md) do OpenStreetMap, sendo 3 participantes, pois de acordo com o livro da Simone, essa é uma boa quantidade de participantes e atende a demanda do grupo. Os entrevistadores serão membros da equipe de IHC (Interação Humano-Computador), que com o auxílio do roteiro de perguntas irão conduzir as entrevistas. Além disso, é necessário documentar sobre os participantes do estudo, como:
 
 - Numero de participantes 
 - Critério de escolha
