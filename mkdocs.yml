@@ -127,10 +127,21 @@ nav:
         - Análise de Tarefas: Verificacao/OpenStreetMap/Entrega4/Planejamento-Avaliacao-AnaliseTarefas.md
         - PlanejAvStoryboard: Verificacao/OpenStreetMap/Entrega4/Planejamento-Avaliacao-sotoryboard.md
         - PlanejRelatoAnaliseTarefas: Verificacao/OpenStreetMap/Entrega4/Planejamento-Relato-Resultados.md
-        - PlanejRelatoStoryBoard: Verificacao\OpenStreetMap\Entrega4\Planejamento-Relato-Storyboard.md
+        - PlanejRelatoStoryBoard: Verificacao/OpenStreetMap/Entrega4/Planejamento-Relato-Storyboard.md
 
       - Entrega 5:
         - Planejamento: Verificacao/OpenStreetMap/Entrega5/0planejamento.md
+        - Relato dos Resultados do Storyboard: Verificacao/OpenStreetMap/Entrega5/1_verificacao_relato_dos_resultados_do_storyboard.md
+        - Relato dos Resultados da Análise de Tarefas: Verificacao/OpenStreetMap/Entrega5/2_verificacao_relato_dos_resultados_da_analise_de_tarefas.md
+        - Planejamento da Avaliação do Protótipo de Papel: Verificacao/OpenStreetMap/Entrega5/3_verificacao_planejamento_da_avaliacao_do_prototipo_de_papel.md
+        - Planejamento do Relato de Resultados da Avaliação do Protótipo de Papel: Verificacao/OpenStreetMap/Entrega5/4_verificacao_planejamento_do_relato_de_resultados_da_avaliacao_do_prototipo_de_papel.md 
+      
+      - Entrega 7:
+        - Planejamento: Verificacao/OpenStreetMap/Entrega7/0planejamento.md 
+        - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: Verificacao/OpenStreetMap/Entrega7/1_relato_dos_resultados_da_avaliacao_do_prototipo_de_baixa_fidelidade.md
+        - Planejamento da Avaliação do Protótipo de Alta Fidelidade: Verificacao/OpenStreetMap/Entrega7/2_verificacao_planejamento_da_avaliacao_do_prototipo_de_alta_fidelidade.md
+        - Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: Verificacao/OpenStreetMap/Entrega7/3_verificacao_planejamento_da_avaliacao_do_relato_dos_resultados_da_avaliacao_do_prototipo_de_alta_fidelidade.md
+
     - Grupo 5: 
       - Padronização da Verificação: Verificacao/grupo5/padronizacao_verificacao.md
       - Ponto de Controle 1°: Verificacao/grupo5/ponto1.md
