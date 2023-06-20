@@ -113,9 +113,13 @@ nav:
       - Entrega 2: 
         - Planejamento: Verificacao/OpenStreetMap/Entrega2/0planejamento.md
         - Perfil de Usuário: Verificacao/OpenStreetMap/Entrega2/Perfil-de-Usuario.md
+        - Personas: Verificacao/OpenStreetMap/Entrega2/personas.md
+        - Cenários: Verificacao/OpenStreetMap/Entrega2/cenarios.md
         - Aspectos Éticos: Verificacao/OpenStreetMap/Entrega2/Aspectos-Eticos.md
+        - Análise de Tarefas: Verificacao/OpenStreetMap/Entrega2/analise_tarefas.md
       - Entrega 3:
         - Planejamento: Verificacao/OpenStreetMap/Entrega3/0planejamento.md
+        - Princípios Gerais: Verificacao/OpenStreetMap/Entrega3/princípios_gerai.md
         - Guia de Estilo: Verificacao/OpenStreetMap/Entrega3/guia-estilo.md
         - Metas de usabilidade: Verificacao/OpenStreetMap/Entrega3/MetasDeUsabilidade.md
       - Entrega 4:

@@ -1,7 +1,6 @@
 # Planejamento Geral
 
 ## Introdução
-
 Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina de Interação Humano Computador.
 
 ## Objetivos
@@ -27,12 +26,13 @@ A verificação será realizada no dia 12 de junho de 2023 ao dia 19 de junho de
 <p>Tabela 1 - Atividades e cronogrma. (Fonte: Autor)</p>
 
 
-|Entrega|Avaliador|
-|-------|------|
-|1      |  |
-|2      |  | 
-|3      | Raquel | 
-|4      |  | 
+| Entrega |   Avaliador   |
+|:-------:|:-------------:|
+|    1    | [Paulo](https://github.com/PauloVictorFS)          |
+|    2    | [Daniel](https://github.com/daniel-de-sousa)       | 
+|    3    | [Raquel](https://github.com/raqueleucaria)         | 
+|    4    | [Guilherme](https://github.com/guilhermekishimoto) |
+|    5    | [Caetano](https://github.com/caeslucio)            | 
 
 Tabela 2 - Distribuição dos membros (Fonte: Autores)
 
@@ -45,7 +45,7 @@ Cada entrega possui diversos artefatos, por isso eles devem ver listados e deve-
 - [Artefato Exemplo]() - Versão X.0 na data XX/XX/XXXX. Autores: [Fulano]()
 
 ## Verificações anteriores
-Explicar a dinâmica da disciplina e mostrar o checklist feito pelo grupo par o N+1 e o feito pelo grupo N-1, para o OpenStreetMap. E relatar se será mantido ou adaptado.
+Explicar a dinâmica da disciplina e se for o caso, citar o checklist feito pelo grupo par o N+1 e o feito pelo grupo N-1, para o OpenStreetMap. E relatar se será algo mantido ou adaptado.
 
 ## Checklist
 
@@ -68,10 +68,12 @@ Os checklists foram estabelecido com base nos critérios da literatura >>>>>> CI
 </center>
 
 ### Gráfico
-Adicionar a imagem do gráfico de pizza das avaliações feitas. (Sim - Não - Incompleto)
+Adicionar a imagem do gráfico de pizza das avaliações feitas, como mostra a Imagem 1. (Sim - Não - Incompleto)
 <center>
 
 ![exemplo](../assets/img/exemplo.png)
+
+<p> Imagem 1 - Exemplo de gráfico. (Fonte: Autores) </p>
 
 </center>
 
@@ -80,16 +82,16 @@ Adicionar a imagem do gráfico de pizza das avaliações feitas. (Sim - Não - I
 - Listar observações.
   
 ## Correções
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 1, demosntra como realizaremos os ajustes no Guia de Estilo.
+Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra um exemplo.
 
 <center>
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Status|
 |-------|------|------|---------|---|--|
-|x | descreve como será corrigido |pessoaX      | pessoaY |||
-|x | descreve como será corrigido |pessoaX      | pessoaY |||
-|x | descreve como será corrigido |pessoaX      | pessoaY |||
-|x | descreve como será corrigido |pessoaX      | pessoaY |||
+| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
+| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
+| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
+| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
@@ -120,8 +122,8 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 
 
 ## Historico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                     Autor                  |                    Revisor                   |
+| :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------: | :------------------------------------------: |
 | 14/06/2023 |        16/06/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) |
 
 

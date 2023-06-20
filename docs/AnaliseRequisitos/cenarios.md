@@ -1,7 +1,7 @@
 # Introdução
 
-De acordo com o livro Interação Humano-Computador,  Simone Diniz Junqueiro Barbosa apresenta que  Cenários são narrativas textuais ou pictóricas, concretas, rica em detalhes contextuais, de uma situação de uso da aplicação envolvendo usuários, processos e dados reais ou potenciais.[1] Os cenários podem ser utilizados
-em diversas etapas do processo, com diferentes objetivos, como:
+De acordo com o livro Interação Humano-Computador[1], Simone Diniz Junqueiro Barbosa apresenta que  Cenários são narrativas textuais ou pictóricas, concretas, rica em detalhes contextuais, de uma situação de uso da aplicação envolvendo usuários, processos e dados reais ou potenciais. Os cenários podem ser utilizados em diversas etapas do processo, com diferentes objetivos, como:
+
 - Descrever uma história num domínio de atividade, visando capturar requisitos e auxiliar no entendimento
 da atividade
 - Levantar questões sobre a introdução de tecnologia
@@ -98,13 +98,14 @@ Dessa forma, será apresentado nas tabelas 1 a 6 abaixo os cenários realizados 
 
 <p>Tabela 6: Cenário 6 (Fonte: autor, 2023).</p>
 
+## Referências Bibliograficas
+> [1] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
+
 ## Bibliografia
 
 > Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
 
-> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
-.
-Edição, Editora Campus, 2010
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
 
 
@@ -112,3 +113,4 @@ Edição, Editora Campus, 2010
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 12/05/2023 |        13/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto)| [Raquel](https://github.com/raqueleucaria) |
+| 19/06/2023 |        19/06/2023        |  1.1   | Verificação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

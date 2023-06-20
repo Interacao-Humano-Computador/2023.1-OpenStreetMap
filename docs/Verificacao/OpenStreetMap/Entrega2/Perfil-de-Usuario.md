@@ -1,7 +1,7 @@
 # Perfil de Usuário
 
 ## Introdução
-Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Requisitos de Software.
+Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, a fim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Interação Humano Computador.
 
 ## Objetivos
 O objetivo deste documento é realizar a verificação do Perfil de Usuário, artefato da Entrega 2, do Grupo 4 ([OpenStreetMap](https://requisitos-de-software.github.io/2023.1-Caesb/)). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
@@ -13,30 +13,10 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 Durante as aulas das disciplinas de Interação Humano Computador, ministrada pelo professor André Barros, existiu uma atividade de se realizar a verificação dos artefatos de outro grupo, onde o grupo 3 ([Banco Central](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/)) fez a verificação dos artefatos do grupo 04, onde essa verificação será levada em conta, onde será considerado se algum ponto mencionado faz sentido está presente no checklist, sempre levanto em conta a literatura de referência da disciplina.
 
 ## Checklist
-Os checklists foram estabelecidos com base nos critérios da literatura o livro interação humano computador[4] e os pontos apontados pelo grupo 3, do [Banco Central](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/), contendo também algumas perguntas básicas para avaliar a padronização, todas sendo presentes na tabela 1, e o preenchido pode ser encontrado na tabela 2.
+Os checklists foram estabelecidos com base nos critérios da literatura o livro interação humano computador[4] e os pontos apontados pelo grupo 3, do [Banco Central](https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/), contendo também algumas perguntas básicas para avaliar a padronização, todas sendo presentes na tabela 1 já preenchida.
 
 <center>
 
-| ID| Descrição | Avaliação | Observação |
-|:-:|---|:-:|---|
-| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |||
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |||
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |||
-| 4 | A metodologia esta de acordo com o artefato analisado? |||
-| 5 | Há um claro objetivo para se realizar a coleta de dados sobre os usuários? ||||
-| 6 | Há a utilização de mais de uma técnica par a coleta de dados? ||||
-| 7 | Foi feito um estudo piloto antes de se começar a coleta de dados, para que se pudesse orientar a coleta? ||||
-| 8 | O(s) métodos foram aplicados onde se tinha usuários de fato? ||||
-| 9 | Antes de fornecer os dados, os usuários concordaram com isso? ||||
-| 10 | É apresentado os tipos de dados apresentados por Courage e Baxter no livro Interação Humano Computador[4] no capítulo 5? ||||
-| 11 | Existe uma conclusão sobre quem é o usuário do site? ||||
-| 12 | É demostrado como a conclusão do perfil vai ser usado no projeto? ||||
-
-Tabela 1 - Checklist do Perfil de Usuário (Fonte: Autor)
-
-</center>
-
-## Inspeção
 | ID| Descrição | Avaliação | Observação |
 |:-:|---|:-:|---|
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim ||
@@ -52,22 +32,25 @@ Tabela 1 - Checklist do Perfil de Usuário (Fonte: Autor)
 | 11 | Existe uma conclusão sobre quem é o usuário do site? | Sim |||
 | 12 | É demostrado como a conclusão do perfil vai ser usado no projeto? | Não |||
 
-Tabela 2 - Checklist do Perfil de Usuário Preenchido (Fonte: Autor)
+Tabela 1 - Checklist do Perfil de Usuário Preenchido (Fonte: Autor)
 
-O resultado dessa verificação pode ser visto na figura 1.
+</center>
 
+## Gráfico
+Com base no checklist feito no processo de inspeção do perfil de usuário, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 <center>
 
-<img width="300px" src="../assets/img/Perfil%20de%20Usu%C3%A1rio.png"/>
+![](../assets/img/grafico_perfil.png)
 
-<p>Figura 1 - Gráfico do perfíl de Usuário. (Fonte: Autor)</p>
+Figura 1 - Gráfico do perfil de Usuário. (Fonte: Autor)
 
 </center>
 
 ## Correções
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 3, demonstra como realizaremos os ajustes no perfil de usuário.
+O planejamento e a situação da correção dos artefatos do Perfil de Usuário será registrado na Tabela 2.
 
-<!-- <center> -->
+<center>
+
 | ID | Descrição resumida| Detalhes da correção| Responsável pela correção | Revisor | Status |
 |:--:|------|------|---------|:---:|:--:|
 | 2 | Há parte de Bibliografia apresenta a maneira incorreta de referenciar. | Adicionando a Bibliografia da maneira que o livro indica. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
@@ -79,15 +62,18 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 | 12 | Não é dito como o perfil de usuário vai ser usado. | Mostrar como o perfil foi utilizado no projeto. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
-Tabela 3 - Distribuição da Correção do Artefato (Fonte: Autor)
+Tabela 2 - Distribuição da Correção do Artefato (Fonte: Autor)
 
+</center>
+
+## Gráfico das Correções
 Depois das correções se foi verificado novamente, e o resultado pode ser visto na figura 2.
 
 <center>
 
-<img width="300px" src="../assets/img/Perfil%20de%20Usu%C3%A1rio%20Corrigido.png/>
+![](../assets/img/grafico_perfil_correcao.png)
 
-<p>Figura 2 - Gráfico do perfíl de Usuário. (Fonte: Autor)</p>
+<p>Figura 2 - Gráfico do perfil de Usuário com Correções. (Fonte: Autor)</p>
 
 </center>
 
