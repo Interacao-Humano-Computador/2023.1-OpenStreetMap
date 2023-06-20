@@ -35,9 +35,10 @@ Tabela 1: Checklist Preenchido: Ferramentas do Projeto  (Fonte: autor, 2023).
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist das ferramentas
 
+<center>
 <img src="../../assets/img/Ferramentas.PNG" ></img>
 <p>Figura 1 - Gráfico Checklist Ferramentas (Fonte: Autores)</p>
-
+</center>
 
 # Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas Ferramentas Utilizadas
@@ -78,8 +79,10 @@ Tabela 3: Checklist Preenchido Após a Correção: Ferramentas do Projeto  (Font
 ### Gráfico de erros
 A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist das ferramentas após a correção do artefato.
 
+<center>
 <img src="../../assets/img/Ferramentas-2.PNG" ></img>
 <p>Figura 2 - Gráfico Checklist Ferramentas pós Correção (Fonte: Autores)</p>
+</center>
 
 ## Bibliografia
 

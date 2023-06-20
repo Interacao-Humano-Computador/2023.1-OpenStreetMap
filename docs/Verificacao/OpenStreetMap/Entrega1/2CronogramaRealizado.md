@@ -1,4 +1,4 @@
-# Cronograma Planejado
+# Cronograma Realizado
 
 ## Introdução
 Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação do Cronograma Realizado do nosso grupo, OpenStreetMap[2], da disciplina Interação Humano Computador.
@@ -44,9 +44,10 @@ Tabela 4: Checklist Preenchido: Cronograma Realizado (Fonte: autor, 2023).
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
+<center>
 <img src="../../assets/img/CronogramaR.PNG" ></img>
 <p>Figura 1 - Gráfico Checklist Cronograma Realizado (Fonte: Autores)</p>
-
+</center>
 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. Dessa forma, a tabela 2 abaixo demosntra como realizaremos os ajustes no cronograma realizado

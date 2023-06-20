@@ -88,10 +88,10 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Status|
 |-------|------|------|---------|---|--|
-| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
-| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
-| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
-| x | descreve como será corrigido | detalhes da correção | pessoaX | pessoaY ||
+| 2 | resumo da | detalhes da correção | pessoaX | pessoaY ||
+| 3 | resumo da | detalhes da correção | pessoaX | pessoaY ||
+| 8 | resumo da | detalhes da correção | pessoaX | pessoaY ||
+| 10 | resumo da | detalhes da correção | pessoaX | pessoaY ||
 
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>

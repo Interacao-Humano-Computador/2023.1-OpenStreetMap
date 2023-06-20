@@ -48,7 +48,7 @@ A figura 1 abaixo apresenta um gráfico de pizza com o resultado da avaliação 
 
 <center>
 
-<img src="../../assets/verificacao-etapa4/planejamento-Tarefas-antes.png"></img>
+<img src="../../assets/img/planejamento-Tarefas-antes.png"></img>
 <p>Figura 1 - Gráfico Checklist Planejamento da Análise de Tarefas (Fonte: Autores)</p>
 
 </center>
@@ -109,7 +109,7 @@ A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 <center>
 
-<img src="../../assets/verificacao-etapa4/planejamento-Tarefas-depois.png"></img>
+<img src="../../assets/img/planejamento-Tarefas-depois.png"></img>
 <p>Figura 2 - Gráfico Checklist Pós Correção Planejamento da Análise de Tarefas (Fonte: Autores)</p>
 
 </center>
