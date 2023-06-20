@@ -20,7 +20,7 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 | ID  | Questão                                                                      | Resposta | Comentários |
 | :-: | ---------------------------------------------------------------------------- | :------: | ----------- |
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Incompleto| Existe um texto introdutório, porém não está completo|
-| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim|Sim|
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim||
 | 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Sim||
 |  4 | O documento apresenta a metodologia com clareza?              |  Sim        |             |
 |  5  | Foi apresentado as políticas acordadas dentro do projeto?           |    Sim      |             |
@@ -52,6 +52,33 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
+Abaixo, na tabela 3, encontra-se o checklist feito após a correção do artefato.
+<center>
+
+| ID  | Questão                                                                      | Resposta | Comentários |
+| :-: | ---------------------------------------------------------------------------- | :------: | ----------- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim| |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim||
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Sim||
+|  4 | O documento apresenta a metodologia com clareza?              |  Sim        |             |
+|  5  | Foi apresentado as políticas acordadas dentro do projeto?           |    Sim      |             |
+|  6  |O uso daquela metodologia dentro do projeto está claramente apresentado?                         |        Sim  |             |
+|  7  |  as metodologias utilizadas no projeto estão mencionadas no artefato?               |      Sim    |             |
+
+<div style="text-align: center">
+<p>
+Tabela 3: Checklist Preenchido Após a Correção: Metodologia do Projeto  (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+
+### Gráfico de erros
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist da Metodologia após a correção do artefato.
+
+<img src="../../assets/img/Ferramentas-2.PNG" ></img>
+<p>Figura 2 - Gráfico Checklist Metodologia pós Correção (Fonte: Autores)</p>
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 . Acesso em 19 de jun.2023

@@ -52,6 +52,38 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
+Abaixo, na tabela 3, encontra-se o checklist feito após a correção do artefato.
+<center>
+
+| ID  | Questão                                                                   | Resposta | Comentários |
+| :-: | ------------------------------------------------------------------------- | :------: | ----------- |
+| 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim| |
+| 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim||
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |N/A|Não há|
+| 4 | A metodologia está de acordo com o artefato analisado? |Sim| |
+|  5  | A apresentação dos sites avaliados é clara e compreensível?           |  Sim        |             |
+|  6  | Foram fornecidos os resultados de todas as avaliações dos diferentes sites? |       Sim   |             |
+|  7  | Existe uma avaliação individual para cada site?                     |   Sim       |             |
+|  8  | São apresentadas as heurísticas violadas para cada site avaliado?    |      Sim  |          |
+|  9  |  É identificado o problema principal de cada site?             |  Sim        |             |
+|  10  | O método de avaliação utilizado para cada site é descrito?             |  Sim        |             |
+|  11 | É apresentado qual site foi escolhido pelo grupo?           |  Sim        |             |
+|12| Cada integrante realizou uma avaliação individual de um site?|Sim|||
+
+<div style="text-align: center">
+<p>
+Tabela 3: Checklist Preenchido Após a Correção: Sites Analisados   (Fonte: autor, 2023).
+</p>
+</div>
+
+</center>
+
+
+### Gráfico de erros
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist dos Sites Analisados após a correção do artefato.
+
+<img src="../../assets/img/Ferramentas-2.PNG" ></img>
+<p>Figura 2 - Gráfico Checklist Sites Analisados pós Correção (Fonte: Autores)</p>
 
 
 ## Bibliografia
