@@ -55,7 +55,7 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 <center>
 
-<img src="../../assets/verificacao-etapa4/planejamento-Storyboard-antes.png"></img>
+<img src="../../assets/img/planejamento-Storyboard-antes.png"></img>
 <p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
 
 </center>
@@ -115,7 +115,7 @@ A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 <center>
 
-<img src="../../assets/verificacao-etapa4/planejamento-Storyboard-depois.png"></img>
+<img src="../../assets/img/planejamento-Storyboard-depois.png"></img>
 <p>Figura 2 - Gráfico Checklist Pós Correção Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
 
 </center>
