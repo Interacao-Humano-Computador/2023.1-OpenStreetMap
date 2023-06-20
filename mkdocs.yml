@@ -121,7 +121,10 @@ nav:
       - Entrega 4:
         - Planejamento: Verificacao/OpenStreetMap/Entrega4/0planejamento.md
         - Análise de Tarefas: Verificacao/OpenStreetMap/Entrega4/Planejamento-Avaliacao-AnaliseTarefas.md
-        - Sotryboard: Verificacao/OpenStreetMap/Entrega4/Planejamento-Avaliacao-sotoryboard.md
+        - PlanejAvStoryboard: Verificacao/OpenStreetMap/Entrega4/Planejamento-Avaliacao-sotoryboard.md
+        - PlanejRelatoAnaliseTarefas: Verificacao/OpenStreetMap/Entrega4/Planejamento-Relato-Resultados.md
+        - PlanejRelatoStoryBoard: Verificacao\OpenStreetMap\Entrega4\Planejamento-Relato-Storyboard.md
+
       - Entrega 5:
         - Planejamento: Verificacao/OpenStreetMap/Entrega5/0planejamento.md
     - Grupo 5: 
