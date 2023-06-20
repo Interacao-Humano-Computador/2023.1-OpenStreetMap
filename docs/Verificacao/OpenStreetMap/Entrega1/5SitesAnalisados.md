@@ -22,8 +22,8 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 | :-: | ------------------------------------------------------------------------- | :------: | ----------- |
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim| |
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Sim||
-| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Não condiz|Não há|
-| 4 | A metodologia esta de acordo com o artefato analisado? |Incompleto| há uma  metodologia para a escolha do site, não há uma metodologia para a escrita do artefato|
+| 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |N/A|Não há|
+| 4 | A metodologia está de acordo com o artefato analisado? |Incompleto| há uma  metodologia para a escolha do site, não há uma metodologia para a escrita do artefato|
 |  5  | A apresentação dos sites avaliados é clara e compreensível?           |  Sim        |             |
 |  6  | Foram fornecidos os resultados de todas as avaliações dos diferentes sites? |       Sim   |             |
 |  7  | Existe uma avaliação individual para cada site?                     |   Sim       |             |
@@ -40,7 +40,18 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 <p>Figura 1 - Gráfico Checklist Sites Analisados (Fonte: Autores)</p>
 
 ## Correções
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nos Sites analisados
+Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nos Sites analisados. Nesse caso o ID12 não é capaz de ser realizado mais, por já ter sido escolhido o site.
+
+<center>
+
+|ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|4 |Não há uma metodologia para a escrita do artefato |Escrever uma metodologia consistente |Paulo    | Guilherme |Ok|
+|12 |Foram realizados apenas 4 avaliações indiviudais do site |- |-    | - |-|
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
 
 
 ## Bibliografia
@@ -67,4 +78,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        20/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)

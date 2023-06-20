@@ -1,5 +1,11 @@
 # Site Escolhido
 
+## Introdução
+Esse artefato apresenta as informações do site escolhido pelo grupo após a análise dos critérios heurísticos de Nielsen analisados nas  [Avaliações Individuais](../Planejamento/Sites_Analisados.md). Dessa forma  no texto abaixo será realizado uma pequena análise dos sites analisados, dos critérios para a definição do site, dos motivos da escolha, e das informações gerais do site.
+
+## Objetivo
+O objetivo desse artefato é apresentar informações relevantes sobre o site para que no desenvolvimento dos próximos artefatos seja possível utilizar essas informações para um desenvolvimento correto do projeto.
+
 ## Sites analisados
 
 Para a escolha do site, cada integrante realizou uma avaliação de um site que se enquadrava nas possíveis escolhas para o projeto atráves das heurísticas de Nielsen. Dessa forma, Com base nisso o grupo se baseou e escolheu a que fosse de maior agrado. Sendo assim, na tabela 1 estão listados os sites escolhidos por cada integrante e, logo mais, as análises realizadas pelos mesmos.
@@ -72,3 +78,4 @@ O Site OpenStreetMap é um software livre, que permite análise e utilização d
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 20/04/2023 |        20/04/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Carla](https://github.com/ccarlaa) |
 | 17/05/2023 |        17/05/2023        |  1.1   | Correção de Alguns pontos e adicionando legendas | [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+| 18/06/2023 |        19/06/2023        |  1.2   | Ajustes de escrita  |[Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |

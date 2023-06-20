@@ -25,7 +25,7 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 |  4 | O documento apresenta a metodologia com clareza?              |  Sim        |             |
 |  5  | Foi apresentado as políticas acordadas dentro do projeto?           |    Sim      |             |
 |  6  |O uso daquela metodologia dentro do projeto está claramente apresentado?                         |        Sim  |             |
-|  7  |  as metodologias utilizadas no projeto estão mencionadas no artefato?               |          |             |
+|  7  |  as metodologias utilizadas no projeto estão mencionadas no artefato?               |      Sim    |             |
 
 <div style="text-align: center">
 <p>
@@ -42,6 +42,15 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas Metodologias
+
+</center>
+
+|ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|1 |Existe um texto introdutório, porém não está completo |Escrever um texto introdutorio completo |Paulo    | Guilherme |Ok|
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
 
 ## Bibliografia
 
@@ -66,4 +75,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 20/04/2023 |        21/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
+| 18/04/2023 |        19/04/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)

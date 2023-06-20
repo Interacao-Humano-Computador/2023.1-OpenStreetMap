@@ -20,7 +20,7 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Incompleto| Existe um texto introdutório, porém não está completo|
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? |Não|Não existem referências bibliograficas|
 | 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Incompleto|Não são chamados no texto|
-| 4 | A metodologia esta de acordo com o artefato analisado? |Sim||
+| 4 | A metodologia está de acordo com o artefato analisado? |Sim||
 |  5  |     O cronograma  Apresenta todas as atividades do ciclo da matéria?       |      Incompleto    |       Não possui os cenários   |
 |  6  |         Os Autores e revisores são diferentes para cada artefato?           |    Sim      |            |
 |  7  |        As atividades apresentam data de início e fim definidas corretamente?         |      Sim    |            |
@@ -44,7 +44,19 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 
 ## Correções
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes no Cronograma planejado
+Com base na inspeção realizada, passaremos para o processo de correção. Como o cronograma planejado foi realizado buscando ocorrer poucas modificações, e sendo uma parte desafiadora do projeto, não haverá correções no conteudo do artefato(ID4),por isso foi marcado com um "-", apenas na estrutura. Dessa forma, na tabela 2 abaixo será colocado as correções necessárias para o artefato
+
+<center>
+
+|ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|1 |Existe um texto introdutório, porém não está completo |Escrever um texto introdutorio completo |Paulo    | Guilherme |Ok|
+|2 |Não existem referências bibliografica |Adicionar referências bibliográficas |Paulo    | Guilherme |Ok|
+|3 |Tabelas Não são chamados no texto|Mencionando tabelas no texto |Paulo    | Guilherme |Ok|
+|5 |  Cronograma  Não possui os cenários  |- |-    | - |-|
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
 
 
 ## Bibliografia
@@ -73,4 +85,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        20/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)

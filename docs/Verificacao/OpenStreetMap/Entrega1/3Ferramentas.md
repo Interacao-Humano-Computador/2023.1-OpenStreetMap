@@ -42,6 +42,15 @@ A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 # Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas Ferramentas Utilizadas
 
+</center>
+
+ID |Descrição |Detalhes |Corretor|Revisor|Status|
+|-------|------|------|---------|---|--|
+|1 |Existe um texto introdutório, porém não está completo |Escrever um texto introdutorio completo |Paulo    | Guilherme |Ok|
+|3 |Tabelas Não são chamados no texto|Mencionando tabelas no texto |Paulo  | Guilherme | Ok |
+
+<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 . Acesso em 19 de jun.2023
@@ -66,4 +75,4 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        20/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
+| 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Raquel](https://github.com/raqueleucaria)
