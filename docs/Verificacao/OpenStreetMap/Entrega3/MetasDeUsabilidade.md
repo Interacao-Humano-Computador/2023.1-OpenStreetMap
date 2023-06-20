@@ -47,7 +47,7 @@ Espero que esta tabela esteja de acordo com o que você precisa.
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
 <img src="../../assets/img/MetasUsabilidade.PNG" ></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<p>Figura 1 - Gráfico Checklist Metas de usabilidade (Fonte: Autores)</p>
 
 
 

@@ -36,7 +36,7 @@ Tabela 6: Checklist Preenchido: Ferramentas do Projeto  (Fonte: autor, 2023).
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
 <img src="../../assets/img/Ferramentas.PNG" ></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<p>Figura 1 - Gráfico Checklist Ferramentas (Fonte: Autores)</p>
 
 
 # Correções

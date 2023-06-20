@@ -37,7 +37,7 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
 <img src="../../assets/img/SitesAnalisados.PNG" ></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<p>Figura 1 - Gráfico Checklist Sites Analisados (Fonte: Autores)</p>
 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nos Sites analisados

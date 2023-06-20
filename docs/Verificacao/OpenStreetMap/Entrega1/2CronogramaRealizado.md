@@ -45,7 +45,7 @@ Tabela 4: Checklist Preenchido: Cronograma Realizado (Fonte: autor, 2023).
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
 <img src="../../assets/img/CronogramaR.PNG" ></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<p>Figura 1 - Gráfico Checklist Cronograma Realizado (Fonte: Autores)</p>
 
 
 ## Correções

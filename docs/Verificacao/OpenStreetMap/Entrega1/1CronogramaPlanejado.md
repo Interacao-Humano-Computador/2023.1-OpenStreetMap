@@ -39,8 +39,8 @@ Tabela 1: Checklist preenchido: Cronograma inicial (Fonte: autor, 2023).
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
-<img src="../../assets/img/CronogramaP.PNG" ></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<img src="../../OpenStreetMap/assets/img/CronogramaP.PNG" ></img>
+<p>Figura 1 - Gráfico Checklist Cronograma planejado (Fonte: Autores)</p>
 
 
 ## Correções
