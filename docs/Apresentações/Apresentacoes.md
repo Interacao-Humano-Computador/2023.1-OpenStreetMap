@@ -44,7 +44,7 @@ Apresentação da equipe, da listas de sites avaliados, do site selecionado para
 
 <iframe width="935" height="526" src="https://www.youtube.com/embed/sFMeL3X9D50" title="Gravação entrega 5 IHC - OpenStreetMap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-## Apresentação 6
+## Apresentação 6.1
 
 ### Verificação dos artefatos da Equipe 5 - 2023.1-Alistamento.
 
@@ -60,6 +60,14 @@ Apresentação da equipe, da listas de sites avaliados, do site selecionado para
 
 <iframe width="935" height="526" src="https://www.youtube.com/embed/DJ_pqu-ho90" title="Entrega 7 - Grupo 4" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Apresentação 6.2
+
+### Verificação dos artefatos da própria Equipe - 2023.1-OpenStreetMap.
+
+[Link da Apresentação](https://www.youtube.com/watch?v=aRMAkb1XtEM)
+
+<iframe width="935" height="526" src="https://www.youtube.com/embed/aRMAkb1XtEM" title="Entrega 6.2 - Verificação dos Artefatos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 <br>
 <br>
 <br>
@@ -69,7 +77,8 @@ Apresentação da equipe, da listas de sites avaliados, do site selecionado para
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :--: | :--: | :-- | :--: | :--: |
 | 22/04/2023 | 22/04/2023 | 1.0 | Gravação do vídeo | Todos | [Guilherme](https://github.com/guilhermekishimoto) |
-| 23/04/2023 | 24/04/2023 | 1.0 | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Carla](https://github.com/ccarlaa) |
-| 23/04/2023 | 24/04/2023 | 2.0 | Edição do Vídeo | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
-| 14/05/2023 | 15/05/2023 | 3.0 | Link para a Apresentação 3 | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
-| 14/05/2023 | 15/05/2023 | 4.0 | Links das apresentações faltantes e incorporado videos | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
+| 23/04/2023 | 24/04/2023 | 1.1 | Criação do documento | [Paulo](https://github.com/PauloVictorFS) | [Carla](https://github.com/ccarlaa) |
+| 23/04/2023 | 24/04/2023 | 1.2 | Edição do Vídeo | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+| 14/05/2023 | 15/05/2023 | 1.3 | Link para a Apresentação 3 | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+| 12/06/2023 | 13/06/2023 | 2.0 | Links das apresentações faltantes e incorporação dos videos | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
+| 18/06/2023 | 19/06/2023 | 2.1 | Apresentação 6.2 | [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa) |
