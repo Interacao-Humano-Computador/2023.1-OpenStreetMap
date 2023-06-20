@@ -43,7 +43,7 @@ A figura 1 abaixo apresenta um gráfico de pizza com o resultado da avaliação 
 
 <center>
 
-<img src="../../OpenStreetMap/assets/img/RelatoResulStoryboard.PNG"></img>
+<img src="../../assets/img/RelatoResulStoryboard.PNG"></img>
 <p>Figura 1 - Gráfico Checklist Planejamento do Relato dos Resultados da Análise de Tarefas (Fonte: Autores)</p>
 
 </center>

@@ -46,9 +46,10 @@ Espero que esta tabela esteja de acordo com o que você precisa.
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
+<center>
 <img src="../../assets/img/MetasUsabilidade.PNG" ></img>
 <p>Figura 1 - Gráfico Checklist Metas de usabilidade (Fonte: Autores)</p>
-
+</center>
 
 
 ## Correções
@@ -97,8 +98,10 @@ Tabela 3: Checklist Preenchido Após a Correção: Metas de Usabilidade   (Fonte
 ### Gráfico de erros
 A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist dos Metas de Usabilidade  após a correção do artefato.
 
+<center>
 <img src="../../assets/img/MetasUsabilidade2.PNG" ></img>
 <p>Figura 2 - Gráfico Checklist Metas de Usabilidade  pós Correção (Fonte: Autores)</p>
+</center>
 
 ## Referência bibliográfica
 

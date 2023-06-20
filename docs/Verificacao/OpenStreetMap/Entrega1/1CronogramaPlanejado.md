@@ -38,10 +38,10 @@ Tabela 1: Checklist preenchido: Cronograma inicial (Fonte: autor, 2023).
 
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
-
-<img src="../../OpenStreetMap/assets/img/CronogramaP.PNG" ></img>
+<center>
+<img src="../../assets/img/CronogramaP.png" ></img>
 <p>Figura 1 - Gráfico Checklist Cronograma planejado (Fonte: Autores)</p>
-
+</center>
 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. Como o cronograma planejado foi realizado buscando ocorrer poucas modificações, e sendo uma parte desafiadora do projeto, não haverá correções no conteudo do artefato(ID4),por isso foi marcado com um "-", apenas na estrutura. Dessa forma, na tabela 2 abaixo será colocado as correções necessárias para o artefato

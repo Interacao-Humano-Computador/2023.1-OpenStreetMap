@@ -36,9 +36,10 @@ Tabela 7: Checklist de verificação: Metodologia (Fonte: autor, 2023).
 ### Gráfico de erros
 A figura 1 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Cronograma planejado
 
+<center>
 <img src="../../assets/img/metodologia.PNG" ></img>
 <p>Figura 1 - Gráfico Checklist Metodologia (Fonte: Autores)</p>
-
+</center>
 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 2, demosntra como realizaremos os ajustes nas Metodologias
