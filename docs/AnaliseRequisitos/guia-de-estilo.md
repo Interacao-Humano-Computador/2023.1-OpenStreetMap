@@ -35,18 +35,20 @@ O guia de estilo seguirá a estrutura comum adotada por Mayhew, na seguinte orga
 
 ## 1.3. Público-Alvo
 
-Este guia de estilo é direcionado aos alunos da disciplina de Interação Humano-Computador, que têm a responsabilidade de analisar o site OpenStreetMap. Assim, os podendo avançar para as próximas etapas do projeto, utilizando as diretrizes estabelecidas para o design e interação. 
+O guia de estilo funciona como uma linha de comunicação entre a equipe de design e desenvolvimento. Dessa forma, todas as pessoas ligadas a definição de requisitos até a codificação e criação da camada de apresentação são público-alvo deste documento. Assim, analistas de negócio, desenvolvedores, design, estudantes da matéria de Interação Humano Computador, ou qualquer outra pessoa que tenha conexão com OpenStreetMap ou com análise de requisitos são o alvo deste Guia de Estilo.
 
-## 1.4. Como utilizar
 
-O guia de estilo deve ser consultado sempre que decisões de projeto precisarem ser tomadas, como em casos de manutenção ou desenvolvimento de novas funcionalidades.
+## 1.4. Como utilizar e Manter 
 
-## 1.5. Como manter
+O guia de estilo deve ser consultado sempre que decisões de projeto precisarem ser tomadas, como em casos de manutenção ou desenvolvimento de novas funcionalidades. Ele foi criado para ser usado na disciplina de IHC, porém pode ser usado para demais interessados.
 
-É crucial garantir que o guia de estilo seja atualizado sempre que uma decisão de projeto que resulte em modificações ocorra. Isso assegura que o documento esteja em conformidade com o projeto atual, promovendo a padronização. Essa prática também contribui para que todos os membros da equipe estejam alinhados e tenham acesso às informações mais atualizadas.
+Qualquer alteração significativa no site deve ser adicionado ao Guia de Estilo.
+Isso assegura que o documento esteja em conformidade com o projeto atual, promovendo a padronização. Essa prática também contribui para que todos os membros da equipe estejam alinhados e tenham acesso às informações mais atualizadas.
 
 # 2. Análise do Ambiente de Trabalho
-O usuário precisa que o ambiente seja simples, com boa disposição dos elementos para que se tenha um bom entendimento dos textos e entendam como criar um ponto de preferência, rota... Além disso, é preciso implementar recursos de acessibilidade como alto contraste, libras para uma maior inclusão.
+O usuário precisa que o ambiente seja simples, com boa disposição dos elementos para que se tenha um bom entendimento dos textos e adaptado ao seu ambiente. Tendo o [Perfil de Usuário](./perfil_usuario.md), criado com base em questionários, percebemos a afinidade dos participantes com tecnologia, e como as maiores funcionalidades do site estão na versão desktop, é possível definir o ambiente de principal de trabalho do usuário como computador de mesa ou notebook.
+
+
 
 # 3. Elementos de interface
 
@@ -139,7 +141,7 @@ A **sequência de diálogos** (para feedback ou confirmação de uma operação)
 
 # Bibliografia
 
-[1] BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
+> BARBOSA, Simone; DINIZ, Bruno. Interação Humano-Computador. Editora Elsevier, Rio de Janeiro, 2010.
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |

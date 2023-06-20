@@ -1,5 +1,7 @@
 ## Introdução
-Os princípios gerais de projeto são fundamentais para o sucesso de um projeto. Eles fornecem um guia para toda a equipe envolvida no desenvolvimento da plataforma escolhida, orientando as decisões de design e as etapas de refatoração necessárias para melhorar a usabilidade e a experiência do usuário. Esses princípios estão centrados em tópicos que ajudam a criar uma plataforma eficiente e fácil de usar, sendo eles:
+Os princípios gerais de projeto são fundamentais para o sucesso de um projeto. Eles fornecem um guia para toda a equipe envolvida no desenvolvimento da plataforma escolhida, orientando as decisões de design e as etapas de refatoração necessárias para melhorar a usabilidade e a experiência do usuário. Esses princípios estão centrados em tópicos que ajudam a criar uma plataforma eficiente e fácil de usar.
+
+## Os princípios
 
 * **Correspondência com as expectativas dos usuários:** Envolve o uso de mapeamentos naturais entre variáveis mentais e físicas, bem como entre tarefas e controles no mundo real e no sistema projetado. Também é importante seguir convenções do mundo real e fornecer um feedback informativo para que os usuários possam concluir suas tarefas com sucesso.
 * **Simplicidade na estrutura das tarefas:** Reduzir a complexidade e aumentar a eficiência. Isso pode ser feito de quatro maneiras: fornecendo apoio para os usuários aprenderem e realizarem a tarefa, tornando visível o que seria invisível, automatizando parte da tarefa ou modificando sua natureza. No entanto, os designers devem ter cuidado para não tirar o controle do usuário ao automatizar demais a tarefa.
@@ -11,7 +13,8 @@ Os princípios gerais de projeto são fundamentais para o sucesso de um projeto.
 * **Conteúdo relevante e a expressão adequada:** Para atingir essa característica uma aplicação deve dar atenção a quatro máximas:</br>Qualidade - Não se deve ser mostrado nada que se tem o conhecimento de não ser verdade ou sem evidências.</br>Quantidade - Relacionada a simplicidade, envolvendo a quantidade de informação comunicada.</br>Relação - Tudo o que for informado deve ter relação clara com o momento e ser relevante para os objetivos do usuário.</br>Modo - Deve se evitar a prolixidade e ambiguidade, buscando concisão e um clareza.</br>Para atingir esse ponto uma aplicação deve se preocupar em ter uma estética minimalista, não apresentando informações que não sejam relevantes ou raramente necessárias, ou até mesmo sonegar informação. Também é necessário se preocupar em como as informações serão apresentadas, isso diz respeito a uma boa escolha de layout, cores, contraste, entre outros.
 * **Projeto para erros:** Se refere assumir que qualquer erro em potencial sera cometido, com isso em mente, a aplicação deve primeiramente evitar que o erro aconteça, caso seja possível, caso o erro aconteça, a aplicação deve ser capaz de detectá-lo e fornecer mecanismos simples e inteligíveis para tratá-lo, exibidos em linguagem simples com indicadores precisos e sugestões de uma solução ajudando o usuário a se recuperar de um erro, informando ele sobre o que ocorreu, as consequências e como reverter resultados indesejados.
 
-
+## Metodologia
+Para se verificar os princípios, foi feito um estudo de o que cada um representava e depois um estudo no site, entendendo quais pontos teriam que ser melhorados e assim escolhidos os princípios gerais.
 
 ## Princípios Gerais Utilizados
 Apesar de seguir uma série de princípios gerais de design de interação para melhorar a experiência do usuário, ainda existem algumas áreas em que o OpenStreetMap pode melhorar. Levando isso em conta, foram observados os seguintes princípios que o site pode melhorar:
@@ -40,8 +43,9 @@ O OpenStreetMap pode não ter recursos suficientes para detectar e corrigir erro
 
 ## Bibliografia
 
-> BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador e Experiência do Usuário, 1ª Edição, Capítulo 10, Editora Campus, 2010
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1 . Acesso em 19 de jun.2023
 
 |Data|Data Prevista de Revisão|Versão|Descrição|Autor|Revisor|
 |:--:|:----------------------:|:----:|:-------:|:---:|:----: |
 | 13/05/2023 | 14/05/2023 | 1.0 | Criação do Documento |[Daniel](https://github.com/daniel-de-sousa) e [Guilherme](https://github.com/guilhermekishimoto)  | [Paulo](https://github.com/PauloVictorFS) |
+| 19/06/2023 |        19/06/2023        |  1.1   | Verificação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

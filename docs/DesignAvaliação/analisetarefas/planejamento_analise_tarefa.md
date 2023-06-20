@@ -63,7 +63,7 @@ Para a entrevista podemos detalhar como uma conversa guiada com um roteiro de pe
 
 ## **I - Preparação**
 
-Para a realização da entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as personas. Para ser executada a entrevista, será utilizado um notebook com conexão com a internet. Os únicos integrantes necessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.
+Para a realização da entrevista serão realizados convites para usuários com o perfil semelhante ao traçado pelo grupo, podendo também ser utilizadas as personas, sendo 3 participantes no total, pois de acordo com o livro da Simone, essa é uma boa quantidade de participantes e atende a demanda do grupo. Para ser executada a entrevista, será utilizado um notebook com conexão com a internet. Os únicos integrantes necessários para a execução desta pesquisa serão a equipe responsável pela pesquisa, e o convidado a ser entrevistado.
 
 Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi definido uma tabela das principais tarefas do sistema para o usuário executar no site, sendo avaliado sua interação com o sistema, assim como estão descritas na <a href=#T2>Tabela 2</a>. Foram utilizados as informações coletadas na [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas) feita anteriormente, usando as metodologias de Análise Hierárquica de	Tarefas	(HTA – Hierarchical Task Analysis) e GOMS (Goals, Operators, Methods, e Selection Rules).
 
@@ -89,11 +89,28 @@ Tanto para a metodologia do percurso cognitivo quanto para a entrevista, foi def
 <br>
 
 
+
 </center>
 
-O local, data e horário da entrevista será analisado de acordo com a disponibilidade do convidado, sendo possível ser presencial ou por meio de vídeo-chamadas, deste modo não tendo ainda uma previsão fixa para ser inserida no cronograma.
+## Ferramentas
+As entrevistas serão realizadas por meio de videoconferência, utilizando o Microsoft Teams. E será utilizado o storyboard do OpenStreetMap para avaliar a usabilidade e identificar áreas de melhoria.
 
-Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T3>Tabela 3</a></i>. A sua importância e motivação estão explicitados na sessão <i><a href=#explorarPerguntas>E - Explorar Perguntas</a></i>.
+## Cronograma
+
+A seguir, na tabela 3, está o cronograma para as atividades que serão realizadas, sendo essas o teste piloto e as entrevistas com os participantes e personas.
+
+| Data       | Hora  | Local           | Entrevistador | Entrevistado  | Tarefa  |
+|------------|-------|-----------------|---------------|---------------| ---------------|
+| 21/06/2023 | 19:30 | Online - Microsoft Teams | Paulo Victor        | Guilherme Kishimoto     | Teste piloto   |
+|  21/06/2023 | 20:00 | Online - Microsoft Teams | Paulo Victor          | Pedro Henrique  | Entrevista   |
+|  21/06/2023 | 20:00 | Online - Microsoft Teams | Raquel Eucaria         | João Lucas    | Entrevista  |
+|  21/06/2023 | 20:00 | Online - Microsoft Teams | Caetano         | Pedro Paulo    | Entrevista  |
+
+<div style="text-align: center">
+<p> Tabela 3: Cronograma <br/>(Fonte: autor, 2023).</p>
+</div>
+
+Para a execução da entrevista, foi criado um roteiro padronizado para todos os participantes, conforme a <i><a href=#T3>Tabela 4</a></i>. A sua importância e motivação estão explicitados na sessão <i><a href=#explorarPerguntas>E - Explorar Perguntas</a></i>.
 
 <br>
 <br>
@@ -123,7 +140,7 @@ Para a execução da entrevista, foi criado um roteiro padronizado para todos os
 | 16.1 | Em qual tarefa? | [ ]1 [ ]2 [ ]3  [ ]4 [ ]5 |
 | 16.2 | O que você acha que deveria ser melhorado? | Dissertativa |
 
-<a href=#T3>Tabela 3</a>: Perguntas a serem executadas para a entrevista e Opções de resposta (Fonte: autor, 2023).
+<a href=#T3>Tabela 4</a>: Perguntas a serem executadas para a entrevista e Opções de resposta (Fonte: autor, 2023).
 
 </center>
 
@@ -164,3 +181,4 @@ Em adição a esses elementos, será realizado o processo de documentação, reg
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                        Autor                                         |                   Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------: |
 | 20/05/2023 |        21/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) e [Caetano](https://github.com/caeslucio) | [Daniel](https://github.com/daniel-de-sousa)|
+| 19/06/2023 |        19/06/2023        |  2.0   | Correção do documento | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|

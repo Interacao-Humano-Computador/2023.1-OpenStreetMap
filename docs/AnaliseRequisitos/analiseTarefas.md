@@ -55,6 +55,8 @@ Foram escolhidas as metodologias mais usadas para a atividade, as quais são:
 - <a href="#2">GOMS	(Goals,	Operators,	Methods, e	Selection	Rules)</a>
 <!-- - <a href="#3">ConcurTaskTrees (CTT)</a> -->
 
+Essa parte da análise das tarefas é importante para entender quais as tarefas principaís que os usuários realizam, assim, mais para frente poderão ser validadas e depois utilizadas para tomar decisões, principalmente na questão de design para poder atender melhor os usuários.
+
 
 <div id="1"></div>
 ### 1. HTA
@@ -202,3 +204,4 @@ GOAL 0: Explorar local turístico
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 07/05/2023 |        08/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa)|
 | 19/05/2023 |        20/05/2023        |  2.0   | Correção do documento | [Raquel](https://github.com/raqueleucaria) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa)|
+| 19/06/2023 |        19/06/2023        |  2.1   | Verificação do Documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

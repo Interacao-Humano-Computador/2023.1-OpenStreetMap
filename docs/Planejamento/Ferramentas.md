@@ -1,12 +1,14 @@
 # Ferramentas
 
 ## Introdução
-Ferramentas são fundamentais para aumentar a produtividade e eficiência do grupo, permitindo a execução de tarefas de forma mais eficaz e rápida.
+Ferramentas são fundamentais para aumentar a produtividade e eficiência do grupo, permitindo a execução de tarefas de forma mais eficaz e rápida. Dessa forma, o grupo decidiu definir ferramentas que serão utiizadas no desenvolvimento dos artefatos relativos a disciplina.
 
 ## Objetivo
 Esse artefato tem como objetivo apresentar as ferramentas, vistas na tabela 1, que serão utilizadas pelo grupo no desenvolvimento do projeto. A escolha das ferramentas se deu com base na intimidade do grupo com as mesmas, além da popularidade das ferramentas, o que facilita encontrar conteúdo de ajuda sobre elas.
 
 ## Ferramentas Utilizadas
+Dessa forma,
+As ferramentas escolhidas pelo grupo serão apresentadas na tabela 1 abaixo
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :----: | ----------- |
@@ -45,3 +47,4 @@ Wiki Requisitos - Planejamento - Ferramentas. Disponível em: <https://requisito
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 20/04/2023 |        20/04/2023        |  1.0   | Adição das ferramentas do projeto  | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+| 18/06/2023 |        19/06/2023        |  1.1   | Ajustes de escrita  |[Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |

@@ -10,6 +10,8 @@ Personas são definidas a partir do momento que se realiza um estudo de campo pa
 
 Isso faz com que não se tenha um usuário elástico, a partir do momento que uma persona perde essa elasticidade, é possível identificar suas habilidades, motivações e o que ela quer alcançar, tornando claro os objetivos dos usuários para que se possa ver o que o produto deve fazer ou pode deixar de fazer.
 
+Elas serão usadas mais para frente no projeto, podendo aparecer na parte de elicitação e validação de alguns artefatos, sendo que para serem utilizadas é feito a partir do método de encenação.
+
 ## Elenco de Personas
 
 Tendo em vista a fala de Courage e Baxter sobre a quantidade do elenco de personas, foram definidos que o projeto possuiria uma quantidade de 4 personas, sendo 1 primária, 2 secundárias e 1 antipersona. Essa quantidade foi escolhida para se ter personas significativas, memoráveis e que representasse bem os usuários e suas características, pois foi identificado que alguns usuários usam mais uma tarefa do que outros, então essa quantidade irá satisfazer as necessidades de se ter um grupo típicos de usuários.
@@ -122,10 +124,11 @@ Com essas caracteŕisticas definidas, se motou as quatro personas.
 
 ## Bibliografia
 
-BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador e Experiência do Usuário, 1ª Edição, Capítulo 8, Editora Campus, 2010
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1
 
 ## Histórico de Versão
 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição      |                                    Autor                                    |                Revisor                |
 | :--------: | :-----------------------: | :-----: | :--------------------: | :--------------------------------------------------------------------------: | :------------------------------------: |
 | 08/05/2023 |        08/05/2023        |   1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
+| 19/06/2023 |        19/06/2023        |  1.1   | Correção do Documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

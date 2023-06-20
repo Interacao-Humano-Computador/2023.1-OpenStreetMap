@@ -15,7 +15,7 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 ## Artefatos Verificados
 Os artefatos verificados são:
 
-- [Princípios Gerais do Projeto](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
+- [Princípios Gerais do Projeto](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/principiosGerais/) - Versão 1.0 na data 19/06/2023. Autores: [Daniel](https://github.com/daniel-de-sousa) e [Guilherme](https://github.com/guilhermekishimoto)
 - [Metas de usabilidade](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
 - [Guia de Estilo](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
 
@@ -26,8 +26,8 @@ Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2
 
 |Artefato|Responsável |
 |-------|------|
-|[Princípios Gerais do Projeto](./guia-estilo.md) |[Daniel]()|
-|[Metas de usabilidade](./guia-estilo.md) |[Paulo]()|
+|[Princípios Gerais do Projeto](./guia-estilo.md) |[Daniel](https://github.com/daniel-de-sousa)|
+|[Metas de usabilidade](./guia-estilo.md) |[Paulo](https://github.com/PauloVictorFS)|
 |[Guia de Estilo](./guia-estilo.md) | [Raquel](https://github.com/raqueleucaria) |
 
 
@@ -61,4 +61,4 @@ Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 15/06/2023 |        16/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria)  |
+| 15/06/2023 |        16/06/2023        |  1.0   | Criação do documento |  [Raquel Eucaria](https://github.com/raqueleucaria)  | [Guilherme](https://github.com/guilhermekishimoto) 

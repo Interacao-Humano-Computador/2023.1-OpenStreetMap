@@ -1,14 +1,22 @@
 # Perfil do Usuário
+## Introdução
+O perfil de usuário é uma parte importante para se desenvolver um sistema, é preciso entender quem são os usuários para que se possa concentrar os esforços para que o sistema esteja de acordo com o que eles precisam.
 
+## Objetivo
+Com as informações obtidas através do questionário, foi possível traçar o perfil dos possíveis usuários do site Open Street Map, identificando as características mais comuns entre eles, como faixa etária, nível de escolaridade e frequência de uso do site Open Street Map.
+
+Esses dados serão utilizados pelo grupo para poderem se orientar sobre quem é o usuário e como ele se comporta, a fim de que todos possam estar focados no mesmo objetivo, principalemente na tomada de decisões.
+
+Como também será parte importante na elicitação de requisitos dos usuários, poís dara vida as personas para serem utilizadas no projeto.
+
+## Metodologia
 Para traçar o perfil dos possíveis usuários do site Open Street Map, optamos por utilizar um questionário como instrumento de pesquisa. O questionário é uma técnica de coleta de dados muito utilizada em pesquisas quantitativas, pois permite obter informações sobre as características dos respondentes de forma padronizada e objetiva.
 
 O questionário foi desenvolvido com perguntas específicas sobre o uso do aplicativo, como por exemplo, se já haviam utilizado o site Open Street Map, qual a frequência de uso, quais as funcionalidades mais utilizadas, entre outras.
 
 Além disso, também foram incluídas perguntas sobre as características socioeconômicas dos possíveis usuários, como idade, gênero e escolaridade, para que pudéssemos entender melhor o perfil dos respondentes.
 
-Com as informações obtidas através do questionário, foi possível traçar o perfil dos possíveis usuários do site Open Street Map, identificando as características mais comuns entre eles, como faixa etária, nível de escolaridade e frequência de uso do site Open Street Map.
-
-## Vantagens
+### Vantagens
 
 A utilização de questionários nos traz como vantagem:
 
@@ -24,7 +32,7 @@ A utilização de questionários nos traz como vantagem:
     </li>
 </ul>
 
-## Desvantagens 
+### Desvantagens 
 
 A utilização de questionários nos traz como desvantagem:
 
@@ -50,7 +58,7 @@ Essa estratégia de divulgação do questionário em múltiplas plataformas ajud
 
 ## Planejamento
 
-Para a confecção do questionário, primeiramente foi pensado em um termo de consentimento para que os participantes tivessem ciência do que se travata a pesquisa e que seus dados seriam utilizados para o andamento da mesma. O termo pode ser lido abaixo: 
+Para a confecção do questionário, primeiramente foi pensado em um termo de consentimento para que os participantes tivessem ciência do que se travata a pesquisa e que seus dados seriam utilizados para o andamento da mesma. O termo pode ser lido na imagem 1: 
 
 <center>![](../assets//questionario/termo.png)</center>
 
@@ -144,7 +152,7 @@ e [planilha do formulário 2](https://docs.google.com/spreadsheets/d/1GgHmSVmk0l
 
 ### Resultado Geral
 
-- Faixa etária
+- Faixa etária, presentes nas imagens 2 e 3.
 
 <center>![](../assets/questionario/idade.png)</center>
 
@@ -156,7 +164,7 @@ e [planilha do formulário 2](https://docs.google.com/spreadsheets/d/1GgHmSVmk0l
 
 Como podemos ver na imagem 2 e 3, a maioria dos participantes possuem idade entre 18 a 30 anos.
 
-- País que o participante reside
+- País que o participante reside, presente na imagem 4.
 
 <center>![](../assets/questionario/pais.png)</center>
 
@@ -164,7 +172,7 @@ Como podemos ver na imagem 2 e 3, a maioria dos participantes possuem idade entr
 
 Como podemos ver na imagem 4, conseguimos abranger participantes de diversos países e, já que o formulário 1 foi divulgado em grupos brasileiros, concluímos que todas as suas respostas são de brasileiros residentes no Brasil.
 
-- Grau de escolaridade
+- Grau de escolaridade, presente nas imagens 5 e 6.
 
 <center>![](../assets/questionario/escolaridade.png)</center>
 
@@ -181,34 +189,31 @@ Como podemos ver na imagem 5 e 6, a maioria dos participantes possuem ensino sup
 Segundo os dados coletados, a maioria dos usuários atua na área de TI, como pode ser observado nas planilhas: [planilha do formulário 1](https://docs.google.com/spreadsheets/d/16ACysMkoAq0VO-ueKC4ZtjG9sz-M9lXLhcHS69W2qoI/edit?usp=sharing)
 e [planilha do formulário 2](https://docs.google.com/spreadsheets/d/1GgHmSVmk0lHrWRn2qZZEWpfEQIrxAK4iZmbRz1iAVOA/edit?usp=sharing). 
 
-- Quantidade de pessoas que usam o site
+- Quantidade de pessoas que usam o site, presentes nas imagens 7 e 8.
 
 <center>![](../assets/questionario/qtd_usuarios.png)</center>
 
-<p><center>Imagem 9: Quantidade de usuários - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 7: Quantidade de usuários - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_qtd_usuarios.png)</center>
 
-<p><center>Imagem 10: Quantidade de usuários - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 8: Quantidade de usuários - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 9 e 10, dentre os participantes, temos 16 usuários do site Open Street Map.
+Como podemos ver na imagem 7 e 8, dentre os participantes, temos 16 usuários do site Open Street Map.
 
-- Afinidade dos participantes com tecnologia
+- Afinidade dos participantes com tecnologia, presentes nas imagens 9 e 10.
 
 <center>![](../assets/questionario/afinidade.png)</center>
 
-<p><center>Imagem 11: Afinidade com Tecnologia - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 9: Afinidade com Tecnologia - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_afinidade.png)</center>
 
-<p><center>Imagem 12: Afinidade com Tecnologia - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 10: Afinidade com Tecnologia - Formulário 2 (Fonte: autor, 2023).</center></p>
 
 Como podemos ver na imagem 9 e 10, dentre os participantes, temos 16 usuários do site Open Street Map.
 
 ### Resultado dos Usuários
-
-#### Informações gerais dos usuários
-
 Nessa seção, vamos apresentar os dados dos participantes que também são usuários do site Open Street Map.
 
 - Faixa etária
@@ -227,109 +232,110 @@ A maioria dos usuários são empregados e trabalham na área de TI.
 
 A maioria dos usuários declaram que possuem afinidade com tecnologia.
 
-#### Sobre o aplicativo
+### Sobre o aplicativo
 
-- Como os usuários aprenderam a usar o aplicativo?
+- Como os usuários aprenderam a usar o aplicativo, presentes nas imagens 11 e 12
 
 <center>![](../assets/questionario/aprender.png)</center>
 
-<p><center>Imagem 13: Aprendizado do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 11: Aprendizado do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_aprender.png)</center>
 
-<p><center>Imagem 14: Aprendizado do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 12: Aprendizado do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 13 e 14, a maioria dos usuários aprenderam a usá-lo navegando pelo mesmo.
+Como podemos ver na imagem 11 e 12, a maioria dos usuários aprenderam a usá-lo navegando pelo mesmo.
 
-- Para que os usuários utilizam o site?
+- Para que os usuários utilizam o site, presentes nas imagens 13 e 14.
 
 <center>![](../assets/questionario/objetivo.png)</center>
 
-<p><center>Imagem 15: Principal Funcionalidade Utilizada - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 13: Principal Funcionalidade Utilizada - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_objetivo.png)</center>
 
-<p><center>Imagem 16: Principal Funcionalidade Utilizada - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 14: Principal Funcionalidade Utilizada - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 15 e 16, a maioria dos usuários utilizam o site para cadastrar novos pontos de referência.
+Como podemos ver na imagem 13 e 14, a maioria dos usuários utilizam o site para cadastrar novos pontos de referência.
 
-- Com que frequencia os usuários utilizam o site?
+- Com que frequencia os usuários utilizam o site, presentes na imagem 15 e 16.
 
 <center>![](../assets/questionario/frequencia.png)</center>
 
-<p><center>Imagem 17: Frequencia de Utilização - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 15: Frequencia de Utilização - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_frequencia.png)</center>
 
-<p><center>Imagem 18: Frequencia de Utilização - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 16: Frequencia de Utilização - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 17 e 18, a maioria dos usuários utilizam o site todos os dias.
+Como podemos ver na imagem 15 e 16, a maioria dos usuários utilizam o site todos os dias.
 
-- Os usuários utilizam outros sites de geolocalização?
+- Os usuários utilizam outros sites de geolocalização, presentes nas imagens 17 e 18.
 
 <center>![](../assets/questionario/sites.png)</center>
 
-<p><center>Imagem 19: Outros Sites Utilizados - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 17: Outros Sites Utilizados - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_sites.png)</center>
 
-<p><center>Imagem 20: Outros Sites Utilizados - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 18: Outros Sites Utilizados - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 19 e 20, a maioria dos usuários utilizam outros sites de geolocalização.
+Como podemos ver na imagem 17 e 18, a maioria dos usuários utilizam outros sites de geolocalização.
 
-- Os usuários acham que o aplicativo atende a suas necessidades?
+- Os usuários acham que o aplicativo atende a suas necessidades, presentes nas imagens 19 e 20.
 
 <center>![](../assets/questionario/necessidades.png)</center>
 
-<p><center>Imagem 21: Necessidades do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 19: Necessidades do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_necessidades.png)</center>
 
-<p><center>Imagem 22: Necessidades do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 20: Necessidades do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 21 e 22, a maioria dos usuários acredita que o site precisa de melhorias.
+Como podemos ver na imagem 19 e 20, a maioria dos usuários acredita que o site precisa de melhorias.
 
-- Os usuários acham que o site fácil de se utilizar?
+- Os usuários acham que o site fácil de se utilizar, presentes nas imagens 21 e 22.
 
 <center>![](../assets/questionario/usabilidade.png)</center>
 
-<p><center>Imagem 23: Experiência do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 21: Experiência do Usuário - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_usabilidade.png)</center>
 
-<p><center>Imagem 24: Experiência do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 22: Experiência do Usuário - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 23 e 24, a maioria dos usuários acredita que o site não seja fácil de se usar, principalmente para principiantes.
+Como podemos ver na imagem 21 e 22, a maioria dos usuários acredita que o site não seja fácil de se usar, principalmente para principiantes.
 
-- Como os usuários avaliam a interface?
+- Como os usuários avaliam a interface, presentes nas imagens 23 e 24
 
 <center>![](../assets/questionario/interface.png)</center>
 
-<p><center>Imagem 25: Avaliação da Interface - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 23: Avaliação da Interface - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_interface.png)</center>
 
-<p><center>Imagem 26: Avaliação da Interface - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 24: Avaliação da Interface - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 25 e 26 segundo a avaliação dos usuários, temos uma média de 3,5 para a interface numa escala de 1 a 5.
+Como podemos ver na imagem 23 e 24 segundo a avaliação dos usuários, temos uma média de 3,5 para a interface numa escala de 1 a 5.
 
-- Como os usuários avaliam o site?
+- Como os usuários avaliam o site, presentes nas imagens 25 e 26.
 
 <center>![](../assets/questionario/avaliacao.png)</center>
 
-<p><center>Imagem 27: Avaliação do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 25: Avaliação do Site - Formulário 1 (Fonte: autor, 2023).</center></p>
 
 <center>![](../assets/questionario/_avaliacao.png)</center>
 
-<p><center>Imagem 28: Avaliação do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
+<p><center>Imagem 26: Avaliação do Site - Formulário 2 (Fonte: autor, 2023).</center></p>
 
-Como podemos ver na imagem 27 e 28 segundo a avaliação dos usuários, temos uma média de 3,8 para o site de forna geral numa escala de 1 a 5.
+Como podemos ver na imagem 25 e 26 segundo a avaliação dos usuários, temos uma média de 3,8 para o site de forna geral numa escala de 1 a 5.
 
 ## Referências
 
-> BARBOSA, Simone; SILVA, Bruno. Interação humano-computador. 2. ed. Rio de Janeiro: Elsevier, 2010.
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 08/05/2023 |        08/05/2023        |  1.0   | Criação do documento | [Carla](https://github.com/ccarlaa) e [Daniel](https://github.com/daniel-de-sousa)| [Paulo](https://github.com/PauloVictorFS) |
+| 19/06/2023 |        19/06/2023        |  1.1   | Correção do Documento | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
