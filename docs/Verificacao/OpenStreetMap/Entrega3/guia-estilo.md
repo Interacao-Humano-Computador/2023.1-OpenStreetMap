@@ -65,10 +65,10 @@ Os checklists foram estabelecido com base nos critérios da literatura Guia de E
 </center>
 
 ### Gráfico
-Com base no checklist feito no processo de inspeção do Guia de Estilo, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 3.
+Com base no checklist feito no processo de inspeção do Guia de Estilo, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 <center>
 <img src="../../assets/img/grafico-guia-estilo.png"></img>
-<p>Figura 3 - Gráfico Guia de Estilo (Fonte: Autores)</p>
+<p>Figura 1 - Gráfico Guia de Estilo (Fonte: Autores)</p>
 </center>
 
 
@@ -79,21 +79,28 @@ O planejamento e a situação da correção dos artefatos do Guia de Estilo ser�
 
 |ID |Descrição |Detalhes |Corretor|Revisor|Status|
 |-------|------|------|---------|---|--|
-|2|Bibliografias/referências bibliográficas|Corrigir conforme ABNT|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|4|Metodologia|Acrescentar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|5|Princípios Gerais|Referenciar e deixar de forma explicita o uso|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|6|Os motivos dos padrões do site|Deixar explícito|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|7|Público-alvo?|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|8|Como utilizar e manter o guia|Complementar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|9|Resultado de análise|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|11|Grid |Separar o tópico|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|12|Janelas |Reduzir a quantidade|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|13|Tipografia |Definir e justificar o uso no projeto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|14|Cores |Reduzir o número de cores|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|20|Ativação|Definir e apresentar os elementos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
-|21|Vocabulário|Trazer os exemplos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|X|
+|2|Bibliografias/referências bibliográficas|Corrigir conforme ABNT|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|4|Metodologia|Acrescentar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|5|Princípios Gerais|Referenciar e deixar de forma explicita o uso|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|6|Os motivos dos padrões do site|Deixar explícito|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|7|Público-alvo?|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|8|Como utilizar e manter o guia|Complementar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|9|Resultado de análise|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|11|Grid |Separar o tópico|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|12|Janelas |Reduzir a quantidade|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|13|Tipografia |Definir e justificar o uso no projeto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|14|Cores |Reduzir o número de cores|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|20|Ativação|Definir e apresentar os elementos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|21|Vocabulário|Trazer os exemplos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
+
+## Gráfico Correções
+Depois das correções se foi verificado novamente, e o resultado pode ser visto na figura 2.
+<center>
+<img src="../../assets/img/correcoes-guia.png"></img>
+<p>Figura 2 - Gráfico Guia de Estilo com Correções (Fonte: Autores)</p>
 </center>
 
 

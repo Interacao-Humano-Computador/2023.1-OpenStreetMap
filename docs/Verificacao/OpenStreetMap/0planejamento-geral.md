@@ -80,7 +80,7 @@ Adicionar a imagem do gráfico de pizza das avaliações feitas. (Sim - Não - I
 - Listar observações.
   
 ## Correções
-Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "X" para não corrigido. A tabela 1, demosntra como realizaremos os ajustes no Guia de Estilo.
+Com base na inspeção realizada, passaremos para o processo de correção. O qual identificaremos os itens a serem corrigidos (ID), dando uma descrição resumida dele (Descrição), além de dar mais detalhes sobre a correção que deve ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela 1, demosntra como realizaremos os ajustes no Guia de Estilo.
 
 <center>
 
@@ -95,7 +95,8 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
-
+## Gráfico das correções
+- Recalcular o gráfico com as correções
 
 ## Referência bibliográfica
 
