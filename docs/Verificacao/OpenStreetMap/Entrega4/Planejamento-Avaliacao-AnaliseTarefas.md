@@ -1,4 +1,4 @@
-# Análise de Tarefas
+# Planejamento da Avaliação da Análise de Tarefas
 ## Introdução
 
 Conforme a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], a finalidade da verificação é "fornecer evidência objetiva de que o sistema ou componente do sistema satisfaz completamente seus requisitos e características especificados". Para assegurar a qualidade e a consistência dos requisitos, iremos verificar os documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Interação Humano Computador.
@@ -33,9 +33,9 @@ Os checklists foram estabelecidos com base nos critérios do livro Interação H
 | 9  | O artefato considera e aborda questões práticas relevantes para a avaliação?                                                    |      Sim     |            |
 | 10 | O artefato informa a quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade?                             |     Não      |          |
 | 11 | O perfil dos participantes foi definido?                                                                                        |  Sim         |            |
-| 12 | O artefato possui um cronograma com datas, horários e locais das tarefas a serem executadas pelos participantes?                |     Não      |     Não possui cronograma.       |
+| 12 | O artefato possui um cronograma com datas, horários e locais das tarefas a serem executadas pelos participantes?                |     Não      |           |
 | 13 | O artefato identifica e descreve as questões específicas que a avaliação das análises de tarefas deve responder?                |     Sim      |            |
-| 14 | O artefato apresenta as ferramentas que serão utilizadas na avaliação?                                                                      |    Sim       |            |
+| 14 | O artefato apresenta as ferramentas que serão utilizadas na avaliação?                                                                      |    Não       |            |
 | 15 | O artefato contempla considerações éticas importantes relacionadas à avaliação?                                  |      Sim     |            |
 | 16 | Foi realizado um teste piloto?                                                                                                  |    Não       |          |
 | 17 | O artefato apresenta os resultados obtidos com o teste piloto?                                                                  |    Não       |            |
@@ -48,8 +48,8 @@ A figura 1 abaixo apresenta um gráfico de pizza com o resultado da avaliação 
 
 <center>
 
-<img src="../../../assets/verificacao-etapa4/planejamento-Tarefas-antes.png"></img>
-<p>Figura 1 - Gráfico Checklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
+<img src="../../assets/verificacao-etapa4/planejamento-Tarefas-antes.png"></img>
+<p>Figura 1 - Gráfico Checklist Planejamento da Análise de Tarefas (Fonte: Autores)</p>
 
 </center>
 
@@ -58,11 +58,61 @@ A figura 1 abaixo apresenta um gráfico de pizza com o resultado da avaliação 
 ## Correções
 Com base na inspeção realizada, passaremos para o processo de correção. Identificaremos os itens a serem corrigidos (ID), forneceremos uma descrição resumida deles (Descrição), além de detalhar a correção a ser feita (Detalhes), definindo os responsáveis (corretor e revisor), a data da correção e o status, usando um "ok" para corrigido e "-" para não corrigido. A tabela abaixo mostra como serão realizados os ajustes no Planejamento da Análise de Tarefas.
 
-<!-- INSERIR TABELA DE CORREÇÕES -->
+<center>
+
+|ID |Descrição resumida|Detalhes da correção|Responsável pela correção|Revisor|Status|
+|-------|------|------|---------|---|--|
+| 10 | O artefato não informa a quantidade de participantes envolvidos na avaliação nem o motivo dessa quantidade |   Especificar a quantidade de participantes e o motivo dessa quantidade     | Guilherme ||-|
+| 12 | O artefato não possui um cronograma.      |  |Guilherme||-
+| 14 | Não há menção das ferramentas que serão utilizadas na avaliação |  Falar as ferramentas que serão utilizadas na avaliação.     | Guilherme ||-|
+| 16 | Não possui teste piloto. |       | Guilherme ||-|
+| 17 | Não possui teste piloto. |       | Guilherme ||-|
 
 
+Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
+
+</center>
+
+Abaixo, na tabela 3, encontra-se o checklist feito após a correção do Planejamento da Análise de Tarefas.
 
 
+<center>
+
+| ID | Pergunta                                                                                                                        | Avaliação | Observação |
+|----|---------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
+| 1  | O artefato possui uma introdução condizente com o conteúdo do texto?                                                           |    Sim       |            |
+| 2  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                                                     |      Sim     |            |
+| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes?                                                   |    Sim       |           |
+| 4  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?                   |     Sim      |            |
+| 5  | O artefato segue o Framework DECIDE?                                                                                            |    Sim       |           |
+| 6  | O artefato define claramente as metas e objetivos da avaliação?                                                                 |    Sim       |            |
+| 7  | O artefato indica quais métodos de avaliação serão utilizados?                                       |          Sim |           |
+| 8  | Os métodos escolhidos para a avaliação são apropriados?                                                                       |     Sim      |            |
+| 9  | O artefato considera e aborda questões práticas relevantes para a avaliação?                                                    |      Sim     |            |
+| 10 | O artefato informa a quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade?                             |     Sim      |          |
+| 11 | O perfil dos participantes foi definido?                                                                                        |  Sim         |            |
+| 12 | O artefato possui um cronograma com datas, horários e locais das tarefas a serem executadas pelos participantes?                |     Sim      |           |
+| 13 | O artefato identifica e descreve as questões específicas que a avaliação das análises de tarefas deve responder?                |     Sim      |            |
+| 14 | O artefato apresenta as ferramentas que serão utilizadas na avaliação?                                                                      |    Sim       |            |
+| 15 | O artefato contempla considerações éticas importantes relacionadas à avaliação?                                  |      Sim     |            |
+| 16 | Foi realizado um teste piloto?                                                                                                  |    Não       |          |
+| 17 | O artefato apresenta os resultados obtidos com o teste piloto?                                                                  |    Não       |            |
+| 18 | O artefato apresenta quais tarefas serão avaliados?                                                                          |    Sim       |           |
+| 19 | O artefato possui a mesma quantidade de tarefas em relação à quantidade de integrantes do grupo?                           |     Sim      |           |
+| 20 | O artefato descreve como os dados coletados serão analisados e utilizados?                                                      |     Sim      |            |
+
+Tabela 3 - Checklist Pós Correção do Planejamento da Avaliação da Análise de Tarefas (Fonte: Autores)
+
+</center>
+
+A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Planejamento da Análise de Tarefas após a correção.
+
+<center>
+
+<img src="../../assets/verificacao-etapa4/planejamento-Tarefas-depois.png"></img>
+<p>Figura 2 - Gráfico Checklist Pós Correção Planejamento da Análise de Tarefas (Fonte: Autores)</p>
+
+</center>
 
 ## Referência bibliográfica
 
@@ -74,9 +124,9 @@ Com base na inspeção realizada, passaremos para o processo de correção. Iden
 
 > [4] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em 17/06/2023
 
-> [5] KISHIMOTO, Guilherme. Verificação do artefato "Guia de Estilo". Repositório do Grupo OpenStreetMap da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/. Acesso em 19/06/2023
+> [5] KISHIMOTO, Guilherme. Verificação do artefato "Planejamento da Análise de Tarefas". Repositório do Grupo OpenStreetMap da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/. Acesso em 19/06/2023
 
-> [6] SANTOS, Mizael. Verificação do artefato "Guia de Estilo". Repositório do Grupo Banco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_4/plan_aval_st_g4. Acesso em 19/06/2023
+> [6] SANTOS, Mizael. Verificação do artefato "Planejamento da Análise de Tarefas". Repositório do Grupo Banco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_4/plan_aval_st_g4. Acesso em 19/06/2023
 
 
 ## Histórico de Versão

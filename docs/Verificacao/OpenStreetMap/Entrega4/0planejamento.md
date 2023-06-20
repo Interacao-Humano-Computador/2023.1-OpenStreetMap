@@ -17,7 +17,8 @@ Os artefatos verificados são:
 
 - [Planejamnto da Avaliação do Storyboard](./../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard.md) - Versão 1.0 na data 20/05/2023. Autores: [Guilherme](https://github.com/guilhermekishimoto)
 - [Planejamnto da Avaliação da Análise de Tarefas](./../../../DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_analise_tarefa.md) - Versão 1.0 na data 20/05/2023. Autores: [Guilherme](https://github.com/guilhermekishimoto)
-- [Guia de Estilo](./guia-estilo.md) - Versão 1.0 na data 04/06/2023. Autores: [Raquel Eucaria](https://github.com/raqueleucaria)
+- [Planejamento da Avaliação do Relato dos Resultados da  Análise de Tarefas](../Entrega4/Planejamento-Relato-Resultados.md) Versão 1.0 na data 20/05/2023. Autores: Guilherme
+- [Planejamento da Avaliação do Relato dos Resultados do Storyboard](../Entrega4/Planejamento-Relato-Storyboard)Versão 1.0 na data 20/05/2023. Autores: Guilherme
 
 ## Cronograma e participantes
 Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2023, será realizada a preparação, inspeção e correção de cada artefato da Entrega 4. E a realização dessas tarefas foi distribuida por artefato, conforme a Tabela 1.
