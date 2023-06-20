@@ -14,12 +14,29 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 ## Artefatos Verificados
 Os artefatos verificados são:
 
-- [O perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/) - Versão 1.0 na data 19/06/2023. Autores [Carla](https://github.com/ccarlaa) e [Daniel](https://github.com/daniel-de-sousa)
-- [Os Aspectos Éticos de Pesquisas Envolvendo Pessoas]()
-- [As personas]()
-- [Os Cenários]()
-- [Análise de tarefas]()
+- [O perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/) - Versão 1.0 na data 19/06/2023. Autores: [Carla](https://github.com/ccarlaa) e [Daniel](https://github.com/daniel-de-sousa)
+- [Os Aspectos Éticos de Pesquisas Envolvendo Pessoas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) - Versão 1.0 na data 19/06/2023. Autor: Autores: [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto)
+- [As personas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Personas/) - Versão 1.0 na data 19/06/2023. Autor: [Daniel](https://github.com/daniel-de-sousa)
+- [Os Cenários](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/cenarios/) - Versão 1.0 na data 19/06/2023. Autor: Autores: [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto)
+- [Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas/) - Versão 2.0 na data 19/06/2023. Autor: Autores: [Raquel](https://github.com/raqueleucaria) e [Guilherme](https://github.com/guilhermekishimoto)
 
+## Cronograma e Participantes
+Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2023, será realizada a preparação, inspeção e correção de cada artefato da Entrega 2. E a realização dessas tarefas foi distribuida por artefato, conforme a Tabela 1.
+
+<center>
+
+|Artefato|Responsável |
+|-------|------|
+| O Perfíl de Usuário | [Daniel](https://github.com/daniel-de-sousa) |
+| Os Aspectos Éticos de Pesquisas Envolvendo Pessoas | [Daniel](https://github.com/daniel-de-sousa) |
+| As personas | [Daniel](https://github.com/daniel-de-sousa) |
+| Os Cenários | [Daniel](https://github.com/daniel-de-sousa) |
+| Análise de tarefas | [Daniel](https://github.com/daniel-de-sousa) |
+
+
+
+<p>Tabela 1 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+</center>
 
 ## Referência bibliográfica
 
@@ -38,6 +55,6 @@ Os artefatos verificados são:
 > SERRANO, Milene, SERRANO, Maurício. Análise de Requisitos (Aula 23). UnB Gama, Brasília, 2023. Disponível no [link](../assets/referencias/Requisitos%20-%20Aula%20023.pdf).
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa)   | |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                       Autor                    |                        Revisor                     |
+| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------: | :------------------------------------------------: |
+| 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa)   | [Guilherme](https://github.com/guilhermekishimoto) |

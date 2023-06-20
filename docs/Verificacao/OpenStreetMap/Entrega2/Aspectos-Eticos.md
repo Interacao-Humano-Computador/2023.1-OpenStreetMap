@@ -35,17 +35,20 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 | 12 | Há no documento um campo de assinatura do menbro da equipe e do participante para resguardar as duas partes? | Não ||
 | 13 | É falado sobre quando e onde esse documento vai ser utilizado? | Não ||
 
-<p>Tabela 1 - Checklist dos Aspectos Éticos preenchidos. (Fonte: Autor)</p>
+<p>Tabela 1 - Checklist Aspectos Éticos. (Fonte: Autor)</p>
 
 </center>
 
 O resultado dessa verificação pode ser visto na figura 1.
 
+## Gráfico
+Com base no checklist feito no processo de inspeção dos Cenários, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
+
 <center>
 
-![](../assets/img/Aspectos%20%C3%89ticos.png)
+![](../assets/img/grafico_aspectos.png)
 
-<p>Figura 1 - Gráfico dos aspectos éticos depois da primeira verificação. (Fonte: Autor)</p>
+<p>Figura 1 - Gráfico Aspectos Éticos. (Fonte: Autor)</p>
 
 </center>
 
@@ -58,20 +61,21 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 |:--:|------|------|:---------:|:---:|:--:|
 | 2 | Há parte de Bibliografia apresenta a maneira incorreta de referenciar. | Adicionando a Bibliografia da maneira que o livro indica. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 4 | Não existe a parte da metodologia. | Colocar a parte de metodologias. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 6 | Foi citado brevemente, mas não foi explicado. | Explicar melhor os princípios e por que são importantes? | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
+| 6 | Foi citado brevemente, mas não foi explicado. | Explicar melhor os princípios e por que são importantes? | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
 | 12 | So há para o participante | Colocar um campo para a assinatura de um menbro da equipe. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 13 | Não é dito como o termo de consientimento vai ser usado. | Explicar a sua utilização. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
 <p>Tabela 2 - Distribuição da Correção do Artefato (Fonte: Autor)</p>
 </center>
-Depois das correções se foi verificado novamente, e o resultado pode ser visto na figura 2.
 
+## Gráfico das Correções
+Depois das correções se foi verificado novamente, e o resultado pode ser visto na figura 2.
 <center>
 
-![](../assets/img/Aspectos%20%C3%89ticos%20Corrigido.png)
+![](../assets/img/grafico_aspcetos_correcao.png)
 
-<p>Figura 2 - Gráfico dos aspectos éticos depois da segunda verificação. (Fonte: Autor)</p>
+<p>Figura 2 - Gráfico Aspectos Éticos com Correções. (Fonte: Autor)</p>
 
 </center>
 
