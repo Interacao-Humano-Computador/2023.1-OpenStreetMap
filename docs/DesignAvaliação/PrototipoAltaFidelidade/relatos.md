@@ -42,7 +42,8 @@ O teste piloto foi gravado e pode se visto no Iframe 1.
 | [Guilherme](#) | <span style="color: brown;">Iago</span> | 26/06/2023 | 11:30-12:00 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 | [Daniel](https://github.com/daniel-de-sousa) | <span style="color: brown;">Victório Lázaro</span> | 26/06/2023 | 09:00 - 09:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 | [Daniel](https://github.com/daniel-de-sousa) | <span style="color: brown;">Gustavo Macedo</span> | 26/06/2023 | 10:00 - 10:30 | UnB FGA | [1](), [2](), [3]() e [4]()  |
-
+| [Paulo](#) | <span style="color: brown;">Leonardo</span> | 26/06/2023 | 16:06-16:36 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
+| [Paulo](#) | <span style="color: brown;">Paulo José</span> | 26/06/2023 | 19:10-19:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 
 </center>
 
@@ -190,6 +191,72 @@ Perguntas gerais:
     - Botão de compartilhar, poderia diminuir os passos.
 
 </center>
+
+### Entrevista Leonardo Parte 1
+<iframe width="650" height="405" src="https://youtu.be/Ao9-i60lgRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Entrevista Leonardo Parte 2
+<iframe width="650" height="405" src="https://youtu.be/yz6LbC2VbqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Respostas
+
+
+
+| ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 (Cadastrar Linha) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Como você definiria a aparência visual do protótipo? | Excelente/Boa/Ruim | Boa  | Entre boa e Excelente |  Boa  | Excelente |
+| 2 | Quais elementos da interface chamaram sua atenção? | Aberta |  botão de usuário, pesquisa |Ponto marcado, Menu de edição, Botão editar | Botão da localização atual e botão de compartilhar | Menu lateral  |
+| 3 | A disposição dos elementos da interface é intuitiva? | Sim/não | Sim | Sim | Não | Sim |
+| 4 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades? | Sim/Não | Não | Não | Não | Não |
+| 5 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Sim/Não | Sim |Sim | Sim | Sim |
+| 6 | As informações apresentadas são claras e compreensíveis? | Sim/Não | Sim | Sim | Sim | Sim |
+| 7 | O fluxo de navegação entre as telas é coerente e lógico? | Sim/Não | Sim | Sim | Sim | Sim |
+| 8 | O protótipo atende às suas expectativas em relação à funcionalidade? | Sim/Não | Sim | Sim | Sim | Sim |
+| 9 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum) | Aberta | Nenhum| Nenhum |Barra lateral  poderia estar centralizada, não precisar clicar na localização atual | Nenhum |
+| 10 | Em geral, qual foi a sua experiência ao interagir com o protótipo? | Excelente/Boa/Ruim | Excelente | Excelente | Boa | Excelente |
+
+
+
+Perguntas gerais:
+
+1. O que você achou do protótipo o protótipo, no geral? 
+
+    - Condizente com o objetivo e bem intuitivo, porém tem o problema do compartilhar localização
+
+2. Você tem mais alguma sugestão para acrescentar?
+
+    Nenhuma
+
+### Entrevista Paulo José
+
+<iframe width="650" height="405" src="https://youtu.be/V4HMyOCr0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+### Respostas
+| ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 (Cadastrar Linha) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Como você definiria a aparência visual do protótipo? | Excelente/Boa/Ruim | Excelente  | Regular |  Excelente  | Bom |
+| 2 | Quais elementos da interface chamaram sua atenção? | Aberta |  Paleta de cores |Mapa mais detalhado ao clicar em editar | Marcação em azul após clicar na localização |Fazer as linhas retas  |
+| 3 | A disposição dos elementos da interface é intuitiva? | Sim/não | Sim | Não | Sim | Não |
+| 4 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades? | Sim/Não | Não | Sim , no inicio | Não | Não |
+| 5 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Sim/Não | Não há como avaliar, muito simples |Sim | Sim | Sim |
+| 6 | As informações apresentadas são claras e compreensíveis? | Sim/Não | Sim | Sim | Sim | Sim |
+| 7 | O fluxo de navegação entre as telas é coerente e lógico? | Sim/Não | Sim | Sim | Sim | Sim |
+| 8 | O protótipo atende às suas expectativas em relação à funcionalidade? | Sim/Não | Sim | Sim | Sim | Sim |
+| 9 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum) | Aberta |Melhorar a animação, muito minimalista|Que a informação fosse mais clara |Nenhum | Nenhum |
+| 10 | Em geral, qual foi a sua experiência ao interagir com o protótipo? | Excelente/Boa/Ruim | Excelente | Boa | Excelente | Boa |
+
+Perguntas gerais:
+
+1. O que você achou do protótipo o protótipo, no geral? 
+
+    - Em relação a busca de locais cumpriu o objetivo, e foi bastante lógico e intuitivo, o cadastro de ponto deixou a desejar por que ficou muito confuso, não foi destacado e fica camuflada, sem saber onde clicaria, e o cadastro de estrada é a mesma coisa. Compartilhar a localização ficou excelente e intuitivo
+
+2. Você tem mais alguma sugestão para acrescentar?
+
+   Deixar um pouco mais intuitivo o cadastro do ponto
+
 
 ## Conclusão
 ### Interpretação dos Dados
