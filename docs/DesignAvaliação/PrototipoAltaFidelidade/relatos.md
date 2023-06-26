@@ -40,17 +40,70 @@ O teste piloto foi gravado e pode se visto no Iframe 1.
 | [Raquel](#) | <span style="color: brown;">Celso</span> | 26/06/2023 | 14:00-14:30 | Teams | [1](), [2](), [3]() e [4 ]()  |
 | [Guilherme](#) | <span style="color: brown;">Pedro Henrique</span> | 26/06/2023 | 11:00-11:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 | [Guilherme](#) | <span style="color: brown;">Iago</span> | 26/06/2023 | 11:30-12:00 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
+| [Daniel](https://github.com/daniel-de-sousa) | <span style="color: brown;">Victório Lázaro</span> | 26/06/2023 | 09:00 - 09:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
+| [Daniel](https://github.com/daniel-de-sousa) | <span style="color: brown;">Gustavo Macedo</span> | 26/06/2023 | 10:00 - 10:30 | UnB FGA | [1](), [2](), [3]() e [4]()  |
 | [Paulo](#) | <span style="color: brown;">Leonardo</span> | 26/06/2023 | 16:06-16:36 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 | [Paulo](#) | <span style="color: brown;">Paulo José</span> | 26/06/2023 | 19:10-19:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
-
 
 </center>
 
 <p align="center"> Tabela 1: Exemplo participantes (Fonte: Autor).</p>
 
+Obs: No vídeo da entrevista do Victório e do Gustavo, o horário consta 13:00, porém isso se deve a um erro de sincronização com a rede para ajuste automático do horário.
 
 ## Respostas das perguntas
 O relato dos resultados deve apresentar as respostas das perguntas criadas para a [Avaliação do Protótipo de Alta](./planejamentoAltaFidelidade.md) e o feedback dos usuários ao utilizar o protótipo de alta fidelidade.
+
+### Entrevista Victório Lázaro
+
+<center>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/DsajJPAQErc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Victório Lázaro. (Fonte: Autores, 2023) </p>
+</center>
+
+### Respostas
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
+|-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
+| P01 | Como você descreveria a aparência visual do protótipo?                                       | Aberta           | Bonito, mas os botões de opções ao lado fica ruim no mapa, não fica muito em destque ou evidencia.   |
+| P02 | Quais elementos da interface chamaram sua atenção?                                           | Aberta           | Não tem nada muito escondido, da para ver todos. |
+| P03 | A disposição dos elementos da interface é intuitiva?                                         | Fechada (sim/não) | Sim .|
+| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Sim, fiquei confuso com os botões, algumas vezes não consegui ver o botão direito. |
+| P05 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Fechada (sim/não) | Sim |
+| P06 | As informações apresentadas são claras e compreensíveis?                                    | Aberta           | Sim, sempre chama atenção do que se tem que fazer. |
+| P07 | O fluxo de navegação entre as telas é coerente e lógico?                                     | Fechada (sim/não) | So um pocuo na tarefa 3, que ficou um pouco consfuso no que tinha que fazer  |
+| P08 | O protótipo atende às suas expectativas em relação à funcionalidade?                         | Aberta           | Sim. |
+| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Além dos botões, a parte da tarefa de registra ficou confusgo a mudança de tela. |
+| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa.   |
+
+<p align="center"> Tabela 1 - Perguntas Victório Lázaro </p>
+
+
+### Entrevista Gustavo Macedo
+
+<center>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/AwF09KOIsf4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Gustavo Macedo (Fonte: Autores, 2023) </p>
+</center>
+
+### Respostas
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
+|-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
+| P01 | Como você descreveria a aparência visual do protótipo?                                       | Aberta           | Agradável, com uma estrutura limpa e intuitivo, mas a fonte as vezes pode ficar um pouco pequena. |
+| P02 | Quais elementos da interface chamaram sua atenção?                                           | Aberta           | Os ícones ficaram bem intuitivos, por conta da plataforma não está poluida. |
+| P03 | A disposição dos elementos da interface é intuitiva?                                         | Fechada (sim/não) | Sim |
+| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Não, fora a questão da fonte o resto foi bem tranquilo e intuitivo. |
+| P05 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Fechada (sim/não) | Sim |
+| P06 | As informações apresentadas são claras e compreensíveis?                                    | Aberta           | Sim, ricas em informações. |
+| P07 | O fluxo de navegação entre as telas é coerente e lógico?                                     | Fechada (sim/não) | Sim |
+| P08 | O protótipo atende às suas expectativas em relação à funcionalidade?                         | Aberta           | Sim. Processamento rápido e funcionalidades que realmente são realizadas. |
+| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Fora a questão da fonte em alguns submmenus, está agradável de se utilizar. |
+| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa.   |
+
+<p align="center"> Tabela 1 - Perguntas Gustavo Macedo </p>
 
 ### Entrevista Pedro Henrique
 
@@ -59,6 +112,8 @@ O relato dos resultados deve apresentar as respostas das perguntas criadas para 
 
 <p>Iframe: Entrevista Pedro Henrique (Fonte: Autores, 2023) </p>
 </center>
+
+### Respostas
 
 | ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
 |-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
@@ -82,6 +137,8 @@ O relato dos resultados deve apresentar as respostas das perguntas criadas para 
 
 <p>Iframe: Entrevista Pedro Henrique (Fonte: Autores, 2023) </p>
 </center>
+
+### Respostas
 
 | ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
 |-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
@@ -221,3 +278,4 @@ O relato dos resultados deve apresentar um plano elaborado com base nos problema
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
 | 11/06/2023 |        12/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Guilherme](https://github.com/guilhermekishimoto) |
+| 26/06/2023 |        26/06/2023        |  1.1   | Adição das entrevistas | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Caetano](https://github.com/caeslucio) |
