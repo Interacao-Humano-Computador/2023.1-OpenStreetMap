@@ -86,13 +86,13 @@ O relato dos resultados deve apresentar as respostas das perguntas criadas para 
 | P01 | Como você descreveria a aparência visual do protótipo?                                       | Aberta           | Minimalista e um pouco confusa.    |
 | P02 | Quais elementos da interface chamaram sua atenção?                                           | Aberta           | O mapa e os widgets|
 | P03 | A disposição dos elementos da interface é intuitiva?                                         | Fechada (sim/não) | Não       |
-| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Sim, no momento de cadastrar um local e compartilhar a localização.      |
+| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Sim, no momento de cadastrar um local, cadastrar a estrada e compartilhar a localização.      |
 | P05 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Fechada (sim/não) | Sim |
 | P06 | As informações apresentadas são claras e compreensíveis?                                    | Aberta           | Estão ok, mas não excelentes. |
 | P07 | O fluxo de navegação entre as telas é coerente e lógico?                                     | Fechada (sim/não) | Sim, a de buscar locais. |
 | P08 | O protótipo atende às suas expectativas em relação à funcionalidade?                         | Aberta           | As tarefas que ele conseguiu aplicar está interessante, porém é possivel melhorar. |
-| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Cadastrar ponto e compartilhar a localização em tempo real, não conseguiu achar a funcionalidade nem aplicar elas. |
-| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa, tem funcionalidade e que podem melhorar.   |
+| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Cadastrar a estrada e compartilhar a localização em tempo real, não conseguiu achar a funcionalidade nem aplicar elas. |
+| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa, tem funcionalidades que podem melhorar.   |
 
 <p align="center"> Tabela 2 - Perguntas Iago </p>
 
