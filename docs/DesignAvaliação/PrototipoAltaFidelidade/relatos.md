@@ -26,7 +26,7 @@ O teste piloto foi gravado e pode se visto no Iframe 1.
 <center>
 <iframe width="650" height="405" src="https://www.youtube.com/embed/oL-hoVmv1W0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<p>Iframe: Entrevista Celso (Fonte: Autores, 2023) </p>
+<p>Iframe: Teste Piloto (Fonte: Autores, 2023) </p>
 </center>
 
 
