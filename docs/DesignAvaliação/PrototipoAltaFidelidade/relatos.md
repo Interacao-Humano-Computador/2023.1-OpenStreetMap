@@ -1,0 +1,108 @@
+# Relato dos Resultados
+
+## Introdução
+
+
+## Elementos do relato de resultados
+
+## Objetivo
+
+
+## Metodologia
+
+### Tarefas
+As tarefas analisadas durante a entrevista, serão:
+
+1. Buscar de local;
+2. Cadastrar de Ponto de Referência;
+3. Compartilhar localização em tempo real;
+4. Cadastrar de Estrada.
+
+## Teste Piloto
+Antes da avaliação com os participantes reais, foi realizado um teste piloto com membros da equipe de IHC. O teste piloto permitiu identificar problemas no roteiro de testes e entrevistas, sendo possível ajustar a tempo necessário do processo de condução dos testes e entrevistas. Os resultados do teste piloto serão analisados e utilizados para aprimorar o roteiro e a abordagem geral da avaliação.
+
+O teste piloto foi gravado e pode se visto no Iframe 1.
+
+<center>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/oL-hoVmv1W0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Celso (Fonte: Autores, 2023) </p>
+</center>
+
+
+## Participantes e avaliadores
+
+
+<center>
+
+| Entrevistador | Usuário         | Data       | Início-Fim | Local | Tarefa |
+| ------------- | --------------- | ---------- | ---------- | ----- | ------ |
+| [Raquel](#) | <span style="color: brown;">Celso</span> | 26/06/2023 | 14:00-14:30 | Teams | [1](), [2](), [3]() e [4 ]()  |
+
+
+</center>
+
+<p align="center"> Tabela 1: Exemplo participantes (Fonte: Autor).</p>
+
+
+## Respostas das perguntas
+O relato dos resultados deve apresentar as respostas das perguntas criadas para a [Avaliação do Protótipo de Alta](./planejamentoAltaFidelidade.md) e o feedback dos usuários ao utilizar o protótipo de alta fidelidade.
+
+
+
+### Entrevista Celso
+<center>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/XUgftS7nVok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Celso (Fonte: Autores, 2023) </p>
+</center>
+
+### Respostas
+
+| ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 Resposta 3 (Cadastrar Linha) |
+| --- | --- | --- | --- | --- | --- | --- |
+| 1 | Como você definiria a aparência visual do protótipo? | Excelente/Boa/Ruim | Excelente,  | Execelente | Excelente | Excelente |
+| 2 | Quais elementos da interface chamaram sua atenção? | Aberta | Logo, botão de usuário, pesquisa | Menu lateral, ruas já cadastradas, mapa | Menu lateral, botões da direita | menu lateral, animação do caminho  |
+| 3 | A disposição dos elementos da interface é intuitiva? | Sim/não | Sim | Sim | Sim | Sim |
+| 4 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades? | Sim/Não | Não | Não | Não | Não |
+| 5 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Sim/Não | Sim, mas podia ter animação de zoom  | Não, carregamento tem problemas | Sim | Sim |
+| 6 | As informações apresentadas são claras e compreensíveis? | Sim/Não | Sim | Sim | Sim | Sim |
+| 7 | O fluxo de navegação entre as telas é coerente e lógico? | Sim/Não | Sim | Sim | Não, poderia diminuir os passos | Sim |
+| 8 | O protótipo atende às suas expectativas em relação à funcionalidade? | Sim/Não | Sim | Sim | Sim | Sim |
+| 9 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum) | Aberta | Sim, input | Carregamento, preenchimento | Botão de compartilhar, poderia diminuir os passos | - |
+| 10 | Em geral, qual foi a sua experiência ao interagir com o protótipo? | Excelente/Boa/Ruim | Boa | Excelente | Excelente | Excelente |
+
+Perguntas gerais:
+
+1. O que você achou do protótipo o protótipo, no geral? 
+
+    - Muito bom, cumpriu o objetivo, bem intuitivo, e visualmente bonito, menus completos e bem dispostos.
+
+2. Você tem mais alguma sugestão para acrescentar?
+
+    - O mapa poderia dar ter uma animação dando um zoom quando abrisse o local;
+    - O pop-up de carregamento poderia ter uma animação mais fluida;
+    - Botão de compartilhar, poderia diminuir os passos.
+
+</center>
+
+## Conclusão
+### Interpretação dos Dados
+É importante que se tenha a presença de informações sobre como os dados coletados foram interpretados, para que se possa verificar se foram interpretados da maneira correta a fim de realmente proporcionarem informações relevantes sobre problemas com o protótipo.
+
+### Identificação de problemas
+O relato dos resultados deve documentar e caracterizar os problemas encontrados na avaliação, além de priorizar os problemas que possuam maior impacto na usabilidade e na experiência do usuário
+
+## Propostas de Correções
+O relato dos resultados deve apresentar um plano elaborado com base nos problemas identificados e nos insights obtidos, como realizar iterações de design e melhorias de prototipagem para resolver os problemas e melhorar a usabilidade
+
+## Bibliografias
+
+> BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador, 1ª Edição, Editora Campus, 2010.
+
+> Melo, Arthur de; Planejamento do Relato dos Resultados - Protótipo de Alta Fidelidade. Repositório do Grupo Bilheteria Digital de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/design-avaliacao-desenvolvimento/nivel-3/planejamento-relato-paf/>
+
+## Histórico de Versão
+| Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
+| :--: | :----------------------: | :----: | :-------: | :---: | :-----: |
+| 11/06/2023 |        12/06/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS)  | [Guilherme](https://github.com/guilhermekishimoto) |

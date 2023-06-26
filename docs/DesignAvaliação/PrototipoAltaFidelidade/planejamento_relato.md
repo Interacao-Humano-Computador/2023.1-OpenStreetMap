@@ -20,6 +20,13 @@ O relato de resultados deve apresentar quais os métodos utilizados durante o pr
 
 Também se deve conter informações sobre como esse metodo foi planjeado e como ele foi executado, apresentando questões relevantes como as tarefas que foram usadas para a avaliação e questões éticas. 
 
+### Tarefas
+As tarefas analisadas durante a entrevista, serão:
+1. Buscar de local;
+2. Cadastrar de Ponto de Referência;
+3. Compartilhar localização em tempo real;
+4. Cadastrar de Estrada.
+
 ## Participantes e avaliadores
 Deve-se registrar os entrevistatores envolvidos, usuários, local e data da entrevista e a tarefa relacionada conforme a [Análise de Tarefas](). Na tabela 1, temos o exemplo de como deve ser feito.
 
