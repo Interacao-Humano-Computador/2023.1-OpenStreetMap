@@ -38,6 +38,8 @@ O teste piloto foi gravado e pode se visto no Iframe 1.
 | Entrevistador | Usuário         | Data       | Início-Fim | Local | Tarefa |
 | ------------- | --------------- | ---------- | ---------- | ----- | ------ |
 | [Raquel](#) | <span style="color: brown;">Celso</span> | 26/06/2023 | 14:00-14:30 | Teams | [1](), [2](), [3]() e [4 ]()  |
+| [Guilherme](#) | <span style="color: brown;">Pedro Henrique</span> | 26/06/2023 | 11:00-11:30 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
+| [Guilherme](#) | <span style="color: brown;">Iago</span> | 26/06/2023 | 11:30-12:00 | UnB FGA | [1](), [2](), [3]() e [4 ]()  |
 
 
 </center>
@@ -48,6 +50,51 @@ O teste piloto foi gravado e pode se visto no Iframe 1.
 ## Respostas das perguntas
 O relato dos resultados deve apresentar as respostas das perguntas criadas para a [Avaliação do Protótipo de Alta](./planejamentoAltaFidelidade.md) e o feedback dos usuários ao utilizar o protótipo de alta fidelidade.
 
+### Entrevista Pedro Henrique
+
+<center>
+<iframe width="650" height="405" src="https://youtu.be/PL3nRNpeggc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Pedro Henrique (Fonte: Autores, 2023) </p>
+</center>
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
+|-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
+| P01 | Como você descreveria a aparência visual do protótipo?                                       | Aberta           | Interessante e minimalista    |
+| P02 | Quais elementos da interface chamaram sua atenção?                                           | Aberta           | O mapa|
+| P03 | A disposição dos elementos da interface é intuitiva?                                         | Fechada (sim/não) | Não       |
+| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Sim, no momento de cadastrar o ponto, cadastrar a estrada, ou compartilhar a localização.      |
+| P05 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Fechada (sim/não) | Sim |
+| P06 | As informações apresentadas são claras e compreensíveis?                                    | Aberta           | São claras e compreensíveis. |
+| P07 | O fluxo de navegação entre as telas é coerente e lógico?                                     | Fechada (sim/não) | Sim |
+| P08 | O protótipo atende às suas expectativas em relação à funcionalidade?                         | Aberta           | Sim. Dá pra fazer tudo que ele se propôs. |
+| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Colocar instruções, ficou um pouco vago de como fazer as coisas. |
+| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa.   |
+
+<p align="center"> Tabela 1 - Perguntas Pedro Henrique </p>
+
+### Entrevista Iago
+
+<center>
+<iframe width="650" height="405" src="https://youtu.be/dFJvkp_uZEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Iframe: Entrevista Pedro Henrique (Fonte: Autores, 2023) </p>
+</center>
+
+| ID  | Pergunta                                                                                     | Tipo de Pergunta | Resposta                      |
+|-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
+| P01 | Como você descreveria a aparência visual do protótipo?                                       | Aberta           | Minimalista e um pouco confusa.    |
+| P02 | Quais elementos da interface chamaram sua atenção?                                           | Aberta           | O mapa e os widgets|
+| P03 | A disposição dos elementos da interface é intuitiva?                                         | Fechada (sim/não) | Não       |
+| P04 | Você encontrou dificuldades ao navegar pelas diferentes telas e funcionalidades?            | Aberta           | Sim, no momento de cadastrar um local, cadastrar a estrada e compartilhar a localização.      |
+| P05 | As interações e animações presentes no protótipo são adequadas e contribuem para a experiência do usuário? | Fechada (sim/não) | Sim |
+| P06 | As informações apresentadas são claras e compreensíveis?                                    | Aberta           | Estão ok, mas não excelentes. |
+| P07 | O fluxo de navegação entre as telas é coerente e lógico?                                     | Fechada (sim/não) | Sim, a de buscar locais. |
+| P08 | O protótipo atende às suas expectativas em relação à funcionalidade?                         | Aberta           | As tarefas que ele conseguiu aplicar está interessante, porém é possivel melhorar. |
+| P09 | Qual aspecto do protótipo você considera que precisa de melhorias e por quê? (se tiver algum)                 | Aberta           | Cadastrar a estrada e compartilhar a localização em tempo real, não conseguiu achar a funcionalidade nem aplicar elas. |
+| P10 | Em geral, qual foi a sua experiência ao interagir com o protótipo?                           | Aberta           | Boa, tem funcionalidades que podem melhorar.   |
+
+<p align="center"> Tabela 2 - Perguntas Iago </p>
 
 
 ### Entrevista Celso
@@ -59,7 +106,7 @@ O relato dos resultados deve apresentar as respostas das perguntas criadas para 
 
 ### Respostas
 
-| ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 Resposta 3 (Cadastrar Linha) |
+| ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 (Cadastrar Linha) |
 | --- | --- | --- | --- | --- | --- | --- |
 | 1 | Como você definiria a aparência visual do protótipo? | Excelente/Boa/Ruim | Excelente,  | Execelente | Excelente | Excelente |
 | 2 | Quais elementos da interface chamaram sua atenção? | Aberta | Logo, botão de usuário, pesquisa | Menu lateral, ruas já cadastradas, mapa | Menu lateral, botões da direita | menu lateral, animação do caminho  |
