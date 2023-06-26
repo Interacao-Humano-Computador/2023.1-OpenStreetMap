@@ -20,7 +20,7 @@ Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados 
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios da literatura Guia de Estilos BI[4], Style Guide[5], Estilos de Interação[6]. E como citado, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[7] e pelo Grupo 3, Banco Central[8]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md).
+Os checklists foram estabelecido com base nos critérios da literatura Guia de Estilos BI[4], Style Guide[5], Estilos de Interação[6]. E como citado, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[7] e pelo Grupo 3, Banco Central[8]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md), o checklist do Guia de Estilo é apresentado na Tabela 1. 
 
 <center>
 <!-- ADICIONAR O CHECKLIST OU OS CHECKLISTS DA ENTREGA REFERENTE -->
@@ -35,17 +35,17 @@ Os checklists foram estabelecido com base nos critérios da literatura Guia de E
 |7|É apresentado e definido o público-alvo?|Incompleto|Por mas que complemente na introdução, falta jogar para a seção de público-alvo
 |8|As informações de como utilizar e manter o guia são bem apresentadas? |Incompleto|Muito simples|
 |9|O resultado de análise é apresentado? [²]()|Incompleto|Muito simples, falta linkar com outros artefatos|
-|10|Dos elementos de interface, a **disposição espacial** é apresentada de forma correta? [³]() |Sim|-|
-|11|Dos elementos de interface, a **grid** é apresentada de forma correta? [⁴]() |Incompleto|Separar a grid da disposição ou explicar melhor no texto|
-|12|Dos elementos de interface, a **janelas** é apresentada de forma correta? [⁵]() |Não|Muitas janelas que poderiam ser reduzidas|
-|13|Dos elementos de interface, a **tipografia** é apresentada de forma correta? [⁶]()|Não|Não é justificado|
-|14|Dos elementos de interface, as **cores** são apresentadas de forma correta? [⁷]() |Não|Uso de muitas cores|
-|15|Dos elementos de interação, os **estilos de interação** são apresentados de forma correta? [⁸]()|Sim|-|
-|16|Dos elementos de interação, a **seleção de estilo** é apresentada de forma correta? [⁹] |Sim|-|
-|17|Dos elementos de interação, os **aceleradores** são apresentados de forma correta? [¹⁰]() |Sim|-|
-|18|Dos elementos de ação, o **preenchimento de campos** é apresentado de forma correta? [¹¹]()|Não|Não foi atribuido as melhorias|
-|19|Dos elementos de ação, a **seleção** é apresentada de forma correta? [¹²]() |Sim|-|
-|20|Dos elementos de ação, a **ativação** é apresentada de forma correta? [¹³]() |Não|Não foi apresentado|
+|10|Dos elementos de interface, a disposição espacial é apresentada de forma correta? [³]() |Sim|-|
+|11|Dos elementos de interface, a grid é apresentada de forma correta? [⁴]() |Incompleto|Separar a grid da disposição ou explicar melhor no texto|
+|12|Dos elementos de interface, a janelas é apresentada de forma correta? [⁵]() |Não|Muitas janelas que poderiam ser reduzidas|
+|13|Dos elementos de interface, a tipografia é apresentada de forma correta? [⁶]()|Não|Não é justificado|
+|14|Dos elementos de interface, as cores são apresentadas de forma correta? [⁷]() |Não|Uso de muitas cores|
+|15|Dos elementos de interação, os estilos de interação são apresentados de forma correta? [⁸]()|Sim|-|
+|16|Dos elementos de interação, a seleção de estilo é apresentada de forma correta? [⁹]() |Sim|-|
+|17|Dos elementos de interação, os aceleradores são apresentados de forma correta? [¹⁰]() |Sim|-|
+|18|Dos elementos de ação, o preenchimento de campos é apresentado de forma correta? [¹¹]()|Não|Não foi atribuido as melhorias|
+|19|Dos elementos de ação, a seleção é apresentada de forma correta? [¹²]() |Sim|-|
+|20|Dos elementos de ação, a ativação é apresentada de forma correta? [¹³]() |Não|Não foi apresentado|
 |21|Os vocabulários e padrões são bem apresentados? [¹⁴]() |Incompleto|Exemplificar melhor|
 
 
@@ -108,10 +108,10 @@ O planejamento e a situação da correção dos artefatos do Guia de Estilo ser�
 |7|Público-alvo?|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
 |8|Como utilizar e manter o guia|Complementar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
 |9|Resultado de análise|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
-|11|Grid |Separar a grid da disposição ou explicar melhor no texto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
-|12|Janelas |Reduzir a quantidade|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
-|13|Tipografia |Definir e justificar o uso no projeto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
-|14|Cores |Reduzir o número de cores|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|11|Grid |Separar a grid da disposição ou explicar melhor no texto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|12|Janelas |Reduzir a quantidade|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|13|Tipografia |Definir e justificar o uso no projeto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
+|14|Cores |Reduzir o número de cores|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
 |19|Preenchimento|Apresentar melhorias ou se é mantido|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |20|Ativação|Definir e apresentar os elementos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |21|Vocabulário|Trazer os exemplos|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
@@ -124,7 +124,7 @@ As atualizações no processo de correção do Guia de Estilo, são:
 
 <!-- - xx/xx/xxxx - Correção da bibliográfia (ID 2) - Projeto 50% correto. -->
 - 19/06/2023 - ID 2, 7, 8, 9 - Projeto 55% correto, 35% incorreto e 10% imcompleto.
-
+- 26/06/2023 - ID 11, 12, 13, 14 - Projeto 75% correto, 20% incorreto e 10% imcompleto.
 
 
 
@@ -163,3 +163,4 @@ As atualizações no processo de correção do Guia de Estilo, são:
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)  |
 | 25/06/2023 |        26/06/2023        |  2.0   | Correção conforme novo modelo |  [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)  |
+| 26/06/2023 |        27/06/2023        |  3.0   | Atualização das correções |  [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)  |
