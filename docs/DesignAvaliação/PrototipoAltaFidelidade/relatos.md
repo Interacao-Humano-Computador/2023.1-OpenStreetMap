@@ -136,10 +136,10 @@ Perguntas gerais:
 </center>
 
 ### Entrevista Leonardo Parte 1
-<iframe width="650" height="405" src="https://youtu.be/Ao9-i60lgRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/Ao9-i60lgRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Entrevista Leonardo Parte 2
-<iframe width="650" height="405" src="https://youtu.be/yz6LbC2VbqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/yz6LbC2VbqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 ### Respostas
@@ -173,8 +173,7 @@ Perguntas gerais:
 
 ### Entrevista Paulo José
 
-<iframe width="650" height="405" src="https://youtu.be/V4HMyOCr0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+<iframe width="650" height="405" src="https://www.youtube.com/embed/V4HMyOCr0Ls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Respostas
 | ID | Perguntas | Descrição | Resposta 1 (Busca) | Resposta 2 (Cadastrar Ponto) | Resposta 3 (Compartilharf local em tempo real) | Resposta 4 (Cadastrar Linha) |
