@@ -17,18 +17,6 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 
 Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados pelo grupo 3, mas principalmente baseando-se nas literaturas de referência. Assim, um novo checklist foi criado para a avaliação do nosso próprio guia de estilo.
 
-<!-- <center>
-<img src="../../assets/img/guiaG4.png"></img>
-
-<p>Figura 1 - Checklist Guia de Estilo - Grupo 4 (Fonte: Autores)</p>
-</center>
-
-<center>
-<img src="../../assets/img/guiaG3.png"></img>
-
-<p>Figura 2 - Checklist Guia de Estilo - Grupo 3 (Fonte: Autores)</p>
-</center> -->
-
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
@@ -41,28 +29,63 @@ Os checklists foram estabelecido com base nos critérios da literatura Guia de E
 | 1 | O artefato possui uma introdução condizente com o conteúdo do texto? |Sim| -|
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Não | - |
 | 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? |Sim  |-|
-| 4 | A metodologia esta de acordo com o artefato analisado? | Não | Não possui |
+| 4 | A metodologia esta de acordo com o artefato analisado? | N/A | Não se aplica |
 |5|É apresentado como os princípios Gerais serão adicionados ao trabalho? |Não|Não foi explicitado |
 |6|Os motivos de manter ou não os padrões do site, foram apresentados e bem justificados? |Não|Não foi explicitado |
-|7|É apresentado e definido o público-alvo? <br> (Pessoas ligadas com a definição de requisitos até a codificação e criação da camada de apresentação - analistas de negócio, desenvolvedores, design, estudantes da matéria de IHC...) |Incompleto|Por mas que complemente na introdução, falta jogar para a seção de público-alvo|
+|7|É apresentado e definido o público-alvo?|Incompleto|Por mas que complemente na introdução, falta jogar para a seção de público-alvo
 |8|As informações de como utilizar e manter o guia são bem apresentadas? |Incompleto|Muito simples|
-|9|O resultado de análise é apresentado? <br> (Fazendo a descrição do ambiente de trabalho do usuário e ligando com artefatos anteriores, ex: personas) |Incompleto|Muito simples, falta linkar com putros artefatos|
-|10|Dos elementos de interface, a **disposição espacial** é apresentada de forma correta? <br> (Uso de uma página por assunto, sem rolagem de tela, acoplando todos os dados necessários) |Sim|-|
-|11|Dos elementos de interface, a **grid** é apresentada de forma correta? <br> (criadas pensando em manter a padronização da interface, como o alinhamento) |Incompleto|Separar a grid da disposição|
-|12|Dos elementos de interface, a **janelas** é apresentada de forma correta? <br> (Se a quantidade de janelas esta em uma quantidade boa, sem excesso. Se elas são ligadas entre si...) |Não|Muitas janelas que poderiam ser reduzidas|
-|13|Dos elementos de interface, a **tipografia** é apresentada de forma correta? <br> (Se a escolha da tipografia é apresentada e justificada para o projeto) |Não|Não é justificado|
-|14|Dos elementos de interface, as **cores** são apresentadas de forma correta? <br> (Se foram pensadas evitando excessos e trabalhando com tons e sombra) |Não|Uso de muitas cores|
-|15|Dos elementos de interação, os **estilos de interação** são apresentados de forma correta? (menu, manipulação direta, formulário...)|Sim|-|
-|16|Dos elementos de interação, a **seleção de estilo** é apresentada de forma correta? <br> (organizada, estruturada, com elementos fáceis de associar e distintos uns dos outros) |Sim|-|
-|17|Dos elementos de interação, os **aceleradores** são apresentados de forma correta? <br> (atalhos que prevê ações e projetado a erros) |Sim|-|
-|18|Dos elementos de ação, o **preenchimento de campos** é apresentado de forma correta? <br>(torna a interação mais produtiva possível) |Sim|-|
-|19|Dos elementos de ação, a **seleção** é apresentada de forma correta?<br> (botões funcionais, bem espaçados, botões com conteúdo crítico longe de um botões muito usuais) |Sim|-|
-|20|Dos elementos de ação, a **ativação** é apresentada de forma correta?<br> (hiperlinks - torna a interação mais produtiva possível de forma organizada, estruturada) |Não|Não foi apresentado|
-|21|Os vocabulários e padrões são bem apresentados?<br> (Terminologia, tipos de tela, sequências de diálogos) |Incompleto|Exemplifica melhor|
+|9|O resultado de análise é apresentado? [²]()|Incompleto|Muito simples, falta linkar com outros artefatos|
+|10|Dos elementos de interface, a **disposição espacial** é apresentada de forma correta? [³]() |Sim|-|
+|11|Dos elementos de interface, a **grid** é apresentada de forma correta? [⁴]() |Incompleto|Separar a grid da disposição ou explicar melhor no texto|
+|12|Dos elementos de interface, a **janelas** é apresentada de forma correta? [⁵]() |Não|Muitas janelas que poderiam ser reduzidas|
+|13|Dos elementos de interface, a **tipografia** é apresentada de forma correta? [⁶]()|Não|Não é justificado|
+|14|Dos elementos de interface, as **cores** são apresentadas de forma correta? [⁷]() |Não|Uso de muitas cores|
+|15|Dos elementos de interação, os **estilos de interação** são apresentados de forma correta? [⁸]()|Sim|-|
+|16|Dos elementos de interação, a **seleção de estilo** é apresentada de forma correta? [⁹] |Sim|-|
+|17|Dos elementos de interação, os **aceleradores** são apresentados de forma correta? [¹⁰]() |Sim|-|
+|18|Dos elementos de ação, o **preenchimento de campos** é apresentado de forma correta? [¹¹]()|Sim|-|
+|19|Dos elementos de ação, a **seleção** é apresentada de forma correta? [¹²]() |Sim|-|
+|20|Dos elementos de ação, a **ativação** é apresentada de forma correta? [¹³]() |Não|Não foi apresentado|
+|21|Os vocabulários e padrões são bem apresentados? [¹⁴]() |Incompleto|Exemplificar melhor|
 
 
 <p>Tabela 1 - Checklist Guia de Estilo (Fonte: Autores)</p>
 </center>
+
+ [¹]() Público-alvo são as pessoas ligadas com a definição de requisitos até a codificação e criação da camada de apresentação - analistas de negócio, desenvolvedores, design, estudantes da matéria de IHC...
+
+ [²]() A descrição do ambiente de trabalho do usuário e ligando com artefatos anteriores, ex: personas.
+
+ [³]() Distribuição e organização dos elementos, evitando a rolagem de tela, acoplando todos os dados necessários.
+
+ [⁴]() Tamanho e espaçamento dos elementos, são criadas pensando em manter a padronização da interface, como o alinhamento.
+ 
+ [⁵]() Se a quantidade de janelas esta em uma quantidade boa, sem excesso. Se elas são ligadas entre si...
+
+ [⁶]() Se a escolha da tipografia é apresentada e justificada para o projeto.
+ 
+ [⁷]() Se foram pensadas evitando excessos e trabalhando com tons e sombra.
+ 
+ [⁸]() Menu, manipulação direta, formulário...
+
+ [⁹]() Organizada, estruturada, com elementos fáceis de associar e distintos uns dos outros.
+ 
+ [¹⁰]() Atalhos que prevê ações e projetado a erros.
+
+ [¹¹]() Torna a interação mais produtiva possível. 
+
+ [¹²]() Botões funcionais, bem espaçados, botões com conteúdo crítico longe de um botões muito usuais.
+
+ [¹³]() Hiperlinks que tornam a interação mais produtiva possível de forma organizada, estruturada.
+
+ [¹⁴]() Terminologia, tipos de tela, sequências de diálogos...
+
+
+
+
+
+
+
 
 ### Gráfico
 Com base no checklist feito no processo de inspeção do Guia de Estilo, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
@@ -80,13 +103,12 @@ O planejamento e a situação da correção dos artefatos do Guia de Estilo ser�
 |ID |Descrição |Detalhes |Corretor|Revisor|Status|
 |-------|------|------|---------|---|--|
 |2|Bibliografias/referências bibliográficas|Corrigir conforme ABNT|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
-|4|Metodologia|Acrescentar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |5|Princípios Gerais|Referenciar e deixar de forma explicita o uso|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |6|Os motivos dos padrões do site|Deixar explícito|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |7|Público-alvo?|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
 |8|Como utilizar e manter o guia|Complementar|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
 |9|Resultado de análise|Complementar e ligar com artefatos anteriores do projeto como personas e questionário|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|ok|
-|11|Grid |Separar o tópico|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
+|11|Grid |Separar a grid da disposição ou explicar melhor no texto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |12|Janelas |Reduzir a quantidade|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |13|Tipografia |Definir e justificar o uso no projeto|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
 |14|Cores |Reduzir o número de cores|[Raquel](https://github.com/raqueleucaria)|[Caetano](https://github.com/caeslucio)|-|
@@ -96,12 +118,12 @@ O planejamento e a situação da correção dos artefatos do Guia de Estilo ser�
 <p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
-## Gráfico Correções
-Depois das correções se foi verificado novamente, e o resultado pode ser visto na figura 2.
-<center>
-<img src="../../assets/img/correcoes-guia.png"></img>
-<p>Figura 2 - Gráfico Guia de Estilo com Correções (Fonte: Autores)</p>
-</center>
+### Atualização
+As atualizações no processo de correção do Guia de Estilo, são:
+
+<!-- - xx/xx/xxxx - Correção da bibliográfia (ID 2) - Projeto 50% correto. -->
+- 19/06/2023 - ID 2, 7, 8, 9 - Projeto 60% correto, 30% incorreto e 10% imcompleto.
+
 
 
 ## Referência bibliográfica
@@ -138,3 +160,4 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 18/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)  |
+| 25/06/2023 |        26/06/2023        |  2.0   | Correção conforme novo modelo |  [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio)  |
