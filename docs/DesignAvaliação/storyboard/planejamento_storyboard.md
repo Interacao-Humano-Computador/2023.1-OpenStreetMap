@@ -87,6 +87,14 @@ Na figura 2, podemos ver o storyboard de buscar locais turísticos.
 <p> Figura 2: Storyboard buscar locais turísticos <br/>(Fonte: autor, 2023).</p>
 </div>
 
+Na figura 3, podemos ver o storyboard cadastro de ponto de referência.
+<center>
+
+![](../../assets/storyboard/story-ponto.jpg)
+<p> Figura 3: Storyboard Cadastro de Ponto de Referência <br/>(Fonte: Raquel, 2023).</p>
+
+</center>
+
 ## Interpretação (E)
 
 Após a conclusão das entrevistas, serão analisados os resultados coletados. A interpretação levará em consideração os comentários dos participantes, identificando tendências e padrões. Serão destacadas as principais áreas de melhoria e fornecidas recomendações para aprimorar o storyboard do OpenStreetMap com base nos insights obtidos durante a avaliação.
