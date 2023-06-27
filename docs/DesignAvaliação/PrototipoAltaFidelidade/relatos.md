@@ -30,18 +30,6 @@ As tarefas analisadas durante a entrevista, serão:
 3. Compartilhar localização em tempo real;
 4. Cadastrar de Estrada.
 
-## Teste Piloto
-Antes da avaliação com os participantes reais, foi realizado um teste piloto com membros da equipe de IHC. O teste piloto permitiu identificar problemas no roteiro de testes e entrevistas, sendo possível ajustar a tempo necessário do processo de condução dos testes e entrevistas. Os resultados do teste piloto serão analisados e utilizados para aprimorar o roteiro e a abordagem geral da avaliação.
-
-O teste piloto foi gravado e pode se visto no Vídeo 1.
-
-<center>
-<iframe width="650" height="405" src="https://www.youtube.com/embed/kbn4mlbO_WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<p>Vídeo 1: Teste Piloto (Fonte: autores, 2023). </p>
-</center>
-
-
 ## Participantes e avaliadores
 
 
@@ -62,6 +50,29 @@ O teste piloto foi gravado e pode se visto no Vídeo 1.
 </center>
 
 Obs: No vídeo da entrevista do Victório e do Gustavo, o horário consta 13:00, porém isso se deve a um erro de sincronização com a rede para ajuste automático do horário.
+
+
+## Teste Piloto
+O teste piloto foi realizado com a integrante Raquel Eucaria, sexta-feira (23/06/2023) via teams. A partir do teste piloto foi possível validar as ferramentas para execução da avaliação e o fluxo do protótipo. A gravação está disponível no Vídeo 1. 
+
+<center>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/kbn4mlbO_WE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<p>Vídeo 1: Teste Piloto (Fonte: autores, 2023). </p>
+</center>
+
+## Protótipo de Alta Fidelidade 
+  
+Os protótipos de Alta Fidelidade utilizados, foram criados na plataforma [Figma](https://www.figma.com) pela integrande Raquel Eucaria, e encontra-se no Iframe 1. 
+  
+<center>
+<iframe width="1000vw" height="400vh" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F24dVSheLxA9NKmafFTTJfT%2FProt%25C3%25B3tipo---OpenStreetMap%3Fnode-id%3D109-9%26starting-point-node-id%3D109%253A9%26mode%3Ddesign" allowfullscreen></iframe>
+<p> 
+Iframe 1: Protótipo de Alta Fidelidade (Fonte: Autores, 2023). 
+</p> 
+</center>
+
+
 
 ## Respostas das perguntas
 
@@ -334,17 +345,7 @@ Perguntas gerais:
 
 ## Conclusão
 
-### Interpretação dos Dados
-
-É importante que se tenha a presença de informações sobre como os dados coletados foram interpretados, para que se possa verificar se foram interpretados da maneira correta a fim de realmente proporcionarem informações relevantes sobre problemas com o protótipo.
-
-### Identificação de problemas
-
-O relato dos resultados deve documentar e caracterizar os problemas encontrados na avaliação, além de priorizar os problemas que possuam maior impacto na usabilidade e na experiência do usuário.
-
-## Propostas de Correções
-
-O relato dos resultados deve apresentar um plano elaborado com base nos problemas identificados e nos insights obtidos, como realizar iterações de design e melhorias de prototipagem para resolver os problemas e melhorar a usabilidade.
+Em geral pode ser observado que o protótipo está contemplando as atividades normalmente feitas pelos usuários, e não tiveream muitos problemas com sua realização, apemas apresentando alguns pontos que podem ser melhorados, como a disposição dos elementos, e a questão das fontes de alguns sub-menus.
 
 ## Bibliografias
 
