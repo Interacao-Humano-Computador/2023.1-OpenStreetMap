@@ -8,8 +8,8 @@ Esse artefato pretende seguir o [Planejamento do Relato dos Resultados da Avalia
 - [Metodologia](#metodologia)
 - [Participantes e avaliadores](#participantes-e-avaliadores)
 - [Teste Piloto](#teste-piloto)
-- [Protótipos de Alta Fidelidade](#prototipo-de-Alta-Fidelidade)
-- [Respostas das perguntas e Gravações](#respostas-das-perguntas-gravcoes)
+- [Protótipos de Alta Fidelidade](#prototipo-de-alta-fidelidade)
+- [Respostas das perguntas e Gravações](#respostas-das-perguntas-e-gravacoes)
 - [Conclusão](#conclusao)
 
 ## Objetivo
@@ -344,16 +344,19 @@ O relato dos resultados deve apresentar as respostas das perguntas criadas para 
 
 
 ## Conclusão
-Em geral pode ser observado que o protótipo está contemplando as atividades normalmente feitas pelos usuários, e não tiveream muitos problemas com sua realização, apenas apresentando alguns pontos que podem ser melhorados.
+
+Em geral pode ser observado que o protótipo está contemplando as atividades normalmente feitas pelos usuários, e não tiveram muitos problemas com sua realização, apenas apresentando alguns pontos que podem ser melhorados.
+
 ### Interpretação dos Dados e Identificação de Problemas
 
 Observamos que a tarefa é cumprida, porém algumas tarefas tiveram uma maior resposta negativa quanto ao ser intuitivo. Principalmente a de compartilhar a localização em tempo real, onde o entrevistado Iago não conseguiu finalizar e os entrevistados Celso e Leonardo acham que um dos passos era desnecessário. 
 
-As tarefas de cadastrar ponto e estrada, foi um tanto divergente as respostas, alguns consideraram muito bom e bem intuitivo, já outros consideraram o contrário. Entretando, os usuários com mais conhecimentos de tecnologia tiveram respostas positivas, assim, consideramos uma boa tarefa, sendo esse, nosso maior público-alvo.
+As tarefas de cadastrar ponto e estrada, foi um tanto divergente as respostas, alguns consideraram muito bom e bem intuitivo, já outros consideraram o contrário. Entretanto, os usuários com mais conhecimentos de tecnologia tiveram respostas positivas, assim, consideramos uma boa tarefa, sendo esse, nosso maior público-alvo.
 
 Quanto a parte visual, foi obtido um retorno bem positivo, sendo chamado atenção quanto as animações da tela, o que é foi algo limitado quanto as habilidades do integrante que criou o protótipo com a ferramenta, mas é algo a ser considerado na parte de produção.
 
 ## Propostas de Correções
+
 - Reduzir os passos da tarefa de compartilhamento da localização;
 - Melhorar as animações na hora de interação com a aplicação.
 
@@ -369,6 +372,6 @@ Quanto a parte visual, foi obtido um retorno bem positivo, sendo chamado atenç�
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor | Revisor |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 11/06/2023 | 12/06/2023 | 1.0 | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
-| 26/06/2023 | 26/06/2023 | 2.0 | Adição das entrevistas | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
-| 26/06/2023 | 26/06/2023 | 3.0 | Finalização do documento | [Caetano](https://github.com/caeslucio)| [Daniel](https://github.com/daniel-de-sousa) |
-| 27/06/2023 | 28/06/2023 | 4.0 | Adição do figma e correções | [Raquel](https://github.com/raqueleucaria)|  [Caetano](https://github.com/caeslucio) |
+| 26/06/2023 | 26/06/2023 | 1.1 | Adição das entrevistas | [Daniel](https://github.com/daniel-de-sousa) e [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+| 26/06/2023 | 26/06/2023 | 1.2 | Finalização do documento | [Caetano](https://github.com/caeslucio)| [Daniel](https://github.com/daniel-de-sousa) |
+| 27/06/2023 | 28/06/2023 | 1.3 | Adição do figma e correções | [Raquel](https://github.com/raqueleucaria)|  [Caetano](https://github.com/caeslucio) |
