@@ -29,7 +29,7 @@ theme:
     - navigation.tabs.sticky
     - navigation.footer
     - navigation.instant
-    - navigation.top    
+    - navigation.top
 
   hide: 
     - 
