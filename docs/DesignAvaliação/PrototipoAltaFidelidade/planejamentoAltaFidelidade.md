@@ -77,7 +77,7 @@ As avaliações devem ser feitas de modo que a equipe e os participantes (usuár
 ### Teste Piloto
 Antes da avaliação com os participantes reais, será realizado um teste piloto com membros da equipe de IHC. O teste piloto permitirá identificar possíveis problemas no roteiro de testes e entrevistas, ajustar o tempo necessário para cada atividade e familiarizar-se com o processo de condução dos testes e entrevistas. Os resultados do teste piloto serão analisados e utilizados para aprimorar o roteiro e a abordagem geral da avaliação.
 
-Durante o teste piloto, serão conduzidos testes de usabilidade e entrevistas simuladas, seguindo o roteiro proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das tarefas, o tempo necessário para realizá-las e a compreensão geral do processo de avaliação.
+Durante o teste piloto, serão conduzidos testes de usabilidade e entrevistas simuladas, seguindo o roteiro proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das tarefas, o tempo necessário para realizá-las, a compreensão geral do processo de avaliação e ver se as ferramentas estão funcionando corretamente.
 
 ### Cronograma
 A seguir, apresenta-se o cronograma para as atividades da avaliação de alta fidelidade do protótipo do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. O cronograma está apresentado na tabela 2:
