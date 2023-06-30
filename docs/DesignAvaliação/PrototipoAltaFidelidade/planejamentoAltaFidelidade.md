@@ -80,7 +80,7 @@ Antes da avaliação com os participantes reais, será realizado um teste piloto
 Durante o teste piloto, serão conduzidos testes de usabilidade e entrevistas simuladas, seguindo o roteiro proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das tarefas, o tempo necessário para realizá-las, a compreensão geral do processo de avaliação e ver se as ferramentas estão funcionando corretamente.
 
 ### Cronograma
-A seguir, apresenta-se o cronograma para as atividades da avaliação de alta fidelidade do protótipo do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. O cronograma está apresentado na tabela 2:
+A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. O cronograma está apresentado na tabela 2:
 
 <center>
 
