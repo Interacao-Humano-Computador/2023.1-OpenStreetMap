@@ -167,16 +167,6 @@ Na figura 3, podemos ver o storyboard cadastro de ponto de referência.
 
 </center>
 
-## Interpretação (E)
-
-Após a conclusão das entrevistas, serão analisados os resultados coletados. A interpretação levará em consideração os comentários dos participantes, identificando tendências e padrões. Serão destacadas as principais áreas de melhoria e fornecidas recomendações para aprimorar o storyboard do OpenStreetMap com base nos insights obtidos durante a avaliação.
-
-Esperamos que este planejamento da avaliação do storyboard do OpenStreetMap proporcione uma compreensão mais aprofundada das experiências dos usuários e direcione melhorias significativas na interface do aplicativo.
-
-## Avaliação dos Resultados (E)
-
-Os resultados obtidos por meio das avaliações planejadas no cronograma serão analisados conforme descrito no documento de [Planejamento do Relato de Resultados](/planejamento_relato.md).
-
 ## Bibliografia
 
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
