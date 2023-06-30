@@ -41,7 +41,7 @@ Levando em consideração os objetivos da avaliação, deverão ser respondidas 
 - Quais barreiras o usuário encontra para atingir seus objetivos?
 
 ## C - Métodos de Avaliação
-O método de avaliação escolhido para a avaliação foi o de investigação por meio de entrevistas, onde será realizado um teste de usabilidade pelo usuário e em seguida um integrante do grupo 4 da disciplina de IHC realizará algumas perguntas para o usuário.
+O método de avaliação escolhido para a avaliação foi o de investigação por meio de entrevistas e observação, onde será realizado um teste de usabilidade pelo usuário e em seguida um integrante do grupo 4 da disciplina de IHC realizará algumas perguntas para o usuário.
 
 ## I - Questões Práticas
 
