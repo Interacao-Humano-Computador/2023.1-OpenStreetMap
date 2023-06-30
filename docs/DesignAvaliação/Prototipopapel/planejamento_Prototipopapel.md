@@ -1,13 +1,12 @@
 # Planejamento da Avaliação do Protótipo de Papel
 
 ## Introdução
-Este documento descreve o planejamento da avaliação do protótipo de papel do OpenStreetMap, uma atividade da disciplina de Interação Humano-Computador (IHC). O objetivo dessa avaliação é identificar problemas de usabilidade, obter feedback dos usuários e validar conceitos de design. A avaliação será guiada pelo framework DECIDE, que fornece uma estrutura sistemática para o processo de avaliação de interfaces, e será apresentado na tabela 1 abaixo.
+Este documento descreve o planejamento da avaliação do protótipo de papel do OpenStreetMapcom com base no framework DECIDE, que visa identificar problemas de usabilidade e coletar feedback dos usuários. A avaliação será realizada seguindo uma abordagem sistemática, utilizando técnicas específicas e considerando aspectos éticos.
 
-## Framework Utilizado
-
+## Metodologia
+O planejamento da Avaliação do Protótipo de Papel será conduzido através do uso do Framework DECIDE, onde cada letra representa uma fase específica do planejamento, na tabela 1 é possível visualizar o que cada letra representa.
 
 <br>
-<div id="T1"></div>
 
 <center>
 
@@ -26,86 +25,87 @@ Tabela 1 - Metodologia DECIDE (Fonte: Autor, 2023)
 
 <br>
 
-## Objetivo
-O objetivo principal desta avaliação do protótipo de papel do OpenStreetMap é coletar feedback dos usuários para identificar melhorias na usabilidade e eficácia do design. Especificamente, queremos avaliar a compreensão das informações, a navegabilidade, a organização da interface e a adequação às necessidades dos usuários. Os resultados da avaliação serão usados para aprimorar o protótipo de papel e fornecer direcionamento para futuras iterações de design.
+## D - Objetivos
+O principal objetivo dessa avaliação do protótipo de papel do OpenStreetMap é identificar ideias e alternativas de design e problemas na interação e na interface no protótipo de papel, comparando diferentes alternativas de solução e coletando feedback dos usuários sobre a usabilidade, experiência do usuário, acessibilidade ou comunicabilidade.
 
-## Metodologia
-A metodologia selecionada para a avaliação do protótipo de papel será por meio de entrevistas individuais com usuários do OpenStreetMap. Essas entrevistas permitirão uma compreensão mais aprofundada das experiências e percepções dos usuários sobre o protótipo. Ao conduzir as entrevistas, serão levadas em consideração questões éticas relacionadas à privacidade, consentimento informado e confidencialidade dos participantes.
+## E - Perguntas a Serem Respondidas
+Levando em consideração os objetivos da avaliação, deverão ser respondidas as seguintes perguntas para que seja possível alcançar os objetivos, as perguntas são baseadas no Captítulo 11 do livro Interação Humano-Computador e Experiência o Usuário da Simone Barbosa e Bruno Silva (2021, pg. 266 e 267). As perguntas a serem respondidas são:
 
-***Termo de Consentimento para Entrevistas e Pesquisas com Usuários***
+- Qual dos protótipos de papel teve sua trefa realizada de forma mais eficiente? Mais fácil de aprender?
 
-Eu, _______________________________, concordo em participar da pesquisa de interação humano-computador da disciplina de IHC da UnB, que tem como objetivo coletar informações dos usuários do sistema OpenStreetMap para aperfeiçoar a comunicação entre seres humanos e tecnologia.
+- Qual protótipo pode ser construído em menos tempo?
 
-Declaro que as informações coletadas durante a pesquisa serão confidenciais e utilizadas exclusivamente para fins acadêmicos. As informações fornecidas serão armazenadas em um servidor seguro e acessadas somente pelos estudantes e professor responsáveis pela disciplina.
+- O usuário consegue operar o sistema?
 
-Concordo que minha imagem e voz possam ser gravadas durante as entrevistas e utilizadas em eventuais apresentações da pesquisa, sem que haja qualquer ônus ou indenização pelo uso dessas imagens e vozes.
+- O usuário atinge seus objetivos? Após cometer quantos erros?
 
-Reconheço que a pesquisa será conduzida seguindo os princípios éticos da Resolução N°466 de 2012 do Conselho Nacional de Saúde, que busca assegurar os direitos e deveres dos participantes da pesquisa, bem como discorrer sobre os referenciais da bioética, apresentando quatro princípios éticos a serem seguidos: autonomia, beneficência, não maleficência e justiça e equidade.
+- O usuário entende o que significa e para que serve cada elemento de interface?
 
-Por fim, declaro que reconheço meu direito de recusar a participação na pesquisa a qualquer momento, sem que isso afete minha relação com a instituição ou os estudantes.
+- Que parte da interface e da interação deixa o usuário insatisfeito?
 
-Assinatura do Participante ___________________________________
+- Quais barreiras o usuário encontra para atingir seus objetivos?
 
-Data _________
+## C - Métodos de Avaliação
+O método de avaliação escolhido para a avaliação foi o de observação, onde será realizado um teste de usabilidade pelo usuário.
 
+## I - Questões Práticas
+Os participantes serão selecionados com base no [perfil de usuário](../../AnaliseRequisitos/perfil_usuario.md) do OpenStreetMap, garantindo uma diversidade de experiências e habilidades. A quantidade de participantes será de 3 pessoas, sendo esse um número adequado segundo Krug.
 
-## Avaliadores e Participantes
-Os avaliadores serão membros da equipe de IHC, responsáveis por conduzir as entrevistas e registrar as respostas dos participantes. Os participantes serão selecionados com base no perfil de usuário do OpenStreetMap, garantindo uma diversidade de experiências e habilidades. Os critérios de escolha dos participantes podem incluir idade, experiência com tecnologia, conhecimento prévio do OpenStreetMap e necessidades específicas relacionadas à utilização do aplicativo. Além disso, é necessário documentar sobre os participantes do estudo, como:
+### Tarefas
+As avaliações utilizarão protótipos de papel com as seguintes tarefas para testar a sua usabilidade:
 
-- Numero de participantes 
-- Critério de escolha
-- Características relevantes
+1. Compartilhar localização em tempo real;
 
-## Teste Piloto
-Antes de iniciar a avaliação com os participantes reais, será realizado um teste piloto com membros da equipe de IHC. Isso permitirá identificar possíveis problemas no roteiro de entrevista, ajustar o tempo necessário para cada entrevista e familiarizar-se com o processo de condução das entrevistas. Os resultados do teste piloto serão analisados e usados para aprimorar o roteiro de entrevista e a abordagem geral da avaliação.
+2. Adicionar ponto de referência;
+
+3. Adicionar nova estrada;
+
+4. Buscar local;
+
+5. Explorar local turístico.
+
+### Custos e Ferramentas
+As avaliações devem ser feitas de modo que a equipe e os participantes (usuários) um custo mínimo ou não tenham custos. Para isso, será utilizado as seguintes ferramentas:
+
+- Celular;
+
+- Protótipos de papel.
+### Teste Piloto
+Antes de iniciar a avaliação com os participantes reais, será realizado um teste piloto com membros da equipe de IHC. Isso permitirá identificar possíveis problemas no protótipo de papel e ajustar o tempo necessário para o teste de usabilidade.
 <br> 
-Durante o teste piloto, serão realizadas entrevistas simuladas, seguindo o roteiro de entrevista proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das perguntas, a adequação do tempo de entrevista e a compreensão geral do processo de avaliação.
+Durante o teste piloto, serão realizadas testes de usabilidades simulados. Os participantes serão os próprios membros da equipe de IHC. O objetivo é a adequação do tempo de entrevista e verificar o funcionamento das ferramentas.
 
-## Cronograma
-A seguir, na tabela 2, apresenta-se o cronograma para as atividades da avaliação do protótipo de papel:
+### Cronograma
+A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de papel do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um celular para a gravação das avaliações. O cronograma está apresentado na tabela 2:
 
-| Data       | Hora  | Local           | Avaliador | Participante  | Tarefa      |
-|------------|-------|-----------------|-----------|---------------|--------------|
-| 04/06/2023 | 19:00 | Online - Microsoft Teams | Paulo     | Guilherme        | Teste piloto   |
-| 04/06/2023 | 20:00 | Online - Microsoft Teams | Daniel     | Entrevistado X          | Entrevista   |
-| 04/06/2023 | 20:00 | Online - Microsoft Teams | Caetano      | Entrevistado Y        | Entrevista   |
-| 04/06/2023 | 20:00 | Online - Microsoft Teams | Daniel     | Entrevistado Z         | Entrevista   |
+<center>
 
+| Data       | Hora  | Local           | Avaliador | Participante  | Tarefa              |
+|------------|-------|-----------------|-----------|---------------|---------------------|
+| 14/06/2023 | 12:00 | FGA | Paulo       | Guilherme | Teste Piloto |
+| 14/06/2023 | 12:30 | FGA | Raquel       | Participante 1 | Teste de Usabilidade |
+| 14/06/2023 | 12:30 | FGA | Daniel       | Participante 2 | Teste de Usabilidade |
+| 14/06/2023 | 12:30 | FGA | Caetano       | Participante 3 | Teste de Usabilidade  |
 
-<div style="text-align: center">
-<p> Tabela 2: Cronograma <br/>(Fonte: autor, 2023).</p>
-</div>
+Tabela 2 - Cronograma (Fonte: Autor, 2023)
 
-## Roteiro de Entrevista
-Durante as entrevistas, será fornecida uma breve explicação sobre o objetivo da avaliação e a natureza do protótipo de papel do OpenStreetMap. Os participantes serão instruídos a interagir com o protótipo de papel e expressar suas opiniões e feedback sobre sua usabilidade e eficácia. Serão feitas perguntas específicas, conforme apresentado na tabela 3:
+</center>
 
-| ID  | Pergunta                                                                                     | Tipo de Pergunta | Objetivo                      |
-|-----|--------------------------------------------------------------------------------------------|------------------|-------------------------------|
-| P01 | Você consegue entender o propósito e funcionalidade do protótipo de papel do OpenStreetMap? | Aberta           | Verificar a compreensão       |
-| P02 | As informações apresentadas no protótipo de papel são claras e fáceis de entender?          | Aberta           | Verificar a compreensão       |
-| P03 | Você encontrou alguma dificuldade específica ao interagir com o protótipo de papel?         | Aberta           | Verificar a compreensão       |
-| P04 | O protótipo de papel apresenta um fluxo lógico de interações?                                | Fechada (sim/não) | Verificar o fluxo de interação |
-| P05 | O protótipo de papel fornece informações relevantes para a realização das tarefas?          | Fechada (sim/não) | Verificar a usabilidade       |
-| P06 | O protótipo de papel apresenta tarefas condizentes com a realidade?                          | Fechada (sim/não) | Verificar a usabilidade       |
-| P07 | Você conseguiu encontrar e utilizar as funcionalidades necessárias para alcançar seu objetivo? | Fechada (sim/não) | Verificar a usabilidade e a eficácia do protótipo |
+### D - Questões Éticas
+Durante todo o processo de avaliação, serão consideradas [questões éticas](../../Planejamento/Aspectos_Eticos.md), incluindo privacidade, consentimento informado e confidencialidade dos participantes. Será fornecido um [termo de consentimento](../../Planejamento/Aspectos_Eticos.md) para os participantes no qual eles concordarão em participar da avaliação e permitir a gravação das sessões, garantindo que suas informações sejam utilizadas apenas para fins acadêmicos e que sua identidade seja protegida. Além disso, durante a gravação será perguntado e confirmado sobre o consentimento do participantes.
 
-<div style="text-align: center">
-<p> Tabela 3: Perguntas <br/>(Fonte: autor, 2023).</p>
-</div>
+### Roteiro de Avaliação
+O avaliador deve ser cordial e deixar os participantes bem à vontade. O avaliador deve explicar ao participante os objetivos do estudo, o sistema de interesse, o procedimento da avaliação e as questões éticas. Em seguida o avliador vai pedir para que o participante realize alguma(s) das tarefas propostas para que ocorra o teste de usabilidade. Durante a realização das tarefas, o avaliador deve observar e anotar os problemas encontrados pelo participante. Ao final da avaliação, o avaliador deve agradecer ao participante e perguntar se ele tem alguma dúvida ou sugestão.
 
-## Protótipo de Papel
-Um protótipo de papel é uma representação física e simplificada de uma interface de usuário. Nesse caso, o protótipo de papel do OpenStreetMap consiste em desenhos em papel que representam as diferentes telas e interações do aplicativo.
-
-
-
-## Interpretação
-Após a conclusão das entrevistas, os resultados serão analisados e interpretados. A interpretação dos dados qualitativos será realizada por meio de técnicas de análise de conteúdo. Os insights obtidos a partir da avaliação serão documentados e utilizados para guiar a próxima iteração do design do protótipo de papel do OpenStreetMap.
+## E - Interpretação e Resultados dos Dados
+Os avaliadorem interpretam os dados coletados de cada participante individualmente reunindo, contabilizando e sumarizando os dados coletados dos participantes. Em seguida, após a interpretação dos dados, os avaliadores irão discutir os resultados buscando recorrências nos resultados e assim deve-se chegar em resultados comuns, relatando a performance e a opinião dos participantes. 
 
 ## Bibliografia
 
-[1] BARBOSA, SIMONE DINIZ JUNQUEIRO; SILVA, BRUNO SANTANA DA, Interação Humano-Computador, 1ª Edição, Editora Campus, 2010
+> Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 28/05/2023 |        29/05/2023        |  1.0   | Criação do documento | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS)| [Raquel](https://github.com/raqueleucaria) |
+| 30/06/2023 |        01/07/2023        |  2.0   | Refatoração do documento | [Guilherme](https://github.com/guilhermekishimoto) e [Paulo](https://github.com/PauloVictorFS)| [Raquel](https://github.com/raqueleucaria) |
