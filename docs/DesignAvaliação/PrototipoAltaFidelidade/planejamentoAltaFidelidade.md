@@ -3,7 +3,7 @@
 ## Introdução
 Este documento descreve o planejamento da avaliação de alta fidelidade do protótipo do OpenStreetMap, com base no framework DECIDE, que visa identificar problemas de usabilidade, coletar feedback dos usuários e validar o design proposto. O protótipo de alta fidelidade é uma versão interativa e visualmente mais próxima do produto final, permitindo uma avaliação mais precisa das funcionalidades e da experiência do usuário. A avaliação será realizada seguindo uma abordagem sistemática, utilizando técnicas específicas e considerando aspectos éticos.
 ## Metodologia
-O planejamento da Avaliação do Protótipo de Alta Fidelidade do Protótipo será conduzido através do uso do Framework DECIDE, onde cada letra representa uma fase específica do planejamento, na tabela 1 é possível visualizar o que cada letra representa.
+O planejamento da Avaliação do Protótipo de Alta Fidelidade será conduzido através do uso do Framework DECIDE, onde cada letra representa uma fase específica do planejamento, na tabela 1 é possível visualizar o que cada letra representa.
 
 <br>
 
