@@ -44,6 +44,27 @@ Um dos protótipos que serão apresentados é o referente a [Tarefa 1 - Cadastra
 </div>
 
 ## Protótipo 2
+Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar local turístico](../../AnaliseRequisitos/analiseTarefas.md) que esta representado nas FIguras 7, 8, 9 e 10.
+
+<div style="text-align: center">
+<img src="../../../assets/prototipo-papel/7.png" width=600px></img>
+<p> Figura 7: Janela principal (Fonte: Guilherme).</p>
+</div>
+
+<div style="text-align: center">
+<img src="../../../assets/prototipo-papel/8.png" width=600px></img>
+<p> Figura 8: Lista locais turísticos (Fonte: Guilherme).</p>
+</div>
+
+<div style="text-align: center">
+<img src="../../../assets/prototipo-papel/9.png" width=600px></img>
+<p> Figura 9: Local turístico selecionado (Fonte: Guilherme).</p>
+</div>
+
+<div style="text-align: center">
+<img src="../../../assets/prototipo-papel/10.png" width=600px></img>
+<p> Figura 10: Rota (Fonte: Guilherme).</p>
+</div>
 
 ## Protótipo 3
 
