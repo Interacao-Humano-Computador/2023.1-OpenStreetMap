@@ -1,6 +1,5 @@
 # Protótipo de Papel
 
-# Protótipo de Alta Fidelidade
 ## Introdução 
 O Protótipo de Papel é uma forma de representação da interface e suas interações, com um nível mais abstrato da informação. Utilizamos esse material para o desenvolvimento do Teste de Usabilidade do OpenStreetMap.
 
