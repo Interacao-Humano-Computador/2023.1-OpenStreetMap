@@ -3,7 +3,8 @@
 ## Introdução
 Este documento descreve o Planejamento da Avaliação de Alta Fidelidade do protótipo do OpenStreetMap, visando identificar problemas de usabilidade, coletar feedback dos usuários e validar o design proposto. O protótipo de alta fidelidade é uma versão interativa e visualmente mais próxima do produto final, permitindo uma avaliação mais precisa das funcionalidades e da experiência do usuário. A avaliação será realizada seguindo uma abordagem sistemática, utilizando técnicas específicas e considerando aspectos éticos.
 ## Metodologia
-O Planejamento da Avaliação do Protótipo de Alta Fidelidade será conduzido pelas atividades básicas: Preparação, Coleta de Dados, Interpretação, Consolidação e Relato dos Resultados, propostas por Simone no livro IHC-UX[[1](#referencia-bibliografia)]. E também será usado como base o Framework DECIDE, de Preece et al. (2002)[[2](#referencia-bibliografia)], também citado no livro, onde cada letra do Framework representa uma fase específica do planejamento, na tabela 1 é definido cada fase.
+O Planejamento da Avaliação do Protótipo de Alta Fidelidade será conduzido através do uso do Framework DECIDE, de Preece et al. (2002)[[1](#referencia-bibliografia)], onde cada letra representa uma fase específica do planejamento, na tabela 1 é possível visualizar o que cada letra representa. E também será usado como base as atividades básicas: Preparação, Coleta de Dados, Interpretação, Consolidação e Relato dos Resultados, propostas por Simone no livro IHC-UX[[2](#referencia-bibliografia)].
+
 
 
 <center>
@@ -28,9 +29,6 @@ Os objetivos são os aspectos alvos da investigação do OpenStreetMap. E são o
 
 - **1. Análise de ideias e alternativas de design**: Avaliar a facilidade de aprendizado (quanto ao uso) e o tempo necessários para o desenvolvimento de cada alternativa (quanto a construção) comparando com o [Protótipo de Baixa Fidelidade]().
 - **2. Identificação de problemas na interação e na interface**: Identificar problemas na interação e na interface que prejudiquem a qualidade de uso do sistema, classificados em grau de impacto nocivo, frequência e fatores de qualidade (usabilidade, experiência do usuário, acessibilidade ou comunicabilidade).
-<br>
-
-¹ Stakeholders são todos os  envolvidos no sistema, como os usuários, designers, cliente (proprietário do sistema), desenvolvedores...
 
 ## E - Explorar Perguntas
 Levando em consideração os objetivos da avaliação, foram estabelecidas as seguintes perguntas:
@@ -71,10 +69,10 @@ O método de avaliação escolhido, dentro dos métodos de observação, foi o *
 ### Tarefas
 As tarefas a serem executadas pelos participantes foram retiradas da [Análise de Tarefas](../../AnaliseRequisitos/analiseTarefas.md), e são:
 
-1. Buscar local;
-2. Cadastrar Ponto de Referência;
-3. Compartilhar localização em tempo real;
-4. Cadastrar Estrada.
+1. [Buscar local](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados);
+2. [Cadastrar Ponto de Referência](../../../AnaliseRequisitos/analiseTarefas/#tarefa-1-cadastrar-ponto-de-referencia);
+3. [Compartilhar localização em tempo real](../../../AnaliseRequisitos/analiseTarefas/#tarefa-4-compartilhar-localizacao-em-tempo-real);
+4. [Cadastrar Estrada](../../../AnaliseRequisitos/analiseTarefas/#tarefa-3-adicionar-uma-nova-estrada).
 
 ### Perfil dos participantes
 A quantidade mínima de participantes será de 3 pessoas, sendo esse um número adequado segundo Krug. Considerando o [perfil de usuário](../../../AnaliseRequisitos/perfil_usuario/#resultado-dos-usuarios) e as [personas](../../AnaliseRequisitos/Personas.md) estabelecidas anteriormente, devem ser priorizados os participantes com o seguinte perfil:
@@ -195,23 +193,23 @@ A coleta de dados consiste no questionário pré-teste, pós-teste (Tabela 2 e 3
 
 
 ### Cronograma
-A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. O cronograma está apresentado na tabela 4:
+A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. A equipe deixou a cargo da integrante [Raquel](https://github.com/raqueleucaria) o desenvolvimento de todos os protótipos, referente a cada tarefa que será testada. O cronograma está apresentado na tabela 4:
 
 <center>
 
 | Data       | Hora  | Local           | Avaliador | Participante  | Tarefa              |
 |------------|-------|-----------------|-----------|---------------|---------------------|
 | 23/06/2023 | 19:00 | Online - Microsoft Teams | Raquel       | - | Teste Piloto |
-| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Teste de Usabilidade 1 |
-| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 2 | Teste de Usabilidade 2 |
-| 25/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 3 | Teste de Usabilidade 3|
+| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Testes de Usabilidade 1 |
+| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 2 | Testes de Usabilidade 2 |
+| 25/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 3 | Testes de Usabilidade 3|
 
 Tabela 4 - Cronograma (Fonte: Autor, 2023)
 
 </center>
 
 ## D - Questões Éticas
-Durante todo o processo de avaliação, serão consideradas [questões éticas](../../Planejamento/Aspectos_Eticos.md), incluindo privacidade, consentimento informado e confidencialidade dos participantes. Será fornecido um [termo de consentimento](../../Planejamento/Aspectos_Eticos.md) para os participantes no qual eles concordarão em participar da avaliação e permitir a gravação das sessões, garantindo que suas informações sejam utilizadas apenas para fins acadêmicos e que sua identidade seja protegida. Além disso, durante a gravação será perguntado e confirmado sobre o consentimento do participantes.
+Durante todo o processo de avaliação, serão consideradas [questões éticas](../../Planejamento/Aspectos_Eticos.md), incluindo privacidade, consentimento informado e confidencialidade dos participantes. Será fornecido um [termo de consentimento](../../../Planejamento/Aspectos_Eticos/#termo-de-consentimento) para os participantes no qual eles concordarão em participar da avaliação e permitir a gravação das sessões, garantindo que suas informações sejam utilizadas apenas para fins acadêmicos e que sua identidade seja protegida. Além disso, durante a gravação será perguntado e confirmado sobre o consentimento do participantes.
 
 O avaliador deve ser cordial e deixar os participantes bem à vontade. Deve explicar ao participante os objetivos do estudo, o sistema de interesse, o procedimento da avaliação e as questões éticas. É importante ser bem simples e direto, evitando ambiguidade quanto ao que o convidado deve fazer em consideração a tarefa que deve realizar e como deve realizar (falando em voz alta o que esta pensando e os passos que irá segui).
 
@@ -220,7 +218,7 @@ O avaliador deve ser cordial e deixar os participantes bem à vontade. Deve expl
 Na atividade de interpretação e consolidação, a partir das informações quantitativas, serão construídos gráficos e tabelas com médias, porcentagens e demais indicadores necessários para identificar se as [metas de usabilidade](../../AnaliseRequisitos/Metas_usabilidade.md) estão sendo alcançadas, com base nos seguintes critérios: 
 
 - Eficácia: Taxa de conclusão de tarefas maior ou igual a 50%.
-- Eficiência: Média de 2 passos para conclusão das tarefas.
+- Eficiência: Média de 3 passos para conclusão das tarefas.
 
 <!-- - Eficácia: Garantir que os usuários consigam completar suas tarefas de forma correta e completa. Por exemplo, aumentar em 50% a taxa de conclusão de tarefas complexas em comparação com a versão atual do OpenStreetMap.
 
@@ -238,9 +236,9 @@ Para a consolidação dos dados, será realizada uma categorização informaçõ
 
 
 ## Referência Bibliografia
-> [1] Barbosa, Simone. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cap. 11, pág. 261 a 280. Cáp. 12, pág. 301 a 304.
+> [1] Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
 
-> [2] Preece, Jennifer, Rogers, Yvonne, e Sharp, Helen (2002). Interaction Design: Beyond Human-Computer Interaction. John Wiley & Sons.
+> [2] Barbosa, Simone. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cap. 11, pág. 261 a 280. Cáp. 12, pág. 301 a 304.
 
 > [3] Rubin, Jeffrey (1994). Handbook of Usability Testing: How to Plan, Design, and Conduct Effective Tests. John Wiley & Sons, Inc., USA, 1st edition.
 
