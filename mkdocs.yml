@@ -103,12 +103,13 @@ nav:
       - Prototipação de Papel:
         - Planejamento da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento_Prototipopapel.md
         - Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel: DesignAvaliação/Prototipopapel/planejamento-relato.md
-        - Protótipos: DesignAvaliação/Prototipopapel/prototipos.md
+        - Protótipo de Papel: DesignAvaliação/Prototipopapel/prototipos.md
         - Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade: DesignAvaliação/Prototipopapel/relatos.md
     - 3º Nível:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade.md
         - Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade: DesignAvaliação/PrototipoAltaFidelidade/planejamento_relato.md
+        - Protótipo de Alta Fidelidade: DesignAvaliação/PrototipoAltaFidelidade/prototipo-alta.md
         - Relato dos Resultados: DesignAvaliação/PrototipoAltaFidelidade/relatos.md
   - Verificação:
     - OpenStreetMap: 
