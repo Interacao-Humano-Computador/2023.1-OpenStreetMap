@@ -28,12 +28,13 @@ Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2
 |Artefato|Responsável |
 |-------|------|
 |[Planejamnto da Avaliação do Storyboard](./../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard.md) |[Guilherme](https://github.com/guilhermekishimoto)|
-|[Metas de usabilidade](./guia-estilo.md) |[Paulo]()|
-|[Guia de Estilo](./guia-estilo.md) | [Raquel](https://github.com/raqueleucaria) |
+|[Planejamnto da Avaliação da Análise de Tarefas](./../../../DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_analise_tarefa.md) |[Guilherme](https://github.com/guilhermekishimoto)|
+|[Planejamento da Avaliação do Relato dos Resultados da  Análise de Tarefas](../Entrega4/Planejamento-Relato-Resultados.md) | [Guilherme](https://github.com/guilhermekishimoto) |
+|[Planejamento da Avaliação do Relato dos Resultados do Storyboard](../Entrega4/Planejamento-Relato-Storyboard) | [Guilherme](https://github.com/guilhermekishimoto) |
 
 
 
-<p>Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
+<p>Tabela 1 - Distribuição da Correção dos Artefatos (Fonte: Autores)</p>
 </center>
 
 
