@@ -4,11 +4,11 @@
 Segundo a norma internacional ISO/IEC/IEEE 12207:2017(E) (ISO/IEC/IEEE, 2017, p. 82) [1], o objetivo da verificação se define em "prover evidência objetiva que o sistema ou elemento do sistema atende completamente seus requisitos e características especificados". Com isso, afim de garantir qualidade e consistência dos requisitos, realizaremos a verificação dos documentos do nosso grupo, [OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)[2], da disciplina Interação Humano Computador.
 
 ## Objetivos
-O objetivo deste documento é realizar a verificação do Planejamento da avaliação do Protótipo de Papel, artefato da Entrega 4, do Grupo 4 ([OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
+O objetivo deste documento é realizar a verificação do Planejamento da avaliação do Protótipo de Papel, artefato da Entrega 5, do Grupo 4 ([OpenStreetMap](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/)). De forma impessoal, este documento não deseja avaliar os membros do grupo, mas o artefato em si.
 
 
 ## Metodologia
-Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 4](./0planejamento.md)
+Como método de investigação e produção da verificação, utilizaremos a inspeção, mais especificamente a _Fagan Inspection_. Na qual, segundo Bush [3], consiste na "inspeção de documentos entendidos como prontos para uso e busca por defeitos". Seguindo as etapas de planejamento, visão geral, preparação, inspecção e correção. Maiores detalhes de planejamento, estão apresentados no [Planejamento da Entrega 5](./0planejamento.md)
 
 <div id="artefatos"></div>
 

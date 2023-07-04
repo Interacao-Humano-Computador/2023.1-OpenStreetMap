@@ -18,7 +18,7 @@ Uma das atividades da disciplina de Interação Humano Computador, ministrada pe
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios livro Interação Humano-Computador e Experiência do usuário (capítulo 11)[4] e, como citado anteriormente, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[5] e pelo Grupo 3, Banco Central[6]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md). Na tabela 1 abaixo, etá o checklist de verificação da versão 1.0 do artefato do Planejamento da Avaliação do Protótipo de Alta Fidelidade.
+Os checklists foram estabelecido com base nos critérios livro Interação Humano-Computador e Experiência do usuário (capítulo 11)[4]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md). Na tabela 1 abaixo, etá o checklist de verificação da versão 1.0 do artefato do Planejamento da Avaliação do Protótipo de Alta Fidelidade.
 
 <center>
 <!-- ADICIONAR O CHECKLIST OU OS CHECKLISTS DA ENTREGA REFERENTE -->
