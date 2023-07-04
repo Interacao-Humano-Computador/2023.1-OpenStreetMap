@@ -82,7 +82,7 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 | 14 | Não estão explícitas as perguntas pró-teste e algumas perguntas planejadas, não devem ser feitas aos usuários.  | Falar que possui perguntas pós-teste e reformular algumas perguntas.  | Guilherme |Raquel|ok|
 | 16 | O escopo da avaliação não está de acordo com os objetivos.  | Corrigir os objetivos e fazer o escopo com base neles.  | Guilherme |Raquel|ok|
 | 17 | Não apresenta todos recursos a serem utilizados.  | Criar um tópico para falar dos recursos a serem utilizados.  | Guilherme |Raquel|ok|
-| 21 | O artefato não apresenta a realização de um teste piloto.  | Colocar o teste piloto no artefato.  | Guilherme |Raquel|ok|
+| 21 | O artefato não apresenta a realização de um teste piloto.  | Colocar o teste piloto no artefato.  | Guilherme |Raquel|-|
 
 
 Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
@@ -116,7 +116,7 @@ Abaixo, na tabela 3, encontra-se o checklist feito após a correção do Planeja
 | 18 | Os avaliadores que participarão da avaliação estão apresentados? | Sim |  |
 | 19 | Possui prazo/cronograma para realizar as etapas das avaliações? |Sim  |  |
 | 20 | O artefato apresenta a menção de um teste piloto? | Sim | |
-| 21 | O artefato apresenta a realização de um teste piloto? | Sim |  |
+| 21 | O artefato apresenta a realização de um teste piloto? | Não |  |
 | 22 | O artefato apresenta como os dados coletados serão interpretados para atribuir significado a eles? |  Sim|  |
 | 23 | O artefato apresenta como será o relato dos resultados utilizando uma consolidação após a interpretação? |Sim  |  |
 
