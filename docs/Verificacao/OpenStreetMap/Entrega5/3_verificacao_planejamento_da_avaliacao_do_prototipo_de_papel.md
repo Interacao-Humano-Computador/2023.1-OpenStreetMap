@@ -140,6 +140,6 @@ Tabela 3 - Chacklist Pós Correção do Planejamento da Avaliação do Protótip
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
-| 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Guilherme](https://github.com/guilhermekishimoto) | [Raquel]() |
+| 29/06/2023 |        30/06/2023        |  1.0   | Criação do documento |  [Guilherme](https://github.com/guilhermekishimoto) | [Raquel]() |
 
 
