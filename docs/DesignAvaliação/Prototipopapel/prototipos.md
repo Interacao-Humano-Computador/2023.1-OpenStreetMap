@@ -58,8 +58,8 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
       <td><img src="../../../assets/prototipo-papel/2.jpg" width=600px></img></td>
     </tr>
     <tr>
-      <td align="center">Figura 2: Janela principal (Fonte: Raquel).</td>
-      <td align="center">Figura 3: Janela login (Fonte: Raquel).</td>
+      <td align="center">Figura 2: Janela principal (Fonte: Raquel, 2023).</td>
+      <td align="center">Figura 3: Janela login (Fonte: Raquel, 2023).</td>
     </tr>
     <tr>
       <td></br></td>
@@ -70,8 +70,8 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
       <td><img src="../../../assets/prototipo-papel/4.jpg" width=600px></img></td>
     </tr>
     <tr>
-      <td align="center">Figura 4: Mapas (Fonte: Raquel)</td>
-      <td align="center">Figura 5: Barras laterais (Fonte: Raquel)</td>
+      <td align="center">Figura 4: Mapas (Fonte: Raquel, 2023)</td>
+      <td align="center">Figura 5: Barras laterais (Fonte: Raquel, 2023)</td>
     </tr>
     <tr>
       <td></br></td>
@@ -81,22 +81,14 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
 </table>
 
 <img src="../../../assets/prototipo-papel/5.jpg" width=500px></img>
-<p> Figura 6: Componentes (Fonte: Raquel).</p>
+<p> Figura 6: Componentes (Fonte: Raquel, 2023).</p>
 
 <img src="../../../assets/prototipo-papel/6.jpg" width=500px></img>
-<p> Figura 7: Inputs (Fonte: Raquel).</p>
-
-<video width="600" height="480" controls>
-    <source src="../../../assets/prototipo-papel/prototipo1.mp4" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
-</video>
-<p> Vídeo 1: Teste Piloto (Fonte: Raquel).</p>
-
-<video width="600" height="480" controls>
-    <source src="../../../assets/prototipo-papel/prototipo1.mp4" type="video/mp4">
-    Seu navegador não suporta a tag de vídeo.
-</video>
-<p> Vídeo 2: Teste de Usabilidade (Fonte: Raquel).</p>
+<p> Figura 7: Inputs (Fonte: Raquel, 2023).</p>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/diwnWaYMBiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p> Vídeo 1: Teste Piloto (Fonte: Raquel, 2023).</p>
+<iframe width="650" height="405" src="https://www.youtube.com/embed/ns1IIUtlCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p> Vídeo 2: Teste de Usabilidade (Fonte: Raquel, 2023).</p>
 
 
 
@@ -106,6 +98,64 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
 ### Buscar Local
 
 ### Cadastrar Ponto de Referência
+O protótipo da [Tarefa 2 - Cadastrar Ponto de Referência](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados) está representado nas Figuras 8 a 14.
+
+
+<center>
+
+<table class="no-border">
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="../img/ponto1.jpg" width=600px></img></td>
+      <td><img src="../img/ponto2.jpg" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 8: Janela principal, edição (Fonte: Raquel, 2023, 2023).</td>
+      <td align="center">Figura 9: Seleção da edição (Fonte: Raquel, 2023, 2023).</td>
+    </tr>
+    <tr>
+      <td></br></td>
+      <td></br></td>
+    </tr>
+    <tr>
+      <td><img src="../img/ponto3.jpg" width=600px></img></td>
+      <td><img src="../img/ponto4.jpg" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 10: Seleção do tipo do elemento (Fonte: Raquel, 2023)</td>
+      <td align="center">Figura 11: Seleção do tipo do elemento (Fonte: Raquel, 2023)</td>
+    </tr>
+    <tr>
+    <tr>
+      <td></br></td>
+      <td></br></td>
+    </tr>
+    <tr>
+      <td><img src="../img/ponto5.jpg" width=600px></img></td>
+      <td><img src="../img/ponto6.jpg" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 12: Informações do ponto (Fonte: Raquel, 2023)</td>
+      <td align="center">Figura 13: Comentário da edição (Fonte: Raquel, 2023)</td>
+    </tr>
+    <tr>
+      <td></br></td>
+      <td></br></td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="../img/ponto7.jpg" width=500px></img>
+<p> Figura 14: Pop-up (Fonte: Raquel, 2023).</p>
+
+
+
+</center>
+
 
 ### Compartilhar localização em tempo real
 
@@ -113,27 +163,39 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
 
 ### Explorar local turístico
 
-Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) que esta representado nas FIguras 7, 8, 9 e 10.
+Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) que esta representado nas FIguras 15, 16, 17 e 18.
 
-<div style="text-align: center">
-<img src="../../../assets/prototipo-papel/7.png" width=600px></img>
-<p> Figura 7: Janela principal (Fonte: Guilherme).</p>
-</div>
+<table class="no-border">
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="../../../assets/prototipo-papel/7.png" width=600px></img></td>
+      <td><img src="../../../assets/prototipo-papel/8.png" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 15: Janela principal (Fonte: Guilherme, 2023, 2023).</td>
+      <td align="center">Figura 16: Lista locais turísticos (Fonte: Guilherme, 2023).</td>
+    </tr>
+    <tr>
+      <td></br></td>
+      <td></br></td>
+    </tr>
+    <tr>
+      <td><img src="../../../assets/prototipo-papel/9.png" width=600px></img></td>
+      <td><img src="../../../assets/prototipo-papel/10.png" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 17: Local turístico selecionado (Fonte: Guilherme, 2023)</td>
+      <td align="center">Figura 18: 10: Rota (Fonte: Guilherme, 2023)</td>
+    </tr>
+  </tbody>
+</table>
 
-<div style="text-align: center">
-<img src="../../../assets/prototipo-papel/8.png" width=600px></img>
-<p> Figura 8: Lista locais turísticos (Fonte: Guilherme).</p>
-</div>
+</center>
 
-<div style="text-align: center">
-<img src="../../../assets/prototipo-papel/9.png" width=600px></img>
-<p> Figura 9: Local turístico selecionado (Fonte: Guilherme).</p>
-</div>
-
-<div style="text-align: center">
-<img src="../../../assets/prototipo-papel/10.png" width=600px></img>
-<p> Figura 10: Rota (Fonte: Guilherme).</p>
-</div>
 
 ## Teste Piloto
 Uma das etapas finais da preparação é a realização do teste piloto. Ele é realizado com o objetivo de identificar possíveis problemas nos protótipos, assegurar que o protótipo será disponibilizado para o participante, além de verificar a possibilidade de realizar o teste no ambiente programado. Os seus resultados serão utilizados para aprimorar o roteiro e a abordagem geral. No [Relato dos Resultados do Protótipo de Papel](../relatos/#teste-piloto) será apresentado o teste piloto realizado.
