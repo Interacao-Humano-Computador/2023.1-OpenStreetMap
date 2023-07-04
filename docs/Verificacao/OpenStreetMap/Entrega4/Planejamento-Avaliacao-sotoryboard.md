@@ -20,33 +20,36 @@ Dessa forma, reavaliamos nosso checklist, levando em conta os pontos levantados 
 
 ## Checklist
 <!-- LIVRO BASE PARA CRIAÇÃO DAS PERGUNTAS -->
-Os checklists foram estabelecido com base nos critérios da literatura Interação Humano-Computador[4] e, como citado anteriormente, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[5] e pelo Grupo 3, Banco Central[6]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md). Na tabela 1 abaixo, etá o checklist de verificação da versão 1.0 do artefato do Planejamento da Avaliação do Sotryboard.
+Os checklists foram estabelecido com base nos critérios livro Interação Humano-Computador e Experiência do usuário (capítulo 11)[4] e, como citado anteriormente, nas verificações realizadas anteriormente, pelo nosso grupo, OpenStreetMap[5] e pelo Grupo 3, Banco Central[6]. Além das perguntas padrões estabelecidas no [Planejamento Geral](../0planejamento-geral.md). Na tabela 1 abaixo, etá o checklist de verificação da versão 1.0 do artefato do Planejamento da Avaliação do Sotryboard.
 
 <center>
 <!-- ADICIONAR O CHECKLIST OU OS CHECKLISTS DA ENTREGA REFERENTE -->
 
-| ID | Pergunta                                                                                                                        | Avaliação | Observação |
-|----|---------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| 1  | O artefato possui uma introdução condizente com o conteúdo do texto?                                                           |    Sim       |            |
-| 2  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                                                     |      Não     |    Não são utilizadas no texto.        |
-| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes?                                                   |    Sim       |           |
-| 4  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?                   |     Sim      |            |
-| 5  | O artefato segue o Framework DECIDE?                                                                                            |    Sim       |      O artefato segue a estrutura do DECIDE, mas não explicitamente.      |
-| 6  | O artefato define claramente as metas e objetivos da avaliação?                                                                 |    Sim       |            |
-| 7  | O artefato indica quais métodos de avaliação serão utilizados para avaliar o storyboard?                                       |          Sim |           |
-| 8  | Os métodos escolhidos para a avaliação são apropriados?                                                                       |     Sim      |            |
-| 9  | O artefato considera e aborda questões práticas relevantes para a avaliação?                                                    |      Sim     |            |
-| 10 | O artefato informa a quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade?                             |     Não      |          |
-| 11 | O perfil dos participantes foi definido?                                                                                        |  Sim         |            |
-| 12 | O artefato possui um cronograma com datas, horários e locais das tarefas a serem executadas pelos participantes?                |     Sim      |            |
-| 13 | O artefato identifica e descreve as questões específicas que a avaliação do storyboard deve responder?                |     Sim      |            |
-| 14 | O artefato apresenta as ferramentas que serão utilizadas na avaliação?                                                                      |    Não       |            |
-| 15 | O artefato contempla considerações éticas importantes relacionadas à avaliação do storyboard?                                  |      Sim     |      Pode retirar o Termo de Consentimento para Entrevistas e Pesquisas com Usuários e fazer apenas um link para ele.      |
-| 16 | Foi realizado um teste piloto?                                                                                                  |    Incompleto       |     Não está com o vídeo.       |
-| 17 | O artefato apresenta os resultados obtidos com o teste piloto?                                                                  |    Não       |            |
-| 18 | O artefato apresenta quais storyboards serão avaliados?                                                                          |    Sim       |           |
-| 19 | O artefato possui a mesma quantidade de storyboards em relação à quantidade de integrantes do grupo?                           |     Não      |     Só possui um Storyboard.       |
-| 20 | O artefato descreve como os dados coletados serão analisados e utilizados?                                                      |     Sim      |            |
+| ID | Pergunta | Avaliação | Observação |
+|----|----------|-----------|------------|
+| 1  | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim |  |
+| 2  | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Não |  |
+| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim |  |
+| 4  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Não |  |
+| 5  | O artefato segue a estrutura do framework DECIDE? | Incompleto | Segue o framework, porém não deixa claro o qual etapa é qual letra do DECIDE. |
+| 6  | Os objetivos (que podem ser apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade com um padrão, problemas na interação e na interface) estão claros e corretamente definidos? | Não |  |
+| 7  | Como atingir os objetivos (perguntas mais específicas para torná-los operacionais, perguntas a serem respondidas para verificar se os objetivos foram atingidos) está claro no artefato? | Não |  |
+| 8  | Os métodos (investigação, observação e/ou inspeção) para executar a avaliação estão definidos? | Não |  |
+| 9  | Caso o método escolhido para avaliação envolva usuários, o perfil dos participantes foi especificado? | Sim |  |
+| 10 | Caso o método escolhido para avaliação envolva usuários, o número de participantes foi especificado? | Não |  |
+| 11 | O número de participantes tem um motivo para ter sido escolhido? | Não |  |
+| 12 | Caso o método escolhido para avaliação envolva usuários, as questões éticas são apresentadas com um termo de consentimento? | Sim | Poderia tirar o termo de consentimento do artefato e apenas citar ele. |
+| 13 | Caso o método escolhido para avaliação envolva usuários, é apresentado um questionário pré-teste (questões relacionadas a características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio, por exemplo) ou roteiro de entrevista estruturada para coletar informações dos participantes? | Não |  |
+| 14 | Caso o método escolhido para avaliação envolva usuários, é apresentado um roteiro de entrevista pós-teste (questões relacionadas a informações sobre a opinião e os sentimentos do participante decorrentes da experiência de uso observada)? | Incompleto | Não está explícito que são perguntas pró-teste e algumas perguntas planejadas, não devem ser feitas aos usuários |
+| 15 | O escopo da avaliação (delimitar quais partes da interface, caminhos de interação, tarefas e perfis de usuário devem fazer parte da avaliação) está definido? | Sim | Poderia criar um texto separado para falar do escopo |
+| 16 | O escopo da avaliação está de acordo com os objetivos? | Não | O objetivo não está correto |
+| 17 | Os recursos para realizar a avaliação estão indicados? | Incompleto | Alguns recursos a serem utilizados são apresentados no cronograma |
+| 18 | Os avaliadores que participarão da avaliação estão apresentados? | Sim |  |
+| 19 | Possui prazo/cronograma para realizar as etapas das avaliações? | Sim |  |
+| 20 | O artefato apresenta a menção de um teste piloto? | Sim | |
+| 21 | O artefato apresenta a realização de um teste piloto? | Não |  |
+| 22 | O artefato apresenta como os dados coletados serão interpretados para atribuir significado a eles? | Sim |  |
+| 23 | O artefato apresenta como será o relato dos resultados utilizando uma consolidação após a interpretação? | Sim |  |
 
 Tabela 1 - Chacklist Planejamento da Avaliação do Sotryboard (Fonte: Autores)
 </center>
@@ -67,13 +70,19 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 
 |ID |Descrição resumida|Detalhes da correção|Responsável pela correção|Revisor|Status|
 |-------|------|------|---------|---|--|
-|2 | Bibliografias/referências bibliográficas não são utilizadas no texto | Mencionar a referência bibliografica linkada no próprio texto.      | Guilherme || ok|
-| 5 | O artefato segue o Framework DECIDE, porém pode deixar mais explícito a sua utilização | Deixar mais explícito as etapas do framework DECIDE (colocar o passo, do DECIDE, que está sendo utlizado no título de cada tópico em expecífico).      | Guilherme ||ok|
-| 10 | A quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade não estão presentes. | Especificar a quantidade de participantes e o motivo dessa quantidade     | Guilherme ||ok|
-| 14 | Não há menção explícita das ferramentas que serão utilizadas na avaliação |  Deixar de forma explícita as ferramentas que serão utilizadas na avaliação.     | Guilherme ||ok|
-| 16 | Não está com o vídeo mostrando a realização do teste piloto. | Colocar o vídeo mostrando a realização do teste piloto.      | Guilherme ||ok|
-| 17 | O artefato não apresenta os resultados obtidos com o teste piloto | Colocar no artefato o resultado do teste piloto      | Guilherme ||ok|
-| 20 | O artefato não possui a mesma quantidade de storyboards em relação à quantidade de integrantes do grupo      | Guilherme ||-|
+| 2 | As bibliografias/referências bibliográficas não são utilizadas no texto. |  Chamar as bibliografias/referências bibliográficas no texto.   | Guilherme |Raquel|ok|
+| 4 | As metodologias não definem de forma condizente as formas e os métodos que o grupo realizou o artefato. |  Incluir o framework DECIDE na metodologia.   | Guilherme |Raquel|ok|
+| 5 | Segue o framework, porém não deixa claro o qual etapa é qual letra do DECIDE. | Deixar mais explícito as etapas do framework DECIDE (colocar o passo, do DECIDE, que está sendo utlizado no título de cada tópico em expecífico).     | Guilherme |Raquel|ok|
+| 6 | Os objetivos não estão apropriados para a avaliação. | Utilizar um/alguns dos seguintes objetivos: apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade com um padrão, problemas na interação e na interface.    | Guilherme |Raquel|ok|
+| 7 | Não está claro como verificar se os objetivo foram atingidos.|  Tornar os objetivos em perguntas mais específicas para torná-los operacionais.     | Guilherme |Raquel|ok|
+| 8 | Os métodos não estão corretamentes definidos.|  Utilizar um/alguns dos seguintes métodos: investigação, observação e/ou inspeção.     | Guilherme |Raquel|ok|
+| 10 | O número de participantes não foi especificado.|  Especificar o número de participantes.     | Guilherme |Raquel|ok|
+| 11 | O número de participantes não tem um motivo para ter sido escolhido.  | Colocar um motivo para a escolha da quantidade de participantes.  | Guilherme |Raquel|ok|
+| 13 | Não é apresentado um questionário pré-teste.  | Fazer um questionário pré-teste.  | Guilherme |Raquel|ok|
+| 14 | Não estão explícitas as perguntas pró-teste e algumas perguntas planejadas, não devem ser feitas aos usuários.  | Falar que possui perguntas pós-teste e reformular algumas perguntas.  | Guilherme |Raquel|ok|
+| 16 | O escopo da avaliação não está de acordo com os objetivos.  | Corrigir os objetivos e fazer o escopo com base neles.  | Guilherme |Raquel|ok|
+| 17 | Não apresenta todos recursos a serem utilizados.  | Criar um tópico para falar dos recursos a serem utilizados.  | Guilherme |Raquel|ok|
+| 21 | O artefato não apresenta a realização de um teste piloto.  | Colocar o teste piloto no artefato.  | Guilherme |Raquel|ok|
 
 
 Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
@@ -85,40 +94,36 @@ Abaixo, na tabela 3, encontra-se o checklist feito após a correção do Planeja
 <center>
 <!-- ADICIONAR O CHECKLIST OU OS CHECKLISTS DA ENTREGA REFERENTE -->
 
-| ID | Pergunta                                                                                                                        | Avaliação | Observação |
-|----|---------------------------------------------------------------------------------------------------------------------------------|-----------|------------|
-| 1  | O artefato possui uma introdução condizente com o conteúdo do texto?                                                           |    Sim       |            |
-| 2  | Todas as bibliografias/referências bibliográficas são utilizadas no texto?                                                     |      Sim     |            |
-| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes?                                                   |    Sim       |           |
-| 4  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato?                   |     Sim      |            |
-| 5  | O artefato segue o Framework DECIDE?                                                                                            |    Sim       |           |
-| 6  | O artefato define claramente as metas e objetivos da avaliação?                                                                 |    Sim       |            |
-| 7  | O artefato indica quais métodos de avaliação serão utilizados para avaliar o storyboard?                                       |          Sim |           |
-| 8  | Os métodos escolhidos para a avaliação são apropriados?                                                                       |     Sim      |            |
-| 9  | O artefato considera e aborda questões práticas relevantes para a avaliação?                                                    |      Sim     |            |
-| 10 | O artefato informa a quantidade de participantes envolvidos na avaliação e o motivo dessa quantidade?                             |     Sim      |          |
-| 11 | O perfil dos participantes foi definido?                                                                                        |  Sim         |            |
-| 12 | O artefato possui um cronograma com datas, horários e locais das tarefas a serem executadas pelos participantes?                |     Sim      |            |
-| 13 | O artefato identifica e descreve as questões específicas que a avaliação do storyboard deve responder?                |     Sim      |            |
-| 14 | O artefato apresenta as ferramentas que serão utilizadas na avaliação?                                                                      |    Sim       |            |
-| 15 | O artefato contempla considerações éticas importantes relacionadas à avaliação do storyboard?                                  |      Sim     |            |
-| 16 | Foi realizado um teste piloto?                                                                                                  |    Sim       |          |
-| 17 | O artefato apresenta os resultados obtidos com o teste piloto?                                                                  |    Sim       |            |
-| 18 | O artefato apresenta quais storyboards serão avaliados?                                                                          |    Sim       |           |
-| 19 | O artefato possui a mesma quantidade de storyboards em relação à quantidade de integrantes do grupo?                           |     Não      |           |
-| 20 | O artefato descreve como os dados coletados serão analisados e utilizados?                                                      |     Sim      |            |
+| ID | Pergunta | Avaliação | Observação |
+|----|----------|-----------|------------|
+| 1  | O artefato possui uma introdução condizente com o conteúdo do texto? | Sim |  |
+| 2  | Todas as bibliografias/referências bibliográficas são utilizadas no texto? | Sim |  |
+| 3  | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim |  |
+| 4  | As metodologias do texto definem de forma condizente as formas e os métodos que o grupo realizou o artefato? | Sim |  |
+| 5  | O artefato segue a estrutura do framework DECIDE? | Sim |  |
+| 6  | Os objetivos (que podem ser apropriação de tecnologia pelos usuários, ideias e alternativas de design, conformidade com um padrão, problemas na interação e na interface) estão claros e corretamente definidos? | Sim |  |
+| 7  | Como atingir os objetivos (perguntas mais específicas para torná-los operacionais, perguntas a serem respondidas para verificar se os objetivos foram atingidos) está claro no artefato? | Sim |  |
+| 8  | Os métodos (investigação, observação e/ou inspeção) para executar a avaliação estão definidos? | Sim |  |
+| 9  | Caso o método escolhido para avaliação envolva usuários, o perfil dos participantes foi especificado? | Sim |  |
+| 10 | Caso o método escolhido para avaliação envolva usuários, o número de participantes foi especificado? | Sim |  |
+| 11 | O número de participantes tem um motivo para ter sido escolhido? | Sim |  |
+| 12 | Caso o método escolhido para avaliação envolva usuários, as questões éticas são apresentadas com um termo de consentimento? | Sim |  |
+| 13 | Caso o método escolhido para avaliação envolva usuários, é apresentado um questionário pré-teste (questões relacionadas a características pessoais, experiências anteriores com tecnologia e conhecimento sobre o domínio, por exemplo) ou roteiro de entrevista estruturada para coletar informações dos participantes? | Sim |  |
+| 14 | Caso o método escolhido para avaliação envolva usuários, é apresentado um roteiro de entrevista pós-teste (questões relacionadas a informações sobre a opinião e os sentimentos do participante decorrentes da experiência de uso observada)? | Sim |  |
+| 15 | O escopo da avaliação (delimitar quais partes da interface, caminhos de interação, tarefas e perfis de usuário devem fazer parte da avaliação) está definido? | Sim |  |
+| 16 | O escopo da avaliação está de acordo com os objetivos? | Sim |  |
+| 17 | Os recursos para realizar a avaliação estão indicados? | Sim |  |
+| 18 | Os avaliadores que participarão da avaliação estão apresentados? | Sim |  |
+| 19 | Possui prazo/cronograma para realizar as etapas das avaliações? |Sim  |  |
+| 20 | O artefato apresenta a menção de um teste piloto? | Sim | |
+| 21 | O artefato apresenta a realização de um teste piloto? | Sim |  |
+| 22 | O artefato apresenta como os dados coletados serão interpretados para atribuir significado a eles? |  Sim|  |
+| 23 | O artefato apresenta como será o relato dos resultados utilizando uma consolidação após a interpretação? |Sim  |  |
 
 Tabela 3 - Chacklist Pós Correção do Planejamento da Avaliação do Sotryboard (Fonte: Autores)
 </center>
 
-A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do checklist do Planejamento da Avaliação do Sotryboard após a correção.
 
-<center>
-
-<img src="../../assets/img/planejamento-Storyboard-depois.png"></img>
-<p>Figura 2 - Gráfico Checklist Pós Correção Planejamento da Avaliação do Sotryboard (Fonte: Autores)</p>
-
-</center>
 
 
 ## Referência bibliográfica
@@ -129,7 +134,7 @@ A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 
 > [3] BUSH, Marilyn, Chris Gerrard, Clifford Shelley. Fagan Inspection: The Silver Bullet No-one Wants to Fire. London SPIN, 25 mar. 2010.
 
-> [4] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em 17/06/2023
+> [4] Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
 > [5] KISHIMOTO, Guilherme. Verificação do artefato "Planejamento da Avaliação do Sotryboard". Repositório do Grupo OpenStreetMap da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/. Acesso em 19/06/2023
 
@@ -140,5 +145,6 @@ A figura 2 abaixo mostra um gráfico de pizza com o resultado da avaliação do 
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Guilherme](https://github.com/guilhermekishimoto) | [Paulo]() |
+| 29/06/2023 |        30/06/2023        |  1.1   | Refatoração do Checklist |  [Guilherme](https://github.com/guilhermekishimoto) | [Paulo]() |
 
 
