@@ -3,56 +3,38 @@
 ## Introdução
 Este documento descreve o Planejamento da Avaliação de Alta Fidelidade do protótipo do OpenStreetMap, visando identificar problemas de usabilidade, coletar feedback dos usuários e validar o design proposto. O protótipo de alta fidelidade é uma versão interativa e visualmente mais próxima do produto final, permitindo uma avaliação mais precisa das funcionalidades e da experiência do usuário. A avaliação será realizada seguindo uma abordagem sistemática, utilizando técnicas específicas e considerando aspectos éticos.
 ## Metodologia
-O Planejamento da Avaliação do Protótipo de Alta Fidelidade será conduzido através do uso do Framework DECIDE, de Preece et al. (2002)[[1](#referencia-bibliografia)], onde cada letra representa uma fase específica do planejamento, na tabela 1 é possível visualizar o que cada letra representa. E também será usado como base as atividades básicas: Preparação, Coleta de Dados, Interpretação, Consolidação e Relato dos Resultados, propostas por Simone no livro IHC-UX[[2](#referencia-bibliografia)].
+O Planejamento da Avaliação do Protótipo de Alta Fidelidade será conduzido através do uso do Framework DECIDE, de Preece et al. (2002)[[1](#referencia-bibliografia)], onde cada letra representa uma fase específica do planejamento. E também será usado como base as atividades básicas: Preparação, Coleta de Dados, Interpretação, Consolidação e Relato dos Resultados, propostas por Simone no livro IHC-UX[[2](#referencia-bibliografia)].
 
+- [D](#d-objetivos)   -           Determinar os objetivos da avaliação de IHC.             
+- [E](#e-explorar-perguntas)   -     Explorar as perguntas a serem respondidas com a avaliação.      
+- [C](#c-metodo-de-avaliacao)   -  (*Chose*) Escolher os métodos que serão utilizados na avaliação.   
+- [I ](#i-questoes-praticas-preparacao)  -    Identificar e administrar as questões práticas da avaliação.     
+- [D](#d-questoes-eticas)   -          Decidir como lidar com as questões éticas.              
+- [E](#e-interpretacao-e-resultados-dos-dados)   - (*Evaluate*) Interpretar e apresentar os dados da avaliação de IHC. 
 
-
-<center>
-
-| Letra |                             Definição                              |
-| :---: | :----------------------------------------------------------------: |
-|   [D](#d-objetivos)   |            Determinar os objetivos da avaliação de IHC.             |
-|   [E](#e-explorar-perguntas)   |     Explorar as perguntas a serem respondidas com a avaliação.      |
-|   [C](#c-metodo-de-avaliacao)   |  (*Chose*) Escolher os métodos que serão utilizados na avaliação.   |
-|   [I](#i-questoes-praticas-preparacao)   |    Identificar e administrar as questões práticas da avaliação.     |
-|   [D](#d-questoes-eticas)   |             Decidir como lidar com as questões éticas.              |
-|   [E](#e-interpretacao-e-resultados-dos-dados)   | (*Evaluate*) Interpretar e apresentar os dados da avaliação de IHC. |
-
-Tabela 1 - Metodologia DECIDE (Fonte: Autor, 2023)
-
-</center>
 
 
 ## D - Objetivos
 <!-- Avaliação formativa ou somativa? -->
 Os objetivos são os aspectos alvos da investigação do OpenStreetMap. E são os seguintes:
 
-- **1. Análise de ideias e alternativas de design**: Avaliar a facilidade de aprendizado (quanto ao uso) e o tempo necessários para o desenvolvimento de cada alternativa (quanto a construção) comparando com o [Protótipo de Baixa Fidelidade]().
-- **2. Identificação de problemas na interação e na interface**: Identificar problemas na interação e na interface que prejudiquem a qualidade de uso do sistema, classificados em grau de impacto nocivo, frequência e fatores de qualidade (usabilidade, experiência do usuário, acessibilidade ou comunicabilidade).
+- **Identificação de problemas na interação e na interface**: Identificar problemas na interação e na interface que prejudiquem a qualidade de uso do sistema, classificados em grau de impacto nocivo, frequência e fatores de qualidade (usabilidade).
 
 ## E - Explorar Perguntas
 Levando em consideração os objetivos da avaliação, foram estabelecidas as seguintes perguntas:
-
-**Análise de alternativa**
-
-  - Qual das alternativas é a mais eficiente? Mais fácil de aprender?
-  - Qual delas pode ser construída em menos tempo?
-  - De qual delas se espera que tenha um impacto negativo menor ao ser adotada?
-  - Qual delas torna mais evidente os diferenciais da solução projetada?
-  - Qual delas os usuários preferem? Por quê?
   
-**Identificação de problemas**
-
   - O usuário consegue operar o sistema?
-  - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?
-  - Que parte da interface e da interação o deixa insatisfeito?
-  - Que parte da interface o desmotiva a explorar novas funcionalidades?
+  - Ele concluiu a tarefa?
+  - Quantos passos foram necessários para concluir a tarefa (cadastrar ponto, cadastrar estrada e explorar local turístico)?
+  - Em quanto tempo concluiu a tarefa?
+  - Quantos erros cometeu?
+  - Onde esses problemas se manifestam? Qual é a gravidade desses problemas?
+  - Quais barreiras o usuário encontra para atingir seus objetivos?
+  - Ele desistiu da tarefa?
+  - Quantas vezes apresentou ter dúvidas?
   - Ele entende o que significa e para que serve cada elemento de interface?
   - Ele vai entender o que deve fazer em seguida?
   - Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos?
-  - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?
-  - Quais barreiras o usuário encontra para atingir seus objetivos?
-  - Ele tem acesso a todas as informações oferecidas pelo sistema
 
 ## C - Método de Avaliação
 O método de avaliação escolhido, dentro dos métodos de observação, foi o **teste de usabilidade** que visa avaliar a usabilidade de um sistema interativo a partir de experiências de uso dos seus usuários-alvo (Rubin, 1994[[3](#referencia-bibliografia)]; Rubin e Chisnell, 2008[[4](#referencia-bibliografia)]). Tendo os objetivos definidos, podemos estabelecer os critérios de avaliação, relacionados a dados mensuráveis. Assim, será observado e registrado os dados referentes ao desempenho dos participantes na realização das tarefas, suas opiniões e sentimentos ao usarem o sistema. Seguindo as atividades do teste de usabilidade, conforme a Figura 1.
@@ -96,10 +78,10 @@ O teste piloto será realizado com os membros da equipe, para permitir identific
 
    
 ### Coleta de Dados
-A coleta de dados consiste no questionário pré-teste, pós-teste (Tabela 2 e 3) e no registro/respostas as perguntas mensuráveis. Além da gravação do teste, via Teams, com o participante compartilhando sua tela e sua câmera.
+A coleta de dados consiste no questionário pré-teste, pós-teste (Tabela 1 e 2) e no registro/respostas as perguntas mensuráveis. Além da gravação do teste, via Teams, com o participante compartilhando sua tela e sua câmera.
 
 <details>
-<summary>Questionário Pré-Teste (Tabela 2)</summary>
+<summary>Questionário Pré-Teste (Tabela 1)</summary>
 <center>
     
 <table>
@@ -134,13 +116,13 @@ A coleta de dados consiste no questionário pré-teste, pós-teste (Tabela 2 e 3
   </tbody>
 </table>
 
-<p>Tabela 2 - Perguntas pré-teste (Fonte: Autor, 2023)</p>
+<p>Tabela 1 - Perguntas pré-teste (Fonte: Autor, 2023)</p>
 </center>
 </details>
 
 
 <details>
-<summary>Questionário Pós-Teste (Tabela 3)</summary>
+<summary>Questionário Pós-Teste (Tabela 2)</summary>
 <center>
 
 <table>
@@ -186,25 +168,27 @@ A coleta de dados consiste no questionário pré-teste, pós-teste (Tabela 2 e 3
 </table>
 
 
-<p>Tabela 3 - Perguntas pós-teste (Fonte: Autor, 2023)</p>
+<p>Tabela 2 - Perguntas pós-teste (Fonte: Autor, 2023)</p>
 </center>
 </details>
 
 
 
 ### Cronograma
-A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. A equipe deixou a cargo da integrante [Raquel](https://github.com/raqueleucaria) o desenvolvimento de todos os protótipos, referente a cada tarefa que será testada. O cronograma está apresentado na tabela 4:
+A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. A equipe deixou a cargo da integrante [Raquel](https://github.com/raqueleucaria) o desenvolvimento de todos os protótipos, referente a cada tarefa que será testada. O cronograma está apresentado na tabela 3:
 
 <center>
 
 | Data       | Hora  | Local           | Avaliador | Participante  | Tarefa              |
 |------------|-------|-----------------|-----------|---------------|---------------------|
-| 23/06/2023 | 19:00 | Online - Microsoft Teams | Raquel       | - | Teste Piloto |
-| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Testes de Usabilidade 1 |
-| 24/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 2 | Testes de Usabilidade 2 |
-| 25/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 3 | Testes de Usabilidade 3|
+| 23/06/2023 | 19:00-19:30 | Online - Microsoft Teams | [Raquel](https://github.com/raqueleucaria)       | - | Teste Piloto |
+| 26/06/2023 | 09:00-09:30 | UnB FGA |[Daniel](https://github.com/daniel-de-sousa)| <span style="color: brown;">Participante 1</span> | Testes de Usabilidade 1 |
+| 26/06/2023 | 09:40-10:10 | UnB FGA |[Guilherme](https://github.com/guilhermekishimoto)| <span style="color: brown;">Participante 2</span> | Testes de Usabilidade 2 |
+| 26/06/2023 | 10:30-11:00 | UnB FGA | [Caetano](https://github.com/caeslucio)| <span style="color: brown;">Participante 3</span> | Testes de Usabilidade 3 |
+| 26/06/2023 | 11:10-11:40 | UnB FGA | [Paulo](https://github.com/PauloVictorFS)| <span style="color: brown;">Participante 4</span> | Testes de Usabilidade 4 |
 
-Tabela 4 - Cronograma (Fonte: Autor, 2023)
+
+Tabela 3 - Cronograma (Fonte: Autor, 2023)
 
 </center>
 
@@ -213,26 +197,18 @@ Durante todo o processo de avaliação, serão consideradas [questões éticas](
 
 O avaliador deve ser cordial e deixar os participantes bem à vontade. Deve explicar ao participante os objetivos do estudo, o sistema de interesse, o procedimento da avaliação e as questões éticas. É importante ser bem simples e direto, evitando ambiguidade quanto ao que o convidado deve fazer em consideração a tarefa que deve realizar e como deve realizar (falando em voz alta o que esta pensando e os passos que irá segui).
 
-
 ## E - Interpretação e Resultados dos Dados
-Na atividade de interpretação e consolidação, a partir das informações quantitativas, serão construídos gráficos e tabelas com médias, porcentagens e demais indicadores necessários para identificar se as [metas de usabilidade](../../AnaliseRequisitos/Metas_usabilidade.md) estão sendo alcançadas, com base nos seguintes critérios: 
+Na atividade de interpretação e consolidação, a partir das informações quantitativas, serão construídos gráficos e tabelas com médias, porcentagens e demais indicadores necessários para identificar se as [metas de usabilidade](../../AnaliseRequisitos/Metas_usabilidade.md) estão sendo alcançadas, com base nas faixas de valores almejadas, da seguinte maneira:
 
-- Eficácia: Taxa de conclusão de tarefas maior ou igual a 50%.
-- Eficiência: Média de 3 passos para conclusão das tarefas.
+- Tarefas concluídas com sucesso (%) - 100%
+- Número de passos por cadastro de ponto (média) - 3 passos
+- Número de passos por cadastro de estrada (média) - 3 passos
+- Número de erros por interação (média) - 0.5 erros
+- Tempo para concluir com sucesso (minutos) 1.5 minutos
+- Número de desistências por tarefa (média) - 0 desistências
+- Números de dúvidas ao acessar o sistema (média) - 1.5 dúvidas
 
-<!-- - Eficácia: Garantir que os usuários consigam completar suas tarefas de forma correta e completa. Por exemplo, aumentar em 50% a taxa de conclusão de tarefas complexas em comparação com a versão atual do OpenStreetMap.
-
-- Eficiência: Assegurar que os usuários consigam completar suas tarefas de maneira rápida e direta. Por exemplo, reduzir em média 2 passos em cada tarefa complexa em comparação com a versão atual do OpenStreetMap.
-
-- Segurança: Proporcionar um ambiente de uso seguro, onde os erros são minimizados e, quando ocorrem, podem ser facilmente corrigidos. Por exemplo, reduzir em 70% o tempo médio para correção de erros em comparação com a versão atual do OpenStreetMap.
-
-- Utilidade: Oferecer funcionalidades que atendam tanto às necessidades básicas dos usuários, como também aos desejos e demandas adicionais. Por exemplo, aumentar em 30% a taxa de conclusão de tarefas por usuários menos experientes.
-
-- Aprendizagem: Permitir que os usuários aprendam a usar o sistema de maneira intuitiva e sem esforço. Por exemplo, aumentar em 80% a aderência às diretrizes de design em comparação com a versão atual do OpenStreetMap.
-
-- Memorização: Facilitar para que os usuários se lembrem como usar o sistema, mesmo depois de um período sem uso. Por exemplo, reduzir em 50% o uso de termos pouco comuns em comparação com a versão atual do OpenStreetMap. -->
-
-Para a consolidação dos dados, será realizada uma categorização informações encontrados durante a interação. Descrevendo a categoria do problema, em que parte da interface ela ocorre e os impactos na usabilidade do sistema. Além de explicar suas hipóteses às possíveis causas do problema e sugerir melhorias na interface e interação. No documento de [Planejamento do Relato dos Resultados da Avaliação](./planejamento_relato.md) será mais detalhado como relatar tais resultados.
+Para a consolidação dos dados, será realizada uma categorização das informações encontrados durante a interação. Descrevendo a categoria do problema, em que parte da interface ela ocorre e os impactos na usabilidade do sistema. Além de explicar suas hipóteses às possíveis causas do problema e sugerir melhorias na interface e interação. No documento de [Planejamento do Relato dos Resultados da Avaliação](./planejamento_relato.md) será mais detalhado como relatar tais resultados.
 
 
 ## Referência Bibliografia
@@ -258,113 +234,3 @@ Para a consolidação dos dados, será realizada uma categorização informaçõ
 | 13/06/2023 |        14/06/2023        |  2.0   | Correção e atualização| [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria)| [Paulo](https://github.com/PauloVictorFS) |
 | 30/06/2023 |        01/07/2023        |  3.0   | Refatoração do artefato (DECIDE)| [Guilherme](https://github.com/guilhermekishimoto)| [Paulo](https://github.com/PauloVictorFS) |
 | 02/07/2023 |        03/07/2023        |  4.0   | Inclusão das atividades do teste de usabilidade (etapas e relação com as metas de usabilidade) | [Raquel](https://github.com/raqueleucaria)| [Daniel](https://github.com/daniel-de-sousa) |
-
-
-
-<!-- 
-## D - Objetivos
-O principal objetivo dessa avaliação de alta fidelidade é identificar problemas na interação e na interface no protótipo de alta fidelidade do OpenStreetMap, coletando feedback dos usuários sobre a usabilidade, experiência do usuário, acessibilidade ou comunicabilidade.
-
-## E - Perguntas a Serem Respondidas
-Levando em consideração os objetivos da avaliação, deverão ser respondidas as seguintes perguntas para que seja possível alcançar os objetivos, as perguntas são baseadas no Captítulo 11 do livro Interação Humano-Computador e Experiência o Usuário da Simone Barbosa e Bruno Silva (2021, pg. 266 e 267). As perguntas a serem respondidas são:
-
-- O usuário consegue operar o sistema?
-
-- O usuário atinge seus objetivos? Após cometer quantos erros?
-
-- O usuário entende o que significa e para que serve cada elemento de interface?
-
-- Que parte da interface e da interação deixa o usuário insatisfeito?
-
-- Quais barreiras o usuário encontra para atingir seus objetivos?
-
-## C - Métodos de Avaliação
-O método de avaliação escolhido para a avaliação foi o de investigação por meio de entrevistas e observação, onde será realizado um teste de usabilidade pelo usuário e em seguida um integrante do grupo 4 da disciplina de IHC realizará algumas perguntas para o usuário.
-
-## I - Questões Práticas
-
-### Recrutamento dos Prticipantes
-Os participantes serão selecionados utilizando como base o [perfil de usuário](../../AnaliseRequisitos/perfil_usuario.md) elicitado. A quantidade de participantes será de 3 pessoas, sendo esse um número adequado segundo Krug.
-
-### Tarefas
-As avaliações utilizarão as seguintes tarefas para testar a usabilidade do protótipo:
-
-1. Buscar local;
-
-2. Cadastrar Ponto de Referência;
-
-3. Compartilhar localização em tempo real;
-
-4. Cadastrar Estrada.
-
-### Custos e Ferramentas
-As avaliações devem ser feitas de modo que a equipe e os participantes (usuários) não tenham custos. Para isso, será utilizado as seguintes ferramentas:
-
-- Computador;
-
-- Microfone;
-
-- Câmera;
-
-- Microsoft Teams;
-
-- Figama;
-
-- Roteiro de Avaliação;
-
-### Teste Piloto
-Antes da avaliação com os participantes reais, será realizado um teste piloto com membros da equipe de IHC. O teste piloto permitirá identificar possíveis problemas no roteiro de testes e entrevistas, ajustar o tempo necessário para cada atividade e familiarizar-se com o processo de condução dos testes e entrevistas. Os resultados do teste piloto serão analisados e utilizados para aprimorar o roteiro e a abordagem geral da avaliação.
-
-Durante o teste piloto, serão conduzidos testes de usabilidade e entrevistas simuladas, seguindo o roteiro proposto. Os participantes serão os próprios membros da equipe de IHC. O objetivo é obter feedback sobre a clareza das tarefas, o tempo necessário para realizá-las, a compreensão geral do processo de avaliação e ver se as ferramentas estão funcionando corretamente.
-
-### Cronograma
-A seguir, apresenta-se o cronograma para as atividades da avaliação do protótipo de alta fidelidade do OpenStreetMap, as quais deverão ser realizadas em um ambiente controlado, com o auxílio de um computador e um microfone para a gravação das avaliações. O cronograma está apresentado na tabela 2:
-
-<center>
-
-| Data       | Hora  | Local           | Avaliador | Participante  | Tarefa              |
-|------------|-------|-----------------|-----------|---------------|---------------------|
-| 14/06/2023 | 19:00 | Online - Microsoft Teams | Paulo       | Guilherme | Teste Piloto |
-| 14/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 1 | Teste de Usabilidade e Entrevista |
-| 14/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 2 | Teste de Usabilidade e Entrevista |
-| 14/06/2023 | 20:00 | Online - Microsoft Teams | Caetano       | Participante 3 | Teste de Usabilidade e Entrevista |
-
-Tabela 2 - Cronograma (Fonte: Autor, 2023)
-
-</center>
-
-### D - Questões Éticas
-Durante todo o processo de avaliação, serão consideradas [questões éticas](../../Planejamento/Aspectos_Eticos.md), incluindo privacidade, consentimento informado e confidencialidade dos participantes. Será fornecido um [termo de consentimento](../../Planejamento/Aspectos_Eticos.md) para os participantes no qual eles concordarão em participar da avaliação e permitir a gravação das sessões, garantindo que suas informações sejam utilizadas apenas para fins acadêmicos e que sua identidade seja protegida. Além disso, durante a gravação será perguntado e confirmado sobre o consentimento do participantes.
-
-### Roteiro de Avaliação
-O avaliador deve ser cordial e deixar os participantes bem à vontade. O avaliador deve explicar ao participante os objetivos do estudo, o sistema de interesse, o procedimento da avaliação e as questões éticas. Em seguida serão realizadas as perguntas pré-teste, o teste de usabilidade e as perguntas pós-teste. A tabela 3 apresenta as perguntas pré-teste e a tabela 4 apresenta as perguntas pós-teste.
-
-<center>
-
-| Número | Perguntas | Opções de resposta |
-| --- | --- | --- |
-| 1 | Qual a sua idade? | Aberta |
-| 2 | Qual o seu nível de formação acadêmica atual? | Aberta |
-| 3 | Qual o seu nível de experiência com tecnologias? | [ ]Alto <br>[ ]Médio <br> [ ]Baixo |
-| 4 | Qual o seu nível de experiência com o OpenStreetMap? | [ ]Alto <br>[ ]Médio <br> [ ]Baixo <br>[ ]Nenhum |
-
-Tabela 3 - Perguntas pré-teste (Fonte: Autor, 2023)
-
-<br>
-
-| Número | Perguntas | Opções de resposta |
-| --- | --- | --- |
-| 1 | Como você descreveria a aparência visual do protótipo? | Aberta |
-| 2 | Quais elementos da interface chamaram sua atenção? | Aberta |
-| 3 | O protótipo é fácil de usar?  | [ ]Sim <br>[ ]Não |
-| 4 | As interações e animações presentes no protótipo são adequadas e contribuem para sua experiência?  | [ ]Sim <br>[ ]Não |
-| 5 | Em geral, qual foi a sua experiência ao interagir com o protótipo?  | Aberta |
-
-
-Tabela 4 - Perguntas pós-teste (Fonte: Autor, 2023)
-
-</center>
-
-
-## E - Interpretação e Resultados dos Dados
-Os avaliadorem interpretam os dados coletados de cada participante individualmente, buscando respostas às questões definidas no planejamento da avaliação. Em seguida, após a interpretação dos dados, os avaliadores irão discutir os resultados buscando recorrências nos resultados e assim deve-se chegar em resultados comuns, que serão documentados e poderão ser utilizados para aprimorar o protótipo do OpenStreetMap. -->
