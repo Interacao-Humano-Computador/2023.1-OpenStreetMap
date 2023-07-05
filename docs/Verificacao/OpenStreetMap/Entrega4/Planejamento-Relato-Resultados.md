@@ -57,12 +57,12 @@ Com base na inspeção realizada, passaremos para o processo de correção. Iden
 
 |ID |Descrição resumida|Detalhes da correção|Responsável pela correção|Revisor|Status|
 |-------|------|------|---------|---|--|
-| 9 | Não foi apresentado a importância dos participantes assinarem o termo de consentimento     | Adicionar a importância do termo de consentimento. | Guilherme || -
-| 10 | Não foi apresentado possíveis exemplos do sumário dos dados coletados.      | Apresentar exemplos do sumário dos dados coletados |Guilherme||-
-| 11 | Não foi apresentado no documento a forma como deve ser analisada a interpretação e análise de dados.      | Apresentar a forma como deve ser analisada a interpretação e análise de dados. |Guilherme||-
-| 12 | Não foi apresentado a importância de documentar os problemas encontrados durante a avaliação.      | Apresentar a importância de documentar os problemas encontrados durante a avaliação. |Guilherme||-
-| 13 | Não foi apresentado a necessidade de documentar a experiência dos participantes com relação ao design.      | Apresentar a necessidade de documentar a experiência dos participantes com relação ao design. |Guilherme||-
-| 14 | Não foi apresentado a importância de um planejamento para um reprojeto da Análise de Tarefas.      | Apresentar a importância de um planejamento para um reprojeto da Análise de Tarefas. |Guilherme||-
+| 9 | Não foi apresentado a importância dos participantes assinarem o termo de consentimento     | Adicionar a importância do termo de consentimento. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
+| 10 | Não foi apresentado possíveis exemplos do sumário dos dados coletados.      | Apresentar exemplos do sumário dos dados coletados | - | - | - |
+| 11 | Não foi apresentado no documento a forma como deve ser analisada a interpretação e análise de dados.      | Apresentar a forma como deve ser analisada a interpretação e análise de dados. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
+| 12 | Não foi apresentado a importância de documentar os problemas encontrados durante a avaliação.      | Apresentar a importância de documentar os problemas encontrados durante a avaliação. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
+| 13 | Não foi apresentado a necessidade de documentar a experiência dos participantes com relação ao design.      | Apresentar a necessidade de documentar a experiência dos participantes com relação ao design. | - | - | - |
+| 14 | Não foi apresentado a importância de um planejamento para um reprojeto da Análise de Tarefas.      | Apresentar a importância de um planejamento para um reprojeto da Análise de Tarefas. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
 Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
@@ -89,3 +89,4 @@ Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Guilherme](https://github.com/guilhermekishimoto) | [Paulo]() |
+| 05/07/2023 |        05/07/2023        |  1.1   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

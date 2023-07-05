@@ -56,11 +56,11 @@ O planejamento e a situação da correção dos artefatos dos Cenários será re
 |:--:|------|------|:---------:|:---:|:--:|
 | 1 | A introdução está quebrada | Arrumar a lista presente na introdução | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 2 | Falta padronizar | Arrumar a citação no texto e a padronização | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 4 | Não é apresentado uma metodologia | Fazer a metodologia de como foi criado | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 7 | Falta falar sobre as experiências | Acrescentar parte falando sobre a experiência do usuário | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 10 | Não há legenda | Colocar legenda para saber o que é cada coisa | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 11 | Não existe técnica especificada | Refazer seguindo uma técnica para ter melhor elaboração dos cenários | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 12 | Os tópicos não são apresentados nos cenários | Explicar, classificar e apresentar os tópicos nos cenários. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
+| 4 | Não é apresentado uma metodologia | Fazer a metodologia de como foi criado | - | - | - |
+| 7 | Falta falar sobre as experiências | Acrescentar parte falando sobre a experiência do usuário | - | - | - |
+| 10 | Não há legenda | Colocar legenda para saber o que é cada coisa | - | - | - |
+| 11 | Não existe técnica especificada | Refazer seguindo uma técnica para ter melhor elaboração dos cenários | - | - | - |
+| 12 | Os tópicos não são apresentados nos cenários | Explicar, classificar e apresentar os tópicos nos cenários. | - | - | - |
 
 
 <p>Tabela 2 - Distribuição da Correção do Artefato (Fonte: Autor)</p>
@@ -102,3 +102,4 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

@@ -61,7 +61,7 @@ Com base na inspeção realizada, passaremos para o processo de correção. O qu
 |:--:|------|------|:---------:|:---:|:--:|
 | 2 | Há parte de Bibliografia apresenta a maneira incorreta de referenciar. | Adicionando a Bibliografia da maneira que o livro indica. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 4 | Não existe a parte da metodologia. | Colocar a parte de metodologias. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 6 | Foi citado brevemente, mas não foi explicado. | Explicar melhor os princípios e por que são importantes? | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
+| 6 | Foi citado brevemente, mas não foi explicado. | Explicar melhor os princípios e por que são importantes? | - | - | - |
 | 12 | So há para o participante | Colocar um campo para a assinatura de um menbro da equipe. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 13 | Não é dito como o termo de consientimento vai ser usado. | Explicar a sua utilização. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
@@ -103,3 +103,4 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

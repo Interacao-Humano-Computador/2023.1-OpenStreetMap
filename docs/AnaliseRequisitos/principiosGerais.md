@@ -16,6 +16,8 @@ Os princípios gerais de projeto são fundamentais para o sucesso de um projeto.
 ## Metodologia
 Para se verificar os princípios, foi feito um estudo de o que cada um representava e depois um estudo no site, entendendo quais pontos teriam que ser melhorados e assim escolhidos os princípios gerais.
 
+Eles serão usados como guia para se possa saber quais são os pontos mais defeituosos do site e se realizar uma propost melhor, e justamente por isso que alguns não apareceram na lista dos utilziados, por serem considerados a sua implementação atual como satisfatórios.
+
 ## Princípios Gerais Utilizados
 Apesar de seguir uma série de princípios gerais de design de interação para melhorar a experiência do usuário, ainda existem algumas áreas em que o OpenStreetMap pode melhorar. Levando isso em conta, foram observados os seguintes princípios que o site pode melhorar:
 
@@ -49,3 +51,4 @@ O OpenStreetMap pode não ter recursos suficientes para detectar e corrigir erro
 |:--:|:----------------------:|:----:|:-------:|:---:|:----: |
 | 13/05/2023 | 14/05/2023 | 1.0 | Criação do Documento |[Daniel](https://github.com/daniel-de-sousa) e [Guilherme](https://github.com/guilhermekishimoto)  | [Paulo](https://github.com/PauloVictorFS) |
 | 19/06/2023 |        19/06/2023        |  1.1   | Verificação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.2   | Correção |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

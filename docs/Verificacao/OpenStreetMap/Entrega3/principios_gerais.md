@@ -54,9 +54,9 @@ O planejamento e a situação da correção dos artefatos dos Princípios Gerais
 |:--:|------|------|:---------:|:---:|:--:|
 | 2 | Citação está Incorreta | Corrigir citação | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 4 | Sem metodologia | Adicionar Metodologia | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 8 | Não informa como serão uteis | Mostrar quando e como serão usados | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 9 | Sem representações do site | Colocar prints do site onde se adequam | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 10 | Não há explicação | Explicar o motivo de alguns princípios não aparecerem | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
+| 8 | Não informa como serão uteis | Mostrar quando e como serão usados | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
+| 9 | Sem representações do site | Colocar prints do site onde se adequam | - | - | - |
+| 10 | Não há explicação | Explicar o motivo de alguns princípios não aparecerem | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
 <p>Tabela 2 - Distribuição da Correção do Artefato (Fonte: Autor)</p>
@@ -98,3 +98,5 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.2   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

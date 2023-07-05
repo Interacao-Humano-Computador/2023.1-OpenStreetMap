@@ -57,8 +57,8 @@ O planejamento e a situação da correção dos artefatos das Personas será reg
 |:--:|------|------|:---------:|:---:|:--:|
 | 2 | Falta padronizar | Padronizar a bibliografia e citar corretamente | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 6 | Falta explicar por que foram criadas | Demostrar o motivo da criação delas para o projeto | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 8 | Algumas características estão rasas | Detalhar melhor algumas características | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 10 | Algumas partes não são bem detalhadas | Detalhar melhor algumas características das personas | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
+| 8 | Algumas características estão rasas | Detalhar melhor algumas características | - | - | - |
+| 10 | Algumas partes não são bem detalhadas | Detalhar melhor algumas características das personas | - | - | - |
 | 11 | Não é mostrado nem onde, nem como será usada | Mostrar onde elas serão úteis no projeto | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
@@ -98,6 +98,7 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 
 
 ## Histórico de Versão
-|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
-| :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
+|    Data    | Data Prevista de Revisão | Versão |      Descrição       |                          Autor                |               Revisor               |
+| :--------: | :----------------------: | :----: | :------------------: | :-------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Rvisão de alguns pontos |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
