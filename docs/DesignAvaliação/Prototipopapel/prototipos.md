@@ -224,12 +224,38 @@ O protótipo da [Tarefa 2 - Cadastrar Ponto de Referência](../../../AnaliseRequ
 
 
 ### Compartilhar localização em tempo real
+O protótipo da [Tarefa 3 - Cadastrar Ponto de Referência](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados) está representado nas Figuras 15 a 17.
+
+
+<center>
+
+<table class="no-border">
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="../img/Tela.png" width=600px></img></td>
+      <td><img src="../img/Centro.png" width=600px></img></td>
+    </tr>
+    <tr>
+      <td align="center">Figura 15: Janela principal, edição (Fonte: Daniel, 2023).</td>
+      <td align="center">Figura 16: Zoom na localização (Fonte: Daniel, 2023).</td>
+    </tr>
+  </tbody>
+</table>
+
+<img src="../img/Elementos.png" width=200px></img>
+<p> Figura 17: Elemento de Seleção, Marcador e Link (Fonte: Daniel, 2023)</p>
+
+</center>
 
 ### Cadastrar Estrada
 
 ### Explorar local turístico
 
-Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) que esta representado nas FIguras 15, 16, 17 e 18.
+Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) que esta representado nas Figuras 18, 19, 20 e 21.
 
 <table class="no-border">
   <thead>
@@ -242,8 +268,8 @@ Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar lo
       <td><img src="../../../assets/prototipo-papel/8.png" width=600px></img></td>
     </tr>
     <tr>
-      <td align="center">Figura 15: Janela principal (Fonte: Guilherme, 2023, 2023).</td>
-      <td align="center">Figura 16: Lista locais turísticos (Fonte: Guilherme, 2023).</td>
+      <td align="center">Figura 18: Janela principal (Fonte: Guilherme, 2023, 2023).</td>
+      <td align="center">Figura 19: Lista locais turísticos (Fonte: Guilherme, 2023).</td>
     </tr>
     <tr>
       <td></br></td>
@@ -254,8 +280,8 @@ Outro protótipo que será apresentados é o referente a [Tarefa 5 - Explorar lo
       <td><img src="../../../assets/prototipo-papel/10.png" width=600px></img></td>
     </tr>
     <tr>
-      <td align="center">Figura 17: Local turístico selecionado (Fonte: Guilherme, 2023)</td>
-      <td align="center">Figura 18: 10: Rota (Fonte: Guilherme, 2023)</td>
+      <td align="center">Figura 20: Local turístico selecionado (Fonte: Guilherme, 2023)</td>
+      <td align="center">Figura 21: 10: Rota (Fonte: Guilherme, 2023)</td>
     </tr>
   </tbody>
 </table>
@@ -287,9 +313,4 @@ Uma das etapas finais da preparação é a realização do teste piloto. Ele é 
 | :-: | :-: | :-: | :-: | :-: | :-: 
 | 12/06/2023 |        13/06/2023        |  1.0   | Criação inicial do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
 | 03/07/2023 | 04/07/2023 | 2.0 | Adequação ao teste de usabilidade | [Raquel](https://github.com/raqueleucaria)|  [Caetano](https://github.com/caeslucio) |
-
-
-
-
-
--------------------------------------------------------------------------------------------------------------------
+| 05/07/2023 | 05/07/2023 | 2.1 | Adição de mais um Protótipo | [Daniel](https://github.com/daniel-de-sousa)| [Raquel](https://github.com/raqueleucaria) |
