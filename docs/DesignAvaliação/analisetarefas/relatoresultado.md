@@ -3,6 +3,9 @@
 ## Introdução
 Esse artefato pretende seguir o [planejamento do relato de resultados](planejamento_relato.md)  da análise de tarefas, apresentando cada um dos pontos levantados nele, sendo que para isso será usado a entrevista programada pelo [planejamento da análise de tarefas](planejamento_analise_tarefa.md). 
 
+## Metodologia
+Para se poder realizar esse artefato com as conclusões necessários foi seguido o que tinha sido proposto no [planejamento do relato de resultados](planejamento_relato.md), como também usado o questionário presente no [planejamento da análise de tarefas](planejamento_analise_tarefa.md), que foi usado durante a entrevista com o usuário.
+
 ## Objetivo
 Durante o processo de análise de tarefas executado através da entrevista, o objetivo foi conseguir um conhecimento mais profundo da experiência dos usuários utilizando o site, seja problema da tarefa em si ou até mesmo um problema de navegação para realizar a tarefa, onde foi apresentado duas tarefas para o usuário onde ele se expressou sobre cada uma delas.
 
@@ -22,10 +25,21 @@ Mas nesse primeiro momento foi apenas realizado o método da entrevista, que con
 Todas as respostas serão apresentadas no Sumário de Feedbacks.
 
 ## Descrição das Tarefas
-Durante o processo de entrevista se teve apenas a apresentação de qual tarefa era, sem ter demonstrado os seus passos a passos apresentados no documento [Análise de Tarefas](../../AnaliseRequisitos/analiseTarefas.md), por isso, não será apresentado a parte de conhecimento a priori e a posteriori Sendo para isso utilizadas duas tarefas, sendo elas :
+Durante o processo de entrevista se teve apenas a apresentação de qual tarefa era, sem ter demonstrado os seus passos a passos apresentados no documento [Análise de Tarefas](../../AnaliseRequisitos/analiseTarefas.md). Sendo para isso utilizadas duas tarefas, sendo elas :
 
 * Cadastrar ponto de referência
 * Buscar locais desejados
+
+## Conhecimento a priori
+
+* Familiariade basica com o computador.
+* Familiaridade basica com o navegador.
+* Conhecimento básico em sites de mapa.
+
+## Conhecimento a posteriori
+
+* Conhecimento sobre o site OpenStrretMap.
+* Conhecimento sobre a realização da tarefa.
 
 
 ## Avaliadores e participantes
@@ -118,4 +132,5 @@ O usuário apresentou problemas tanto nas tarefas apresentada, sendo que sobre c
 ## Histórico de Versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                                                Autor                                                                 |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
+| 28/05/2023 |        29/05/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |
 | 28/05/2023 |        29/05/2023        |  1.0   | Criação do documento | [Daniel](https://github.com/daniel-de-sousa) e [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |

@@ -28,7 +28,7 @@ Como apresentado no Planejamento Geral, durante o dia 12 ao dia 19 de junho de 2
 |-------|------|
 | Relato dos resultados do Story Board  | [Daniel](https://github.com/daniel-de-sousa) |
 | Relato dos resultados da Análise de tarefas | [Daniel](https://github.com/daniel-de-sousa) |
-| Planejamento da Avaliação do Protótipo de Papel |  |
+| Planejamento da Avaliação do Protótipo de Papel | [Guilherme](https://github.com/guilhermekishimoto) |
 | Planejamento do relato dos resultados da avaliação do Protótipo de Papel|  |
 
 
