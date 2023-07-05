@@ -2,46 +2,79 @@
 
 ## Introdução
 
-O objetivo do Planejamento do relato dos resultados da avaliação do Protótipo de Papel é estabelecer um esquema de como a avaliação do protótipo de papel deve ser relatada, ou seja, como os resultados devem ser expostos e verificados pelos membros da equipe que irá avaliar. Este documento estabelece os elementos que devem existir no relato dos resultados.
+Este documento descreve o Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel, um maior detalhamento de como os dados coletados devem ser interpretados e relatados no processo de avaliação do OpenStreetMao.
+
 
 ## Elementos do relato de resultados
 
 1. Objetivo
 2. Metodologia
-3. Participantes e avaliadores
-4. Respostas das perguntas
-5. Gravações
-6. Conclusão
+3. Interpretação e Consolidação dos Resultados
+4. Relato dos Resultados
+<!-- 4. Participantes e avaliadores
+5. Respostas das perguntas
+6. Gravações
+7. Conclusão -->
 
-## Objetivos da avaliação
-
-No relato dos resultados, os objetivos da avaliação devem ser explicitados de maneira clara e objetiva, a fim de possibilitar uma verificação na conclusão do artefato. No caso, a avaliação tem como objetivo entender no aplicativo e em fluxos alternativos, o que está sendo bem implementado e o que seria melhor alterar, tendo uma lista de feedback de usuários reais.
+## Objetivos
+O Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel tem o objetivo de orientar como a interpretação e consolidação dos resultados deve ser realizada. Dessa forma, podemos identificar se as metas de usabilidade definidas anteriormente estão sendo atendidas, e relatar tais resultados.
 
 ## Metodologia
+O método de avaliação utilizado foi o teste de usabilidade, apresentado melhor no [Planejamento de Avaliação do Protótipo de Baixa](../planejamento_Prototipopapel/##c-metodo-de-avaliacao), duas de suas atividades é a Interpretação/Consolidação dos Resultados e o Relato dos Resultados. Os quais, a partir das informações quantitativas coletadas, serão construídos indicadores para identificar se as metas de usabilidade estão sendo alcançadas e relatar adequadamente tais informações.
 
-Os métodos utilizados para a realização desta avaliação serão introduzidos e justificados. Além disso, deve ser feita uma breve descrição de como a avaliação ocorreu. E será utilizado [entrevistas](./planejamento_Prototipopapel.md) para coletar os pontos negativos e positivos do design. Além disso, a entrevista permitá realizar uma série de perguntas para direcionar a simulação.
+## Interpretação e Consolidação dos Resultados
+Para interpretar os dados coletados será usado como modelo a tabela 1, que possui as perguntas a serem feitas e o tipo de dado para resposta. Para cada entrevista será preenchida uma tabela dessa e então, com o auxílio da Planilha do Google, iremos realizar os cálculos de média e porcentagem, conforme as metas de usabilidade. As perguntas subjetivas são usadas para categorizar os problemas.
 
-## Participantes e avaliadores
 
-Todos os participantes da avaliação, bem como os avaliadores designados, serão listados. E o usuário escolhido deve estará de acordo com o [perfil do usuário](../../AnaliseRequisitos/perfil_usuario.md).
+<center>
 
-## Respostas das perguntas
 
-Todas as perguntas devem ser regisrtadas de forma clara e organizada.
+| ID  | Perguntas                                                           | Tarefa 1                                               | Tarefa 2                                      | Tarefa 3                                      | Tarefa 4                                      | Tarefa 5                                      |
+|-----|---------------------------------------------------------------------|--------------------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|-----------------------------------------------|
+| 1   | A tarefa foi concluída?                                              | Nominal <br>(0 - Não / 1 - Sim)                            | Nominal<br> (0 - Não / 1 - Sim)                   | Nominal<br> (0 - Não / 1 - Sim)                   | Nominal<br> (0 - Não / 1 - Sim)                   | Nominal<br> (0 - Não / 1 - Sim)                   |
+| 2   | Quantos passos foram necessários para concluir a tarefa?             | -                                                      | Ordinal de intervalo (1, 2, 3...)              | Ordinal de intervalo <br>(1, 2, 3...)              | Ordinal de intervalo <br>(1, 2, 3...)              | -                                             |
+| 3   | Em quanto tempo a tarefa foi concluída?                               | Ordinal de Razão discretas <br>(0.0, 0.10, 0.20, 0.30...) | Ordinal de Razão discretas <br>(0.0, 0.10, 0.20, 0.30...) | Ordinal de Razão discretas <br>(0.0, 0.10, 0.20, 0.30...) | Ordinal de Razão discretas <br>(0.0, 0.10, 0.20, 0.30...) | Ordinal de Razão discretas <br>(0.0, 0.10, 0.20, 0.30...) |
+| 4   | Quantos erros foram cometidos?                                        | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)              | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     |
+| 5   | Desistiram de realizar a tarefa?                                      | Nominal<br> <br>(0 - Não / 1 - Sim)                            | Nominal<br> <br>(0 - Não / 1 - Sim)                   | Nominal<br> <br>(0 - Não / 1 - Sim)                   | Nominal<br> <br>(0 - Não / 1 - Sim)                   | Nominal<br> <br>(0 - Não / 1 - Sim)                   |
+| 6   | Quantas vezes apresentou ter dúvidas?                                 | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)              | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     | Ordinal de Razão contínuo <br>(0, 1, 2, 3...)     |
+| 7   | O usuário consegue operar o sistema?                                  | Subjetiva                                              | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
+| 8   | Ele entende o que significa e para que serve cada elemento de interface? | Subjetiva                                              | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
+| 9   | Ele vai entender o que deve fazer em seguida?                        | Subjetiva                                              | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
+| 10  | Que problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | Subjetiva                                      | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
+| 11  | Onde esses problemas se manifestam? Qual é a gravidade desses problemas? | Subjetiva                                      | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
+| 12  | Quais barreiras o usuário encontra para atingir seus objetivos?       | Subjetiva                                              | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    | Subjetiva                                    |
 
-## Gravações 
 
-Como as entrevistas serão gravadas, o vídeo com a realização da avaliação estar disponibilizado no Youtube e anexado ao documento.
+Tabela 1 - Modelo da interpretação (Fonte: Autores, 2023)
+</center>
 
-## Conclusão
 
-Os resultados deverão ser analisados conforme a metodologia estabelecida. E deverá ser feito uma observação e interpretação do dados obtidos, além de ressaltar problemas encontrados e as possíveis soluções correspondentes.
+## Relato dos Resultados
+
+### Participantes e avaliadores
+
+Todos os participantes da avaliação, bem como os avaliadores designados, serão listados, conforme o cronograma. Qualquer mudança no [planejado](../planejamento_Prototipopapel/#cronograma) deve ser registrado, além de listar quais tarefas foram testadas em cada teste de usabilidade.
+
+### Respostas das perguntas
+Todas as respostas registradas devem ser apresentadas na Planilha do Google e anexado neste trabalho no formato de Iframe. Além das perguntas pré e pós-teste.
+
+### Gravações 
+Como as entrevistas serão gravadas, o vídeo com a realização da avaliação estar disponibilizado no Youtube, como não listado e anexado ao documento.
+
+### Resultado
+Os resultados deverão ser apresentados e comparado com o esperado das metas de usabilidade. Além disso, deve ser apresentado uma breve descrição da interação, com a categoria do problema, em que parte da interface ela ocorre e os impactos na usabilidade do sistema, com base nas perguntas qualitativas
+
+### Causas e melhorias
+Além de explicar suas hipóteses às possíveis causas do problema, deve-se sugerir melhorias na interface e interação.
+
 
 ## Bibliografia
-> SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a. Edição, Editora Campus, 2010
+
+> Barbosa, Simone. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
 
 ## Histórico de versão
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                        Autor                                         |                   Revisor                   |
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------: | :-----------------------------------------: |
 | 28/05/2023 |        29/05/2023        |  1.0   | Criação do documento | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+| 03/07/2023 |        04/07/2023        |  2.0   | Inclusão das atividades do teste de usabilidade (etapas e relação com as metas de usabilidade) | [Raquel](https://github.com/raqueleucaria)| [Daniel](https://github.com/daniel-de-sousa) |

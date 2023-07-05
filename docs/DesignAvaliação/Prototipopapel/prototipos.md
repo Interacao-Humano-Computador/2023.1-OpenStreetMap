@@ -85,14 +85,80 @@ Durante a produção dos protótipos, foi criado o protótipo 0, conforme as Fig
 
 <img src="../../../assets/prototipo-papel/6.jpg" width=500px></img>
 <p> Figura 7: Inputs (Fonte: Raquel, 2023).</p>
-<iframe width="650" height="405" src="https://www.youtube.com/embed/diwnWaYMBiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p> Vídeo 1: Teste Piloto (Fonte: Raquel, 2023).</p>
-<iframe width="650" height="405" src="https://www.youtube.com/embed/ns1IIUtlCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<p> Vídeo 2: Teste de Usabilidade (Fonte: Raquel, 2023).</p>
 
-
+<table class="no-border">
+  <thead>
+    <tr>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><iframe width="650" height="405" src="https://www.youtube.com/embed/diwnWaYMBiw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+      <td><iframe width="650" height="405" src="https://www.youtube.com/embed/ns1IIUtlCeA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></td>
+    </tr>
+    <tr>
+      <td align="center">Vídeo 1: Teste Piloto (Fonte: Raquel, 2023).</td>
+      <td align="center">Vídeo 2: Teste de Usabilidade (Fonte: Raquel, 2023).</td>
+  </tbody>
+</table>
 
 </center>
+
+<h4>Perguntas e Respostas</h4>
+Temos as seguintes respostas do entrevistado, na Tabela 1.
+<center>
+<table>
+  <tr>
+    <th>ID</th>
+    <th>Pergunta</th>
+    <th>Resposta</th>
+  </tr>
+  <tr>
+    <td>P01</td>
+    <td>Você consegue entender o propósito e funcionalidade do protótipo de papel do OpenStreetMap?</td>
+    <td>Sim, o protótipo de papel visa testar uma implementação que mesmo sem animações e highlights de botões executaria as tarefas desejadas.</td>
+  </tr>
+  <tr>
+    <td>P02</td>
+    <td>As informações apresentadas no protótipo de papel são claras e fáceis de entender?</td>
+    <td>No geral sim, o protótipo em si estava bastante claro, só tive algumas dificuldades em relação a apresentação de salvar.</td>
+  </tr>
+  <tr>
+    <td>P03</td>
+    <td>Você encontrou alguma dificuldade específica ao interagir com o protótipo de papel?</td>
+    <td>Tive uma certa dificuldade em realizar o salvamento do ponto que eu estava cadastrando, e também em relação ao botão de editar ponto de referência.</td>
+  </tr>
+  <tr>
+    <td>P04</td>
+    <td>O protótipo de papel apresenta um fluxo lógico de interações?</td>
+    <td>Sim</td>
+  </tr>
+  <tr>
+    <td>P05</td>
+    <td>O protótipo de papel fornece informações relevantes para a realização das tarefas?</td>
+    <td>Sim</td>
+  </tr>
+  <tr>
+    <td>P06</td>
+    <td>O protótipo de papel apresenta tarefas condizentes com a realidade?</td>
+    <td>Sim</td>
+  </tr>
+  <tr>
+    <td>P07</td>
+    <td>Você conseguiu encontrar e utilizar as funcionalidades necessárias para alcançar seu objetivo?</td>
+    <td>Sim</td>
+  </tr>
+</table>
+
+<p align="center"> Tabela 1: Respostas - Entrevista (Fonte: Autor).</p>
+</center>
+
+<h4>Conclusões</h4>
+- Botão de editar não ficou a vista;<br>
+- Botão de salvar ficou com o ícone ambíguo;<br>
+- Local do botão de salvar não muito bom;<br>
+- Os botão de criação de ponto de referência ocultos, tem uma etapa a mais de criar em edição.<br>
+
 </details>
 
 ### Buscar Local
