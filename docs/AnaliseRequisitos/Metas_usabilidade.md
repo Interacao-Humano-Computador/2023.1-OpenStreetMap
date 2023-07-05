@@ -1,55 +1,108 @@
 # Metas de Usabilidade
 ## Introdução
-De acordo com o livro Interação Humano-Computador,  Simone Diniz Junqueiro Barbosa apresenta que as metas de usabilidade envolvem definir os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse.
+As metas de usabilidade envolvem definir os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse.
 
-## Motivo da escolha
-Dessa forma, levando em consideração o [Processo de Design](https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/Planejamento/Processo_Design.md) do grupo, um dos métodos estabelecidos pelo ciclo de Vida de Mayhew são as metas de usabilidade. Sendo assim, os seguintes artefatos foram necessários para a realização desse artefato, da seguinte forma:
-- [Perfil do Usuário](https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/AnaliseRequisitos/perfil_usuario.md) foi percebido as necessidades que o usuário necessita e prioriza
-- [Análise de Tarefas](https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/AnaliseRequisitos/analiseTarefas.md) foi utilizada para analisar, observar e documentar o fluxo de trabalho dos usuários, as etapas envolvidas na conclusão de uma tarefa, os obstáculos encontrados e os pontos de melhoria
--[Principios gerais do projeto](https://github.com/Interacao-Humano-Computador/2023.1-OpenStreetMap/blob/main/docs/AnaliseRequisitos/principiosGerais.md) para poder analisar  os resultados e os dados quantitativos coletados, e estabelecer  apresentar metas de usabilidade e sua aplicação.
+## Artefatos
+Levando em consideração o [Processo de Design](../Planejamento/Processo_Design.md) do grupo, um dos métodos estabelecidos pelo ciclo de Vida de Mayhew são as metas de usabilidade. Sendo assim, os seguintes artefatos foram necessários para a definição das metas de usabilidade:
 
-##  Definição das Metas de usabilidade
-O pesquisador Jacob Nielsen apresentou metas de usabilidade, que devem definir fatores relacionados a qualidade do produto de software. Dessa forma, abaixo será listado as metas definidas por Nielsen
+- [Perfil do Usuário](./perfil_usuario.md) para perceber as necessidades do usuário e o que mais prioriza;
+- [Análise de Tarefas](./analiseTarefas.md) para analisar, observar e documentar o fluxo de trabalho dos usuários, as etapas envolvidas na conclusão de uma tarefa, os obstáculos encontrados e os pontos de melhoria;
+- [Princípios gerais do projeto](./principiosGerais.md) para poder analisar  os resultados e os dados quantitativos coletados, e estabelecer  apresentar metas de usabilidade e sua aplicação.
 
-- Eficácia: A meta de eficácia busca garantir que os usuários possam atingir seus objetivos de forma precisa e completa ao interagir com o sistema. Isso implica em fornecer funcionalidades claras, facilitar a conclusão de tarefas e minimizar erros.
+## Metas de Usabilidade
 
-- Eficiência: A meta de eficiência envolve a busca por uma interação eficiente, na qual os usuários possam realizar suas tarefas de forma rápida e com o mínimo de esforço. Isso requer uma interface intuitiva, fluxos de trabalho otimizados e redução de passos desnecessários.
+A usabilidade visa assegurar produtos interativos fáceis, eficazes e agradáveis, assim, as interações devem ser otimizadas para os usuários realizarem suas tarefas da melhor forma. A usabilidade é dividida nas seguintes metas basicamente:
 
-- Segurança: A meta de segurança tem como objetivo garantir que os usuários possam interagir com o sistema de forma segura, minimizando riscos, erros e consequências indesejadas. Isso envolve proteger os usuários contra a exposição a ameaças, fornecer mecanismos de segurança adequados, como autenticação e controle de acesso, e garantir que o sistema seja resistente a falhas de segurança.
+1. [Eficácia](#eficacia): Realização das atividades propostas. Faz o que deve fazer;
+<!-- ex ruim: atualização do win que não foi concluída -->
+
+2. [Eficiência](#eficiencia): Realização das atividades em poucos passos;
+<!-- ex ruim: opções de operadoras -->
+
+3. [Segurança](#seguranca): Previne erros do usuário;
+<!-- ex: mensagem para evitar erro e justaposição dos botões -->
+
+4. [Utilidade](#utilidade-e-memorizacao): Informações diretas, sem inutilidade;
+
+5. [Aprendizagem](#aprendizagem): Sistema fácil de aprender;
+<!-- ex ruim: usuário desiste de usar o sistema -->
+
+6. [Memorização](#utilidade-e-memorizacao): Menus fáceis de serem acessados.
+
+## Definição das Metas de Usabilidade
+
+Ao definir as metas de usabilidade definimos os fatores de qualidade de uso que devem ser priorizados no projeto, como serão avaliados ao longo do processo de design, e quais faixas de valores são inaceitáveis, aceitáveis e ideais para cada indicador de interesse. Conforme o exemplo da Figura 2.
+
+<center>
+<img src="../img/faixa-valores.png" ></img>
+<p>Figura 1 - Faixas de valores para indicadores de usabilidade (Fonte: Simone[1]) - cáp. 6 - pág 117</p>
+</center>
 
 
-- Utilidade: A meta de utilidade concentra-se em fornecer funcionalidades relevantes e valiosas para os usuários. Isso significa compreender as necessidades e demandas dos usuários, oferecer recursos que atendam a essas necessidades e evitar a inclusão de funcionalidades desnecessárias.
 
-- Aprendizagem: A meta de aprendizagem visa facilitar a curva de aprendizado do sistema, permitindo que os usuários o utilizem de forma rápida e sem dificuldades. Isso é alcançado por meio de uma interface intuitiva, instruções claras, feedback adequado e consistência no design.
+Dessa forma, seguindo os tipo, estabelecemos as metas de usabilidade do OpenStreetMap, para melhor entendimento segue a legenda na Figura 2.
 
-- Memorização: A meta de memorização está relacionada à capacidade dos usuários de se lembrarem de como usar o sistema mesmo após um período de não utilização. Isso envolve o uso de convenções de design conhecidas, padrões visuais consistentes e uma estrutura organizada que facilite a recuperação da informação.
+<center>
+<img src="../img/legenda.png" width=250 ></img>
+<p>Figura 2 - Legenda (Fonte: Simone[1])</p>
+</center>
 
 
+### Eficácia
+- Tarefas concluídas com sucesso (%)
 
+<center>
+<img src="../img/sucesso.png" width=350></img>
+<p>Figura 3 - Faixas de valores Tarefas concluídas (Fonte: Simone[1])</p>
+</center>
 
-## As  Metas Principais do Projeto
+### Eficiência
+- Número de passos por cadastro de ponto (média)
+- Número de passos por cadastro de estrada (média)
+- Número de passos para explorar local turístico (média)
 
-Com base nos princípios gerais do projeto e na necessidade de aplicar  melhorias no Openstreetmap, nesse contexto  foi estabelecido as seguintes metas principais de usabilidade:
+<center>
+<img src="../img/passos.png" ></img>
+<p>Figura 4 - Faixas de valores Passos (Fonte: Simone[1])</p>
+</center>
 
-- Eficácia: Garantir que os usuários consigam completar suas tarefas de forma correta e completa. Por exemplo, aumentar em 50% a taxa de conclusão de tarefas complexas em comparação com a versão atual do OpenStreetMap.
+### Segurança
+- Número de erros por interação (média)
 
-- Eficiência: Assegurar que os usuários consigam completar suas tarefas de maneira rápida e direta. Por exemplo, reduzir em média 2 passos em cada tarefa complexa em comparação com a versão atual do OpenStreetMap.
+<center>
+<img src="../img/erros.png" width=350></img>
+<p>Figura 5 - Faixas de valores Erros (Fonte: Simone[1])</p>
+</center>
 
-- Segurança: Proporcionar um ambiente de uso seguro, onde os erros são minimizados e, quando ocorrem, podem ser facilmente corrigidos. Por exemplo, reduzir em 70% o tempo médio para correção de erros em comparação com a versão atual do OpenStreetMap.
+### Utilidade e Memorização
+- Tempo para concluir com sucesso (minutos)
 
-- Utilidade: Oferecer funcionalidades que atendam tanto às necessidades básicas dos usuários, como também aos desejos e demandas adicionais. Por exemplo, aumentar em 30% a taxa de conclusão de tarefas por usuários menos experientes.
+<center>
+<img src="../img/tempo.png" width=350></img>
+<p>Figura 6 - Faixas de valores Tempo (Fonte: Simone[1])</p>
+</center>
 
-- Aprendizagem: Permitir que os usuários aprendam a usar o sistema de maneira intuitiva e sem esforço. Por exemplo, aumentar em 80% a aderência às diretrizes de design em comparação com a versão atual do OpenStreetMap.
+### Aprendizagem
+- Número de desistências por tarefa (média)
+- Números de dúvidas ao acessar o sistema (média)
 
-- Memorização: Facilitar para que os usuários se lembrem como usar o sistema, mesmo depois de um período sem uso. Por exemplo, reduzir em 50% o uso de termos pouco comuns em comparação com a versão atual do OpenStreetMap.
+<center>
+<img src="../img/desistencia.png" width=350></img>
+<p>Figura 7 - Faixas de valores Desistência (Fonte: Simone[1])</p>
+<img src="../img/duvidas.png" width=400></img>
+<p>Figura 8 - Faixas de valores Dúvidas (Fonte: Simone[1])</p>
+</center>
+
+## Referência Bibliográfica
+> [1] Barbosa, Simone. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Cáp. 6, pág. 117.
 
 ## Bibliografia
 
- Slides Requisitos - aula 10. Milene Serrano e Maurício Serrano. Elicitação, modelagem e análise.
+> Barbosa, Simone. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário.
 
- SIMONE DINIZ JUNQUEIRO BARBOSA, BRUNO SANTANA DA SILVA, Interação Humano-Computador, 1a
-.
-Edição, Editora Campus, 2010
+> BARBOSA, Simone; SILVA, Bruno. Interação Humano-Computador, 1a. Edição, Editora Campus, 2010.
+
+> DesCOMPlica, Oliba!. Seis Metas da Usabilidade - Interação Humano-Computador. YouTube, 25 de mar. de 2020.
 
 
 ## Histórico de Versão
@@ -57,3 +110,8 @@ Edição, Editora Campus, 2010
 | :--------: | :----------------------: | :----: | :------------------: | :----------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------: |
 | 14/05/2023 |        15/05/2023        |  1.0   | Criação do documento | [Paulo](https://github.com/PauloVictorFS) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
 | 18/06/2023 |        19/06/2023        |  2.0  | Refatoração do documento  |[Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
+| 03/07/2023 |        04/07/2023        |  3.0  | Correção das metas e faixas de valores  |[Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+
+
+
+
