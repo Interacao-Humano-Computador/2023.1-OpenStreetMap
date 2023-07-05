@@ -4,14 +4,6 @@
 
 O objetivo do Planejamento do relato dos resultados da avaliação do Protótipo de Papel é estabelecer um esquema de como a avaliação do protótipo de papel deve ser relatada, ou seja, como os resultados devem ser expostos e verificados pelos membros da equipe que irá avaliar. Este documento estabelece os elementos que devem existir no relato dos resultados.
 
-## Elementos do relato de resultados
-
-1. Objetivo
-2. Metodologia
-3. Participantes e avaliadores
-4. Respostas das perguntas
-5. Gravações
-6. Conclusão
 
 ## Objetivos da avaliação
 
