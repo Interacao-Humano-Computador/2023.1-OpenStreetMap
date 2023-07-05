@@ -1,4 +1,4 @@
-# Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade (Antigo)
+# Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade
 
 ## Introdução
 
@@ -20,22 +20,497 @@ No relato dos resultados, os objetivos da avaliação devem ser explicitados de 
 
 Os dados foram coletados por meio de cinco entrevistas. No início de todas as entrevistas foi confirmado o [consentimento]() do participante que concordou previamente de ser gravado e entrevistado. As reuniões foram feitas no Teams ou pessoalmente, e o método para a realização das entrevistas foi o citado no [Planejamento da Avaliação](). Antes do usuário interagir com o protótipo de papel, o entrevistador instruiu as ações que o entrevistado deve realizar, e que esse deve falar em voz alta o que está fazendo. As tarefas forma divididas entre os membros e testadas com usuários diferentes.
 
-As atividades realizadas forma escolhidas com base na [Análise de tarefas](), e são:
+As atividades realizadas forma escolhidas com base na [Análise de tarefas](../../AnaliseRequisitos/analiseTarefas.md), e são:
 
-1. Adicionar ponto de referência
-2. Buscar locais desejados
-3. Adicionar nova estrada
-4. Compartilhar localização em tempo real
-5. Explorar local turístico
+1. Buscar locais desejados
+2. Adicionar ponto de referência
+3. Explorar local turístico
+4. Adicionar nova estrada
+5. Compartilhar localização em tempo real
+   
+
+
+## Relato dos Resultados
+
+### Participantes e avaliadores
+
+Todos os participantes da avaliação, bem como os avaliadores designados, serão listados, conforme o cronograma. A coluna ID identifica as entrevistas para serem rastreadas posteriormente. Os testes de usabilidadeocorreram da seguinte forma (Tabela 1):
+
+<center>
+
+| ID| Entrevistador | Participante | Data       | Início-Fim  | Local              |Tarefa|
+| ----|------------- | ------- | ---------- | ----------- | ------------------ |------|
+|E1 |[Raquel](https://github.com/raqueleucaria)  |<span style = "color: brown"> Pedro</span>| 12/06/2023 | 14:20-15:35 | UnB FGA| [2. Cadastrar Ponto](../../../AnaliseRequisitos/analiseTarefas/#tarefa-1-cadastrar-ponto-de-referencia) |
+|E2|[Raquel](https://github.com/raqueleucaria) |<span style = "color: brown"> Ricardo</span>| 05/07/2023 | 15:00-15:35 | Teams| [2. Cadastrar Ponto](../../../AnaliseRequisitos/analiseTarefas/#tarefa-1-cadastrar-ponto-de-referencia) |
+|E3|[Raquel](https://github.com/raqueleucaria)  |<span style = "color: brown"> Izadora</span>| 05/07/2023 | 19:00-19:35 | Teams| [2. Cadastrar Ponto](../../../AnaliseRequisitos/analiseTarefas/#tarefa-1-cadastrar-ponto-de-referencia) |
+|E4 | |<span style = "color: brown"> -</span>| - | - | UnB FGA| [1. Buscar local](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados)<br> [4. Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) <br> [5. Compartilhar localização](../../../AnaliseRequisitos/analiseTarefas/#tarefa-4-compartilhar-localizacao-em-tempo-real) |
+|E5|  |<span style = "color: brown"> -</span>| - |- | UnB FGA|  [1. Buscar local](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados)<br> [4. Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) <br> [5. Compartilhar localização](../../../AnaliseRequisitos/analiseTarefas/#tarefa-4-compartilhar-localizacao-em-tempo-real) |
+|E6|  |<span style = "color: brown"> -</span>|- | - | UnB FGA|  [1. Buscar local](../../../AnaliseRequisitos/analiseTarefas/#tarefa-2-buscar-locais-desejados)<br> [4. Explorar local turístico](../../../AnaliseRequisitos/analiseTarefas/#tarefa-5-explorar-local-turistico) <br> [5. Compartilhar localização](../../../AnaliseRequisitos/analiseTarefas/#tarefa-4-compartilhar-localizacao-em-tempo-real) |
+
+Tabela 1 - Participantes do Teste de Usabilidade (Fonte: Autor, 2023)
+
+</center>
+
+### Respostas das perguntas
+Todas as respostas registradas devem ser apresentadas na Planilha do Google e anexado neste trabalho no formato de Iframe. Além das perguntas pré e pós-teste.
+
+<center>
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTlqVumJFVQ6MCNyyRUIK3bjIossGvIBOXrYvlkZ7UlVZquVN_jwOy-9sqjNAugmwPhxAykKOQUfXqX/pubhtml?widget=true&amp;headers=false" width="1200" height="820"></iframe>
+<div> Iframe 1 - Dados coletas e interpretados (Fonte: autor, 2023)</div>
+</center>
+
+
+<details>
+<summary>Pré e Pós-Testes</summary>
+<h4>1. Buscar Local</h4>
+<center>
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Qual a sua idade?</td>
+    <td>Aberta</td>
+    <td>21</td>
+    <td>24</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Qual o seu nível de formação acadêmica atual?</td>
+    <td>Aberta</td>
+    <td>cursando Superior em TI</td>
+    <td>Superior Completo e cursando tecnologo em TI</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Qual o seu nível de experiência com tecnologias?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo</td>
+    <td>Alto</td>
+    <td>Médio</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Qual o seu nível de experiência com o OpenStreetMap?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo [ ] Nenhum</td>
+    <td>Baixo</td>
+    <td>Nenhum</td>
+    <td></td>
+  </tr>
+</table>
+<div> Tabela 4 - Pré-Teste Ponto (Fonte: autor, 2023)</div><br>
+
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Como você descreveria a aparência visual do protótipo?</td>
+    <td>Aberta</td>
+    <td>Limpa e espaçada, a presença de poucas ferramentas facilita a execução de atividades dentro do software</td>
+    <td>Intuitivo, só uma dificuldade inicial. Mas está muito bom</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Quais elementos da interface chamaram sua atenção?</td>
+    <td>Aberta</td>
+    <td>Nenhum elemento em específico, mas, sim a praticidade que se dá por haver ferramentas mais "direto-ao-ponto", tornando o fluxo bem intuitivo</td>
+    <td>Acessibilidade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>O protótipo é fácil de usar?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Sim</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As interações e animações presentes no protótipo são adequadas e contribuem para sua experiência?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Salvar alteração foi agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Em geral, qual foi a sua experiência ao interagir com o protótipo?</td>
+    <td>Aberta</td>
+    <td>Achei bem intuitivo, não tive muito problema em me localizar em relação à ação que eu gostaria de realizar</td>
+    <td>Boa e agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Você teria alguma sugestão de melhoria?</td>
+    <td>Aberta</td>
+    <td>Botão de salvar poderia ir para o menu lateral e trocar o ícone, ficando mais padronizado</td>
+    <td>Nenhuma</td>
+    <td></td>
+  </tr>
+</table>
+
+<div> Tabela 5 - Pós-Teste Ponto (Fonte: autor, 2023)</div>
+</center>
+<h4>2. Ponto de referência</h4>
+<center>
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Qual a sua idade?</td>
+    <td>Aberta</td>
+    <td>21</td>
+    <td>24</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Qual o seu nível de formação acadêmica atual?</td>
+    <td>Aberta</td>
+    <td>cursando Superior em TI</td>
+    <td>Superior Completo e cursando tecnologo em TI</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Qual o seu nível de experiência com tecnologias?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo</td>
+    <td>Alto</td>
+    <td>Médio</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Qual o seu nível de experiência com o OpenStreetMap?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo [ ] Nenhum</td>
+    <td>Baixo</td>
+    <td>Nenhum</td>
+    <td></td>
+  </tr>
+</table>
+<div> Tabela 4 - Pré-Teste Ponto (Fonte: autor, 2023)</div><br>
+
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Como você descreveria a aparência visual do protótipo?</td>
+    <td>Aberta</td>
+    <td>Limpa e espaçada, a presença de poucas ferramentas facilita a execução de atividades dentro do software</td>
+    <td>Intuitivo, só uma dificuldade inicial. Mas está muito bom</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Quais elementos da interface chamaram sua atenção?</td>
+    <td>Aberta</td>
+    <td>Nenhum elemento em específico, mas, sim a praticidade que se dá por haver ferramentas mais "direto-ao-ponto", tornando o fluxo bem intuitivo</td>
+    <td>Acessibilidade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>O protótipo é fácil de usar?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Sim</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As interações e animações presentes no protótipo são adequadas e contribuem para sua experiência?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Salvar alteração foi agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Em geral, qual foi a sua experiência ao interagir com o protótipo?</td>
+    <td>Aberta</td>
+    <td>Achei bem intuitivo, não tive muito problema em me localizar em relação à ação que eu gostaria de realizar</td>
+    <td>Boa e agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Você teria alguma sugestão de melhoria?</td>
+    <td>Aberta</td>
+    <td>Botão de salvar poderia ir para o menu lateral e trocar o ícone, ficando mais padronizado</td>
+    <td>Nenhuma</td>
+    <td></td>
+  </tr>
+</table>
+
+<div> Tabela 5 - Pós-Teste Ponto (Fonte: autor, 2023)</div>
+</center>
+<h4>3. Explorar local</h4>
+<center>
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Qual a sua idade?</td>
+    <td>Aberta</td>
+    <td>21</td>
+    <td>24</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Qual o seu nível de formação acadêmica atual?</td>
+    <td>Aberta</td>
+    <td>cursando Superior em TI</td>
+    <td>Superior Completo e cursando tecnologo em TI</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Qual o seu nível de experiência com tecnologias?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo</td>
+    <td>Alto</td>
+    <td>Médio</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Qual o seu nível de experiência com o OpenStreetMap?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo [ ] Nenhum</td>
+    <td>Baixo</td>
+    <td>Nenhum</td>
+    <td></td>
+  </tr>
+</table>
+<div> Tabela 4 - Pré-Teste Ponto (Fonte: autor, 2023)</div><br>
+
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Como você descreveria a aparência visual do protótipo?</td>
+    <td>Aberta</td>
+    <td>Limpa e espaçada, a presença de poucas ferramentas facilita a execução de atividades dentro do software</td>
+    <td>Intuitivo, só uma dificuldade inicial. Mas está muito bom</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Quais elementos da interface chamaram sua atenção?</td>
+    <td>Aberta</td>
+    <td>Nenhum elemento em específico, mas, sim a praticidade que se dá por haver ferramentas mais "direto-ao-ponto", tornando o fluxo bem intuitivo</td>
+    <td>Acessibilidade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>O protótipo é fácil de usar?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Sim</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As interações e animações presentes no protótipo são adequadas e contribuem para sua experiência?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Salvar alteração foi agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Em geral, qual foi a sua experiência ao interagir com o protótipo?</td>
+    <td>Aberta</td>
+    <td>Achei bem intuitivo, não tive muito problema em me localizar em relação à ação que eu gostaria de realizar</td>
+    <td>Boa e agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Você teria alguma sugestão de melhoria?</td>
+    <td>Aberta</td>
+    <td>Botão de salvar poderia ir para o menu lateral e trocar o ícone, ficando mais padronizado</td>
+    <td>Nenhuma</td>
+    <td></td>
+  </tr>
+</table>
+
+<div> Tabela 5 - Pós-Teste Ponto (Fonte: autor, 2023)</div>
+</center>
+<h4>5. Compartilhar localização</h4>
+<center>
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Qual a sua idade?</td>
+    <td>Aberta</td>
+    <td>21</td>
+    <td>24</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Qual o seu nível de formação acadêmica atual?</td>
+    <td>Aberta</td>
+    <td>cursando Superior em TI</td>
+    <td>Superior Completo e cursando tecnologo em TI</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>Qual o seu nível de experiência com tecnologias?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo</td>
+    <td>Alto</td>
+    <td>Médio</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>Qual o seu nível de experiência com o OpenStreetMap?</td>
+    <td>[ ] Alto [ ] Médio [ ] Baixo [ ] Nenhum</td>
+    <td>Baixo</td>
+    <td>Nenhum</td>
+    <td></td>
+  </tr>
+</table>
+<div> Tabela 4 - Pré-Teste Ponto (Fonte: autor, 2023)</div><br>
+
+<table>
+  <tr>
+    <th>Número</th>
+    <th>Perguntas</th>
+    <th>Opções de resposta</th>
+    <th>Pedro</th>
+    <th>Ricardo</th>
+    <th>Izadora</th>
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>Como você descreveria a aparência visual do protótipo?</td>
+    <td>Aberta</td>
+    <td>Limpa e espaçada, a presença de poucas ferramentas facilita a execução de atividades dentro do software</td>
+    <td>Intuitivo, só uma dificuldade inicial. Mas está muito bom</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>Quais elementos da interface chamaram sua atenção?</td>
+    <td>Aberta</td>
+    <td>Nenhum elemento em específico, mas, sim a praticidade que se dá por haver ferramentas mais "direto-ao-ponto", tornando o fluxo bem intuitivo</td>
+    <td>Acessibilidade</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>3</td>
+    <td>O protótipo é fácil de usar?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Sim</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>4</td>
+    <td>As interações e animações presentes no protótipo são adequadas e contribuem para sua experiência?</td>
+    <td>[ ] Sim [ ] Não</td>
+    <td>Sim</td>
+    <td>Salvar alteração foi agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>5</td>
+    <td>Em geral, qual foi a sua experiência ao interagir com o protótipo?</td>
+    <td>Aberta</td>
+    <td>Achei bem intuitivo, não tive muito problema em me localizar em relação à ação que eu gostaria de realizar</td>
+    <td>Boa e agradável</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>Você teria alguma sugestão de melhoria?</td>
+    <td>Aberta</td>
+    <td>Botão de salvar poderia ir para o menu lateral e trocar o ícone, ficando mais padronizado</td>
+    <td>Nenhuma</td>
+    <td></td>
+  </tr>
+</table>
+
+<div> Tabela 5 - Pós-Teste Ponto (Fonte: autor, 2023)</div>
+
+</details>
+
+
+</center>
+
+### Gravações 
+Como as entrevistas serão gravadas, o vídeo com a realização da avaliação estar disponibilizado no Youtube, como não listado e anexado ao documento.
+
+### Resultado
+Os resultados deverão ser apresentados e comparado com o esperado das metas de usabilidade. Além disso, deve ser apresentado uma breve descrição da interação, com a categoria do problema, em que parte da interface ela ocorre e os impactos na usabilidade do sistema, com base nas perguntas qualitativas
+
+### Causas e melhorias
+Além de explicar suas hipóteses às possíveis causas do problema, deve-se sugerir melhorias na interface e interação.
+
 
 ## Participantes e avaliadores
 Na Tabela 1 temos as informações sobre as entrevistas, como entrevistadores, local e data, além da tarefa referente.
 
-| Entrevistador | Usuário | Data       | Início-Fim  | Local              |Tarefa|
-| ------------- | ------- | ---------- | ----------- | ------------------ |------|
-| [Raquel]()  |<span style = "color: brown"> Pedro</span>| 12/06/2023 | 14:20-15:35 | UnB e Teams| [1]() |
 
-<p align="center"> Tabela 1: Participantes (Fonte: Autor).</p>
+
 
 ## Gravações 
 ### Entrevista 1 - Ponto de Referência
