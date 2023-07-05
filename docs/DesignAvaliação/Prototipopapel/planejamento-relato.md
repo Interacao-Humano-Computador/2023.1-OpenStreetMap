@@ -55,6 +55,10 @@ Tabela 1 - Modelo da interpretação (Fonte: Autores, 2023)
 
 Todos os participantes da avaliação, bem como os avaliadores designados, serão listados, conforme o cronograma. Qualquer mudança no [planejado](../planejamento_Prototipopapel/#cronograma) deve ser registrado, além de listar quais tarefas foram testadas em cada teste de usabilidade.
 
+### Testes Piloto
+Os testes piloto de cada protótipo, devem ser gravadas, o vídeo deve  estar disponibilizado no Youtube, como não listado e anexado ao documento.
+
+
 ### Respostas das perguntas
 Todas as respostas registradas devem ser apresentadas na Planilha do Google e anexado neste trabalho no formato de Iframe. Além das perguntas pré e pós-teste.
 
