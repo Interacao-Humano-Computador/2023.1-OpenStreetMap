@@ -12,8 +12,8 @@ Como método de investigação e produção da verificação, utilizaremos a ins
 
 <div id="artefatos"></div>
 
-## Verificações anteriores
-Uma das atividades da disciplina de Interação Humano Computador, ministrada pelo professor André Barros, é realizar a verificação do projeto de outro grupo. 
+## Verificações 
+Como atividade da disciplina de Interação Humano Computador, ministrada pelo professor André Barros, é realizada a verificação do projeto do nosso grupo. Dessa forma, foram realizados os checklists de verificação do nosso grupo.
 
 
 ## Checklist

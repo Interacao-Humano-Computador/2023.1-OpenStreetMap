@@ -78,9 +78,9 @@ Tabela 2 - Distribuição da Correção dos Artefatos (Fonte: Autores)
 
 > [4] BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011. Acesso em 17/06/2023
 
-> [5] Paulo e Daniel. Verificação do artefato "Planejamento do Relado dos Resultados da Análise de Tarefas". Repositório do Grupo OpenStreetMap da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/. Acesso em 19/06/2023
+> [5] Paulo e Daniel. Verificação do artefato "Planejamento do Relado dos Resultados do Storyboard". Repositório do Grupo OpenStreetMap da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_relato/. Acesso em 19/06/2023
 
-> [6] SANTOS, Mizael. Verificação do artefato "Planejamento do Relado dos Resultados da Análise de Tarefas". Repositório do Grupo Banco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://interacao-humano-computador.github.io/2023.1-BancoCentral/#/verificacao/ponto_controle_4/plan_aval_st_g4. Acesso em 19/06/2023
+> [6] SANTOS, Mizael. Verificação do artefato "Planejamento do Relado dos Resultados do Storyboard". Repositório do Grupo Banco Central da disciplina de Interação Humano Computador da Universidade de Brasília, 2023. Disponível em: https://github.com/Interacao-Humano-Computador/2023.1-BancoCentral/blob/master/docs/verificacao/ponto_controle_4/plan_relato_st.md. Acesso em 19/06/2023
 
 
 ## Histórico de Versão
