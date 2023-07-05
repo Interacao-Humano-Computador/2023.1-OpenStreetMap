@@ -57,8 +57,8 @@ O planejamento e a situação da correção dos artefatos do Perfil de Usuário 
 | 3 | Algumas figuras não são chamadas no texto. | Chamar tabelas e figuras no texto. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 4 | Não existe a parte da metodologia. | Colocar a parte de metodologias. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 | 5 | Não há um motivo apresentado para se ter feito a coleta dos dados e o perfil de usuário. | Esclarecer melhor o motivo de se realizar a coleta de dados e ter o perfil de usuário. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 6 | Só foi usado um método para coleta de dados, o que pode prejudicar a análise. | Utilizar de outro método para realizar a coleta de dados. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
-| 10 | Não é apresentado todos os dados pedidos pelo livro. | Realizar outro método ou o mesmo novamente para conseguir os dados faltantes. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | - |
+| 6 | Só foi usado um método para coleta de dados, o que pode prejudicar a análise. | Utilizar de outro método para realizar a coleta de dados. | - | - | - |
+| 10 | Não é apresentado todos os dados pedidos pelo livro. | Realizar outro método ou o mesmo novamente para conseguir os dados faltantes. | - | - | - |
 | 12 | Não é dito como o perfil de usuário vai ser usado. | Mostrar como o perfil foi utilizado no projeto. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
 
 
@@ -101,3 +101,4 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Atualização da Tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |

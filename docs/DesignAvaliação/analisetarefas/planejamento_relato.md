@@ -28,13 +28,13 @@ Deve-se registrar informações sobre os avaliadores, incluindo seus perfis, o q
 - Critério de escolha
 - Características relevantes
 
-Além disso, os participantes devem assinar um termo de consentimento, conforme apresentado nos [aspectos éticos](../../Planejamento/Aspectos_Eticos.md)
+Além disso, os participantes devem assinar um termo de consentimento, conforme apresentado nos [aspectos éticos](../../Planejamento/Aspectos_Eticos.md), por isso resguarda ambas as partes.
 
 ## Sumário dos feedbacks
 Nessa etapa, o avaliador deverá registrar as respostas dos participantes para cada tarefa avaliada, destacando tanto os pontos positivos quanto as dificuldades encontradas pelos usuários ao realizar as tarefas propostas.
 
 ## A lista de problemas encontrados
-Dada a avaliação realizada, deve se ter registrado os problemas encontrados, contendo também as sugestões e pontos acrescentados pelo participante da avaliação, estão bem descrita, apresentando os seguintes tópicos:
+Dada a avaliação realizada, deve se ter registrado os problemas encontrados, contendo também as sugestões e pontos acrescentados pelo participante da avaliação, estão bem descrita, apresentando os seguintes tópicos, a fim de que sejam analisádos e levados em contao ao se fazer a propsota da melhoria da interface:
 
 - Local onde o problema ocorre
 - Ação que o usuário deveria executar

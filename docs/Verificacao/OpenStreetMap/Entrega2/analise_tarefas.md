@@ -112,7 +112,7 @@ O planejamento e a situação da correção dos artefatos da Análise de Tarefas
 | ID | Descrição resumida| Detalhes da correção| Responsável pela correção | Revisor | Status |
 |:--:|------|------|:---------:|:---:|:--:|
 | 08 | Não é dito como elas serão usadas no projeto | Explicar a sua utilização. | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) | OK |
-| 08 | O GMOS não apresenta todos os elementos | Melhorar o fLuxo do GMOS adiconando todos os elementos que faltam | [Raquel](https://github.com/raqueleucaria) | [Daniel](https://github.com/daniel-de-sousa) | - |
+| 08 | O GMOS não apresenta todos os elementos | Melhorar o fLuxo do GMOS adiconando todos os elementos que faltam | - | - | - |
 
 
 <p>Tabela 4 - Distribuição da Correção do Artefato (Fonte: Autor)</p>
@@ -154,4 +154,4 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 |    Data    | Data Prevista de Revisão | Versão |      Descrição       |                                 Autor                                  |               Revisor               |
 | :--------: | :----------------------: | :----: | :------------------: | :--------------------------------------------------------------------: | :---------------------------------: |
 | 19/06/2023 |        19/06/2023        |  1.0   | Criação do documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
-| 05/07/2023 |        05/07/2023        |  1.1   | Ajustes no documento |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
+| 05/07/2023 |        05/07/2023        |  1.1   | Ajustes na tabela |  [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto)  |
