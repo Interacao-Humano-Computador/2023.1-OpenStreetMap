@@ -138,13 +138,13 @@ Ao longo do projeto, diversos documentos foram elaborados. Com isso, estão apre
 |  | [Relato dos Resultados Storyboard](../Verificacao/OpenStreetMap/Entrega5/1_verificacao_relato_dos_resultados_do_storyboard.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
 |  | [Relato dos Resultados Análise de Tarefas](../Verificacao/OpenStreetMap/Entrega5/2_verificacao_relato_dos_resultados_da_analise_de_tarefas.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
 |  | [Planejamento Entrega 7](../Verificacao/OpenStreetMap/Entrega7/0planejamento.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
-|  | [Planejamento Avaliação Protótipo de Alta](../AnaliseRequisitos/analiseTarefas.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
-|  | [Planejamento Relato dos Resultados Protótipo de Alta](../AnaliseRequisitos/analiseTarefas.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
-|  | [Relato dos Resultados Protótipo de Papel](../AnaliseRequisitos/analiseTarefas.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
-| 7. Design, Avaliação e Desenvolvimento - 2º e 3º Nível |[Planejamento da Avaliação Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Planejamento do Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Relato do Protótipo de Baixa]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-| 8. Design, Avaliação e Desenvolvimento - 3º Nível | [Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | [Planejamento Avaliação Protótipo de Alta](../Verificacao/OpenStreetMap/Entrega7/2_verificacao_planejamento_da_avaliacao_do_prototipo_de_alta_fidelidade.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
+|  | [Planejamento Relato dos Resultados Protótipo de Alta](../Verificacao/OpenStreetMap/Entrega7/3_verificacao_planejamento_da_avaliacao_do_relato_dos_resultados_da_avaliacao_do_prototipo_de_alta_fidelidade.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
+|  | [Relato dos Resultados Protótipo de Papel](../Verificacao/OpenStreetMap/Entrega7/1_verificacao_relato_dos_resultados_da_avaliacao_do_prototipo_de_baixa_fidelidade.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)|
+| 7. Design, Avaliação e Desenvolvimento - 2º e 3º Nível |[Planejamento da Avaliação Protótipo de Alta](../DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamentoAltaFidelidade.md) | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | [Planejamento do Relato do Protótipo de Alta](../DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamento_relato.md) | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+|  | [Relato do Protótipo de Baixa]() | [Daniel](../DesignAvalia%C3%A7%C3%A3o/Prototipopapel/relatos.md) | [Raquel](https://github.com/raqueleucaria) |
+| 8. Design, Avaliação e Desenvolvimento - 3º Nível | [Relato do Protótipo de Alta](../DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/relatos.md) | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
 
 
 <p> Tabela 3: Artefatos (Fonte: Raquel, 2023).</p>
