@@ -302,11 +302,18 @@ Durante o desenvolvimento da disciplina, ocorreram entregas com seus respectivos
 
     <center>
 
-    | Tipo de Avaliação | Entrevistadores | Número de Participantes | Nomes dos Participantes |
-    |-------------------|---------------|------------------------|------------------------|
-    |   Storyboard              |    [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br>[Caetano](https://github.com/caeslucio) |1|                        Carla|
-    |      Protótipo de Baixa FIdelidade             |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)              |     6                   |         Pedro<br> Ricardo<br> Izadora <br>   Ana Beatriz<br> Beatriz Vieira<br> Arthur marmo         |
-    |     Protótipo de Alta FIdelidade              |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)           | 7                       |        Pedro Henrique <br> Iago <br>       Victório Lázaro<br> Gustavo Macedo<br> Celso<br> Leonardo <br>Paulo José          |
+    | Etapa | Gravação | Participantes |
+    | --- | --- | --- |
+    | Planejamento do Projeto | [Etapa 1](https://youtu.be/b7N9FOfgeHc) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Perfil do Usuário, Personas e Análise de Tarefas | [Etapa 2](https://youtu.be/Mrn86KlBmFM) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | [Etapa 3](https://youtu.be/9YU1kB1vc1c) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Planejamento da Avaliação do Storyboard e Análise de Tarefas e o Planejamento do Relato dos Resultados da Avaliação do Storyboard e Análise de Tarefas | [Etapa 4](https://youtu.be/zf0hI4BUHZo) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Relato dos Resultados do Storyboard e da Análise de Tarefas e o Planejamento da Avaliação do Protótipo de Papel e o Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | [Etapa 5](https://youtu.be/sFMeL3X9D50) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Verificação dos artefatos da Equipe 5 - 2023.1-Alistamento | [Etapa 6.1](https://www.youtube.com/watch?v=iUmj6L1_JhI) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Verificação dos artefatos da própria Equipe - 2023.1-OpenStreetMap | [Etapa 6.2](https://www.youtube.com/watch?v=aRMAkb1XtEM) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade, o Planejamento da Avaliação do Protótipo de Alta Fidelidade e o Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | [Etapa 7](https://youtu.be/DJ_pqu-ho90) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Relato dos resultados da avaliação do protótipo de alta fidelidade | [Etapa 8](https://youtu.be/-hiMRWxrVgo) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    | Projeto Final | [Última Etapa](https://youtu.be/uDEuSj0Bruc) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
 
     Tabela 7 - Apresentações (Fonte: Autores, 2023)
 
@@ -323,4 +330,4 @@ Durante o desenvolvimento da disciplina, ocorreram entregas com seus respectivos
 
 | Data | Data Prevista de Revisão | Versão | Descrição | Autor |Revisor |
 | :--------: | :-----: | :----: | :------: | :------: | :----: |
-| 03/07/2023 | 04/07/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+| 03/07/2023 | 04/07/2023 | 1.0 | Criação do Documento | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) | [Raquel](https://github.com/raqueleucaria) |
