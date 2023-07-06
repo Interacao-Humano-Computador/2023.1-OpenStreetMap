@@ -27,11 +27,12 @@ Depois que o site passou nos critérios da disciplina, o site escolhido foi o Op
 - O site apresenta quebra de padrões de algumas páginas.
 - O site não possui tantas informações, o que possibilita que seja proposto um design mais simples melhorando e adicionando ferramentas de acessibilidade.
 
-Diante de todos esses requisitos, o site escolhido foi o OpenStreetMap.
+Diante de todos esses requisitos, o site escolhido foi o **OpenStreetMap**.
 
 ## Ciclo de Vida Escolhido
 
-Como relatado no artefato [Processo de Design](../Planejamento/Processo_Design.md) Um ciclo de vida é uma abordagem que descreve as diferentes fases que um projeto de interface deve passar, da concepção até a manutenção. Dessa forma, o grupo fez uma analise do Ciclos de Vida Simples, do Ciclo de Vida em Estrela, dos metodos de Engenharia de Usabilidade de Nielsen, e da Engenharia de Usabilidade de Mayhew, que foi o escolhido para ser utilizado na matéria.
+Como visto no artefato [Processo de Design](../Planejamento/Processo_Design.md) o grupo fez uma análise do Ciclos de Vida Simples, do Ciclo de Vida em Estrela, dos métodos de Engenharia de Usabilidade de Nielsen, e da Engenharia de Usabilidade de Mayhew, ao qual este foi o escolhido para ser utilizado na matéria. A escolha foi devido ao fato dele enfatizar a interação com o usuário no processo de design e desenvolvimento do produto, o que facilita que as necessidades do usuário sejam atendidas. Esse ciclo também oferece um conjunto abrangente de etapas que permitem que o projeto seja gerenciado de forma mais completa e eficaz, além de ser um modelo flexível e adaptável.
+
 
 ## Planejamento
 
