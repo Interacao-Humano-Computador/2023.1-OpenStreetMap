@@ -271,11 +271,11 @@ Durante o desenvolvimento da disciplina, ocorreram entregas com seus respectivos
     | Verificação dos artefatos da própria Equipe - 2023.1-OpenStreetMap | [Etapa 6.2](https://www.youtube.com/watch?v=aRMAkb1XtEM) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
     | Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade, o Planejamento da Avaliação do Protótipo de Alta Fidelidade e o Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | [Etapa 7](https://youtu.be/DJ_pqu-ho90) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
     | Relato dos resultados da avaliação do protótipo de alta fidelidade | [Etapa 8](https://youtu.be/-hiMRWxrVgo) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Projeto Final | [Última Etapa]() | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-## Referência Bibliográfica
-
+    | Projeto Final | [Última Etapa](https://youtu.be/uDEuSj0Bruc) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
 
 ## Bibliografia
+
+> Análise do site Lichess. Disponível no [link](https://requisitos-de-software.github.io/2022.2-Lichess/).
 
 > https://github.com/Requisitos-de-Software/2023.1-Caesb/blob/entrega/docs/EntregaFinal/entrega-final.md
 
