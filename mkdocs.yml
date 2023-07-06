@@ -61,6 +61,9 @@ theme:
         name: Modo Escuro
 
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
@@ -70,7 +73,6 @@ markdown_extensions:
 
 nav:
   - Home: index.md
-  - Apresentações: Apresentações/Apresentacoes.md
   - Planejamento: 
     - Sites Analisados: Planejamento/Sites_Analisados.md
     - Site Escolhido: Planejamento/Site_Escolhido.md
@@ -169,4 +171,7 @@ nav:
     - Reunião 7: Atas/Reuniao07.md
   - Guia: 
     - Guia: Guia/Mkdocs.md
+  - Entregas: Apresentações/Apresentacoes.md
+  - Entrega Final: EntregaFinal/entrega-final.md
+
   
