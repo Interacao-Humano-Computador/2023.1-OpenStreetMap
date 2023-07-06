@@ -43,160 +43,190 @@ Como visto no artefato [Processo de Design](../Planejamento/Processo_Design.md) 
 O planejamento foi parte essencial para guiar o grupo em relação a produção dos artefatos. Com isso, foi elaborado o [Cronograma Planejado](../Planejamento/Cronograma.md), elencando as etapas do projeto contendo a data de produção de cada artefato, os responsáveis por ele e seu respectivo revisor. Além disso, ao longo do projeto foi construído o [Cronograma Realizado](../Planejamento/Cronograma_Realizado.md), referente a realização das atividades. Seguindo, assim, uma lógica inversa a do Cronograma Planejado, o Realizado elenca as datas factuais da produção e revisão de cada artefato produzido.
 
 ## Execução do Projeto 
-A execução do nosso projeto, por ter sido baseado na Engenharia de Usabilidade de Mayhew, seguiu as seguintes fases presentes na tabela 1:
+A execução do nosso projeto, por ter sido baseado na Engenharia de Usabilidade de Mayhew, seguiu as seguintes fases presentes na Tabela 1:
 
-| Etapas do Projeto | Definição | Artefato(s) Realizado(s) |
-| :---------------: | ---------- | :--------: |
-| **Planejamento** | Nessa etapa foram realizados o cronograma para permitir uma maior organização, foi feito a escolha do site viável a ser trabalho que atendesse os critérios da disciplina, como também foram estabelecidos metodologias e ferramentas que seriam utilizadas ao se trabalhar com esse site. |[Site Escolhido](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Site_Escolhido/)  <br>[Metodologia](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Metodologias/) <br>[Ferramentas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Ferramentas/)<br> [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Cronograma/)<br>    |
-| **Usuário e suas Tarefas** | Essa etapa teve como objetivo se realizar a identificação de quem era o usuário típico do site e quais suas tarefas primárias |[Sites Analisados](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Sites_Analisados/) <br> [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/)<br>[Personas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Personas/) <br> [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas/) <br> [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) <br> |
-| **Análise de Requisitos** |Essa etapa estabelece as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Visando compreender as necessidades dos usuários e os requisitos do sistema. | [Princípios Gerais de Projeto](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/principiosGerais/) <br> [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Metas_usabilidade/) <br> [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/guia-de-estilo/) |
-|  **Design, Avaliação e Desenvolvimento I** | Essa etapa reestrutura o trabalho, repensando a execução das tarefas para atingir os objetivos dos usuários, elabora alternativas de solução do modelo conceitual, cria Storyboards e os avalia. | [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard/) <br> [Planejamento da Avaliação da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_analise_tarefa/) <br> [Planejamento do relatodos resultados da avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_relato/) <br> [Planejamento do relato dos resultados da avaliação do Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_relato/) |
-|  **Design, Avaliação e Desenvolvimento II** | Essa etapa estabelece padrões de design de IHC para a solução em desenvolvimento, constrói protótipos de baixa fidelidade de acordo com esses padrões e os avalia. | [Relato dos resultados do StoryBoard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/relatoresultados/) <br> [Relato dos resultados da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/relatoresultado/) <br> [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento_Prototipopapel/) <br> [Planejamento do relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento-relato/) |
-| **Verificação Alistamento** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do grupo 05 [Alistamento](https://interacao-humano-computador.github.io/2023.1-Alistamento/) | [Verificação grupo 05](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/padronizacao_verificacao/) |
- **Verificação OpenStreetMap** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do nosso grupo  | [Verificação](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/OpenStreetMap/0planejamento-geral/) |
-| **Design, Avaliação e Desenvolvimento III** | Essa etapa realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado. Durante todo esse processo, a avaliação contínua com a participação dos usuários é fundamental. | [Relato dos resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/relatos/) <br> [Planejamento da Avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamentoAltaFidelidade/) <br> [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamento_relato/) |
-| **Protótipo de Alta** | Essa etapa teve como objetivo recolher o resultado da avaliação do protótipo de alta fidelidade para saber se foi atingido o objetivo que se queria.| [Relato dos resultados do Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/relatos/) |
+??? note "Tabela com a Execução do Projeto"
 
-<font size="3"><p style="text-align: center">Tabela 1</b> - Execução do Projeto (Fonte: Autores)</p></font>
+    <center>
+
+    | Etapas do Projeto | Definição | Artefato(s) Realizado(s) |
+    | :---------------: | ---------- | :--------: |
+    | **Planejamento** | Nessa etapa foram realizados o cronograma para permitir uma maior organização, foi feito a escolha do site viável a ser trabalho que atendesse os critérios da disciplina, como também foram estabelecidos metodologias e ferramentas que seriam utilizadas ao se trabalhar com esse site. |[Site Escolhido](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Site_Escolhido/)  <br>[Metodologia](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Metodologias/) <br>[Ferramentas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Ferramentas/)<br> [Cronograma Planejado](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Cronograma/)<br>    |
+    | **Usuário e suas Tarefas** | Essa etapa teve como objetivo se realizar a identificação de quem era o usuário típico do site e quais suas tarefas primárias |[Sites Analisados](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Sites_Analisados/) <br> [Perfil de Usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/)<br>[Personas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Personas/) <br> [Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/analiseTarefas/) <br> [Aspectos Éticos](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Aspectos_Eticos/) <br> |
+    | **Análise de Requisitos** |Essa etapa estabelece as metas de usabilidade com base no perfil dos usuários, análise de tarefas, possibilidades e limitações da plataforma em que o sistema será executado e princípios gerais de design de IHC. Visando compreender as necessidades dos usuários e os requisitos do sistema. | [Princípios Gerais de Projeto](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/principiosGerais/) <br> [Metas de usabilidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/Metas_usabilidade/) <br> [Guia de Estilo](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/guia-de-estilo/) |
+    |  **Design, Avaliação e Desenvolvimento I** | Essa etapa reestrutura o trabalho, repensando a execução das tarefas para atingir os objetivos dos usuários, elabora alternativas de solução do modelo conceitual, cria Storyboards e os avalia. | [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard/) <br> [Planejamento da Avaliação da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_analise_tarefa/) <br> [Planejamento do relatodos resultados da avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_relato/) <br> [Planejamento do relato dos resultados da avaliação do Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/planejamento_relato/) |
+    |  **Design, Avaliação e Desenvolvimento II** | Essa etapa estabelece padrões de design de IHC para a solução em desenvolvimento, constrói protótipos de baixa fidelidade de acordo com esses padrões e os avalia. | [Relato dos resultados do StoryBoard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/storyboard/relatoresultados/) <br> [Relato dos resultados da Análise de tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/analisetarefas/relatoresultado/) <br> [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento_Prototipopapel/) <br> [Planejamento do relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/planejamento-relato/) |
+    | **Verificação Alistamento** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do grupo 05 [Alistamento](https://interacao-humano-computador.github.io/2023.1-Alistamento/) | [Verificação grupo 05](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/padronizacao_verificacao/) |
+    **Verificação OpenStreetMap** | Essa etapa confirma se os artefatos produzidos estão corretos, completos, consistentes e atendem às necessidades do projeto. Nessa etapa Foi realizado a verificação do nosso grupo  | [Verificação](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/OpenStreetMap/0planejamento-geral/) |
+    | **Design, Avaliação e Desenvolvimento III** | Essa etapa realiza o projeto detalhado da interface, com alta fidelidade, para ser implementado. Durante todo esse processo, a avaliação contínua com a participação dos usuários é fundamental. | [Relato dos resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/Prototipopapel/relatos/) <br> [Planejamento da Avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamentoAltaFidelidade/) <br> [Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/planejamento_relato/) |
+    | **Protótipo de Alta** | Essa etapa teve como objetivo recolher o resultado da avaliação do protótipo de alta fidelidade para saber se foi atingido o objetivo que se queria.| [Relato dos resultados do Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvalia%C3%A7%C3%A3o/PrototipoAltaFidelidade/relatos/) |
+
+    Tabela 1 - Execução do Projeto (Fonte: Autores)
+
+    </center>
 ## Técnicas
-Na tabela 2, abaixo, estão as técnicas utilizadas no projeto.
+Na Tabela 2, abaixo, estão as técnicas utilizadas no projeto.
 
-| Técnicas Utilizadas | Artefatos Relacionados | Autores Responsáveis |
-|-------------------|---------------|------------------------|
-| Avaliação Heurística | [Sites Analisados](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Sites_Analisados/) | Carla<br>[Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)
-| Questionário | [Perfil de usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/)  | Carla<br>[Daniel](https://github.com/daniel-de-sousa)
-|Framework DECIDE | [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/)  | [Guilherme](https://github.com/guilhermekishimoto)  <br> [Caetano]((https://github.com/caeslucio))<br>[Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
-| Percurso cognitivo |   [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/)   |  [Guilherme](https://github.com/guilhermekishimoto) <br> [caetano]((https://github.com/caeslucio)) <br>[Raquel](https://github.com/raqueleucaria) |
-| Entrevista | [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/),[Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/), [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/relatoresultado/), [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/relatoresultados/), [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/relatos/), [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/relatos/) | [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)
-|  Teste de Usabilidade     | [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/) |[Guilherme](https://github.com/guilhermekishimoto)  <br> [Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
-|         Teste Piloto     |[Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/)  | [Guilherme](https://github.com/guilhermekishimoto)  <br> [Caetano]((https://github.com/caeslucio))<br>[Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
-| Inspeção de Fagan | [Verificação do Nosso grupo](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/OpenStreetMap/0planejamento-geral/) <br> [Verificação grupo 05](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/padronizacao_verificacao/) |[Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)|
+??? note "Tabela com as Técnicas"
+
+    <center>
+
+    | Técnicas Utilizadas | Artefatos Relacionados | Autores Responsáveis |
+    |-------------------|---------------|------------------------|
+    | Avaliação Heurística | [Sites Analisados](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Planejamento/Sites_Analisados/) | Carla<br>[Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [Caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)
+    | Questionário | [Perfil de usuário](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/AnaliseRequisitos/perfil_usuario/)  | Carla<br>[Daniel](https://github.com/daniel-de-sousa)
+    |Framework DECIDE | [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/)  | [Guilherme](https://github.com/guilhermekishimoto)  <br> [Caetano]((https://github.com/caeslucio))<br>[Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
+    | Percurso cognitivo |   [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/)   |  [Guilherme](https://github.com/guilhermekishimoto) <br> [caetano]((https://github.com/caeslucio)) <br>[Raquel](https://github.com/raqueleucaria) |
+    | Entrevista | [Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/),[Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/), [Relato dos Resultados da Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/relatoresultado/), [Relato dos Resultados do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/relatoresultados/), [Relato dos Resultados do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/relatos/), [Relato dos Resultados do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/relatos/) | [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)
+    |  Teste de Usabilidade     | [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/) |[Guilherme](https://github.com/guilhermekishimoto)  <br> [Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
+    |         Teste Piloto     |[Planejamento Análise de Tarefas](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/analisetarefas/planejamento_analise_tarefa/), [Planejamento da Avaliação do Storyboard](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/storyboard/planejamento_storyboard/), [Planejamento da Avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/Prototipopapel/planejamento_Prototipopapel/), [Planejamento da Avaliação do Protótipo de Alta Fidelidade](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/DesignAvaliação/PrototipoAltaFidelidade/planejamentoAltaFidelidade/)  | [Guilherme](https://github.com/guilhermekishimoto)  <br> [Caetano]((https://github.com/caeslucio))<br>[Raquel](https://github.com/raqueleucaria)<br>[Paulo](https://github.com/PauloVictorFS)
+    | Inspeção de Fagan | [Verificação do Nosso grupo](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/OpenStreetMap/0planejamento-geral/) <br> [Verificação grupo 05](https://interacao-humano-computador.github.io/2023.1-OpenStreetMap/Verificacao/grupo5/padronizacao_verificacao/) |[Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [Caetano]((https://github.com/caeslucio)) <br>  [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)|
+
+    Tabela 2: Técnicas (Fonte: Autores,2023)
+
+    </center>
+
+
 
 ## Artefatos
 Ao longo do projeto, diversos documentos foram elaborados. Com isso, estão apresentados na Tabela 3 todos os nossos artefatos produzidos, e seus respectivos autores e revisores.
 
-<center>
+??? note "Tabela com os Artefatos"
 
-| Etapa | Artefato | Autor(es) | Revisor(es) |
-| --- | --- | --- | --- |
-| 1. Home | [Home](https://requisitos-de-software.github.io/2023.1-Caesb/) | Carla <br> [Raquel](https://github.com/raqueleucaria) <br>[Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) <br>  <br> [Daniel](https://github.com/daniel-de-sousa) |
-| 1. Planejamento | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) <br>  <br> | Carla <br> Carla <br> [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) |  <br>  |
-|  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Metodologia](../Planejamento/cronograma.md) | Carla <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
-|  | [Ferramentas](../Planejamento/cronograma_realizado.md) | Carla e  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <> | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <> | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <> | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <> | [Guilherme](https://github.com/guilhermekishimoto) |
-| 2. Análise de Requisitos | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) | Carla e [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
-|  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)
-| 3. Análise de Requisitos | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) |
-|  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) |
-|  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
-| 4. Design, Avaliação e Desenvolvimento - 1º Nível | [Planejamento da Avaliação de Análise de Tarefas](../Modelagem/cenarios.md) | [Paulo](https://github.com/PauloVictorFS) <br> [Daniel](https://github.com/daniel-de-sousa) | [Daniel](https://github.com/daniel-de-sousa) <br> [Raquel](https://github.com/raqueleucaria) |
-|  | [Planejamento Relato dos Resultados da Análise de Tarefas](../Modelagem/lexicos.md) | [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria)<br> [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) <br>  <br> [Raquel](https://github.com/raqueleucaria) |
-|  | [Relato dos Resultados da Análise de Tarefas](../Modelagem/casos_de_uso.md) | [Guilherme](https://github.com/guilhermekishimoto) e  | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Planejamento da Avaliação do Storyboard](../Modelagem/Agil/NFR.md) | [Caetano](https://github.com/caeslucio) e [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Planejamento Relato dos Resultados do Storyboard](../Modelagem/Agil/backlog.md) | [Daniel](https://github.com/daniel-de-sousa) e  | [Caetano](https://github.com/caeslucio) |
-|  | [Relato dos Resultados da Análise do Storyboard](../Modelagem/Agil/historia_usuario.md) | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
-| 5. Design, Avaliação e Desenvolvimento - 1º e 2º Nível |[Planejamento da Avaliação Protótipo de Papel]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Planejamento do Relato do Protótipo de Papel]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Relato do Storyboard]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-| 6.1 Verificação Alistamento | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |   [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Metodologia](../Planejamento/cronograma.md) |  <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
-|  | [Ferramentas](../Planejamento/cronograma_realizado.md) |  e  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) |  [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
-|  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Daniel](https://github.com/daniel-de-sousa)
-|  | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
-|  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
-|  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
-| 6.2 Verificação OpenStreetMap | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) <br>  <br> |  <br>  <br> [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS)  [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) |  <br>  |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
-|  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Metodologia](../Planejamento/cronograma.md) |  <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
-|  | [Ferramentas](../Planejamento/cronograma_realizado.md) |  [Daniel](https://github.com/daniel-de-sousa)  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
-|  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) |  [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
-|  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)
-|  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
-|  | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
-|  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
-|  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
-| 7. Design, Avaliação e Desenvolvimento - 2º e 3º Nível |[Planejamento da Avaliação Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Planejamento do Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | [Relato do Protótipo de Baixa]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-| 8. Design, Avaliação e Desenvolvimento - 3º Nível | [Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    <center>
+
+    | Etapa | Artefato | Autor(es) | Revisor(es) |
+    | --- | --- | --- | --- |
+    | 1. Home | [Home](https://requisitos-de-software.github.io/2023.1-Caesb/) | Carla <br> [Raquel](https://github.com/raqueleucaria) <br>[Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) <br>  <br> [Daniel](https://github.com/daniel-de-sousa) |
+    | 1. Planejamento | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) <br>  <br> | Carla <br> Carla <br> [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) |  <br>  |
+    |  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Metodologia](../Planejamento/cronograma.md) | Carla <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Ferramentas](../Planejamento/cronograma_realizado.md) | Carla e  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio) <> | [Guilherme](https://github.com/guilhermekishimoto) |
+    | 2. Análise de Requisitos | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) | Carla e [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
+    |  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio)
+    | 3. Análise de Requisitos | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) |
+    |  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  | [Caetano](https://github.com/caeslucio) |
+    |  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) |  [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
+    | 4. Design, Avaliação e Desenvolvimento - 1º Nível | [Planejamento da Avaliação de Análise de Tarefas](../Modelagem/cenarios.md) | [Paulo](https://github.com/PauloVictorFS) <br> [Daniel](https://github.com/daniel-de-sousa) | [Daniel](https://github.com/daniel-de-sousa) <br> [Raquel](https://github.com/raqueleucaria) |
+    |  | [Planejamento Relato dos Resultados da Análise de Tarefas](../Modelagem/lexicos.md) | [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria)<br> [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) <br>  <br> [Raquel](https://github.com/raqueleucaria) |
+    |  | [Relato dos Resultados da Análise de Tarefas](../Modelagem/casos_de_uso.md) | [Guilherme](https://github.com/guilhermekishimoto) e  | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Planejamento da Avaliação do Storyboard](../Modelagem/Agil/NFR.md) | [Caetano](https://github.com/caeslucio) e [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Planejamento Relato dos Resultados do Storyboard](../Modelagem/Agil/backlog.md) | [Daniel](https://github.com/daniel-de-sousa) e  | [Caetano](https://github.com/caeslucio) |
+    |  | [Relato dos Resultados da Análise do Storyboard](../Modelagem/Agil/historia_usuario.md) | [Paulo](https://github.com/PauloVictorFS) e [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+    | 5. Design, Avaliação e Desenvolvimento - 1º e 2º Nível |[Planejamento da Avaliação Protótipo de Papel]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Planejamento do Relato do Protótipo de Papel]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Relato do Storyboard]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    | 6.1 Verificação Alistamento | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |   [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Metodologia](../Planejamento/cronograma.md) |  <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Ferramentas](../Planejamento/cronograma_realizado.md) |  e  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) |  [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   | [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
+    |  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Daniel](https://github.com/daniel-de-sousa)
+    |  | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
+    |  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
+    |  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
+    | 6.2 Verificação OpenStreetMap | [Sites Analisados](../Planejamento/aplicativo_escolhido.md) | [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto) e [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) <br>  <br> |  <br>  <br> [Raquel](https://github.com/raqueleucaria) <br> [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Sites Escolhidos](../Planejamento/metodologias.md) | [Paulo](https://github.com/PauloVictorFS)  [Raquel](https://github.com/raqueleucaria) <br> [Raquel](https://github.com/raqueleucaria) |  <br>  |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
+    |  | [Processo de Design](../Planejamento/ferramentas.md) | [Guilherme](https://github.com/guilhermekishimoto) <br>  | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Metodologia](../Planejamento/cronograma.md) |  <br> [Paulo](https://github.com/PauloVictorFS)  | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Ferramentas](../Planejamento/cronograma_realizado.md) |  [Daniel](https://github.com/daniel-de-sousa)  | [Paulo](https://github.com/PauloVictorFS), [Raquel](https://github.com/raqueleucaria) e [Daniel](https://github.com/daniel-de-sousa) |
+    |  | [Cronograma](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Cronograma Realizados](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Heatmap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [HeatmAspectos éticosap](../Planejamento/heatmap.md) | [Caetano](https://github.com/caeslucio)  | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | [Perfil de Usuário](../Elicitacao/perfil_usuario.md) |  [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | [Personas](../Elicitacao/priorizacaoInOrOut.md) | [Guilherme](https://github.com/guilhermekishimoto) e [Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Cenários](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria) | [Paulo](https://github.com/PauloVictorFS)
+    |  | [Análise de Tarefas](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Daniel](https://github.com/daniel-de-sousa)
+    |  | [Principios Gerais](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
+    |  | [Metas de Usabilidade](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)   |[Caetano](https://github.com/caeslucio) | [Raquel](https://github.com/raqueleucaria)
+    |  | [Guia de Estilo](../Elicitacao/priorizacao-FTF.md) | [Raquel](https://github.com/raqueleucaria)  |[Guilherme](https://github.com/guilhermekishimoto)  |
+    | 7. Design, Avaliação e Desenvolvimento - 2º e 3º Nível |[Planejamento da Avaliação Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Planejamento do Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | [Relato do Protótipo de Baixa]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    | 8. Design, Avaliação e Desenvolvimento - 3º Nível | [Relato do Protótipo de Alta]() | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
 
 
-<p> Tabela 3: Artefatos (Fonte: Raquel, 2023).</p>
-</center>
+    <p> Tabela 3: Artefatos (Fonte: Raquel, 2023).</p>
+
+    </center>
 
 ## Avaliações dos Protótipos
 9. Durante a realização do trabalho foram realizados protótipos e as entrevistas desses protótipos, para poder receber um feedback do usuário, na tabela abaixo será apresentado o tipo da avaliação, os entrevistadores que participaram da avaliação, o número de participantes e o nome de cada um deles
 
-| Tipo de Avaliação | Entrevistadores | Número de Participantes | Nomes dos Participantes |
-|-------------------|---------------|------------------------|------------------------|
-|   Storyboard              |    [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br> [caetano]((https://github.com/caeslucio))       |1|                        Carla|
-|      Protótipo de Baixa FIdelidade             |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)              |     6                   |         Pedro<br> Ricardo<br> Izadora <br>   Ana Beatriz<br> Beatriz Vieira<br> Arthur marmo         |
-|     Protótipo de Alta FIdelidade              |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)           | 7                       |        Pedro Henrique <br> Iago <br>       Victório Lázaro<br> Gustavo Macedo<br> Celso<br> Leonardo <br>Paulo José          |
+??? note "Tabela com as Avaliações dos Protótipos"
 
-<font size="3"><p style="text-align: center">Tabela 1</b> - Execução do Projeto (Fonte: Paulo, 2023)</p></font>
+    <center>
+
+    | Tipo de Avaliação | Entrevistadores | Número de Participantes | Nomes dos Participantes |
+    |-------------------|---------------|------------------------|------------------------|
+    |   Storyboard              |    [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br>[Caetano](https://github.com/caeslucio) |1|                        Carla|
+    |      Protótipo de Baixa FIdelidade             |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)              |     6                   |         Pedro<br> Ricardo<br> Izadora <br>   Ana Beatriz<br> Beatriz Vieira<br> Arthur marmo         |
+    |     Protótipo de Alta FIdelidade              |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)           | 7                       |        Pedro Henrique <br> Iago <br>       Victório Lázaro<br> Gustavo Macedo<br> Celso<br> Leonardo <br>Paulo José          |
+
+    Tabela 4 - Avaliações dos Protótipos (Fonte: Autores, 2023)
+
+    </center>
 
 ## Verificação e Validação
 
 Outra parte essencial para o projeto é a de Verificação e Validação, na qual tem como objetivo garantir a qualidade dos artefatos produzidos. Com isso, a tabela 4 lista todos os artefatos produzidos e os métodos de verificação e validação utilizados.
 
-| Etapa | Artefato | Método | Autor | Revisor |
-| --- | --- | --- | --- | --- |
-|  Etapa 1 - Alistamento | Cronograma Planejado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Cronograma Realizado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Atas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Ferramentas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Metodologias | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Aplicativo Selecionado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Processo de Design | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  Etapa 2 - Alistamento | Perfil de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | |
-|  | Personas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | |
-|  | Análise de Tarefas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | |
-|  Etapa 3 - Alistamento | Princípios Gerais de Projeto | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | |
-|  | Metas de Usabilidade | Inspeção | | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | Guia de Estilo | Inspeção | | [Guilherme](https://github.com/guilhermekishimoto) |
-|  Etapa 4 - Alistamento | Especificação Suplementar | Inspeção | | [Guilherme](https://github.com/guilhermekishimoto) |
-|  | História de Usuário | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
-|  | Backlog | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
-|  | NFR | Inspeção | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
-|  Etapa 1 - OpenStreetMaps | Cronograma Planejado | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
-|  | Atas | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
-|  | Ferramentas | Inspeção | | [Caetano](https://github.com/caeslucio) |
-|  | Metodologias | Inspeção | | [Caetano](https://github.com/caeslucio) |
-|  | Aplicativo Selecionado | Inspeção | | [Caetano](https://github.com/caeslucio) |
-|  | Rich Picture | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
-| Etapa 2 - OpenStreetMaps | Perfil de Usuário | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
-|  | Personas | Inspeção | | [Caetano](https://github.com/caeslucio) |
-|  | Introspecção | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Storytelling | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | InOrOut | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
-|  | FirstThingsFirst | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
-| Etapa 3 - OpenStreetMaps | Cenários | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
-|  | Casos de Uso | Inspeção | [Raquel](https://github.com/raqueleucaria) | |
-|  | Léxico | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
-|  | Especificação Suplementar | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
-| Etapa 4 - OpenStreetMaps | História de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+??? note "Tabela com a Verificação e Validação"
+
+    <center>
+
+    | Etapa | Artefato | Método | Autor | Revisor |
+    | --- | --- | --- | --- | --- |
+    |  Etapa 1 - Alistamento | Cronograma Planejado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Cronograma Realizado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Atas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Ferramentas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Metodologias | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Aplicativo Selecionado | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Processo de Design | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  Etapa 2 - Alistamento | Perfil de Usuário | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | Personas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Análise de Tarefas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | Aspéctos Éticos | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Paulo](https://github.com/PauloVictorFS) |
+    |  Etapa 3 - Alistamento | Princípios Gerais de Projeto | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | Metas de Usabilidade | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | Guia de Estilo | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  Etapa 4 - Alistamento | Planejamento da Avaliação do Storyboard e Análise de Tarefas | Inspeção | [Caetano](https://github.com/caeslucio) | [Guilherme](https://github.com/guilhermekishimoto) |
+    |  | Planejamento do Relato dos Resultados da Avaliação do Storyboard | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+    |  | Planejamento do Relato dos Resultados da Avaliação do Storyboard  | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+    |  | Planejamento do Relato dos Resultados da Avaliação da Análise de Tarefas | Inspeção | [Caetano](https://github.com/caeslucio) | [Paulo](https://github.com/PauloVictorFS) |
+    |  Etapa 1 - OpenStreetMaps | Cronograma Planejado | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+    |  | Atas | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Paulo](https://github.com/PauloVictorFS) |
+    |  | Ferramentas | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+    |  | Metodologias | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+    |  | Aplicativo Selecionado | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Caetano](https://github.com/caeslucio) |
+    |  | Processo de Design | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+    | Etapa 2 - OpenStreetMaps | Perfil de Usuário | Inspeção | [Guilherme](https://github.com/guilhermekishimoto) | [Daniel](https://github.com/daniel-de-sousa) |
+    |  | Personas | Inspeção | | [Caetano](https://github.com/caeslucio) |
+    |  |  Análise de Tarefas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    | Etapa 3 - OpenStreetMaps | Princípios Gerais de Projeto | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+    |  | Metas de Usabilidade | Inspeção | [Raquel](https://github.com/raqueleucaria) | [Caetano](https://github.com/caeslucio) |
+    |  | Guia de Estilo | Inspeção | [Paulo](https://github.com/PauloVictorFS) | [Daniel](https://github.com/daniel-de-sousa) |
+    | Etapa 4 - OpenStreetMaps | Planejamento da Avaliação do Storyboard e Análise de Tarefas | Inspeção | [Daniel](https://github.com/daniel-de-sousa) | [Raquel](https://github.com/raqueleucaria) |
+
+    Tabela 5 - Verificação e Validação (Fonte: Autores, 2023)
+
+    </center>
 
 
 
@@ -244,6 +274,8 @@ Para a produção, armazenamento e compartilhamento dos artefatos, foram utiliza
 
 ??? note "Tabela com as Ferramentas"
 
+    <center>
+
     | Ferramenta | Descrição | Uso | Artefatos |
     | --- | --- | --- | --- |
     | GitHub | Software de versionamento de documentos que também atua como repositório para armazenar os arquivos produzidos. | O GitHub, por ser o software que armazena todos os nossos artefatos e os dispõe de forma dinâmica, foi utilizado em todo contexto do projeto | Todos |
@@ -251,27 +283,30 @@ Para a produção, armazenamento e compartilhamento dos artefatos, foram utiliza
     | Microsoft Teams | Software de comunicação e colaboração projetada para conectar equipes e permitir a realização de videoconferências, compartilhamento de arquivos e de tela e gravação das reuniões. | O Teams foi ferramenta chave, devido a necessidade de gravarmos todas as apresentações e reuniões,. | [Apresentações](../Apresentacoes/apresentacoes.md) e [Reuniões](../Atas/Reuniao01.md) |
     | YouTube | Software de hospedagem de vídeos online | Juntamente com o Teams, foi utilizado o YouTube para armazenar as gravações gerais relacionadas ao projeto. | [Apresentações](../Apresentacoes/apresentacoes.md), [Reuniões](../Atas/Reuniao01.md) e Gravações gerais (com cliente ou da produção de alguns artefatos) |
     | This Person Doesn't Exist | Software que utiliza inteligência artificial para gerar imagens de pessoas que não existem de fato. Amplamente utilizado para a criação de personas em projetos | Devido a necessidade de criação de imagens de pessoas fictícias para as personas do projeto. | [Personas](../Elicitacao/personas.md) |
-    | Google Workspace | Arcabouço de ferramentas para a produção de planilhas, formulários, organização, etc. | Devido a disponibilização de ferramentas para análise e coleta de dados, de forma gratuita e acessível. | [Questionário](../Elicitacao/questionario.md), [Verificação](../AnaliseV&V/Verificacao/Caesb/0planejamento-geral.md), [HeatMap](../Planejamento/heatmap.md), [First Things First](../Elicitacao/priorizacao-FTF.md) |
+    | Google Workspace | Arcabouço de ferramentas para a produção de planilhas, formulários, organização, etc. | Devido a disponibilização de ferramentas para análise e coleta de dados, de forma gratuita e acessível. | [Questionário](../Elicitacao/questionario.md), [Verificação](../AnaliseV&V/Verificacao/Caesb/0planejamento-geral.md), [HeatMap](../Planejamento/heatmap.md) |
     | Figma | Ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo nativo. | Para a elaboração e disponibilização do Protótipo. | [Protótipo](../AnaliseV&V/Validacao/prototipo.md) |
+    
+    Tabela 6 - Ferramentas (Fonte: Autores, 2023)
+
+    </center>
 
 ## Apresentações
 
 Durante o desenvolvimento da disciplina, ocorreram entregas com seus respectivos artefatos, que foram requisitadas para cada etapa. Além da apresentação ocasionalmente feita presencialmente em sala, foi disponibilizados também vídeos das apresentações para servir de molde para futuros grupos da matéria. Abaixo, segue uma tabela sintetizando os vídeos das apresentações de cada etapa com os nomes dos participantes do grupo que participaram das gravações. Para uma visualização mais dinâmica das entregas, o artefato [Apresentações](../Apresenta%C3%A7%C3%B5es/Apresentacoes.md) contém os vídeos incorporados à página.
 
-??? note "Tabela com as apresentações"
+??? note "Tabela com as Avaliações dos Protótipos"
 
-    | Etapa | Gravação | Participantes |
-    | --- | --- | --- |
-    | Planejamento do Projeto | [Etapa 1](https://youtu.be/b7N9FOfgeHc) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Perfil do Usuário, Personas e Análise de Tarefas | [Etapa 2](https://youtu.be/Mrn86KlBmFM) | [Carla](https://github.com/ccarlaa), [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Princípios Gerais de Projeto, Metas de Usabilidade e Guia de Estilo | [Etapa 3](https://youtu.be/9YU1kB1vc1c) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Planejamento da Avaliação do Storyboard e Análise de Tarefas e o Planejamento do Relato dos Resultados da Avaliação do Storyboard e Análise de Tarefas | [Etapa 4](https://youtu.be/zf0hI4BUHZo) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Relato dos Resultados do Storyboard e da Análise de Tarefas e o Planejamento da Avaliação do Protótipo de Papel e o Planejamento do Relato dos Resultados da Avaliação do Protótipo de Papel | [Etapa 5](https://youtu.be/sFMeL3X9D50) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Verificação dos artefatos da Equipe 5 - 2023.1-Alistamento | [Etapa 6.1](https://www.youtube.com/watch?v=iUmj6L1_JhI) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Verificação dos artefatos da própria Equipe - 2023.1-OpenStreetMap | [Etapa 6.2](https://www.youtube.com/watch?v=aRMAkb1XtEM) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Relato dos Resultados da Avaliação do Protótipo de Baixa Fidelidade, o Planejamento da Avaliação do Protótipo de Alta Fidelidade e o Planejamento da Avaliação do Relato dos Resultados da Avaliação do Protótipo de Alta Fidelidade | [Etapa 7](https://youtu.be/DJ_pqu-ho90) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Relato dos resultados da avaliação do protótipo de alta fidelidade | [Etapa 8](https://youtu.be/-hiMRWxrVgo) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
-    | Projeto Final | [Última Etapa](https://youtu.be/uDEuSj0Bruc) | [Caetano](https://github.com/caeslucio), [Daniel](https://github.com/daniel-de-sousa), [Guilherme](https://github.com/guilhermekishimoto), [Paulo](https://github.com/PauloVictorFS) e [Raquel](https://github.com/raqueleucaria) |
+    <center>
+
+    | Tipo de Avaliação | Entrevistadores | Número de Participantes | Nomes dos Participantes |
+    |-------------------|---------------|------------------------|------------------------|
+    |   Storyboard              |    [Guilherme](https://github.com/guilhermekishimoto)    <br>[Paulo](https://github.com/PauloVictorFS)  <br>[Caetano](https://github.com/caeslucio) |1|                        Carla|
+    |      Protótipo de Baixa FIdelidade             |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)              |     6                   |         Pedro<br> Ricardo<br> Izadora <br>   Ana Beatriz<br> Beatriz Vieira<br> Arthur marmo         |
+    |     Protótipo de Alta FIdelidade              |  [Guilherme](https://github.com/guilhermekishimoto) [Daniel](https://github.com/daniel-de-sousa) <br>[Raquel](https://github.com/raqueleucaria)  <br>[Paulo](https://github.com/PauloVictorFS)           | 7                       |        Pedro Henrique <br> Iago <br>       Victório Lázaro<br> Gustavo Macedo<br> Celso<br> Leonardo <br>Paulo José          |
+
+    Tabela 4 - Avaliações dos Protótipos (Fonte: Autores, 2023)
+
+    </center>
 
 ## Bibliografia
 
