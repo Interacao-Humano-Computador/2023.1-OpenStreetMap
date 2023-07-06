@@ -23,16 +23,12 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 | 2 | Todas as bibliografias/referências bibliográficas são utilizadas de forma correta? | Sim ||
 | 3 | Todas as tabelas e figuras são chamadas no texto, possuem legendas e fontes? | Sim ||
 | 4 | A metodologia está de acordo com o artefato analisado? | Sim ||
-| 5 | A avaliação do storyboard seguiu o planejamento feito para ela? |||
-| 6 | Existe registro que os participantes concordaram com o termo de Consentimento? |||
-| 7 | A maneira como a avaliação foi feita, está conforme o objetivo que se desejava alcançar? |||
-| 8 | Existe a explicação do método e o motivo de sua escolha? |||
-| 9 | Existe a explicação para determinado número de usuários? |||
-| 10 | Existe a explicação e como ocorreu a escolha dos usuários? |||
-| 11 | Os storyboards foram avaliados e seus feedbacks anotados e as questões proposts no [planejamento da avaliação](../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard.md) respondidas? |||
-| 12 | Caso exista algum feedback negativo, foi identificado as caraterísticas dele conforme o [planejamento do relato](../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_relato.md)?<a href="#1">¹</a> |||
-| 13 | Caso exista algum feedback negativo, foi planejado uma revisão dos storyboards que obtiveram esses feedbacks? |||
-| 14 | Existe alguma conclusão sobre os StoryBoards?<a href="#2">²</a> |||
+| 5 | A avaliação do storyboard seguiu o planejamento feito para ela? | Sim ||
+| 6 | Existe registro que os participantes concordaram com o termo de Consentimento? | Sim ||
+| 7 | A maneira como a avaliação foi feita, está conforme o objetivo que se desejava alcançar? | Sim ||
+| 8 | Os storyboards foram avaliados e seus feedbacks anotados e as questões proposts no [planejamento da avaliação](../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_storyboard.md) respondidas? | Sim ||
+| 9 | Caso exista algum feedback negativo, foi identificado as caraterísticas dele conforme o [planejamento do relato](../../../DesignAvalia%C3%A7%C3%A3o/storyboard/planejamento_relato.md)?<a href="#1">¹</a> | Sim ||
+| 10 | Caso exista algum feedback negativo, foi planejado uma revisão dos storyboards que obtiveram esses feedbacks? | Não ||
 
 <p>Tabela 1 - Checklist do Relato dos Resultados do StoryBoard. (Fonte: Autor)</p>
 
@@ -47,15 +43,12 @@ Os checklists foram estabelecidos com base nos critérios da literatura o livro 
 * Severidade do Problema
 * Sugestões de Soluções para o problema
 
-<div id="2"></div> 
-² - Sobre se eles atingiram seu objetivo e estão de acordo com o fluxo real de execução dos usuários.
-
 ## Gráfico
 Com base no checklist feito no processo de inspeção do StoryBoard, foi produzido o gráfico de avaliação do artefato, que pode ser visualizado/analisado na Figura 1.
 
 <center>
 
-![]()
+![](../assets/img/verifica_story.png)
 
 Figura 2 - Verificação do Relato dos Resultados da Análise de Tarefas. (Fonte: Autor)
 
@@ -68,13 +61,9 @@ O planejamento e a situação da correção dos artefatos do Relato dos Resultad
 
 | ID | Descrição resumida| Detalhes da correção| Responsável pela correção | Revisor | Status |
 |:--:|------|------|:---------:|:---:|:--:|
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
-|  |  | [Daniel](https://github.com/daniel-de-sousa) | [Guilherme](https://github.com/guilhermekishimoto) |  |
+| 10 | Revisão | Modificar o StoryBoard para atender aos feedbacks | - | - |
 
+Se teve poucos dados, uma vez que apenas um storyboard foi avaliado.
 
 
 <p>Tabela 2 - Distribuição da Correção do Artefato (Fonte: Autor)</p>
@@ -86,7 +75,7 @@ Depois das correções se foi verificado novamente, e o resultado pode ser visto
 
 <center>
 
-![]()
+![](../assets/img/corre_story.png)
 
 <p>Figura 2 - Gráfico Relato dos Resultados da Análise de Tarefas com Correções. (Fonte: Autor)</p>
 

@@ -16,11 +16,12 @@ Esse artefato pretende seguir o [Planejamento do Relato dos Resultados da Avalia
 
 Durante a observação dos usuários ao realizar um teste de usabilidade, com a obtenção das informações através da entrevista, o objetivo foi conseguir um conhecimento mais profundo da experiência dos usuários utilizando o site, seja problema de alguma tarefa em si ou até mesmo um problema de navegação, onde foi apresentado um questionário para o usuário onde ele se expressou sobre cada aspecto testado.
 
+Com base nesses resultados foi possível se verificar se as metas de usabilidade foram alcançadas.
+
 ## Metodologia
-O relato de resultados deve apresentar quais os métodos utilizados durante o processo de avaliação, contendo informações detalhadas de seu funcionamento, o motivo por qual o método ou métodos foram escolhidos, como foi aplicado e qual foi seu resultado.
+A metodologia usada foi o teste de usabilidade, nesse método o usuário é colocado para se realizar algumas tarefas, e através delas, como também do proprio feedback que o usuário da, é possível identificar se as metas de usabilidade foram alcançadas ou não.
 
-Também se deve conter informações sobre como esse método foi planejado e como ele foi executado, apresentando questões relevantes como as tarefas que foram usadas para a avaliação e questões éticas.
-
+Por conta do método, uma importante coisa a se relatar é sobre a importância de os usuários concordarem com o termo de consentimento, isso por que as expressões do usuário são uma importante fonte de informação para se analisar o protótipo de alta fidelidade.
 
 ### Tarefas
 As tarefas analisadas durante a entrevista, serão:
@@ -35,7 +36,7 @@ Na Tabela 1 é apresentado as informações das entrevistas, quanto a entrevista
 
 <center>
 
-| Entrevistador | Usuário | Vídeo | Data | Início-Fim | Local | Tarefa |
+| Entrevistador | Usuário | Vídeo | Data | Início-Fim | Local | Tarefas |
 | - | - | - | - | - | - | - |
 | [Guilherme](https://github.com/guilhermekishimoto) | <span style="color: brown;">Pedro Henrique</span> | [Vídeo 2](#11-entrevista-pedro-henrique) | 26/06/2023 | 11:00-11:30 | UnB FGA | 1, 2, 3 e 4 |
 | [Guilherme](https://github.com/guilhermekishimoto) | <span style="color: brown;">Iago</span> | [Vídeo 3](#21-entrevista-iago) | 26/06/2023 | 11:30-12:00 | UnB FGA | 1, 2, 3 e 4 |
@@ -73,9 +74,9 @@ Iframe 1: Protótipo de Alta Fidelidade (Fonte: Autores, 2023).
 </p> 
 </center>
 
-
-
 ## Respostas das perguntas e gravações
+
+**PAREI AQUI**
 
 O relato dos resultados deve apresentar as respostas das perguntas criadas para a [Avaliação do Protótipo de Alta](./planejamentoAltaFidelidade.md) e o feedback dos usuários ao utilizar o protótipo de alta fidelidade.
 
